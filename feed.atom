@@ -1,10 +1,254 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T06:41:49.226Z</id>
+    <id>urn:2022-03-28T06:46:12.114Z</id>
     <title>web3::cave</title>
-    <updated>2022-03-27T06:41:49.226Z</updated>
+    <updated>2022-03-28T06:46:12.114Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1508282369303793664</id>
+        <link href="https://twitter.com/developer_dao/status/1508282369303793664"/>
+        <updated>2022-03-28T03:18:34.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT vyom.eth at ETHDubai: Ok I’ll bite who’s in Dubai from @developer_dao !! Let’s talk]]></title>
+        <id>https://twitter.com/VCrizpy/status/1508198696407740430</id>
+        <link href="https://twitter.com/VCrizpy/status/1508198696407740430"/>
+        <updated>2022-03-27T21:46:04.000Z</updated>
+        <summary type="html"><![CDATA[RT vyom.eth at ETHDubai
+Ok I’ll bite who’s in Dubai from @developer_dao !! Let’s talk]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT shann.eth @NFT🌴LA: 1 Web3 app needs at least 5 Web3 technologies]]></title>
+        <id>https://twitter.com/shanvasion/status/1508188950837399553</id>
+        <link href="https://twitter.com/shanvasion/status/1508188950837399553"/>
+        <updated>2022-03-27T21:07:21.000Z</updated>
+        <summary type="html"><![CDATA[RT shann.eth @NFT🌴LA
+1 Web3 app needs at least 5 Web3 technologies]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT qaf/meowy: We have DevDao Women space within @developer_dao . It's a good start. I wanna meet all incredible women and nonbinary members from dev d...]]></title>
+        <id>https://twitter.com/me256ow/status/1508168276471590912</id>
+        <link href="https://twitter.com/me256ow/status/1508168276471590912"/>
+        <updated>2022-03-27T19:45:12.000Z</updated>
+        <summary type="html"><![CDATA[RT qaf/meowy
+We have DevDao Women space within @developer_dao .
+It's a good start.
+I wanna meet all incredible women and nonbinary members from dev dao. Please drop by and just start talking.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Explained | FROM ZERO TO HERO by @LucemansNL 🔥 In this recording I attempt to explain blockchain in relation to a familiar tool for deve...]]></title>
+        <id>https://twitter.com/developer_dao/status/1508119247158980610</id>
+        <link href="https://twitter.com/developer_dao/status/1508119247158980610"/>
+        <updated>2022-03-27T16:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Blockchain Explained | FROM ZERO TO HERO by @LucemansNL 🔥
+In this recording I attempt to explain blockchain in relation to a familiar tool for developers, Git. https://www.youtube.com/watch?v=2uU5_f3shQE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth at ethDubai (🧱, 🚀): Y'all👀we set!! Wouldn't have happened if it wasn't for our sponsors at @SpheronHQ and @NervosNetwork]]></title>
+        <id>https://twitter.com/kayprasla/status/1508108367021199367</id>
+        <link href="https://twitter.com/kayprasla/status/1508108367021199367"/>
+        <updated>2022-03-27T15:47:08.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth at ethDubai (🧱, 🚀)
+Y'all👀we set!! Wouldn't have happened if it wasn't for our sponsors at @SpheronHQ and @NervosNetwork
+
+
+Developer DAO (🧱, 🚀): Going into the final stretch of @ETHDubaiConf by taking over Dubai’s D3 Design District @onelifedxb 🎉
+Dates are confirmed, the venue is set 🙌
+Can't wait to treat the @developer_dao community to a fun lunch on 28th and meet our good sponsors @NervosNetwork and @SpheronHQ.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going into the final stretch of @ETHDubaiConf by taking over Dubai’s D3 Design District @onelifedxb 🎉 Dates are confirmed, the venue is set 🙌 C...]]></title>
+        <id>https://twitter.com/developer_dao/status/1508107129982492675</id>
+        <link href="https://twitter.com/developer_dao/status/1508107129982492675"/>
+        <updated>2022-03-27T15:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Going into the final stretch of @ETHDubaiConf by taking over Dubai’s D3 Design District @onelifedxb 🎉
+Dates are confirmed, the venue is set 🙌
+Can't wait to treat the @developer_dao community to a fun lunch on 28th and meet our good sponsors @NervosNetwork and @SpheronHQ.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @AtomWeb3 They are still open and will be open indefinitely, you can fine the application here]]></title>
+        <id>https://twitter.com/developer_dao/status/1508064414183960578</id>
+        <link href="https://twitter.com/developer_dao/status/1508064414183960578"/>
+        <updated>2022-03-27T12:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @AtomWeb3 They are still open and will be open indefinitely, you can fine the application here https://developerdao.notion.site/Scholarships-08e941bb537549bbb52657c01f6b87fe]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're excited to announce 3 new recipients of the latest round of free @developer_dao scholarships. Congratulations to @CodeWithEric, @trac33nz and @_...]]></title>
+        <id>https://twitter.com/developer_dao/status/1508051983193804804</id>
+        <link href="https://twitter.com/developer_dao/status/1508051983193804804"/>
+        <updated>2022-03-27T12:03:05.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce 3 new recipients of the latest round of free @developer_dao scholarships.
+Congratulations to @CodeWithEric, @trac33nz and @_mickela, welcome to the community! 🙌]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @farhajmayan @AlmostEfficient welcome 🙌]]></title>
+        <id>https://twitter.com/developer_dao/status/1508034592699297794</id>
+        <link href="https://twitter.com/developer_dao/status/1508034592699297794"/>
+        <updated>2022-03-27T10:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @farhajmayan @AlmostEfficient welcome 🙌]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT farhaj.sol 🍋: Excited to join the amazing @developer_dao community as Dev #7510 - Big thanks to @AlmostEfficient for putting me on 🙏🏽 Supe...]]></title>
+        <id>https://twitter.com/farhajmayan/status/1508018684077514753</id>
+        <link href="https://twitter.com/farhajmayan/status/1508018684077514753"/>
+        <updated>2022-03-27T09:50:46.000Z</updated>
+        <summary type="html"><![CDATA[RT farhaj.sol 🍋
+Excited to join the amazing @developer_dao community as Dev #7510 - Big thanks to @AlmostEfficient for putting me on 🙏🏽
+Super pumped to contribute to the MBD guild 🤺🤠]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT I D R I S 💙: At #OSCAFest22 in Lagos,Nigeria 🇳🇬. I met some incredible @developer_dao members. @dabit3 gave us the best insight on somethi...]]></title>
+        <id>https://twitter.com/olanetsoft/status/1508013645304934401</id>
+        <link href="https://twitter.com/olanetsoft/status/1508013645304934401"/>
+        <updated>2022-03-27T09:30:45.000Z</updated>
+        <summary type="html"><![CDATA[RT I D R I S 💙
+At #OSCAFest22 in Lagos,Nigeria 🇳🇬. I met some incredible @developer_dao members.
+@dabit3 gave us the best insight on something (more info coming soon) 😊
+Thank you @oscafrica 🚀🚀🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Alex245: Gm from Dev2445 🌞, I'm already part of @developer_dao for quite a while but decided to create a fresh Twitter account to get more engag...]]></title>
+        <id>https://twitter.com/AlexNi245/status/1507848288762052612</id>
+        <link href="https://twitter.com/AlexNi245/status/1507848288762052612"/>
+        <updated>2022-03-26T22:33:41.000Z</updated>
+        <summary type="html"><![CDATA[RT Alex245
+Gm from Dev2445 🌞, I'm already part of @developer_dao  for quite a while but decided to create a fresh Twitter account to get more engaged because Technology comes and goes, but the real treasure is the friends we make along the way.
+So I'm really excited to meet you all :)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ally Haire: Re @developer_dao @Filecoin @IPFS swag packs arriving! FYI I call the Corgi Biscuit 😉]]></title>
+        <id>https://twitter.com/DeveloperAlly/status/1507844721112383489</id>
+        <link href="https://twitter.com/DeveloperAlly/status/1507844721112383489"/>
+        <updated>2022-03-26T22:19:30.000Z</updated>
+        <summary type="html"><![CDATA[RT Ally Haire
+Re @developer_dao @Filecoin @IPFS swag packs arriving!
+FYI I call the Corgi Biscuit 😉
+ropats16 | (🧱, 🚀) ᵍᵐ: Just received some epic swag!!🤩🤯🔥
+Thanks to @JoshCStein @developer_dao @IPFS ❤️
+LFG!! 🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Luke Willis: My buddy and aspiring @developer_dao member @vonlooten just started a weekly #web3 newsletter! Give him a follow!]]></title>
+        <id>https://twitter.com/lukemwillis/status/1507831294494797825</id>
+        <link href="https://twitter.com/lukemwillis/status/1507831294494797825"/>
+        <updated>2022-03-26T21:26:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Luke Willis
+My buddy and aspiring @developer_dao member @vonlooten just started a weekly #web3 newsletter!
+Give him a follow! https://www.getrevue.co/profile/vonlooten]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT joshcs.eth ⚓️ @ ETHDubai & Binance Week (🧱,🚀)ᵍᵐ:]]></title>
+        <id>https://twitter.com/JoshCStein/status/1507799301149245442</id>
+        <link href="https://twitter.com/JoshCStein/status/1507799301149245442"/>
+        <updated>2022-03-26T19:19:01.000Z</updated>
+        <summary type="html"><![CDATA[RT joshcs.eth ⚓️ @ ETHDubai & Binance Week (🧱,🚀)ᵍᵐ
+
+Ankr: 📅Tomorrow: Saturday, March 26th, 6:00-6:30 CET @JoshCStein Workshop: How to speed up your dApp with #Ankr 
+⬇️
+ https://hackathon.avalanchesummit.com/agenda/session/835854 https://twitter.com/ankr/status/1506994240655482886]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Anish Jain 🚀: 4 Web3 hackathon's website, my views based on my experience. mini 🧵]]></title>
+        <id>https://twitter.com/itsanishjain/status/1507767123523026944</id>
+        <link href="https://twitter.com/itsanishjain/status/1507767123523026944"/>
+        <updated>2022-03-26T17:11:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Anish Jain 🚀
+4 Web3 hackathon's website, my views based on my experience. mini 🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ropats16 | (🧱, 🚀) ᵍᵐ: Just received some epic swag!!🤩🤯🔥 Thanks to @JoshCStein @developer_dao @IPFS ❤️ LFG!! 🚀]]></title>
+        <id>https://twitter.com/rohitcpathare/status/1507710504067772419</id>
+        <link href="https://twitter.com/rohitcpathare/status/1507710504067772419"/>
+        <updated>2022-03-26T13:26:10.000Z</updated>
+        <summary type="html"><![CDATA[RT ropats16 | (🧱, 🚀) ᵍᵐ
+Just received some epic swag!!🤩🤯🔥
+Thanks to @JoshCStein @developer_dao @IPFS ❤️
+LFG!! 🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT faraz ahmad 💤: We are hiring a React / javascript engineer, remote in US. DM me!]]></title>
+        <id>https://twitter.com/farazamiruddin/status/1507454937940127747</id>
+        <link href="https://twitter.com/farazamiruddin/status/1507454937940127747"/>
+        <updated>2022-03-25T20:30:39.000Z</updated>
+        <summary type="html"><![CDATA[RT faraz ahmad 💤
+We are hiring a React / javascript engineer, remote in US. 
+DM me!
+faraz ahmad 💤: Since joining @netflix, I haven't had time to work on my side projects. I love the energy of small startups and wanted to stay connected in some way, so I have begun angel investing in people and products.
+I wrote my first check earlier this year for
+ https://joinatmos.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Obiagu💙: Boss @olanetsoft is talking about technical writing. Dude writes a lot and the rate he publishes articles scares the shit outta me. #OS...]]></title>
+        <id>https://twitter.com/iamCynthiaPeter/status/1507374823093243907</id>
+        <link href="https://twitter.com/iamCynthiaPeter/status/1507374823093243907"/>
+        <updated>2022-03-25T15:12:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Obiagu💙
+Boss @olanetsoft is talking about technical writing.
+Dude writes a lot and the rate he publishes articles scares the shit outta me.
+#OSCAFest22]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Probably Nothing #16]]></title>
         <id>https://developerdao.substack.com/p/probably-nothing-16</id>
