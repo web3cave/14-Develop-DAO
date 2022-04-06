@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/probably-nothing-18",
+          "author": "Colin4ward",
+          "description": "🤙 New format, who dis?",
+          "link": "https://developerdao.substack.com/p/probably-nothing-18",
+          "publishedOn": "2022-04-05T07:30:34.000Z",
+          "wordCount": null,
+          "title": "Probably Nothing #18",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F526b27c7-53cc-4e1b-af79-f764e9bdef99_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F526b27c7-53cc-4e1b-af79-f764e9bdef99_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/probably-nothing-17",
           "author": "Colin4ward",
           "description": "Live from Dubai it's.....Monday Night! 🎉",
@@ -68,6 +84,213 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4336a6af-28dd-42d2-980f-35f66342bd65_1100x550.png"
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Developer DAO (🧱, 🚀)",
+      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
+      "siteUrl": "https://twitter.com/developer_dao",
+      "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1511495832813584389",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1511495832813584389",
+          "publishedOn": "2022-04-06T00:07:43.000Z",
+          "wordCount": 196,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/OrlundoH/status/1511488635677429761",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Orlundo Hubbard | orlundo.eth\nSo I just signed my offer letter for a software engineer role at @WurstaCo 🤫 I’ll be working in the Web3 department. 3 years ago, I was homeless, living out of my car - now my dreams are coming true right before my eyes, so surreal 😭. God is so good man! All glory goes to Him!",
+          "link": "https://twitter.com/OrlundoH/status/1511488635677429761",
+          "publishedOn": "2022-04-05T23:39:07.000Z",
+          "wordCount": 196,
+          "title": "RT Orlundo Hubbard | orlundo.eth: So I just signed my offer letter for a software engineer role at @WurstaCo 🤫 I’ll be working in the Web3 departm...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/_dropknowledge/status/1511461400236867590",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dropknowledge.eth (🌱,🌳)\nRecognize that web3 is currently in the \"Builders\" era. \nThe era that came before us and made all this possible was the era of \"Foundation Layers\".\nThe most successful products of our era will ensure the next is supported to achieve unimaginable levels of innovation.",
+          "link": "https://twitter.com/_dropknowledge/status/1511461400236867590",
+          "publishedOn": "2022-04-05T21:50:54.000Z",
+          "wordCount": 196,
+          "title": "RT dropknowledge.eth (🌱,🌳): Recognize that web3 is currently in the \"Builders\" era. The era that came before us and made all this possible was t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wolovim/status/1511453325794832388",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT marc | wolovim.eth\nnew post ⚡️\na deep dive into some Web3py internals, for the:\n- interested contributor,\n- deep debuggerer, or\n- bored adventurer https://snakecharmers.ethereum.org/web3py-internals-json-rpc-round-trips/",
+          "link": "https://twitter.com/wolovim/status/1511453325794832388",
+          "publishedOn": "2022-04-05T21:18:48.000Z",
+          "wordCount": 196,
+          "title": "RT marc | wolovim.eth: new post ⚡️ a deep dive into some Web3py internals, for the: - interested contributor, - deep debuggerer, or - bored adventur...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pointer_gg/status/1511443987697176583",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pointer\nour @solana  pay tutorial is live! \nLearn how to \n- build a point of sale app to take payments IRL using Solana Pay\n- create an on-chain loyalty program \nNo rust required\n$20,000 USD of SOL reward pool available to first 500 verified finishers",
+          "link": "https://twitter.com/pointer_gg/status/1511443987697176583",
+          "publishedOn": "2022-04-05T20:41:42.000Z",
+          "wordCount": 196,
+          "title": "RT pointer: our @solana pay tutorial is live! Learn how to - build a point of sale app to take payments IRL using Solana Pay - create an on-chain loya...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1511434643622572043",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "People are the New Platforms by @divine_economy \nIn web3, platforms succeed by becoming protocols—which means people succeed by becoming platforms. ◤◤◤ https://davidphelps.substack.com/p/people-are-the-new-platforms",
+          "link": "https://twitter.com/developer_dao/status/1511434643622572043",
+          "publishedOn": "2022-04-05T20:04:34.000Z",
+          "wordCount": 196,
+          "title": "People are the New Platforms by @divine_economy In web3, platforms succeed by becoming protocols—which means people succeed by becoming platforms. ◤...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/paul_can_code/status/1511377417293602818",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT 0xPaulie.eth\nFresh off the presses! @developer_dao's weekly newsletter is here!\nProbably Nothing #18\nWe moved some things around this week. Let us know what you think! https://developerdao.substack.com/p/probably-nothing-18",
+          "link": "https://twitter.com/paul_can_code/status/1511377417293602818",
+          "publishedOn": "2022-04-05T16:17:10.000Z",
+          "wordCount": 196,
+          "title": "RT 0xPaulie.eth: Fresh off the presses! @developer_dao's weekly newsletter is here! Probably Nothing #18 We moved some things around this week. Let us...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/bee_sec_san/status/1511351484478369805",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ︎0xbee.eth 🔮(🧱, 🚀)\n1 follower away from 5.1k.... does #DevFollowDev @developer_dao still work? 🥺",
+          "link": "https://twitter.com/bee_sec_san/status/1511351484478369805",
+          "publishedOn": "2022-04-05T14:34:08.000Z",
+          "wordCount": 196,
+          "title": "RT ︎0xbee.eth 🔮(🧱, 🚀): 1 follower away from 5.1k.... does #DevFollowDev @developer_dao still work? 🥺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/boredgentleman/status/1511323462173929475",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT GBA\nWhen I see that someone’s minted a rare NFT and immediately becomes a millionaire.",
+          "link": "https://twitter.com/boredgentleman/status/1511323462173929475",
+          "publishedOn": "2022-04-05T12:42:47.000Z",
+          "wordCount": 196,
+          "title": "RT GBA: When I see that someone’s minted a rare NFT and immediately becomes a millionaire.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/matchbox_dao/status/1511309519959334914",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Matchbox DAO\nLevel Up Your Cairo! @topology_gg and @matchbox_dao are proud to present the first iteration of Solve2Mint. Solve2Mint v1 is a physics puzzle for curious problem solvers interested in learning Cairo and exploring the @StarkWareLtd  ecosystem. More below! https://mirror.xyz/matchboxdao.eth/XDHA0jqmdXvQDd247ebknsFkXGLG4VfSlGbcU2v6B10",
+          "link": "https://twitter.com/matchbox_dao/status/1511309519959334914",
+          "publishedOn": "2022-04-05T11:47:22.000Z",
+          "wordCount": 196,
+          "title": "RT Matchbox DAO: Level Up Your Cairo! @topology_gg and @matchbox_dao are proud to present the first iteration of Solve2Mint. Solve2Mint v1 is a physic...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Decentology/status/1511257677887848459",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT The ⌘Hyperverse by Decentology\n🎉 Congrats @0xTomster for winning this @developer_dao #NFT! It should be in your wallet now!\nThe ⌘Hyperverse by Decentology: Nearing @web3con, so perfect time for an #NFTGiveaway🎉 \nDev #914 will grant winner the coveted @developer_dao membership! How to win?\n✅ RT\n✅ Tag 3 Dev friends\n✅ Add screenshot of your completion of the #Hyperverse Private Preview walkthrough \nLFG 🚀\n https://docs.hyperverse.dev",
+          "link": "https://twitter.com/Decentology/status/1511257677887848459",
+          "publishedOn": "2022-04-05T08:21:22.000Z",
+          "wordCount": 196,
+          "title": "RT The ⌘Hyperverse by Decentology: 🎉 Congrats @0xTomster for winning this @developer_dao #NFT! It should be in your wallet now!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1511232870861312000",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We can't wait!\nPear VC: Pear is teaming up with @developer_dao (🧱, 🚀, 🍐)  to host a Happy Hour 🍻 for web3 SF community on April 12 5:30 PM! \nInviting web3 builders, operators and folks who are interested in taking the leap to web3!  \nRegister here: ⚡️\n https://lu.ma/pear.developerdao",
+          "link": "https://twitter.com/developer_dao/status/1511232870861312000",
+          "publishedOn": "2022-04-05T06:42:48.000Z",
+          "wordCount": 196,
+          "title": "We can't wait!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/camiinthisthang/status/1511199624869994496",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT camiinthisthang.eth\nMy @developer_dao dawgs 😤💪🏼\nSF techie culture is back. It’s a packed house in Fidi tonight",
+          "link": "https://twitter.com/camiinthisthang/status/1511199624869994496",
+          "publishedOn": "2022-04-05T04:30:41.000Z",
+          "wordCount": 196,
+          "title": "RT camiinthisthang.eth: My @developer_dao dawgs 😤💪🏼 SF techie culture is back. It’s a packed house in Fidi tonight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/erik_ritter/status/1511197757167472646",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Erik Ritter\nHanging out at the @developer_dao meetup! Thanks to @ankr for sponsoring and @JoshCStein for planning!",
+          "link": "https://twitter.com/erik_ritter/status/1511197757167472646",
+          "publishedOn": "2022-04-05T04:23:16.000Z",
+          "wordCount": 196,
+          "title": "RT Erik Ritter: Hanging out at the @developer_dao meetup! Thanks to @ankr for sponsoring and @JoshCStein for planning!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/altmbr/status/1511141596682727426",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Bryan Altman (💱,💱) 🇺🇦\nSo you’re in a Social DAO, you want to contribute, but you’re not sure what to do.\nHere’s ideas.. here’s 20 ways people are contributing today in a MEGA thread 🧵",
+          "link": "https://twitter.com/altmbr/status/1511141596682727426",
+          "publishedOn": "2022-04-05T00:40:06.000Z",
+          "wordCount": 196,
+          "title": "RT Bryan Altman (💱,💱) 🇺🇦: So you’re in a Social DAO, you want to contribute, but you’re not sure what to do. Here’s ideas.. here’s 20 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kyleecodes/status/1511038752755523587",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT 𝘬𝘺𝘭𝘦𝘦.𝘣𝘪𝘵 /𝘤𝘰𝘮𝘮𝘶𝘯𝘢𝘭𝘵𝘦𝘤𝘩.𝘦𝘵𝘩\nHAPPY MONDAY FRENS!\nLFGGGGGG 🚀\nWhat are you building this week? @developer_dao @womenbuildweb3 @LearnWeb3DAO @web3university",
+          "link": "https://twitter.com/kyleecodes/status/1511038752755523587",
+          "publishedOn": "2022-04-04T17:51:27.000Z",
+          "wordCount": 196,
+          "title": "RT 𝘬𝘺𝘭𝘦𝘦.𝘣𝘪𝘵 /𝘤𝘰𝘮𝘮𝘶𝘯𝘢𝘭𝘵𝘦𝘤𝘩.𝘦𝘵𝘩: HAPPY MONDAY FRENS! LFGGGGGG 🚀 What are you bu...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/bybobbay/status/1511016058865565708",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT bobbay @Lisbon\nSome personal news :) \nI am full-time web3 at @StableNode ✌️ \nBeen a wild few months since I decided to swap to web3 and now it's happened so fast\nHere is a bit on StableNode and why I’m joining them https://link.medium.com/PEvQMMJmXob",
+          "link": "https://twitter.com/bybobbay/status/1511016058865565708",
+          "publishedOn": "2022-04-04T16:21:16.000Z",
+          "wordCount": 196,
+          "title": "RT bobbay @Lisbon: Some personal news :) I am full-time web3 at @StableNode ✌️ Been a wild few months since I decided to swap to web3 and now it's h...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/yusuket_/status/1510997456238034944",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Yusuke Tanaka\n📆 This Week in Metaverse #007 📆\n👉Azuki NFT sold for $1.4M\n👉Blur raises $11M in seed funding\n👉World of Women Galaxy collection sold out\n👉Nansen Analytics for free\n👉Introduction of Phi Metaverse\n👉$625M stole from Axie Infinity's Ronin\n👉OpenSea support Solana\n🧵↓",
+          "link": "https://twitter.com/yusuket_/status/1510997456238034944",
+          "publishedOn": "2022-04-04T15:07:21.000Z",
+          "wordCount": 196,
+          "title": "RT Yusuke Tanaka: 📆 This Week in Metaverse #007 📆 👉Azuki NFT sold for $1.4M 👉Blur raises $11M in seed funding 👉World of Women Galaxy co...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pbillingsby_eth/status/1510990878847889408",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby.eth\nI wrote about some of the basic @etherscan features that we can all use, for FREE! https://mirror.xyz/0x4271B13727994c0A7D27bd536D612E1A82569A8f/cAcSxtk82WEqO4gJwIjVaHQns3Cc30gWqphpz-2bWio",
+          "link": "https://twitter.com/pbillingsby_eth/status/1510990878847889408",
+          "publishedOn": "2022-04-04T14:41:13.000Z",
+          "wordCount": 196,
+          "title": "RT pbillingsby.eth: I wrote about some of the basic @etherscan features that we can all use, for FREE!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kawpuccino/status/1510985612005847047",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Kawpuccino.eth ◎\nExposure to web3 has changed my life. Handing this in tmr",
+          "link": "https://twitter.com/kawpuccino/status/1510985612005847047",
+          "publishedOn": "2022-04-04T14:20:17.000Z",
+          "wordCount": 196,
+          "title": "RT Kawpuccino.eth ◎: Exposure to web3 has changed my life. Handing this in tmr",
+          "imageUrl": null
         }
       ]
     },
