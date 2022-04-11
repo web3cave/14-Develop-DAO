@@ -77,6 +77,86 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/dabit3/status/1513287725994192897",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader dabit (🧱, 🚀) | sha.eth | nader.sol\nI've been building an app using @ArweaveTeam as the storage layer, but instead of storing files I'm storing strings of text (think tweets)\nInstead of storing directly to Arweave I'm using @BundlrNetwork & from what I can tell is around 20X🤯 cheaper for up to 280 bytes\n1/n 🧵",
+          "link": "https://twitter.com/dabit3/status/1513287725994192897",
+          "publishedOn": "2022-04-10T22:48:04.000Z",
+          "wordCount": 196,
+          "title": "RT nader dabit (🧱, 🚀) | sha.eth | nader.sol: I've been building an app using @ArweaveTeam as the storage layer, but instead of storing files I'm...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1513270601070301188",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @bensparks_ you dropped this 👑",
+          "link": "https://twitter.com/developer_dao/status/1513270601070301188",
+          "publishedOn": "2022-04-10T21:40:01.000Z",
+          "wordCount": 196,
+          "title": "Re @bensparks_ you dropped this 👑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xTranqui/status/1513246968570601479",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tranqui.eth 🔆\ncrazy how everything I’m doing rn is bc of @developer_dao\nif ur a dev looking for an amazing community this is the one",
+          "link": "https://twitter.com/0xTranqui/status/1513246968570601479",
+          "publishedOn": "2022-04-10T20:06:06.000Z",
+          "wordCount": 196,
+          "title": "RT tranqui.eth 🔆: crazy how everything I’m doing rn is bc of @developer_dao if ur a dev looking for an amazing community this is the one",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/bensparks_/status/1513238520575537162",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ben Sparks\nTo be a great Solidity dev, you need to deeply understand the EVM\nHere are some resources to get you started\n🧵👇",
+          "link": "https://twitter.com/bensparks_/status/1513238520575537162",
+          "publishedOn": "2022-04-10T19:32:32.000Z",
+          "wordCount": 196,
+          "title": "RT Ben Sparks: To be a great Solidity dev, you need to deeply understand the EVM Here are some resources to get you started 🧵👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/chrisbautistaaa/status/1513198829100683266",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT chris bautista (trash_dev)\nCSS Pro Tip\nTired of your ugly site? Try this simple trick!",
+          "link": "https://twitter.com/chrisbautistaaa/status/1513198829100683266",
+          "publishedOn": "2022-04-10T16:54:49.000Z",
+          "wordCount": 196,
+          "title": "RT chris bautista (trash_dev): CSS Pro Tip Tired of your ugly site? Try this simple trick!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1513159930710269961",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "A Beginner's Guide to Decentralized Governance in Web3 by @developer_dao member @bybobbay \n⚡️ In this post, we will dive deeper into DAOs and decentralized governance to understand what it is and how governance plays a key part in DAOs. https://bobbay.hashnode.dev/a-beginners-guide-to-decentralised-governance-in-web3",
+          "link": "https://twitter.com/developer_dao/status/1513159930710269961",
+          "publishedOn": "2022-04-10T14:20:15.000Z",
+          "wordCount": 196,
+          "title": "A Beginner's Guide to Decentralized Governance in Web3 by @developer_dao member @bybobbay ⚡️ In this post, we will dive deeper into DAOs and decentr...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/olanetsoft/status/1513143028785033219",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT I D R I S 💙\nGuess what, guys?\nI'm thrilled to announce that .com, .org & NFT domains have been secured by @frankazuuring for @web3terms via @odyssey_dao. He is also willing to gift or transfer for free.\nTech Twitter, web3 is such a wonderful community 🥺🥺🥺\n#Web3 #blockchain \n🧵 👇👇👇",
+          "link": "https://twitter.com/olanetsoft/status/1513143028785033219",
+          "publishedOn": "2022-04-10T13:13:05.000Z",
+          "wordCount": 196,
+          "title": "RT I D R I S 💙: Guess what, guys? I'm thrilled to announce that .com, .org & NFT domains have been secured by @frankazuuring for @web3terms via @od...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/miral182000/status/1513125169824296960",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Miral Suthar\nRe @developer_dao hoodie looking lit though.\n🔥🔥",
+          "link": "https://twitter.com/miral182000/status/1513125169824296960",
+          "publishedOn": "2022-04-10T12:02:07.000Z",
+          "wordCount": 196,
+          "title": "RT Miral Suthar: Re @developer_dao hoodie looking lit though. 🔥🔥",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DawsonBotsford/status/1512898219931361281",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT daws.eth @EthPortland\n🤓 I'm becoming a Rust programmer.\n⭐️ Follow my journey from JavaScript to Rust on GitHub: \n@developer_dao #rustlang #rustacean https://github.com/dawsbot/rusty-days",
@@ -117,13 +197,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/SAINt_KIDME/status/1512808135496413186",
+          "id": "https://twitter.com/0ceans404/status/1512812110052438019",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kidme.eth\nNothing BUT vibes \ngm\nD_D",
-          "link": "https://twitter.com/SAINt_KIDME/status/1512808135496413186",
-          "publishedOn": "2022-04-09T15:02:20.000Z",
+          "description": "RT steph • ᴗ • oceans404.eth\nIt all started here: 30 builders hacked together 5 projects @web3con 💻 and now we are @womenbuildweb3 👯‍♀️\n\nSarah N.: A reflection of what I learned at @web3con a little while back:\n https://medium.com/geekculture/creating-nfts-for-social-good-a4049901aa75?sk=1e0e3ee4b5cf5debaeea3e744cd0f737",
+          "link": "https://twitter.com/0ceans404/status/1512812110052438019",
+          "publishedOn": "2022-04-09T15:18:08.000Z",
           "wordCount": 196,
-          "title": "RT kidme.eth: Nothing BUT vibes gm D_D",
+          "title": "RT steph • ᴗ • oceans404.eth: It all started here: 30 builders hacked together 5 projects @web3con 💻 and now we are @womenbuildweb3 👯‍♀️",
           "imageUrl": null
         },
         {
@@ -157,6 +237,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/impranavm_/status/1512758634954240000",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Pranav Maheshwari\nMe and @0xMouseLessDev managed to rescue 40k worth of unclaimed ICO tokens from a friends’ compromised account with the power of Flashbots \nFull Thread 🧵",
+          "link": "https://twitter.com/impranavm_/status/1512758634954240000",
+          "publishedOn": "2022-04-09T11:45:38.000Z",
+          "wordCount": 196,
+          "title": "RT Pranav Maheshwari: Me and @0xMouseLessDev managed to rescue 40k worth of unclaimed ICO tokens from a friends’ compromised account with the power o...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/OwlOfMoistness/status/1512740592236826632",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Owl.pcc.eth\nNFT holders have fallen for too many scams.\nMillions of $ taken away. 💸\nWhat if there was a way to prevent this?\nIntroducing the Guardian Contract, enabled by the LockRegistry standard.\nEven if you get your seed leaked, fear not, NFTs are safu.\nA 🧵👇 https://medium.com/@owl_of_moistness/95f3fff7f1cc",
@@ -167,63 +257,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/lizziematusov/status/1512578009068294151",
+          "id": "https://twitter.com/FreeflowDev/status/1512436994093326340",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT lizzie 💥\nI always try to stay engaged/curious about \"cutting edge\" tech. I've been looking for a web3 space where I can explore core tech, think about building for broader audiences, and help web3 break out of its current archetypal persona.\nSo...I've joined @developer_dao ! 🌟 #7825",
-          "link": "https://twitter.com/lizziematusov/status/1512578009068294151",
-          "publishedOn": "2022-04-08T23:47:54.000Z",
+          "description": "RT Freeflow\nAre you a Discord-savvy, Web3 native, interested in enabling the future of work? \nOr simply passionate about enabling the future of work? \nFreeflow is hiring! 💼 💫 https://freeflowdev.notion.site/Discord-Customer-Success-Representative-Remote-Anywhere-52dd924e9c9f4211bf99735100cffac5",
+          "link": "https://twitter.com/FreeflowDev/status/1512436994093326340",
+          "publishedOn": "2022-04-08T14:27:33.000Z",
           "wordCount": 196,
-          "title": "RT lizzie 💥: I always try to stay engaged/curious about \"cutting edge\" tech. I've been looking for a web3 space where I can explore core tech, thin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Rahatcodes/status/1512560518468407296",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT rahat.eth\nCasually looking through @developer_dao discord and I see that there are travel sponsorships now for folks to attend DevConnect and Eth Amsterdam. This really is one of the best communities to join as someone interested in web3.",
-          "link": "https://twitter.com/Rahatcodes/status/1512560518468407296",
-          "publishedOn": "2022-04-08T22:38:24.000Z",
-          "wordCount": 196,
-          "title": "RT rahat.eth: Casually looking through @developer_dao discord and I see that there are travel sponsorships now for folks to attend DevConnect and Eth ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Web3Equity/status/1512547892967489545",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Tuttle Tribe MINT NOW\n🔥 @MichelleBakels 🔥 engineers and devs unite in Miami for @ReactMiamiConf \nThen after all the learning we’ll celebrate with @developer_dao at the Surfcomber for our mashup event #DefinitelyNothing\nMayor Francis Suarez: Along with @MichelleBakels we’re bringing together industry leaders to share the recent developments in everything from technical writing to Web3 and everything in between!\nFind @ReactMiamiConf within the @eMergeAmericas Conference April 18-19",
-          "link": "https://twitter.com/Web3Equity/status/1512547892967489545",
-          "publishedOn": "2022-04-08T21:48:14.000Z",
-          "wordCount": 196,
-          "title": "RT Tuttle Tribe MINT NOW: 🔥 @MichelleBakels 🔥 engineers and devs unite in Miami for @ReactMiamiConf Then after all the learning we’ll celebrate...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1512531835926024192",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "We're excited to announce 2 new recipients of the latest round of @developer_dao scholarships!\nCongratulations to @nodemadic #7815 & @lizziematusov #7825 – welcome to the community! 🙌",
-          "link": "https://twitter.com/developer_dao/status/1512531835926024192",
-          "publishedOn": "2022-04-08T20:44:25.000Z",
-          "wordCount": 196,
-          "title": "We're excited to announce 2 new recipients of the latest round of @developer_dao scholarships! Congratulations to @nodemadic #7815 & @lizziematusov #7...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kyleecodes/status/1512531644913229824",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 𝘬𝘺𝘭𝘦𝘦.𝘣𝘪𝘵 /𝘤𝘰𝘮𝘮𝘶𝘯𝘢𝘭𝘵𝘦𝘤𝘩.𝘦𝘵𝘩\nIt's been exactly 215 days since I've joined @developer_dao 🥰\nThat's 2+ years in web3!",
-          "link": "https://twitter.com/kyleecodes/status/1512531644913229824",
-          "publishedOn": "2022-04-08T20:43:40.000Z",
-          "wordCount": 196,
-          "title": "RT 𝘬𝘺𝘭𝘦𝘦.𝘣𝘪𝘵 /𝘤𝘰𝘮𝘮𝘶𝘯𝘢𝘭𝘵𝘦𝘤𝘩.𝘦𝘵𝘩: It's been exactly 215 days since I've joined @dev...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CultureClap/status/1512505063863992334",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT canin.sol 🍃 .eth 🧪 .carlos\nbasically s/o to @ecodao_ for enabling me to join @developer_dao \nnzinga/thank you @dabit3 for holding space for my conversation ...\ny ps ... @camiinthisthang ... \nThe last drop is in Medallo ... q mas ps ?!? jajaja\nIn solidarity, if ya got a moment to read\n🍃🙏🏾❤️✊🏾🧪\ncanin.sol 🍃 .eth 🧪 .carlos: Welp, I guess I gotta do this eventually :/\n\nIt's gonna be my birthday in less than a month ... I NEVER really celebrated the day publicly ... adoption things ... but this year, I do want to use it as leverage to ask for help to grow\n https://ghost.cultureclap.com/happy-birthday-canin/",
-          "link": "https://twitter.com/CultureClap/status/1512505063863992334",
-          "publishedOn": "2022-04-08T18:58:02.000Z",
-          "wordCount": 196,
-          "title": "RT canin.sol 🍃 .eth 🧪 .carlos: basically s/o to @ecodao_ for enabling me to join @developer_dao nzinga/thank you @dabit3 for holding space for m...",
+          "title": "RT Freeflow: Are you a Discord-savvy, Web3 native, interested in enabling the future of work? Or simply passionate about enabling the future of work? ...",
           "imageUrl": null
         },
         {
@@ -234,46 +274,6 @@
           "publishedOn": "2022-04-08T14:03:14.000Z",
           "wordCount": 196,
           "title": "RT Preethi Kasireddy: We have plenty of scholarships for women to attend DappCamp cohort 3, but honestly not enough female applicants If you know stro...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/olanetsoft/status/1512389126796066817",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT I D R I S 💙\nHello, Tech Twitter! I built and deployed a Free web3 tool to help everyone understand and grasp web3 terminologies.\nIt's open-source, of course!\n🧵 👇",
-          "link": "https://twitter.com/olanetsoft/status/1512389126796066817",
-          "publishedOn": "2022-04-08T11:17:21.000Z",
-          "wordCount": 196,
-          "title": "RT I D R I S 💙: Hello, Tech Twitter! I built and deployed a Free web3 tool to help everyone understand and grasp web3 terminologies. It's open-sour...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/bdguan/status/1512136311125073922",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT br1an.eth is in LA\nI'm super excited to announce what I've been working on! I made Pravna because I wanted a crypto-native source to stay updated with constant onslaught crypto news. http://pravna.xyz",
-          "link": "https://twitter.com/bdguan/status/1512136311125073922",
-          "publishedOn": "2022-04-07T18:32:45.000Z",
-          "wordCount": 196,
-          "title": "RT br1an.eth is in LA: I'm super excited to announce what I've been working on! I made Pravna because I wanted a crypto-native source to stay updated ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kumquatexpress/status/1512122290095284237",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Boyang Niu | kumquatexpress.eth\n1/ gm all, @wobsobby and I are excited to unveil Kontour ( https://launch.kontour.io",
-          "link": "https://twitter.com/kumquatexpress/status/1512122290095284237",
-          "publishedOn": "2022-04-07T17:37:02.000Z",
-          "wordCount": 196,
-          "title": "RT Boyang Niu | kumquatexpress.eth: 1/ gm all, @wobsobby and I are excited to unveil Kontour (",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nervosevents/status/1511109623910125570",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Nervos Education & Events 🥑\nAre you interested in learning more about web3?\nTune into our next Spaces!\nTalking web3, DAOs, devrel, and more with @camiinthisthang -- web3 devrel extraordinaire, Youtuber, and engineer! 🌟\n🗓️ Tune in April 8th 12pm PDT!\nSet  your reminder now  👇 https://twitter.com/i/spaces/1yNxaYmAgXvxj",
-          "link": "https://twitter.com/nervosevents/status/1511109623910125570",
-          "publishedOn": "2022-04-04T22:33:04.000Z",
-          "wordCount": 196,
-          "title": "RT Nervos Education & Events 🥑: Are you interested in learning more about web3? Tune into our next Spaces! Talking web3, DAOs, devrel, and more wit...",
           "imageUrl": null
         }
       ]
