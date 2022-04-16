@@ -1,207 +1,309 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-15T06:14:09.015Z</id>
+    <id>urn:2022-04-16T06:13:29.181Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-15T06:14:09.016Z</updated>
+    <updated>2022-04-16T06:13:29.181Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Golden Sun Kev | Citizen #841: Re @developer_dao I'm excited to finally join D_D as Dev #1058. Love what the community has contributed and built so...]]></title>
-        <id>https://twitter.com/Golden_Sun_Kev/status/1514800007257358340</id>
-        <link href="https://twitter.com/Golden_Sun_Kev/status/1514800007257358340"/>
-        <updated>2022-04-15T02:57:20.000Z</updated>
-        <summary type="html"><![CDATA[RT Golden Sun Kev | Citizen #841
-Re @developer_dao 
-I'm excited to finally join D_D as Dev #1058. Love what the community has contributed and built so far and looking forward to being a part of it.]]></summary>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! Today we had another fantastic #DevNTell with @derked_eth presenting us an overview of @LayerZero_Labs ...]]></title>
+        <id>https://twitter.com/narb_s/status/1515144073606164489</id>
+        <link href="https://twitter.com/narb_s/status/1515144073606164489"/>
+        <updated>2022-04-16T01:44:31.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+gm @developer_dao frens! Today we had another fantastic #DevNTell with @derked_eth presenting us an overview of @LayerZero_Labs 🚀🚀🚀
+If you missed the session, the recording is now available on the @developer_dao YouTube channel 📹🍿 https://youtu.be/r23Pbot6y50]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT camiinthisthang.eth: Hey @developer_dao gang RSVP for the member-only part of the night leading up to @vibesIRL 🦄]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1514783297561268228</id>
-        <link href="https://twitter.com/camiinthisthang/status/1514783297561268228"/>
-        <updated>2022-04-15T01:50:56.000Z</updated>
+        <title type="html"><![CDATA[RT rahat.eth: Huge thanks to @mintkudosXYZ for these 🔥🔥🔥🔥 NFTs]]></title>
+        <id>https://twitter.com/Rahatcodes/status/1515124492498051073</id>
+        <link href="https://twitter.com/Rahatcodes/status/1515124492498051073"/>
+        <updated>2022-04-16T00:26:43.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth
+Huge thanks to @mintkudosXYZ for these 🔥🔥🔥🔥 NFTs
+Developer DAO (🧱, 🚀): @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS a note to our winners -
+we'll contact you shortly about claiming prizes and these sweet NFTs by @mintkudosXYZ! 🎊 please keep your eyes peeled in the web3con server, dms, and/or emails 💌
+ https://mintkudos.xyz/claim/396]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT isabella: I got shirts from @ankr and @MetaMask, a tumbler from @0xPolygon, socks from @developer_dao, btc shaped gold, and friends from @AlchemyPl...]]></title>
+        <id>https://twitter.com/9001sabella/status/1515109423592652808</id>
+        <link href="https://twitter.com/9001sabella/status/1515109423592652808"/>
+        <updated>2022-04-15T23:26:50.000Z</updated>
+        <summary type="html"><![CDATA[RT isabella
+I got shirts from @ankr and @MetaMask, a tumbler from @0xPolygon, socks from @developer_dao, btc shaped gold, and friends from @AlchemyPlatform
+I used to be in Southeast Asia reading about these only
+EthDubai was alright, it truly was the friends that were made along the way]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🛠 Deploying HRC20 via @harmonyprotocol This tutorial will take you though creating your own HRC20 token. HRC20 is an ERC20 token deployed on Harmon...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515092665993416711</id>
+        <link href="https://twitter.com/developer_dao/status/1515092665993416711"/>
+        <updated>2022-04-15T22:20:15.000Z</updated>
+        <summary type="html"><![CDATA[🛠 Deploying HRC20 via @harmonyprotocol 
+This tutorial will take you though creating your own HRC20 token. HRC20 is an ERC20 token deployed on Harmony. ⚡️ https://docs.harmony.one/home/developers/tutorials/deploying-hrc20]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth | ETHAmsterdam | (🧱, 🚀) ᵍᵐ: .@dhaiwat10 has the vibes help @dhaiwat10 share those vibes in Bangalore 👇 @developer_dao co...]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1515082129960579082</id>
+        <link href="https://twitter.com/kempsterrrr/status/1515082129960579082"/>
+        <updated>2022-04-15T21:38:23.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth | ETHAmsterdam | (🧱, 🚀) ᵍᵐ
+.@dhaiwat10 has the vibes 
+help @dhaiwat10 share those vibes in Bangalore 👇
+@developer_dao continues to get more globally vibey via @vibesIRL
+dhaiwat.eth 🇺🇦: I'm setting up a @vibesIRL party in Bangalore 🇮🇳 sometime this year
+The problem is: I'm not from Bangalore. Who should I talk to to figure stuff out?
+Lmk if you would be down to attend the party as well 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPLD - InterPlanetary Linked Data ◤ IPLD is an ecosystem of formats and data structures for building applications that can be fully decentralized.]]></title>
+        <id>https://twitter.com/developer_dao/status/1515053092428922880</id>
+        <link href="https://twitter.com/developer_dao/status/1515053092428922880"/>
+        <updated>2022-04-15T19:43:00.000Z</updated>
+        <summary type="html"><![CDATA[IPLD - InterPlanetary Linked Data
+◤ IPLD is an ecosystem of formats and data structures for building applications that can be fully decentralized. https://ipld.io/docs/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Gabriela Sabate | GabiS.eth: Just SO thrilled to see this!!! We won 🥇1st prize in the @filecoin @IPFS bounty of the @web3con @developer_dao hack...]]></title>
+        <id>https://twitter.com/gsabate/status/1515039095331958788</id>
+        <link href="https://twitter.com/gsabate/status/1515039095331958788"/>
+        <updated>2022-04-15T18:47:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Gabriela Sabate | GabiS.eth
+Just SO thrilled to see this!!! We won 🥇1st prize in the @filecoin @IPFS bounty of the @web3con @developer_dao hackathon with the incredible @AmoweO @fatima39_fatima!❤️
+🚀Our Primero Project➡️
+Thank you @camiinthisthang 
+@a_moonboy @womenbuildweb3! #NFTs
+Developer DAO (🧱, 🚀): @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners -
+🥇 1st Place: Primero
+🥈 2nd Place: Team MerkleMe
+🥉 3rd Place: Dev Sharks
+Prize Pool winners:
+Team SUDO, meritblock, Time Travellers DAO, Web 3 Edi, Maxima & Deschool
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT eisuke.eth/叡佑: OMG our Deschool won a prize of @Filecoin This was the first hackathon of my life, and I learned a lot Thanks for my team @jhoange...]]></title>
+        <id>https://twitter.com/EisukeHirata/status/1515032787794898948</id>
+        <link href="https://twitter.com/EisukeHirata/status/1515032787794898948"/>
+        <updated>2022-04-15T18:22:19.000Z</updated>
+        <summary type="html"><![CDATA[RT eisuke.eth/叡佑
+OMG our Deschool won a prize of @Filecoin  
+This was the first hackathon of my life, and I learned a lot
+Thanks  for my team @jhoangeth @shungo11260 and DeveloperDAO!!
+@developer_dao @web3con
+Developer DAO (🧱, 🚀): gm! we are very pleased to announce @web3con 2022 hackathon winners 🥳
+🥇 $15,000 Grand Prize - Brought to you by @Decentology & @0xPolygon:
+NAT
+🥈 $10,000 Runner Up - Brought to you by @Filecoin, @LivepeerOrg & @radicle:
+bytehash
+more winners 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Abbas Khan 🇦🇫: We won the @Decentology bounty 😭 LW3BuiDlers @YashSolanki_ @Aayush_gupta_ji @itsanishjain @Aayush_gupta_ji you guys are the...]]></title>
+        <id>https://twitter.com/KhanAbbas201/status/1515032036360216580</id>
+        <link href="https://twitter.com/KhanAbbas201/status/1515032036360216580"/>
+        <updated>2022-04-15T18:19:20.000Z</updated>
+        <summary type="html"><![CDATA[RT Abbas Khan 🇦🇫
+We won the @Decentology bounty 😭
+LW3BuiDlers @YashSolanki_ @Aayush_gupta_ji @itsanishjain @Aayush_gupta_ji you guys are the best ❤😭
+Also special thanks to the man himself @Rahatcodes for introducing me to this amazing hackathon.
+Developer DAO (🧱, 🚀): gm! we are very pleased to announce @web3con 2022 hackathon winners 🥳
+🥇 $15,000 Grand Prize - Brought to you by @Decentology & @0xPolygon:
+NAT
+🥈 $10,000 Runner Up - Brought to you by @Filecoin, @LivepeerOrg & @radicle:
+bytehash
+more winners 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Day + Graph Hack 6/2/2022 🧑‍🚀 Full day focused on web3, dapps, protocols, & the future of the internet with @graphprotocol ✦ Including t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515028569088573446</id>
+        <link href="https://twitter.com/developer_dao/status/1515028569088573446"/>
+        <updated>2022-04-15T18:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Graph Day + Graph Hack 6/2/2022 🧑‍🚀
+Full day focused on web3, dapps, protocols, & the future of the internet with @graphprotocol
+✦ Including talks from
+@abbey_titcomb
+@owocki
+@chaserchapman
+@RezBrandon
+@somemikesena
+@theklineventure
+@yanivgraph
+@roneilr https://thegraph.com/graph-day/2022/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MyssTeeQue Fatma: I'm so thrilled ,shocked and out of words to express how I feel about the @web3con @developer_dao hackathon results,We won team P...]]></title>
+        <id>https://twitter.com/fatima39_fatima/status/1515024451259281408</id>
+        <link href="https://twitter.com/fatima39_fatima/status/1515024451259281408"/>
+        <updated>2022-04-15T17:49:11.000Z</updated>
+        <summary type="html"><![CDATA[RT MyssTeeQue Fatma
+I'm so thrilled ,shocked and out of words to express how I feel about the @web3con @developer_dao hackathon results,We won team Primero @AmoweO @gsabate thank you @camiinthisthang @a_moonboy
+Developer DAO (🧱, 🚀): @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners -
+🥇 1st Place: Primero
+🥈 2nd Place: Team MerkleMe
+🥉 3rd Place: Dev Sharks
+Prize Pool winners:
+Team SUDO, meritblock, Time Travellers DAO, Web 3 Edi, Maxima & Deschool
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nuzair.eth: I'd say my first hackathon went well 😎 NoobDAO (our team) won the @0xPolygon bounty for @web3con 🥳🥳🥳 Brains 👉 @ChimingPo...]]></title>
+        <id>https://twitter.com/NuzairNuwais/status/1515022018672054283</id>
+        <link href="https://twitter.com/NuzairNuwais/status/1515022018672054283"/>
+        <updated>2022-04-15T17:39:31.000Z</updated>
+        <summary type="html"><![CDATA[RT nuzair.eth
+I'd say my first hackathon went well 😎
+NoobDAO (our team) won the @0xPolygon bounty for @web3con  🥳🥳🥳
+Brains 👉  @ChimingPork @heyskylark , @AvniAgrawal1802, Will
+Developer DAO (🧱, 🚀): @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 💜 @0xPolygon "Best dApp Build on Polygon" bounty winners -
+bytehash
+Team Treehouse
+DAO Realtor
+NoobDAO
+Blocknauts
+Team Enigma
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Aayush Gupta: Our team LW3_BUIDLERS @itsanishjain @KhanAbbas201 @theVatsal_eth @YashSolanki_ won @web3con hackathon 🏆🥳. Thank you @developer_...]]></title>
+        <id>https://twitter.com/Aayush_gupta_ji/status/1515021336627798026</id>
+        <link href="https://twitter.com/Aayush_gupta_ji/status/1515021336627798026"/>
+        <updated>2022-04-15T17:36:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Aayush Gupta
+Our team LW3_BUIDLERS @itsanishjain @KhanAbbas201 @theVatsal_eth @YashSolanki_  won @web3con hackathon 🏆🥳.  Thank you @developer_dao for organizing such a great #hackathon. Looking forward for future endeavors. 
+#wagmi #web3 #team]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS a note to our winners - we'll contact you shortly about claiming prizes and ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515018110310371329</id>
+        <link href="https://twitter.com/developer_dao/status/1515018110310371329"/>
+        <updated>2022-04-15T17:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS a note to our winners -
+we'll contact you shortly about claiming prizes and these sweet NFTs by @mintkudosXYZ! 🎊 please keep your eyes peeled in the web3con server, dms, and/or emails 💌 https://mintkudos.xyz/claim/396]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS and that's a wrap! check out all of our winners' projects at thank you to ou...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515016716341821442</id>
+        <link href="https://twitter.com/developer_dao/status/1515016716341821442"/>
+        <updated>2022-04-15T17:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS and that's a wrap! check out all of our winners' projects at 
+thank you to our attendees for joining D_D's first ever virtual hackathon, to our judges for taking the time to select the finalists, & to our sponsors for making this all possible.
+👇 https://www.web3con.dev/2022-recap]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 🌱 @radicle honorable mention - ecodrips 👇]]></title>
+        <id>https://twitter.com/developer_dao/status/1515016480844247041</id>
+        <link href="https://twitter.com/developer_dao/status/1515016480844247041"/>
+        <updated>2022-04-15T17:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 🌱 @radicle honorable mention -
+ecodrips
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 📽 @LivepeerOrg bounty winners - Best Video-on-Demand MVP: Team Loop Kille...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515016323276828672</id>
+        <link href="https://twitter.com/developer_dao/status/1515016323276828672"/>
+        <updated>2022-04-15T17:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 📽 @LivepeerOrg bounty winners -
+Best Video-on-Demand MVP: Team Loop
+Killer Web3 Video App: Team glitch
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners - 🥇 1st Place: Primero 🥈 2nd Place: Te...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515016114601795585</id>
+        <link href="https://twitter.com/developer_dao/status/1515016114601795585"/>
+        <updated>2022-04-15T17:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners -
+🥇 1st Place: Primero
+🥈 2nd Place: Team MerkleMe
+🥉 3rd Place: Dev Sharks
+Prize Pool winners:
+Team SUDO, meritblock, Time Travellers DAO, Web 3 Edi, Maxima & Deschool
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 💜 @0xPolygon "Best dApp Build on Polygon" bounty winners - bytehash Team Treeho...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515015509799960576</id>
+        <link href="https://twitter.com/developer_dao/status/1515015509799960576"/>
+        <updated>2022-04-15T17:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 💜 @0xPolygon "Best dApp Build on Polygon" bounty winners -
+bytehash
+Team Treehouse
+DAO Realtor
+NoobDAO
+Blocknauts
+Team Enigma
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT camiinthisthang.eth: If there are any women who need help attending Graph Day or devs who want to build at Graph Hack let me know- my dms are open ...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1514999747798618122</id>
+        <link href="https://twitter.com/camiinthisthang/status/1514999747798618122"/>
+        <updated>2022-04-15T16:11:01.000Z</updated>
         <summary type="html"><![CDATA[RT camiinthisthang.eth
-Hey @developer_dao gang 
-RSVP for the member-only part of the night leading up to @vibesIRL 🦄 https://lu.ma/ny9wpy9b]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kabronero.eth: Excited to be part of @developer_dao with my "Buenos Aires" NFT :)]]></title>
-        <id>https://twitter.com/kabronero/status/1514775673474191368</id>
-        <link href="https://twitter.com/kabronero/status/1514775673474191368"/>
-        <updated>2022-04-15T01:20:38.000Z</updated>
-        <summary type="html"><![CDATA[RT kabronero.eth
-Excited to be part of @developer_dao with my "Buenos Aires" NFT :)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Lucemans: Well hello there 👀 @developer_dao]]></title>
-        <id>https://twitter.com/LucemansNL/status/1514727986838351874</id>
-        <link href="https://twitter.com/LucemansNL/status/1514727986838351874"/>
-        <updated>2022-04-14T22:11:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Lucemans
-Well hello there 👀 @developer_dao https://opensea.io/assets/matic/0x916b13fca6192fe5e4e2cd58f712ba9ade43ced0/7828]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT RyanCoordinator.eth 🤝🧭: If you think @developer_dao 1pm et weekday Vibes calls are heartwarming hype, you're going to LOVE @vibesIRL ! See yo...]]></title>
-        <id>https://twitter.com/RyanCoordinator/status/1514693029323587597</id>
-        <link href="https://twitter.com/RyanCoordinator/status/1514693029323587597"/>
-        <updated>2022-04-14T19:52:14.000Z</updated>
-        <summary type="html"><![CDATA[RT RyanCoordinator.eth 🤝🧭
-If you think @developer_dao 1pm et weekday Vibes calls are heartwarming hype, you're going to LOVE @vibesIRL ! 
-See you in Amsterdam, Paris, Bogota, Denver, Miami, New York, Toronto ... 
-This year is going to be AMAZING!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1514674850312372232</id>
-        <link href="https://twitter.com/developer_dao/status/1514674850312372232"/>
-        <updated>2022-04-14T18:40:00.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidity on @Replit: Diving into Web3 ⚡️⚡️⚡️ You can try it out by creating a new Repl and typing solidity in the search bar. ◤]]></title>
-        <id>https://twitter.com/developer_dao/status/1514667960136257541</id>
-        <link href="https://twitter.com/developer_dao/status/1514667960136257541"/>
-        <updated>2022-04-14T18:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Solidity on @Replit: Diving into Web3 ⚡️⚡️⚡️
-You can try it out by creating a new Repl and typing solidity in the search bar. ◤ https://blog.replit.com/solidity]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT d.mirror.xyz 🪞: who is hacking on starknet and knows cairo]]></title>
-        <id>https://twitter.com/Iiterature/status/1514658076720250883</id>
-        <link href="https://twitter.com/Iiterature/status/1514658076720250883"/>
-        <updated>2022-04-14T17:33:21.000Z</updated>
-        <summary type="html"><![CDATA[RT d.mirror.xyz 🪞
-who is hacking on starknet and knows cairo]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧪 Terra Academy - Intro to Terra App Development via @terra_money 8 Videos to walk you through getting your development environment set up and expl...]]></title>
-        <id>https://twitter.com/developer_dao/status/1514647922704457738</id>
-        <link href="https://twitter.com/developer_dao/status/1514647922704457738"/>
-        <updated>2022-04-14T16:53:00.000Z</updated>
-        <summary type="html"><![CDATA[🧪 Terra Academy - Intro to Terra App Development via @terra_money 
-8 Videos to walk you through getting your development environment set up and explore how to build Terra smart contracts and front ends. ⚡️ https://www.youtube.com/playlist?list=PL-1j57N4qfImfGH_WpOyZdLr1xDpNJdWS]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1514625918454714371</id>
-        <link href="https://twitter.com/developer_dao/status/1514625918454714371"/>
-        <updated>2022-04-14T15:25:34.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨✨✨ How to Code a Script to Track NFT Mint Events | Alchemy Subscriptions API by @developer_dao member @thatguyintech]]></title>
-        <id>https://twitter.com/developer_dao/status/1514613372007817228</id>
-        <link href="https://twitter.com/developer_dao/status/1514613372007817228"/>
-        <updated>2022-04-14T14:35:42.000Z</updated>
-        <summary type="html"><![CDATA[✨✨✨ How to Code a Script to Track NFT Mint Events | Alchemy Subscriptions API by @developer_dao member @thatguyintech https://www.youtube.com/watch?v=9YYCYIxc8AU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT QuickNode 👉 We're Hiring! 👈: Here's our ⭐️ lineup at the QuickNode Huis! April 21 - @dabit3 from @edgeandnode @graphprotocol April 22 - @st...]]></title>
-        <id>https://twitter.com/QuickNode/status/1514604386936234004</id>
-        <link href="https://twitter.com/QuickNode/status/1514604386936234004"/>
-        <updated>2022-04-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RT QuickNode 👉 We're Hiring! 👈
-Here's our ⭐️ lineup at the QuickNode Huis!
-April 21 -  @dabit3 from @edgeandnode @graphprotocol 
-April 22 -  @stavanpatel from @_buildspace
-April 23 -  @razacodes from @thirdweb_
-April 24 -  @Rahatcodes from @0xPolygon
-April 25 -  @madhavanmalolan from @questbookapp 
-Apply 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1514597267499626496</id>
-        <link href="https://twitter.com/developer_dao/status/1514597267499626496"/>
-        <updated>2022-04-14T13:31:43.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Created by @developer_dao member @BaptisteGreve 🛠]]></title>
-        <id>https://twitter.com/developer_dao/status/1514593532492791817</id>
-        <link href="https://twitter.com/developer_dao/status/1514593532492791817"/>
-        <updated>2022-04-14T13:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Created by @developer_dao member @BaptisteGreve 🛠]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT arome.eth: Gm🌍I wrote an article on exploring @graphprotocol for decentralised data indexing and querying. In this article you'll learn about Th...]]></title>
-        <id>https://twitter.com/arome_dev/status/1514574249700245511</id>
-        <link href="https://twitter.com/arome_dev/status/1514574249700245511"/>
-        <updated>2022-04-14T12:00:15.000Z</updated>
-        <summary type="html"><![CDATA[RT arome.eth
-Gm🌍I wrote an article on exploring @graphprotocol for decentralised data indexing and querying.
-In this article you'll learn about The Graph and how it can be used to build and publish open APIs, it also highlights querying data from existing subgraphs. https://mirror.xyz/arome.eth/-8ri9tPFrWZAaJnoKvGcfNl5XVpNXSSvu64GSN35X1M]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3 Girl: are there any @developer_dao or @AstroGirls_NFT members in santa cruz 👀]]></title>
-        <id>https://twitter.com/seemcat/status/1514481828127653889</id>
-        <link href="https://twitter.com/seemcat/status/1514481828127653889"/>
-        <updated>2022-04-14T05:53:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3 Girl
-are there any @developer_dao or @AstroGirls_NFT members in santa cruz 👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ivanz.(eth|tez): Any @developer_dao interested in an IRL meetup in NYC in a couple weeks? Happy to organize a happy hour or something to bring buil...]]></title>
-        <id>https://twitter.com/crlfq/status/1514424818350886917</id>
-        <link href="https://twitter.com/crlfq/status/1514424818350886917"/>
-        <updated>2022-04-14T02:06:28.000Z</updated>
-        <summary type="html"><![CDATA[RT ivanz.(eth|tez)
-Any @developer_dao interested in an IRL meetup in NYC in a couple weeks? Happy to organize a happy hour or something to bring builders together! I've just launched my MVP, happy to talk about my journey into full-time web3 and entrepreneurship!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jon Kuperman: Re @developer_dao what are the in-person meetups like? Does it feel like a community? Let me live vicariously through your stories!]]></title>
-        <id>https://twitter.com/jkup/status/1514404187165102082</id>
-        <link href="https://twitter.com/jkup/status/1514404187165102082"/>
-        <updated>2022-04-14T00:44:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Jon Kuperman
-Re @developer_dao what are the in-person meetups like? Does it feel like a community? Let me live vicariously through your stories!]]></summary>
+If there are any women who need help attending Graph Day or devs who want to build at Graph Hack let me know- my dms are open 📥
+brian graphman: Who's empowering the next cohort of web3 visionaries to join Graph Day + Graph Hack?
+I'd love to see web3 leaders get Graph Day tickets & redistribute them to bright, motivated individuals in their community breaking into & building web3.
+Tag someone who should step forward 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
