@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T06:13:29.181Z</id>
+    <id>urn:2022-04-17T06:13:34.925Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-16T06:13:29.181Z</updated>
+    <updated>2022-04-17T06:13:34.925Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Sam Williams 🐘: 🚨Competition: Build the best degen-friendly start-from-zero coding tutorial for launching a basic web app on the permaweb. Ta...]]></title>
+        <id>https://twitter.com/samecwilliams/status/1515504129132613636</id>
+        <link href="https://twitter.com/samecwilliams/status/1515504129132613636"/>
+        <updated>2022-04-17T01:35:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Sam Williams 🐘
+🚨Competition: Build the best degen-friendly start-from-zero coding tutorial for launching a basic web app on the permaweb.
+Target audience is someone who would call themselves @asscrusader420 online 😄
+No more than 5 minutes between memes.
+Prize: $2500 in AR
+Deadline: 30 Apr
+
+Sam Williams 🐘: Degens: What would it take for you to quit trading and start building?
+The control you have on likelihood of a positive financial outcome is far higher, and the work is much more meaningful.
+Do we need a coding bootcamp with more dank memes or something? 🤔]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tuttle Tribe MINT NOW: What happens when passionate web3 collectors, creators, mash up w/ the new wave of builders & developers? 👇 Definitely No...]]></title>
+        <id>https://twitter.com/Web3Equity/status/1515496787964043272</id>
+        <link href="https://twitter.com/Web3Equity/status/1515496787964043272"/>
+        <updated>2022-04-17T01:06:05.000Z</updated>
+        <summary type="html"><![CDATA[RT Tuttle Tribe MINT NOW
+What happens when passionate web3 collectors, creators, mash up w/ the new wave of builders & developers? 👇
+Definitely Nothing. ⚡️
+Come for an evening of connecting, & next level knowledge sharing.  
+Thanks to @thirdweb_ @graphprotocol @developer_dao! https://www.eventbrite.com/e/definitely-nothing-web3-equity-x-developer-dao-mashup-tickets-261983488667]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dropknowledge.eth 🚀 Amsterdam: I’m looking for the best product managers in Web3 to interview / mentor @developer_dao’s Product Guild. Who sho...]]></title>
+        <id>https://twitter.com/_dropknowledge/status/1515469405026598912</id>
+        <link href="https://twitter.com/_dropknowledge/status/1515469405026598912"/>
+        <updated>2022-04-16T23:17:16.000Z</updated>
+        <summary type="html"><![CDATA[RT dropknowledge.eth 🚀 Amsterdam
+I’m looking for the best product managers in Web3 to interview / mentor @developer_dao’s Product Guild.
+Who should I connect with while I’m in Amsterdam?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What DevRel Does by @developer_dao member @NHeinDev An attempt to explain how I think about the value prop of DevRel 🏮]]></title>
+        <id>https://twitter.com/developer_dao/status/1515445364253470722</id>
+        <link href="https://twitter.com/developer_dao/status/1515445364253470722"/>
+        <updated>2022-04-16T21:41:45.000Z</updated>
+        <summary type="html"><![CDATA[What DevRel Does by @developer_dao member @NHeinDev 
+An attempt to explain how I think about the value prop of DevRel 🏮 https://weathered-cloud-7358.fly.dev/garden/devrel-function]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT camiinthisthang.eth: Being in @developer_dao is like being in a fraternity/sorority but everyone is cool af & you actually have bomb connections & ...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1515411706998145029</id>
+        <link href="https://twitter.com/camiinthisthang/status/1515411706998145029"/>
+        <updated>2022-04-16T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[RT camiinthisthang.eth
+Being in @developer_dao is like being in a fraternity/sorority but everyone is cool af & you actually have bomb connections & friendships 😎]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ~vibesIRL~: Less than 20 spots left for members only 👀 Tickets to members only automatically gets you into @vibesIRL 🦄]]></title>
+        <id>https://twitter.com/vibesIRL/status/1515400406976843777</id>
+        <link href="https://twitter.com/vibesIRL/status/1515400406976843777"/>
+        <updated>2022-04-16T18:43:06.000Z</updated>
+        <summary type="html"><![CDATA[RT ~vibesIRL~
+Less than 20 spots left for members only 👀 Tickets to members only automatically gets you into @vibesIRL 🦄 https://lu.ma/ddmembers]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀): Do you want to get started with Subgraph development @graphprotocol? I'm really glad to share that I just published a fully ...]]></title>
+        <id>https://twitter.com/Mardeni01/status/1515373959373537283</id>
+        <link href="https://twitter.com/Mardeni01/status/1515373959373537283"/>
+        <updated>2022-04-16T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀)
+Do you want to get started with Subgraph development @graphprotocol?
+I'm really glad to share that I just published a fully simplified course on @graph_academy!👨‍🚀 https://thegraph.academy/course/subgraph-developer-course/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the most interesting, impactful, or innovative developer-facing projects, tools, and protocols in web3 right now? We’re working on something...]]></title>
+        <id>https://twitter.com/developer_dao/status/1515333627554545673</id>
+        <link href="https://twitter.com/developer_dao/status/1515333627554545673"/>
+        <updated>2022-04-16T14:17:45.000Z</updated>
+        <summary type="html"><![CDATA[What are the most interesting, impactful, or innovative developer-facing projects, tools, and protocols in web3 right now? 
+We’re working on something. Comment below with tools, libraries, projects, or protocols you think developers should be aware of 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! Today we had another fantastic #DevNTell with @derked_eth presenting us an overview of @LayerZero_Labs ...]]></title>
         <id>https://twitter.com/narb_s/status/1515144073606164489</id>
@@ -163,138 +264,6 @@ Full day focused on web3, dapps, protocols, & the future of the internet with @g
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT MyssTeeQue Fatma: I'm so thrilled ,shocked and out of words to express how I feel about the @web3con @developer_dao hackathon results,We won team P...]]></title>
-        <id>https://twitter.com/fatima39_fatima/status/1515024451259281408</id>
-        <link href="https://twitter.com/fatima39_fatima/status/1515024451259281408"/>
-        <updated>2022-04-15T17:49:11.000Z</updated>
-        <summary type="html"><![CDATA[RT MyssTeeQue Fatma
-I'm so thrilled ,shocked and out of words to express how I feel about the @web3con @developer_dao hackathon results,We won team Primero @AmoweO @gsabate thank you @camiinthisthang @a_moonboy
-Developer DAO (🧱, 🚀): @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners -
-🥇 1st Place: Primero
-🥈 2nd Place: Team MerkleMe
-🥉 3rd Place: Dev Sharks
-Prize Pool winners:
-Team SUDO, meritblock, Time Travellers DAO, Web 3 Edi, Maxima & Deschool
-👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nuzair.eth: I'd say my first hackathon went well 😎 NoobDAO (our team) won the @0xPolygon bounty for @web3con 🥳🥳🥳 Brains 👉 @ChimingPo...]]></title>
-        <id>https://twitter.com/NuzairNuwais/status/1515022018672054283</id>
-        <link href="https://twitter.com/NuzairNuwais/status/1515022018672054283"/>
-        <updated>2022-04-15T17:39:31.000Z</updated>
-        <summary type="html"><![CDATA[RT nuzair.eth
-I'd say my first hackathon went well 😎
-NoobDAO (our team) won the @0xPolygon bounty for @web3con  🥳🥳🥳
-Brains 👉  @ChimingPork @heyskylark , @AvniAgrawal1802, Will
-Developer DAO (🧱, 🚀): @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 💜 @0xPolygon "Best dApp Build on Polygon" bounty winners -
-bytehash
-Team Treehouse
-DAO Realtor
-NoobDAO
-Blocknauts
-Team Enigma
-👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Aayush Gupta: Our team LW3_BUIDLERS @itsanishjain @KhanAbbas201 @theVatsal_eth @YashSolanki_ won @web3con hackathon 🏆🥳. Thank you @developer_...]]></title>
-        <id>https://twitter.com/Aayush_gupta_ji/status/1515021336627798026</id>
-        <link href="https://twitter.com/Aayush_gupta_ji/status/1515021336627798026"/>
-        <updated>2022-04-15T17:36:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Aayush Gupta
-Our team LW3_BUIDLERS @itsanishjain @KhanAbbas201 @theVatsal_eth @YashSolanki_  won @web3con hackathon 🏆🥳.  Thank you @developer_dao for organizing such a great #hackathon. Looking forward for future endeavors. 
-#wagmi #web3 #team]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS a note to our winners - we'll contact you shortly about claiming prizes and ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515018110310371329</id>
-        <link href="https://twitter.com/developer_dao/status/1515018110310371329"/>
-        <updated>2022-04-15T17:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS a note to our winners -
-we'll contact you shortly about claiming prizes and these sweet NFTs by @mintkudosXYZ! 🎊 please keep your eyes peeled in the web3con server, dms, and/or emails 💌 https://mintkudos.xyz/claim/396]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS and that's a wrap! check out all of our winners' projects at thank you to ou...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515016716341821442</id>
-        <link href="https://twitter.com/developer_dao/status/1515016716341821442"/>
-        <updated>2022-04-15T17:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS and that's a wrap! check out all of our winners' projects at 
-thank you to our attendees for joining D_D's first ever virtual hackathon, to our judges for taking the time to select the finalists, & to our sponsors for making this all possible.
-👇 https://www.web3con.dev/2022-recap]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 🌱 @radicle honorable mention - ecodrips 👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1515016480844247041</id>
-        <link href="https://twitter.com/developer_dao/status/1515016480844247041"/>
-        <updated>2022-04-15T17:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 🌱 @radicle honorable mention -
-ecodrips
-👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 📽 @LivepeerOrg bounty winners - Best Video-on-Demand MVP: Team Loop Kille...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515016323276828672</id>
-        <link href="https://twitter.com/developer_dao/status/1515016323276828672"/>
-        <updated>2022-04-15T17:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle @IPFS 📽 @LivepeerOrg bounty winners -
-Best Video-on-Demand MVP: Team Loop
-Killer Web3 Video App: Team glitch
-👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners - 🥇 1st Place: Primero 🥈 2nd Place: Te...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515016114601795585</id>
-        <link href="https://twitter.com/developer_dao/status/1515016114601795585"/>
-        <updated>2022-04-15T17:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 🌐 @Filecoin & @IPFS bounty winners -
-🥇 1st Place: Primero
-🥈 2nd Place: Team MerkleMe
-🥉 3rd Place: Dev Sharks
-Prize Pool winners:
-Team SUDO, meritblock, Time Travellers DAO, Web 3 Edi, Maxima & Deschool
-👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 💜 @0xPolygon "Best dApp Build on Polygon" bounty winners - bytehash Team Treeho...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515015509799960576</id>
-        <link href="https://twitter.com/developer_dao/status/1515015509799960576"/>
-        <updated>2022-04-15T17:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3con @Decentology @0xPolygon @Filecoin @LivepeerOrg @radicle 💜 @0xPolygon "Best dApp Build on Polygon" bounty winners -
-bytehash
-Team Treehouse
-DAO Realtor
-NoobDAO
-Blocknauts
-Team Enigma
-👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT camiinthisthang.eth: If there are any women who need help attending Graph Day or devs who want to build at Graph Hack let me know- my dms are open ...]]></title>
         <id>https://twitter.com/camiinthisthang/status/1514999747798618122</id>
         <link href="https://twitter.com/camiinthisthang/status/1514999747798618122"/>
@@ -304,6 +273,18 @@ If there are any women who need help attending Graph Day or devs who want to bui
 brian graphman: Who's empowering the next cohort of web3 visionaries to join Graph Day + Graph Hack?
 I'd love to see web3 leaders get Graph Day tickets & redistribute them to bright, motivated individuals in their community breaking into & building web3.
 Tag someone who should step forward 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pointer: What is an ERC standard? A thread 👇]]></title>
+        <id>https://twitter.com/pointer_gg/status/1514990084378050575</id>
+        <link href="https://twitter.com/pointer_gg/status/1514990084378050575"/>
+        <updated>2022-04-15T15:32:37.000Z</updated>
+        <summary type="html"><![CDATA[RT pointer
+What is an ERC standard?
+A thread 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
