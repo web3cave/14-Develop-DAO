@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-19T06:14:58.560Z</id>
+    <id>urn:2022-04-20T06:14:44.301Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-19T06:14:58.560Z</updated>
+    <updated>2022-04-20T06:14:44.302Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Barry the Barracuda: DAOs are disrupting a 100-year old, $263.5 billion industry: Consulting. Let's talk about how these innovative DAOs are doing ...]]></title>
+        <id>https://twitter.com/BarracudaIO/status/1516577007340908545</id>
+        <link href="https://twitter.com/BarracudaIO/status/1516577007340908545"/>
+        <updated>2022-04-20T00:38:29.000Z</updated>
+        <summary type="html"><![CDATA[RT Barry the Barracuda
+DAOs are disrupting a 100-year old, $263.5 billion industry:
+Consulting.
+Let's talk about how these innovative DAOs are doing it.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT tranqui.eth 🔆: Built a custom NFT marketplace for the amazing @dannydiamondss powered by @ourZORA protocols 🌜💎🌛 Twelve 1/1 pieces curre...]]></title>
+        <id>https://twitter.com/0xTranqui/status/1516542700148781058</id>
+        <link href="https://twitter.com/0xTranqui/status/1516542700148781058"/>
+        <updated>2022-04-19T22:22:10.000Z</updated>
+        <summary type="html"><![CDATA[RT tranqui.eth 🔆
+Built a custom NFT marketplace for the amazing @dannydiamondss powered by @ourZORA protocols 🌜💎🌛
+Twelve 1/1 pieces currently available to mint at 
+But wait there’s more . . .
+Check out my DETAILED guides for how to build your own version of this: https://www.lostfound.world/mint]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 0xPaulie.eth: 📰 Extra! Extra! Read all about it! 📰 The newest edition of @developer_dao's weekly newsletter is here! Probably Nothing #20 - D...]]></title>
+        <id>https://twitter.com/paul_can_code/status/1516422596765659141</id>
+        <link href="https://twitter.com/paul_can_code/status/1516422596765659141"/>
+        <updated>2022-04-19T14:24:55.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xPaulie.eth
+📰 Extra! Extra! Read all about it! 📰
+The newest edition of @developer_dao's weekly newsletter is here!
+Probably Nothing #20 - D_D Events and Parties
+Lots of fun and interesting live events coming up, and also an update on $CODE!! Let's GO 🚀 https://developerdao.substack.com/p/20-probably-nothing]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#20 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/20-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/20-probably-nothing"/>
+        <updated>2022-04-19T07:03:51.000Z</updated>
+        <summary type="html"><![CDATA[D_D events and parties]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT catherinechang.eth ✈️ amsterdam: Re @developer_dao straight up threw the BEST party at eth denver so excited for more D_D conference funsies at a...]]></title>
+        <id>https://twitter.com/unhappiimochii/status/1516292435059503105</id>
+        <link href="https://twitter.com/unhappiimochii/status/1516292435059503105"/>
+        <updated>2022-04-19T05:47:42.000Z</updated>
+        <summary type="html"><![CDATA[RT catherinechang.eth ✈️ amsterdam
+Re @developer_dao straight up threw the BEST party at eth denver 
+so excited for more D_D conference funsies at amsterdamMmMmMmmMMMm
+who else is going??? 🙋🏻‍♀️👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT CryptoSahm.eth: Here's a WIP. Probably nothing. @developer_dao]]></title>
         <id>https://twitter.com/CryptoSahm/status/1516261586142343169</id>
@@ -12,6 +76,29 @@
         <updated>2022-04-19T03:45:07.000Z</updated>
         <summary type="html"><![CDATA[RT CryptoSahm.eth
 Here's a WIP. Probably nothing. @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Nazeeh: Re @developer_dao hoodie Probably Nothing <3]]></title>
+        <id>https://twitter.com/Nazeeh21/status/1516166718015516672</id>
+        <link href="https://twitter.com/Nazeeh21/status/1516166718015516672"/>
+        <updated>2022-04-18T21:28:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Nazeeh
+Re @developer_dao hoodie
+Probably Nothing <3]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT S◎Lcruiter: I recruit for numerous Solana based companies, some eth as well. If you’re looking to go full into Web3 DM me. Space is booming with ...]]></title>
+        <id>https://twitter.com/NADEAU__/status/1516156803704311809</id>
+        <link href="https://twitter.com/NADEAU__/status/1516156803704311809"/>
+        <updated>2022-04-18T20:48:45.000Z</updated>
+        <summary type="html"><![CDATA[RT S◎Lcruiter
+I recruit for numerous Solana based companies, some eth as well. If you’re looking to go full into Web3 DM me. Space is booming with opportunities!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -135,83 +222,6 @@ Who's going to be there this week?]]></summary>
         <updated>2022-04-18T09:01:40.000Z</updated>
         <summary type="html"><![CDATA[RT dropknowledge.eth 🚀 Amsterdam
 What are the shared truths amongst web3 builders that very few people outside of web3 agree with?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have heard about Foundry and been looking for a chance to dive in? Read the Foundry book! ⚡️⚡️⚡️⚡️⚡️ Foundry is a blazing fast, portable and...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515870429851926540</id>
-        <link href="https://twitter.com/developer_dao/status/1515870429851926540"/>
-        <updated>2022-04-18T01:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Have heard about Foundry and been looking for a chance to dive in?
-Read the Foundry book! ⚡️⚡️⚡️⚡️⚡️
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. https://book.getfoundry.sh/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Moiz: Just got into @developer_dao and am fully pumped to be part of such a great community. Eternally grateful to these guys for sponsoring the NF...]]></title>
-        <id>https://twitter.com/moiz_0309/status/1515768607170789376</id>
-        <link href="https://twitter.com/moiz_0309/status/1515768607170789376"/>
-        <updated>2022-04-17T19:06:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Moiz
-Just got into @developer_dao and am fully pumped to be part of such a great community.
-Eternally grateful to these guys for sponsoring the NFT:
-@codingwithmanny 
-@C_Ogoo 
-@Rahatcodes 
-@_cdro 
-@dhaiwat10 
-Special thanks to @codingwithmanny for such a great return gift😉]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tickets are now available for our event at the @kimpton Surfcomber on Miami Beach 🏝 Web3 Equity x Developer DAO mashup - Definitely Nothing 💧 Th...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515738729771638789</id>
-        <link href="https://twitter.com/developer_dao/status/1515738729771638789"/>
-        <updated>2022-04-17T17:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Tickets are now available for our event at the @kimpton Surfcomber on Miami Beach 🏝
-Web3 Equity x Developer DAO mashup  - Definitely Nothing 💧
-Thu, April 21, 2022 5:00 – 7:30pm
-Made possible by our amazing sponsors - @thirdweb_ & @graphprotocol 💖 https://eventbrite.com/e/definitely-nothing-web3-equity-x-developer-dao-mashup-tickets-261983488667]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Devconnect.eth: Another coworking space!]]></title>
-        <id>https://twitter.com/EFDevconnect/status/1515724858306482178</id>
-        <link href="https://twitter.com/EFDevconnect/status/1515724858306482178"/>
-        <updated>2022-04-17T16:12:21.000Z</updated>
-        <summary type="html"><![CDATA[RT Devconnect.eth
-Another coworking space!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515722238883991557</id>
-        <link href="https://twitter.com/developer_dao/status/1515722238883991557"/>
-        <updated>2022-04-17T16:01:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
-Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking a for a chill spot to work, this is it
-Reserve a place on eventbrite. Sponsored by our frens over at @EFDevconnect and @ConnextNetwork https://www.eventbrite.com/e/d-d-coworking-space-tickets-322306847457]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking a for a chill spot to work, th...]]></title>
-        <id>https://twitter.com/developer_dao/status/1515722238883991557</id>
-        <link href="https://twitter.com/developer_dao/status/1515722238883991557"/>
-        <updated>2022-04-17T16:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking a for a chill spot to work, this is it
-Reserve a place on eventbrite. Sponsored by our frens over at @EFDevconnect and @ConnextNetwork https://www.eventbrite.com/e/d-d-coworking-space-tickets-322306847457]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

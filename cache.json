@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/20-probably-nothing",
+          "author": "Colin4ward",
+          "description": "D_D events and parties",
+          "link": "https://developerdao.substack.com/p/20-probably-nothing",
+          "publishedOn": "2022-04-19T07:03:51.000Z",
+          "wordCount": null,
+          "title": "#20 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68079db5-d24e-4b9e-8f97-2150d92106d5_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68079db5-d24e-4b9e-8f97-2150d92106d5_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/19-probably-nothing",
           "author": "Colin4ward",
           "description": "The week in Developer[Job] DAO",
@@ -77,6 +93,46 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/BarracudaIO/status/1516577007340908545",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Barry the Barracuda\nDAOs are disrupting a 100-year old, $263.5 billion industry:\nConsulting.\nLet's talk about how these innovative DAOs are doing it.",
+          "link": "https://twitter.com/BarracudaIO/status/1516577007340908545",
+          "publishedOn": "2022-04-20T00:38:29.000Z",
+          "wordCount": 196,
+          "title": "RT Barry the Barracuda: DAOs are disrupting a 100-year old, $263.5 billion industry: Consulting. Let's talk about how these innovative DAOs are doing ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xTranqui/status/1516542700148781058",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tranqui.eth 🔆\nBuilt a custom NFT marketplace for the amazing @dannydiamondss powered by @ourZORA protocols 🌜💎🌛\nTwelve 1/1 pieces currently available to mint at \nBut wait there’s more . . .\nCheck out my DETAILED guides for how to build your own version of this: https://www.lostfound.world/mint",
+          "link": "https://twitter.com/0xTranqui/status/1516542700148781058",
+          "publishedOn": "2022-04-19T22:22:10.000Z",
+          "wordCount": 196,
+          "title": "RT tranqui.eth 🔆: Built a custom NFT marketplace for the amazing @dannydiamondss powered by @ourZORA protocols 🌜💎🌛 Twelve 1/1 pieces curre...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/paul_can_code/status/1516422596765659141",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT 0xPaulie.eth\n📰 Extra! Extra! Read all about it! 📰\nThe newest edition of @developer_dao's weekly newsletter is here!\nProbably Nothing #20 - D_D Events and Parties\nLots of fun and interesting live events coming up, and also an update on $CODE!! Let's GO 🚀 https://developerdao.substack.com/p/20-probably-nothing",
+          "link": "https://twitter.com/paul_can_code/status/1516422596765659141",
+          "publishedOn": "2022-04-19T14:24:55.000Z",
+          "wordCount": 196,
+          "title": "RT 0xPaulie.eth: 📰 Extra! Extra! Read all about it! 📰 The newest edition of @developer_dao's weekly newsletter is here! Probably Nothing #20 - D...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/unhappiimochii/status/1516292435059503105",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT catherinechang.eth ✈️ amsterdam\nRe @developer_dao straight up threw the BEST party at eth denver \nso excited for more D_D conference funsies at amsterdamMmMmMmmMMMm\nwho else is going??? 🙋🏻‍♀️👀",
+          "link": "https://twitter.com/unhappiimochii/status/1516292435059503105",
+          "publishedOn": "2022-04-19T05:47:42.000Z",
+          "wordCount": 196,
+          "title": "RT catherinechang.eth ✈️ amsterdam: Re @developer_dao straight up threw the BEST party at eth denver so excited for more D_D conference funsies at a...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/CryptoSahm/status/1516261586142343169",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT CryptoSahm.eth\nHere's a WIP. Probably nothing. @developer_dao",
@@ -84,6 +140,26 @@
           "publishedOn": "2022-04-19T03:45:07.000Z",
           "wordCount": 196,
           "title": "RT CryptoSahm.eth: Here's a WIP. Probably nothing. @developer_dao",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Nazeeh21/status/1516166718015516672",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Nazeeh\nRe @developer_dao hoodie\nProbably Nothing <3",
+          "link": "https://twitter.com/Nazeeh21/status/1516166718015516672",
+          "publishedOn": "2022-04-18T21:28:09.000Z",
+          "wordCount": 196,
+          "title": "RT Nazeeh: Re @developer_dao hoodie Probably Nothing <3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/NADEAU__/status/1516156803704311809",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT S◎Lcruiter\nI recruit for numerous Solana based companies, some eth as well. If you’re looking to go full into Web3 DM me. Space is booming with opportunities!",
+          "link": "https://twitter.com/NADEAU__/status/1516156803704311809",
+          "publishedOn": "2022-04-18T20:48:45.000Z",
+          "wordCount": 196,
+          "title": "RT S◎Lcruiter: I recruit for numerous Solana based companies, some eth as well. If you’re looking to go full into Web3 DM me. Space is booming with ...",
           "imageUrl": null
         },
         {
@@ -194,66 +270,6 @@
           "publishedOn": "2022-04-18T09:01:40.000Z",
           "wordCount": 196,
           "title": "RT dropknowledge.eth 🚀 Amsterdam: What are the shared truths amongst web3 builders that very few people outside of web3 agree with?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1515870429851926540",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Have heard about Foundry and been looking for a chance to dive in?\nRead the Foundry book! ⚡️⚡️⚡️⚡️⚡️\nFoundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. https://book.getfoundry.sh/",
-          "link": "https://twitter.com/developer_dao/status/1515870429851926540",
-          "publishedOn": "2022-04-18T01:50:48.000Z",
-          "wordCount": 196,
-          "title": "Have heard about Foundry and been looking for a chance to dive in? Read the Foundry book! ⚡️⚡️⚡️⚡️⚡️ Foundry is a blazing fast, portable and...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/moiz_0309/status/1515768607170789376",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Moiz\nJust got into @developer_dao and am fully pumped to be part of such a great community.\nEternally grateful to these guys for sponsoring the NFT:\n@codingwithmanny \n@C_Ogoo \n@Rahatcodes \n@_cdro \n@dhaiwat10 \nSpecial thanks to @codingwithmanny for such a great return gift😉",
-          "link": "https://twitter.com/moiz_0309/status/1515768607170789376",
-          "publishedOn": "2022-04-17T19:06:12.000Z",
-          "wordCount": 196,
-          "title": "RT Moiz: Just got into @developer_dao and am fully pumped to be part of such a great community. Eternally grateful to these guys for sponsoring the NF...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1515738729771638789",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Tickets are now available for our event at the @kimpton Surfcomber on Miami Beach 🏝\nWeb3 Equity x Developer DAO mashup  - Definitely Nothing 💧\nThu, April 21, 2022 5:00 – 7:30pm\nMade possible by our amazing sponsors - @thirdweb_ & @graphprotocol 💖 https://eventbrite.com/e/definitely-nothing-web3-equity-x-developer-dao-mashup-tickets-261983488667",
-          "link": "https://twitter.com/developer_dao/status/1515738729771638789",
-          "publishedOn": "2022-04-17T17:07:28.000Z",
-          "wordCount": 196,
-          "title": "Tickets are now available for our event at the @kimpton Surfcomber on Miami Beach 🏝 Web3 Equity x Developer DAO mashup - Definitely Nothing 💧 Th...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/EFDevconnect/status/1515724858306482178",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Devconnect.eth\nAnother coworking space!",
-          "link": "https://twitter.com/EFDevconnect/status/1515724858306482178",
-          "publishedOn": "2022-04-17T16:12:21.000Z",
-          "wordCount": 196,
-          "title": "RT Devconnect.eth: Another coworking space!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1515722238883991557",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Developer DAO (🧱, 🚀)\nPleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking a for a chill spot to work, this is it\nReserve a place on eventbrite. Sponsored by our frens over at @EFDevconnect and @ConnextNetwork https://www.eventbrite.com/e/d-d-coworking-space-tickets-322306847457",
-          "link": "https://twitter.com/developer_dao/status/1515722238883991557",
-          "publishedOn": "2022-04-17T16:01:57.000Z",
-          "wordCount": 196,
-          "title": "RT Developer DAO (🧱, 🚀): Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1515722238883991557",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking a for a chill spot to work, this is it\nReserve a place on eventbrite. Sponsored by our frens over at @EFDevconnect and @ConnextNetwork https://www.eventbrite.com/e/d-d-coworking-space-tickets-322306847457",
-          "link": "https://twitter.com/developer_dao/status/1515722238883991557",
-          "publishedOn": "2022-04-17T16:01:57.000Z",
-          "wordCount": 196,
-          "title": "Pleased to announce an Amsterdam D_D Coworking Space only on the 23rd of April between 8:30am - 6pm. If you’re looking a for a chill spot to work, th...",
           "imageUrl": null
         }
       ]
