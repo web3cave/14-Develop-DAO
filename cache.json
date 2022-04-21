@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faee6fc43-f263-4540-99e4-89a45d58d74d_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/probably-nothing-16",
-          "author": "Colin4ward",
-          "description": "Want to write for D_D? Find us in #✍-writers-general!",
-          "link": "https://developerdao.substack.com/p/probably-nothing-16",
-          "publishedOn": "2022-03-22T05:48:26.000Z",
-          "wordCount": null,
-          "title": "Probably Nothing #16",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22d26c24-94f7-41a5-a247-46ef4cc0c744_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F22d26c24-94f7-41a5-a247-46ef4cc0c744_1100x550.png"
         }
       ]
     },
@@ -92,6 +76,86 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/acheroncrypto/status/1516866164491698188",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT acheron\nSolana Playground Beta is live\nQuickly develop, deploy and test Solana Anchor programs from your browser\nTry now: http://beta.solpg.io",
+          "link": "https://twitter.com/acheroncrypto/status/1516866164491698188",
+          "publishedOn": "2022-04-20T19:47:30.000Z",
+          "wordCount": 196,
+          "title": "RT acheron: Solana Playground Beta is live Quickly develop, deploy and test Solana Anchor programs from your browser Try now:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1516809655275909121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhaiwat.eth 🇺🇦\nthis made me soo happy! @rohitcpathare just created his first ever PR through @developer_dao.\nD_D 🤝 OSS \n♥️",
+          "link": "https://twitter.com/dhaiwat10/status/1516809655275909121",
+          "publishedOn": "2022-04-20T16:02:57.000Z",
+          "wordCount": 196,
+          "title": "RT dhaiwat.eth 🇺🇦: this made me soo happy! @rohitcpathare just created his first ever PR through @developer_dao. D_D 🤝 OSS ♥️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1516808950997733378",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhaiwat.eth 🇺🇦\n- shipping @mazuryxyz \n- testing my streaming setup for @developer_dao twitch\n- content for \n- maintaining the gazillion D_D repos\n- working on my frontend video tutorials\nblessed with so many interesting things to do. cursed with only 24hrs on the clock http://web3cheatsheet.xyz",
+          "link": "https://twitter.com/dhaiwat10/status/1516808950997733378",
+          "publishedOn": "2022-04-20T16:00:09.000Z",
+          "wordCount": 196,
+          "title": "RT dhaiwat.eth 🇺🇦: - shipping @mazuryxyz - testing my streaming setup for @developer_dao twitch - content for - maintaining the gazillion D_D re...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1516762909807886340",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "😎\nMardΞni (🧱, 🚀): I left my web2 job (I loved my work bty), and I’m now full time in web3✨",
+          "link": "https://twitter.com/developer_dao/status/1516762909807886340",
+          "publishedOn": "2022-04-20T12:57:12.000Z",
+          "wordCount": 196,
+          "title": "😎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0ceans404/status/1516732869913186305",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT steph • ᴗ • oceans404.eth ✈️ @EFDevconnect\nI spent the morning building @MetaMask snaps with my new @developer_dao friends @AlexNi245 and @0xViking",
+          "link": "https://twitter.com/0ceans404/status/1516732869913186305",
+          "publishedOn": "2022-04-20T10:57:50.000Z",
+          "wordCount": 196,
+          "title": "RT steph • ᴗ • oceans404.eth ✈️ @EFDevconnect: I spent the morning building @MetaMask snaps with my new @developer_dao friends @AlexNi245 and @0x...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/_dropknowledge/status/1516728991587078149",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dropknowledge.eth 🚀 Amsterdam\nJust strolling with the @developer_dao / @ankr legend himself @JoshCStein",
+          "link": "https://twitter.com/_dropknowledge/status/1516728991587078149",
+          "publishedOn": "2022-04-20T10:42:25.000Z",
+          "wordCount": 196,
+          "title": "RT dropknowledge.eth 🚀 Amsterdam: Just strolling with the @developer_dao / @ankr legend himself @JoshCStein",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xViking/status/1516706067849302019",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT 0xViking.eth 🔮 ✈️ DevConnect AMS\nGet ready for the game changer!\n\"MetaMask Snaps\"\nCoding along to create a password manager using Snaps along with @0ceans404 and @AlexNi245\nfrom @developer_dao\n\n\nMetaMask 🦊💙: We'll see you soon at the MetaMask Snaps event here at @EFDevconnect! 🦊\nStarting soon - bring your approval emails! ✉️",
+          "link": "https://twitter.com/0xViking/status/1516706067849302019",
+          "publishedOn": "2022-04-20T09:11:20.000Z",
+          "wordCount": 196,
+          "title": "RT 0xViking.eth 🔮 ✈️ DevConnect AMS: Get ready for the game changer! \"MetaMask Snaps\" Coding along to create a password manager using Snaps along...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/skyone39888636/status/1516639128691314693",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT skyone(⏱,💰)\n作为devdao的一员, 一篇针对@developer_dao 的分析, 尽可能保持客观的角度. 🎂\n🚩分析大概有四部分 \n1.  简介\n2. 发展\n3. 投资\n4. 缺点\n推特上简单概括 详细信息请上戳网站 👆 http://secret-home.vercel.app/devdao",
+          "link": "https://twitter.com/skyone39888636/status/1516639128691314693",
+          "publishedOn": "2022-04-20T04:45:20.000Z",
+          "wordCount": 196,
+          "title": "RT skyone(⏱,💰): 作为devdao的一员, 一篇针对@developer_dao 的分析, 尽可能保持客观的角度. 🎂 🚩分析大概有四部分 1. 简介 2. 发展 3. 投资 4. 缺点 ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/BarracudaIO/status/1516577007340908545",
           "author": "Developer DAO (🧱, 🚀)",
@@ -210,66 +274,6 @@
           "publishedOn": "2022-04-18T13:20:00.000Z",
           "wordCount": 196,
           "title": "Create a voting system on Ethereum using Web3 via @ankr 🗳 This post is about implementing a simple voting system based on blockchain technologies. ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1516040870465880066",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @owocki Check out some of the work we’ve been doing in free education & public goods, as well as the scale of developer job placement that’s happened via Developer DAO",
-          "link": "https://twitter.com/developer_dao/status/1516040870465880066",
-          "publishedOn": "2022-04-18T13:08:04.000Z",
-          "wordCount": 196,
-          "title": "Re @owocki Check out some of the work we’ve been doing in free education & public goods, as well as the scale of developer job placement that’s happ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1516013230283542529",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Building Scalable, Reliable, and Data Consistent Web3 Apps with Elan Halpern (@0xelan) at @ETHDubaiConf ⚡️ https://www.youtube.com/watch?v=jODBFmQN3Xg",
-          "link": "https://twitter.com/developer_dao/status/1516013230283542529",
-          "publishedOn": "2022-04-18T11:18:14.000Z",
-          "wordCount": 196,
-          "title": "Building Scalable, Reliable, and Data Consistent Web3 Apps with Elan Halpern (@0xelan) at @ETHDubaiConf ⚡️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MessariCrypto/status/1516009901105070081",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Messari\nCalling all software engineers!\nDo you have experience with @graphprotocol and GraphQL?\nSr. Software Engineer @v_for_vincent is looking for a web3 obsessed individual to fill a Protocol Specialist role within our Research team. \nApply below! https://bit.ly/3jxWHPS",
-          "link": "https://twitter.com/MessariCrypto/status/1516009901105070081",
-          "publishedOn": "2022-04-18T11:05:01.000Z",
-          "wordCount": 196,
-          "title": "RT Messari: Calling all software engineers! Do you have experience with @graphprotocol and GraphQL? Sr. Software Engineer @v_for_vincent is looking fo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1516005920580456449",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Co-working space at @EFDevconnect in Amsterdam 😍\nWho's going to be there this week?",
-          "link": "https://twitter.com/developer_dao/status/1516005920580456449",
-          "publishedOn": "2022-04-18T10:49:12.000Z",
-          "wordCount": 196,
-          "title": "Co-working space at @EFDevconnect in Amsterdam 😍 Who's going to be there this week?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1515998691810811908",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @DeborahEmeni I believe @web3university",
-          "link": "https://twitter.com/developer_dao/status/1515998691810811908",
-          "publishedOn": "2022-04-18T10:20:28.000Z",
-          "wordCount": 196,
-          "title": "Re @DeborahEmeni I believe @web3university",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/_dropknowledge/status/1515978862122913796",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dropknowledge.eth 🚀 Amsterdam\nWhat are the shared truths amongst web3 builders that very few people outside of web3 agree with?",
-          "link": "https://twitter.com/_dropknowledge/status/1515978862122913796",
-          "publishedOn": "2022-04-18T09:01:40.000Z",
-          "wordCount": 196,
-          "title": "RT dropknowledge.eth 🚀 Amsterdam: What are the shared truths amongst web3 builders that very few people outside of web3 agree with?",
           "imageUrl": null
         }
       ]
