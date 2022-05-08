@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-07T06:14:33.318Z</id>
+    <id>urn:2022-05-08T06:14:36.129Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-07T06:14:33.318Z</updated>
+    <updated>2022-05-08T06:14:36.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Presenting the second episode of the "Humans of D_D" podcast with @tchowd_ / @developer_dao. Plugin as @Rahatcodes shares his passion for music, empow...]]></title>
+        <id>https://twitter.com/developer_dao/status/1522989336039505920</id>
+        <link href="https://twitter.com/developer_dao/status/1522989336039505920"/>
+        <updated>2022-05-07T17:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Presenting the second episode of the "Humans of D_D" podcast with @tchowd_ / @developer_dao. 
+Plugin as @Rahatcodes shares his passion for music, empowering builders, and of course his journey in web3. 🚀
+🔗  Full Episode: https://www.youtube.com/watch?v=tgCmZd3PzVA]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Noah: came across this the other day and wow. it's been a great resource as I learn more about Terra and the Cosmwasm ecosystem]]></title>
+        <id>https://twitter.com/NHeinDev/status/1522950234510352385</id>
+        <link href="https://twitter.com/NHeinDev/status/1522950234510352385"/>
+        <updated>2022-05-07T14:43:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Noah
+came across this the other day and wow. 
+it's been a great resource as I learn more about Terra and the Cosmwasm ecosystem https://github.com/Callum-A/cosmwasm-zero-to-hero]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT odin-free.eth ✨🐺: Blockchain adoption has blown past the internet. It grew at 165% a year compared to 85% of the internet. That is the maximum ...]]></title>
+        <id>https://twitter.com/odin_free/status/1522885466445553665</id>
+        <link href="https://twitter.com/odin_free/status/1522885466445553665"/>
+        <updated>2022-05-07T10:26:03.000Z</updated>
+        <summary type="html"><![CDATA[RT odin-free.eth ✨🐺
+Blockchain adoption has blown past the internet. It grew at 165% a year compared to 85% of the internet. That is the maximum adoption of any technology in human history.
+ If inflation goes $eth takes off.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT tranqui.eth 🔆: Re @pbillingsby_eth @developer_dao @ArweaveTeam @BundlrNetwork @dabit3 200 years from now aliens will find that file on an eterna...]]></title>
         <id>https://twitter.com/0xTranqui/status/1522733081525956608</id>
@@ -175,11 +211,18 @@ Can't wait to start buidling🚀 Anyone from @developer_dao  also joining?]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Microsoft Word is the best IDE for programming]]></title>
-        <id>https://twitter.com/developer_dao/status/1522592943147819009</id>
-        <link href="https://twitter.com/developer_dao/status/1522592943147819009"/>
-        <updated>2022-05-06T15:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Why Microsoft Word is the best IDE for programming https://youtu.be/X34ZmkeZDos]]></summary>
+        <title type="html"><![CDATA[RT david phelps (🐮,🐮)(🃏,🃏): Re the rough stack for this: — @guildxyz: modular voting sdks — @jokedao_: emergent submissions and extensib...]]></title>
+        <id>https://twitter.com/divine_economy/status/1522603226247446530</id>
+        <link href="https://twitter.com/divine_economy/status/1522603226247446530"/>
+        <updated>2022-05-06T15:44:32.000Z</updated>
+        <summary type="html"><![CDATA[RT david phelps (🐮,🐮)(🃏,🃏)
+Re the rough stack for this:
+— @guildxyz: modular voting sdks
+— @jokedao_: emergent submissions and extensible voting
+— @BundlrNetwork and @ArweaveTeam: storage
+— @LitProtocol: access control
+— @ceramicnetwork and @discoxyz: DIDs
+— @fuellabs_: predicates on smart contract scripts]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -191,30 +234,6 @@ Can't wait to start buidling🚀 Anyone from @developer_dao  also joining?]]></s
         <updated>2022-05-06T15:03:17.000Z</updated>
         <summary type="html"><![CDATA[RT db
 Google’s cloud group forms Web3 team to capitalize on booming popularity of crypto: CNBC]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Daeshawn.eth 👋🏾: Re @developer_dao Town hall happening now!]]></title>
-        <id>https://twitter.com/DaeshawnBallard/status/1522592513151971330</id>
-        <link href="https://twitter.com/DaeshawnBallard/status/1522592513151971330"/>
-        <updated>2022-05-06T15:01:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Daeshawn.eth 👋🏾
-Re @developer_dao Town hall happening now!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Cuad 🤠 Recruiter™: Black hat, blacked out chilling in Paris Causin a lil anarchy @developer_dao #4459 <3]]></title>
-        <id>https://twitter.com/SebCuadros/status/1522587319253012480</id>
-        <link href="https://twitter.com/SebCuadros/status/1522587319253012480"/>
-        <updated>2022-05-06T14:41:19.000Z</updated>
-        <summary type="html"><![CDATA[RT Cuad 🤠 Recruiter™
-Black hat, blacked out chilling in Paris
-Causin a lil anarchy
-@developer_dao #4459 <3]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -248,18 +267,6 @@ cc
 @EdgarArout 
 @austingriffith 
 @kelvinfichter https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?utm_source=%2Fprofile%2F80455042-noxx&utm_medium=reader2&s=r]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Soph | Koji Capital: Aussie ecosystem of crypto projects is honestly wild. Massively punching above our weight in terms of output, a non-exhaustive...]]></title>
-        <id>https://twitter.com/sophie_koji/status/1522463524286435328</id>
-        <link href="https://twitter.com/sophie_koji/status/1522463524286435328"/>
-        <updated>2022-05-06T06:29:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Soph | Koji Capital
-Aussie ecosystem of crypto projects is honestly wild. 
-Massively punching above our weight in terms of output, a non-exhaustive list to show off 🧵]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

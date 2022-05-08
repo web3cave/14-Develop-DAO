@@ -77,6 +77,36 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1522989336039505920",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Presenting the second episode of the \"Humans of D_D\" podcast with @tchowd_ / @developer_dao. \nPlugin as @Rahatcodes shares his passion for music, empowering builders, and of course his journey in web3. 🚀\n🔗  Full Episode: https://www.youtube.com/watch?v=tgCmZd3PzVA",
+          "link": "https://twitter.com/developer_dao/status/1522989336039505920",
+          "publishedOn": "2022-05-07T17:18:48.000Z",
+          "wordCount": 196,
+          "title": "Presenting the second episode of the \"Humans of D_D\" podcast with @tchowd_ / @developer_dao. Plugin as @Rahatcodes shares his passion for music, empow...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/NHeinDev/status/1522950234510352385",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Noah\ncame across this the other day and wow. \nit's been a great resource as I learn more about Terra and the Cosmwasm ecosystem https://github.com/Callum-A/cosmwasm-zero-to-hero",
+          "link": "https://twitter.com/NHeinDev/status/1522950234510352385",
+          "publishedOn": "2022-05-07T14:43:25.000Z",
+          "wordCount": 196,
+          "title": "RT Noah: came across this the other day and wow. it's been a great resource as I learn more about Terra and the Cosmwasm ecosystem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/odin_free/status/1522885466445553665",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT odin-free.eth ✨🐺\nBlockchain adoption has blown past the internet. It grew at 165% a year compared to 85% of the internet. That is the maximum adoption of any technology in human history.\n If inflation goes $eth takes off.",
+          "link": "https://twitter.com/odin_free/status/1522885466445553665",
+          "publishedOn": "2022-05-07T10:26:03.000Z",
+          "wordCount": 196,
+          "title": "RT odin-free.eth ✨🐺: Blockchain adoption has blown past the internet. It grew at 165% a year compared to 85% of the internet. That is the maximum ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/0xTranqui/status/1522733081525956608",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT tranqui.eth 🔆\nRe @pbillingsby_eth @developer_dao @ArweaveTeam @BundlrNetwork @dabit3 200 years from now aliens will find that file on an eternal crystal storage disc somewhere and unlock the secrets of humanity",
@@ -207,13 +237,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1522592943147819009",
+          "id": "https://twitter.com/divine_economy/status/1522603226247446530",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Why Microsoft Word is the best IDE for programming https://youtu.be/X34ZmkeZDos",
-          "link": "https://twitter.com/developer_dao/status/1522592943147819009",
-          "publishedOn": "2022-05-06T15:03:40.000Z",
+          "description": "RT david phelps (🐮,🐮)(🃏,🃏)\nRe the rough stack for this:\n— @guildxyz: modular voting sdks\n— @jokedao_: emergent submissions and extensible voting\n— @BundlrNetwork and @ArweaveTeam: storage\n— @LitProtocol: access control\n— @ceramicnetwork and @discoxyz: DIDs\n— @fuellabs_: predicates on smart contract scripts",
+          "link": "https://twitter.com/divine_economy/status/1522603226247446530",
+          "publishedOn": "2022-05-06T15:44:32.000Z",
           "wordCount": 196,
-          "title": "Why Microsoft Word is the best IDE for programming",
+          "title": "RT david phelps (🐮,🐮)(🃏,🃏): Re the rough stack for this: — @guildxyz: modular voting sdks — @jokedao_: emergent submissions and extensib...",
           "imageUrl": null
         },
         {
@@ -224,26 +254,6 @@
           "publishedOn": "2022-05-06T15:03:17.000Z",
           "wordCount": 196,
           "title": "RT db: Google’s cloud group forms Web3 team to capitalize on booming popularity of crypto: CNBC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DaeshawnBallard/status/1522592513151971330",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Daeshawn.eth 👋🏾\nRe @developer_dao Town hall happening now!",
-          "link": "https://twitter.com/DaeshawnBallard/status/1522592513151971330",
-          "publishedOn": "2022-05-06T15:01:58.000Z",
-          "wordCount": 196,
-          "title": "RT Daeshawn.eth 👋🏾: Re @developer_dao Town hall happening now!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SebCuadros/status/1522587319253012480",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Cuad 🤠 Recruiter™\nBlack hat, blacked out chilling in Paris\nCausin a lil anarchy\n@developer_dao #4459 <3",
-          "link": "https://twitter.com/SebCuadros/status/1522587319253012480",
-          "publishedOn": "2022-05-06T14:41:19.000Z",
-          "wordCount": 196,
-          "title": "RT Cuad 🤠 Recruiter™: Black hat, blacked out chilling in Paris Causin a lil anarchy @developer_dao #4459 <3",
           "imageUrl": null
         },
         {
@@ -264,16 +274,6 @@
           "publishedOn": "2022-05-06T10:30:29.000Z",
           "wordCount": 196,
           "title": "RT noxx: Part 4 in the EVM Deep Dive Series In this episode, we take a look under the hood of Geth, specifically how it handles the Ethereum World Sta...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/sophie_koji/status/1522463524286435328",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Soph | Koji Capital\nAussie ecosystem of crypto projects is honestly wild. \nMassively punching above our weight in terms of output, a non-exhaustive list to show off 🧵",
-          "link": "https://twitter.com/sophie_koji/status/1522463524286435328",
-          "publishedOn": "2022-05-06T06:29:24.000Z",
-          "wordCount": 196,
-          "title": "RT Soph | Koji Capital: Aussie ecosystem of crypto projects is honestly wild. Massively punching above our weight in terms of output, a non-exhaustive...",
           "imageUrl": null
         }
       ]
