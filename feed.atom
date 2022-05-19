@@ -1,257 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-18T06:15:18.581Z</id>
+    <id>urn:2022-05-19T06:15:14.012Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-18T06:15:18.581Z</updated>
+    <updated>2022-05-19T06:15:14.012Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Wartull: I might sound bearish a lot of the times, but @CelestiaOrg combined with @cosmos might be the most scalable solution I've seen yet. Let's ...]]></title>
-        <id>https://twitter.com/WartuII/status/1526691077801054210</id>
-        <link href="https://twitter.com/WartuII/status/1526691077801054210"/>
-        <updated>2022-05-17T22:28:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Wartull
-I might sound bearish a lot of the times, but @CelestiaOrg combined with @cosmos might be the most scalable solution I've seen yet. Let's get some actual innovation w IBC on it, and they might be on to something here.]]></summary>
+        <title type="html"><![CDATA[Re @MortynLundfall]]></title>
+        <id>https://twitter.com/developer_dao/status/1527157486435942402</id>
+        <link href="https://twitter.com/developer_dao/status/1527157486435942402"/>
+        <updated>2022-05-19T05:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @MortynLundfall]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Claire Charles: Ways to contribute to open source A THREAD 🧵 Contributing to open source is cool but can be scary at first. That's because you d...]]></title>
-        <id>https://twitter.com/claire_me101/status/1526683715857960961</id>
-        <link href="https://twitter.com/claire_me101/status/1526683715857960961"/>
-        <updated>2022-05-17T21:58:56.000Z</updated>
-        <summary type="html"><![CDATA[RT Claire Charles
-Ways to contribute to open source
-A THREAD 🧵
-Contributing to open source is cool but can be scary at first. That's because you don't know how exactly to start making contributions. 
-Below are ways you can contribute to open source 👇]]></summary>
+        <title type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth | Graph Day 2022: Today you can already build a true decentralized & censorship-resistant YouTube - @ArweaveTeam...]]></title>
+        <id>https://twitter.com/dabit3/status/1527156604738617344</id>
+        <link href="https://twitter.com/dabit3/status/1527156604738617344"/>
+        <updated>2022-05-19T05:18:02.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth | Graph Day 2022
+Today you can already build a true decentralized & censorship-resistant YouTube
+- @ArweaveTeam + @BundlrNetwork video storage 
+- @LensProtocol social graph + discoverability 
+- @graphprotocol querying (subgraph needs to be built)
+- @Livepeer streaming 
+- @SpheronHQ web hosting]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proof of Stake & our next experiments in web3 via @Cloudflare @CloudflareDev ⚡️ At Cloudflare, we often take experimental bets on the future of the ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1526681717368446977</id>
-        <link href="https://twitter.com/developer_dao/status/1526681717368446977"/>
-        <updated>2022-05-17T21:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Proof of Stake & our next experiments in web3 via @Cloudflare @CloudflareDev 
-⚡️ At Cloudflare, we often take experimental bets on the future of the Internet to help new technologies gain maturity & stability & for us to gain deep understanding of them. https://blog.cloudflare.com/next-gen-web3-network/]]></summary>
+        <title type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀): Finally met up with @narb_s IRL (look at those guns 💪 👀) guys a legend of @developer_dao]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1527132375636799488</id>
+        <link href="https://twitter.com/codingwithmanny/status/1527132375636799488"/>
+        <updated>2022-05-19T03:41:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀)
+Finally met up with @narb_s IRL (look at those guns 💪 👀) guys a legend of @developer_dao]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT buildspace: Introducing — Nights and Weekends 🌙 A new way for you to build shit you're passionate about alongside incredible builders. Join 100...]]></title>
-        <id>https://twitter.com/_buildspace/status/1526672744053542912</id>
-        <link href="https://twitter.com/_buildspace/status/1526672744053542912"/>
-        <updated>2022-05-17T21:15:21.000Z</updated>
-        <summary type="html"><![CDATA[RT buildspace
-Introducing — Nights and Weekends 🌙
-A new way for you to build shit you're passionate about alongside incredible builders.
-Join 100 others over six weeks to ship or sink your web3 project: pick an idea, build every week, get roasted, iterate. https://buildspace.so/nights-weekends]]></summary>
+        <title type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀): Vancouver meetup for @developer_dao :)]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1527126502969511937</id>
+        <link href="https://twitter.com/codingwithmanny/status/1527126502969511937"/>
+        <updated>2022-05-19T03:18:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀)
+Vancouver meetup for @developer_dao :)]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D_D ~ @vibesIRL ~ happening in West Palm Beach this Thursday after @Permissionless ✨ Happy hour with Web3 frens at True Food Kitchen, 6pm. Register h...]]></title>
-        <id>https://twitter.com/developer_dao/status/1526669607062364161</id>
-        <link href="https://twitter.com/developer_dao/status/1526669607062364161"/>
-        <updated>2022-05-17T21:02:53.000Z</updated>
-        <summary type="html"><![CDATA[D_D ~ @vibesIRL ~ happening in West Palm Beach this Thursday after @Permissionless ✨
-Happy hour with Web3 frens at True Food Kitchen, 6pm. Register here ➡️ 
-Huge thank you to @hedera for sponsoring! They're hiring!! 🚀 https://lu.ma/6ss2qn10]]></summary>
+        <title type="html"><![CDATA[RT Coinbase: If we had a bitcoin for every time somebody said “crypto is dead” …]]></title>
+        <id>https://twitter.com/coinbase/status/1527121134562385920</id>
+        <link href="https://twitter.com/coinbase/status/1527121134562385920"/>
+        <updated>2022-05-19T02:57:05.000Z</updated>
+        <summary type="html"><![CDATA[RT Coinbase
+If we had a bitcoin for every time somebody said “crypto is dead” …]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Sam Williams 🐘: Arweave processed a 53 GB block over the weekend. Is that the largest block of on-chain data storage ever? It was also heavily d...]]></title>
-        <id>https://twitter.com/samecwilliams/status/1526666447975481349</id>
-        <link href="https://twitter.com/samecwilliams/status/1526666447975481349"/>
-        <updated>2022-05-17T20:50:19.000Z</updated>
+        <title type="html"><![CDATA[RT willblackburn.eth @ permissionless: Re @dabit3 @LensProtocol @graphprotocol Let’s grab some @developer_dao devs and build their web3 resumes!]]></title>
+        <id>https://twitter.com/willhblackburn/status/1527108235873894400</id>
+        <link href="https://twitter.com/willhblackburn/status/1527108235873894400"/>
+        <updated>2022-05-19T02:05:50.000Z</updated>
+        <summary type="html"><![CDATA[RT willblackburn.eth @ permissionless
+Re @dabit3 @LensProtocol @graphprotocol Let’s grab some @developer_dao devs and build their web3 resumes!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀): Re @developer_dao Vancouver meetup downtown happening soon. Sponsored by our good friends at @ankr]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1527104574829363200</id>
+        <link href="https://twitter.com/codingwithmanny/status/1527104574829363200"/>
+        <updated>2022-05-19T01:51:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀)
+Re @developer_dao Vancouver meetup downtown happening soon. Sponsored by our good friends at @ankr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth | Graph Day 2022: Web3 Social - Up and Running with Lens Protocol]]></title>
+        <id>https://twitter.com/dabit3/status/1527080727698735104</id>
+        <link href="https://twitter.com/dabit3/status/1527080727698735104"/>
+        <updated>2022-05-19T00:16:31.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth | Graph Day 2022
+Web3 Social - Up and Running with Lens Protocol https://twitter.com/i/broadcasts/1YqGopryRezJv]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀): Leaving @developer_dao stickers around Vancouver]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1527074008155402240</id>
+        <link href="https://twitter.com/codingwithmanny/status/1527074008155402240"/>
+        <updated>2022-05-18T23:49:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀)
+Leaving @developer_dao stickers around Vancouver]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Landing a Web3 Job via Developer DAO A Story. Not A Guide. by @developer_dao member @hot_town 🛸]]></title>
+        <id>https://twitter.com/developer_dao/status/1527056541626650624</id>
+        <link href="https://twitter.com/developer_dao/status/1527056541626650624"/>
+        <updated>2022-05-18T22:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Landing a Web3 Job via Developer DAO
+A Story. Not A Guide. by @developer_dao member @hot_town 🛸 https://blog.developerdao.com/landing-a-web3-job-via-developer-dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lens 🛠 Building on @LensProtocol via @ETHGlobal Join @davidesilverman of Lens Protocol for a workshop titled "Building on Lens Protocol."]]></title>
+        <id>https://twitter.com/developer_dao/status/1527043449924599808</id>
+        <link href="https://twitter.com/developer_dao/status/1527043449924599808"/>
+        <updated>2022-05-18T21:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Lens 🛠 Building on @LensProtocol via @ETHGlobal 
+Join @davidesilverman of Lens Protocol for a workshop titled "Building on Lens Protocol." https://www.youtube.com/watch?v=usgYL-KYd7I]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sam Williams 🐘: Almost 70 million documents about the war in Ukraine have now been permanently stored in the Arweave network. These records are ...]]></title>
+        <id>https://twitter.com/samecwilliams/status/1527037805825761288</id>
+        <link href="https://twitter.com/samecwilliams/status/1527037805825761288"/>
+        <updated>2022-05-18T21:25:58.000Z</updated>
         <summary type="html"><![CDATA[RT Sam Williams 🐘
-Arweave processed a 53 GB block over the weekend. Is that the largest block of on-chain data storage ever?
-It was also heavily deflationary. It took ~$250 of AR out of circulation for hundreds of years, while minting just ~$30. https://viewblock.io/arweave/block/933396]]></summary>
+Almost 70 million documents about the war in Ukraine have now been permanently stored in the Arweave network.
+These records are stored in hundreds of places across the world, backed by an endowment, with no centralized points of failure.
+Blockchains are not just for finance.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT MOHΔMΞD SΔDIQ: 👀]]></title>
-        <id>https://twitter.com/sadiq_moo/status/1526647919406891009</id>
-        <link href="https://twitter.com/sadiq_moo/status/1526647919406891009"/>
-        <updated>2022-05-17T19:36:42.000Z</updated>
-        <summary type="html"><![CDATA[RT MOHΔMΞD SΔDIQ
-👀]]></summary>
+        <title type="html"><![CDATA[RT with-heart: Humans create a lot of information messes It's only natural! We each have our own internal language we use to describe reality (our men...]]></title>
+        <id>https://twitter.com/grow_love/status/1527020923311775750</id>
+        <link href="https://twitter.com/grow_love/status/1527020923311775750"/>
+        <updated>2022-05-18T20:18:53.000Z</updated>
+        <summary type="html"><![CDATA[RT with-heart
+Humans create a lot of information messes
+It's only natural! We each have our own internal language we use to describe reality (our mental model)
+So even when we use the same words to describe something, we each _interpret_ those words to mean different things
+(a thread)]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Osprey: Today marks 1 year since I started contributing @hiFramework! Here are some reflections on what I've learned, common mistakes I've observed...]]></title>
-        <id>https://twitter.com/0x_Osprey/status/1526642625549197312</id>
-        <link href="https://twitter.com/0x_Osprey/status/1526642625549197312"/>
-        <updated>2022-05-17T19:15:40.000Z</updated>
-        <summary type="html"><![CDATA[RT Osprey
-Today marks 1 year since I started contributing @hiFramework!
-Here are some reflections on what I've learned, common mistakes I've observed (and made) and advice I want to share.
-👇🧵]]></summary>
+        <title type="html"><![CDATA[RT gary 🌞🌱🇺🇦 (building web3 x social impact): in order for web3 to have a bright future, we need to… 1) build + invest in hyperlocal comm...]]></title>
+        <id>https://twitter.com/garysheng/status/1526960789520797696</id>
+        <link href="https://twitter.com/garysheng/status/1526960789520797696"/>
+        <updated>2022-05-18T16:19:56.000Z</updated>
+        <summary type="html"><![CDATA[RT gary 🌞🌱🇺🇦 (building web3 x social impact)
+in order for web3 to have a bright future, we need to…
+1) build + invest in hyperlocal community empowerment projects that greatly improve the lives of everyday people 🏘
+2) create + invest in authentic, captivating storytelling about the most impactful hyperlocal projects 📽]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT david phelps (🐮,🐮)(🃏,🃏): Re @developer_dao if @developer_dao is the best thing to happen to web3, it's because @gitcoin is too]]></title>
-        <id>https://twitter.com/divine_economy/status/1526640738842320899</id>
-        <link href="https://twitter.com/divine_economy/status/1526640738842320899"/>
-        <updated>2022-05-17T19:08:10.000Z</updated>
-        <summary type="html"><![CDATA[RT david phelps (🐮,🐮)(🃏,🃏)
-Re @developer_dao if @developer_dao is the best thing to happen to web3, it's because @gitcoin is too
-nader dabit (🧱, 🚀) | sha.eth | Graph Day 2022: Shout out to @owocki @notscottmoore & all the folks at @gitcoin for their help in the early days as well as their laying the foundation for communities like Developer DAO to exist 🙏]]></summary>
+        <title type="html"><![CDATA[RT mortyn: ZK tutorials be like First, they take the dinglebop, and they smooth it out with a bunch of schleem… They take the dinglebop and they push...]]></title>
+        <id>https://twitter.com/MortynLundfall/status/1526938977575522314</id>
+        <link href="https://twitter.com/MortynLundfall/status/1526938977575522314"/>
+        <updated>2022-05-18T14:53:16.000Z</updated>
+        <summary type="html"><![CDATA[RT mortyn
+ZK tutorials be like
+First, they take the dinglebop, and they smooth it out with a bunch of schleem… They take the dinglebop and they push it through the grumbo, where the fleeb is rubbed against it. It’s important that the fleeb is rubbed, because the fleeb has all of the]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT tranqui.eth 🔆: Today marks the end of my 100 day public experiment documenting how to become a web3 developer with no prior coding experience To...]]></title>
-        <id>https://twitter.com/0xTranqui/status/1526640253930549248</id>
-        <link href="https://twitter.com/0xTranqui/status/1526640253930549248"/>
-        <updated>2022-05-17T19:06:14.000Z</updated>
-        <summary type="html"><![CDATA[RT tranqui.eth 🔆
-Today marks the end of my 100 day public experiment documenting how to become a web3 developer with no prior coding experience
-To celebrate, I put together a guide that contains a chronological list of every learning exercise + project I completed: https://tranqui.xyz/posts/100-days-of-code]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Farza 🇺🇸 🇵🇰: Launching something new at @_buildspace in an hour... Please drop an 👀 emoji below in support of this mysterious initia...]]></title>
-        <id>https://twitter.com/FarzaTV/status/1526638721314873344</id>
-        <link href="https://twitter.com/FarzaTV/status/1526638721314873344"/>
-        <updated>2022-05-17T19:00:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Farza 🇺🇸 🇵🇰
-Launching something new at @_buildspace in an hour...
-Please drop an 👀 emoji below in support of this mysterious initiative that seeks to get more builders off of localhost lmao ty ty ty.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos Academy via @cosmos 🪐 Learn how to use the Cosmos SDK to build application-specific blockchains, and take your first steps in the Cosmos uni...]]></title>
-        <id>https://twitter.com/developer_dao/status/1526636695998840834</id>
-        <link href="https://twitter.com/developer_dao/status/1526636695998840834"/>
-        <updated>2022-05-17T18:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos Academy via @cosmos 🪐
-Learn how to use the Cosmos SDK to build application-specific blockchains, and take your first steps in the Cosmos universe with a look into this complete and comprehensive course. ⚡️ https://tutorials.cosmos.network/academy/0-welcome/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Kui He: Join us tomorrow as @lukemwillis and I explore the problem of onboarding web2.0 users to blockchain through the @koinosnetwork blockchain. ...]]></title>
-        <id>https://twitter.com/kuixihe/status/1526633695754477573</id>
-        <link href="https://twitter.com/kuixihe/status/1526633695754477573"/>
-        <updated>2022-05-17T18:40:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Kui He
-Join us tomorrow as @lukemwillis and I explore the problem of onboarding web2.0 users to blockchain through the @koinosnetwork blockchain.
-@developer_dao members, if you are focused on accessibility, this is going to be an interesting chat for you!
-The Koinos Forum: Onboarding blockchain native users to Koinos is simple with zero fees, but onboarding web 2.0 native users requires a different approach. Join @lukemwillis and @kuixihe as they explore the problem deeper and make an exciting announcement. 
-@koinosnetwork
- https://twitter.com/i/spaces/1MnxnkNvEQMKO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Optimist Prime 🔴✨: Defi is not, and was never, the killer app. The killer app is new coordination structures, and defi is the first successful ...]]></title>
-        <id>https://twitter.com/jinglejamOP/status/1526632912145219584</id>
-        <link href="https://twitter.com/jinglejamOP/status/1526632912145219584"/>
-        <updated>2022-05-17T18:37:04.000Z</updated>
-        <summary type="html"><![CDATA[RT Optimist Prime 🔴✨
-Defi is not, and was never, the killer app.
-The killer app is new coordination structures, and defi is the first successful application of that.
-For the first time, we can easily compete with incumbent systems... and honestly that's fucking insane.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT imhiring.eth: 𝗧𝗥𝗔𝗗𝗘 𝗢𝗙𝗙𝗘𝗥: rainbow receives: valuable product insights from you,,, an etereeuom wallet user (not just...]]></title>
-        <id>https://twitter.com/mikedemarais/status/1526624841771753472</id>
-        <link href="https://twitter.com/mikedemarais/status/1526624841771753472"/>
-        <updated>2022-05-17T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[RT imhiring.eth
-𝗧𝗥𝗔𝗗𝗘 𝗢𝗙𝗙𝗘𝗥:
-rainbow receives: valuable product insights from you,,, an etereeuom wallet user (not just rainbow users! 😘)
-you receive: $50 in Polygon ETH for talking to our product team for 20-30mins
-deal? 👉 https://forms.gle/nquZvepycLfeWSd17]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby.eth: Reminder that @developer_dao changed my life]]></title>
-        <id>https://twitter.com/pbillingsby_eth/status/1526621642897510401</id>
-        <link href="https://twitter.com/pbillingsby_eth/status/1526621642897510401"/>
-        <updated>2022-05-17T17:52:17.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby.eth
-Reminder that @developer_dao changed my life]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn from >200 curated web3 developer guides and tutorials with these 3 resources useweb3 - @useWeb3 by @wslyvh Nader’s web3 Learning Resources for ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1526621517567631361</id>
-        <link href="https://twitter.com/developer_dao/status/1526621517567631361"/>
-        <updated>2022-05-17T17:51:47.000Z</updated>
-        <summary type="html"><![CDATA[Learn from >200 curated web3 developer guides and tutorials with these 3 resources
-useweb3 - @useWeb3 by @wslyvh
-
-Nader’s web3 Learning Resources for Developers by @dabit3
-
-Questbook Guides by @questbookapp https://useweb3.xyz/ https://naderdabit.notion.site/naderdabit/Nader-s-web3-Learning-Resources-for-Developers-a200ed2ef21c4d578dc158df2b882c63 https://openquest.xyz/tracks]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT useWeb3.eth · Learn Web3 development: 💻 Staking dApp by @StErMi Check it out at 👇]]></title>
-        <id>https://twitter.com/useWeb3/status/1526591116002222080</id>
-        <link href="https://twitter.com/useWeb3/status/1526591116002222080"/>
-        <updated>2022-05-17T15:50:59.000Z</updated>
-        <summary type="html"><![CDATA[RT useWeb3.eth · Learn Web3 development
-💻 Staking dApp
-by @StErMi
-Check it out at 👇 https://stermi.medium.com/how-to-write-your-first-decentralized-app-scaffold-eth-challenge-1-staking-dapp-b0b6a6f4d242]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT NEAR Hacker House ⋈ | 🌴 MIAMI 📅 MAY 18 - 22 🌴: 🌈NEAR is 🛑eliminating the barriers to Web3 adoption🌍🖥 @Cameron_Dennis_ will be...]]></title>
-        <id>https://twitter.com/NearHacks/status/1526564887807381505</id>
-        <link href="https://twitter.com/NearHacks/status/1526564887807381505"/>
-        <updated>2022-05-17T14:06:46.000Z</updated>
-        <summary type="html"><![CDATA[RT NEAR Hacker House ⋈ | 🌴 MIAMI 📅 MAY 18 - 22 🌴
-🌈NEAR is 🛑eliminating the barriers to Web3 adoption🌍🖥 
-@Cameron_Dennis_ will be giving a 🛠️talk on Why @NEARProtocol now & will give us an Ecosystem overview👀🤝
-🗓Wednesday at 9:00-9:45am at #HackerHouse 
-📍 2060 NW 1st Ave Miami, FL 33127]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3Auth: So @yashovardhan & @ChaitanyaPotti got together to guide you on how to build an NFT dApp using #solidity, #react, and Web3Auth. Yash is a...]]></title>
-        <id>https://twitter.com/Web3Auth/status/1526499984496992257</id>
-        <link href="https://twitter.com/Web3Auth/status/1526499984496992257"/>
-        <updated>2022-05-17T09:48:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3Auth
-So @yashovardhan & @ChaitanyaPotti got together to guide you on how to build an NFT dApp using #solidity, #react, and Web3Auth.
-Yash is also a secretly aspiring YouTuber so he will bless you with unlimited food if you watch and like it 👀 https://www.youtube.com/watch?v=zByeFywn0s4]]></summary>
+        <title type="html"><![CDATA[RT Collective | Hiring for Web3: 👑 People are at the core of innovation, and by bringing them together we can help build the future of web3 🟩 cu...]]></title>
+        <id>https://twitter.com/trycollective_/status/1526726730521530368</id>
+        <link href="https://twitter.com/trycollective_/status/1526726730521530368"/>
+        <updated>2022-05-18T00:49:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Collective | Hiring for Web3
+👑 People are at the core of innovation, and by bringing them together we can help build the future of web3
+🟩 currently, there's no good place for startups and talent to find each other easily
+🎉 we're excited to announce @trycollective_, web3's talent network!
+👇🏼]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -264,6 +204,21 @@ Yash is also a secretly aspiring YouTuber so he will bless you with unlimited fo
         <summary type="html"><![CDATA[Winter is here. Time to buidl 🤝]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT jonas-wolfram.eth: Finished my challenge which resulted in the creation of Deemo! Deemo lets you mint any sound as an NFT on the @0xPolygon testnet...]]></title>
+        <id>https://twitter.com/jonas_wolfram/status/1526405120388308992</id>
+        <link href="https://twitter.com/jonas_wolfram/status/1526405120388308992"/>
+        <updated>2022-05-17T03:31:54.000Z</updated>
+        <summary type="html"><![CDATA[RT jonas-wolfram.eth
+Finished my challenge which resulted in the creation of Deemo!
+Deemo lets you mint any sound as an NFT on the @0xPolygon testnet 🚀
+Web: 
+Code: 
+It still has some rough edges but I think that was to be expected after just 3 days 😁 https://deemo.vercel.app/ https://github.com/JonWofr/deemo]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -310,16 +265,6 @@ Yash is also a secretly aspiring YouTuber so he will bless you with unlimited fo
         <link href="https://developerdao.substack.com/p/21-probably-nothing"/>
         <updated>2022-04-26T04:50:26.000Z</updated>
         <summary type="html"><![CDATA[I was gonna go to Devconnect, but then I got DAI]]></summary>
-        <author>
-            <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#20 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/20-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/20-probably-nothing"/>
-        <updated>2022-04-19T07:03:51.000Z</updated>
-        <summary type="html"><![CDATA[D_D events and parties]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>
