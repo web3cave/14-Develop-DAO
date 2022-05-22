@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-21T06:15:27.642Z</id>
+    <id>urn:2022-05-22T06:14:25.122Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-21T06:15:27.642Z</updated>
+    <updated>2022-05-22T06:14:25.122Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT MichΞllΞ: Frens new to web3- Great read 👇🏽 Not all DAOs are pooling funds together to invest. Check out the write up explaining @developer_...]]></title>
+        <id>https://twitter.com/MichelleAbbs/status/1528099667346702339</id>
+        <link href="https://twitter.com/MichelleAbbs/status/1528099667346702339"/>
+        <updated>2022-05-21T19:45:26.000Z</updated>
+        <summary type="html"><![CDATA[RT MichΞllΞ
+Frens new to web3-
+Great read 👇🏽
+Not all DAOs are pooling funds together to invest. Check out the write up explaining @developer_dao by @Web3Equity member @MichelleBakels shout out to @dabit3 for creating so much value within his community!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT etisha.eth: How Python Can Help You Enter Web3 ? ft. @Raza Zaidi || Unblocking Chain Ep.07]]></title>
+        <id>https://twitter.com/GargEtisha/status/1528044181477679104</id>
+        <link href="https://twitter.com/GargEtisha/status/1528044181477679104"/>
+        <updated>2022-05-21T16:04:57.000Z</updated>
+        <summary type="html"><![CDATA[RT etisha.eth
+How Python Can Help You Enter Web3 ? ft. @Raza Zaidi || Unblocking Chain Ep.07 https://twitter.com/i/broadcasts/1YqJDqBvvqoxV]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔮 An Effective Way To Build Your Own Oracle With Solidity by @developer_dao member @noahliechti Smart contracts cannot access off-chain data direct...]]></title>
+        <id>https://twitter.com/developer_dao/status/1527981010318655491</id>
+        <link href="https://twitter.com/developer_dao/status/1527981010318655491"/>
+        <updated>2022-05-21T11:53:56.000Z</updated>
+        <summary type="html"><![CDATA[🔮 An Effective Way To Build Your Own Oracle With Solidity by @developer_dao member @noahliechti
+Smart contracts cannot access off-chain data directly. In this tutorial, you will learn step by step how to connect Ethereum to any real world API. https://noahliechti.hashnode.dev/an-effective-way-to-build-your-own-oracle-with-solidity]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀): Just going to remind people to nominate and tag people under this thread (yes you can nominate yourself), t...]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1527850521490382849</id>
+        <link href="https://twitter.com/codingwithmanny/status/1527850521490382849"/>
+        <updated>2022-05-21T03:15:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🇨🇦 Vancouver) (🧱,🚀)
+Just going to remind people to nominate and tag people under this thread (yes you can nominate yourself), tomorrow is the last day, and I’ll announce the winners on Sunday.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏘 The Complete Guide to Decentralized Autonomous Organizations by @developer_dao member @nonstack]]></title>
         <id>https://twitter.com/developer_dao/status/1527794549963345920</id>
@@ -90,6 +136,19 @@ Some of our awesome D_D members like @camiinthisthang  and @dabit3 will be there
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT leoglisic.eth 🦇🔊: Re @VitalikButerin, @glenweyl and @pujaohlhaver recently dropped a fascinating 37-pg paper on Soulbound Tokens. It sets the...]]></title>
+        <id>https://twitter.com/Leo_Glisic/status/1527743727917182977</id>
+        <link href="https://twitter.com/Leo_Glisic/status/1527743727917182977"/>
+        <updated>2022-05-20T20:11:03.000Z</updated>
+        <summary type="html"><![CDATA[RT leoglisic.eth 🦇🔊
+Re @VitalikButerin, @glenweyl and @pujaohlhaver recently dropped a fascinating 37-pg paper on Soulbound Tokens. 
+It sets the foundation for the next stage of crypto innovation, moving us beyond DeFi and NFTs into DeSoc (Decentralized Society).
+Here's what you need to know 🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT DappaDan (🧱,🚀): Sharing my Top3 Web3 Content picks of the week that I read/listened/watched that you should also check out! ♥️👇]]></title>
         <id>https://twitter.com/DAppaDanDev/status/1527742546914512896</id>
         <link href="https://twitter.com/DAppaDanDev/status/1527742546914512896"/>
@@ -101,69 +160,12 @@ Sharing my Top3 Web3 Content picks of the week that I read/listened/watched that
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @divine_economy]]></title>
-        <id>https://twitter.com/developer_dao/status/1527731377789181954</id>
-        <link href="https://twitter.com/developer_dao/status/1527731377789181954"/>
-        <updated>2022-05-20T19:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @divine_economy]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! We had another fantastic #DevNTell today with @mxcl sharing his inspiring journey through the world of ...]]></title>
-        <id>https://twitter.com/narb_s/status/1527726765958758400</id>
-        <link href="https://twitter.com/narb_s/status/1527726765958758400"/>
-        <updated>2022-05-20T19:03:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-gm @developer_dao frens! We had another fantastic #DevNTell today with @mxcl sharing his inspiring journey through the world of open source and his new venture @teaxyz_ 🫖
-The recording is now available through the DAO's YouTube channel 🎥🍿: https://youtu.be/FrXW_bpf_yQ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Preethi Kasireddy: Most critics of Web 3 fail to acknowledge how early we are. Things are supposed look ugly and broken at this stage.]]></title>
         <id>https://twitter.com/iam_preethi/status/1527724955135266817</id>
         <link href="https://twitter.com/iam_preethi/status/1527724955135266817"/>
         <updated>2022-05-20T18:56:27.000Z</updated>
         <summary type="html"><![CDATA[RT Preethi Kasireddy
 Most critics of Web 3 fail to acknowledge how early we are. Things are supposed look ugly and broken at this stage.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traveling internationally for the first time thanks to Developer DAO by @developer_dao member @Nazeeh21 🛸]]></title>
-        <id>https://twitter.com/developer_dao/status/1527722927503941635</id>
-        <link href="https://twitter.com/developer_dao/status/1527722927503941635"/>
-        <updated>2022-05-20T18:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Traveling internationally for the first time thanks to Developer DAO by @developer_dao member @Nazeeh21 🛸 https://mirror.xyz/nazeeh.eth/2AwqEyxH9aBgaQxAcDANX7HiFk1P-NhPxb5j2Pz-9kI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nazeeh.eth: Started working on this cool thing in @developer_dao along with @PDog355]]></title>
-        <id>https://twitter.com/Nazeeh21/status/1527719003564691457</id>
-        <link href="https://twitter.com/Nazeeh21/status/1527719003564691457"/>
-        <updated>2022-05-20T18:32:48.000Z</updated>
-        <summary type="html"><![CDATA[RT nazeeh.eth
-Started working on this cool thing in @developer_dao along with @PDog355
-nader dabit (🧱, 🚀) | sha.eth | Graph Day 2022: Who’s going to step up and build a high-quality @LensProtocol @graphprotocol subgraph?
-Seems like a pretty great opportunity, and I’d be happy to help.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Caro @Activate Miami w WBW3💕: I truly enjoy meeting new people, but nothing beats meeting URL folks IRL. Thanks for all your hard work on bringi...]]></title>
-        <id>https://twitter.com/Carmedinat/status/1527708919124086789</id>
-        <link href="https://twitter.com/Carmedinat/status/1527708919124086789"/>
-        <updated>2022-05-20T17:52:44.000Z</updated>
-        <summary type="html"><![CDATA[RT Caro @Activate Miami w WBW3💕
-I truly enjoy meeting new people, but  nothing beats meeting URL folks IRL. 
-Thanks for all your hard work on bringing us all to Miami, Cami!! LFG🚀 @camiinthisthang]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -199,31 +201,6 @@ To register and participate go here 👇 https://gitcoin.co/hackathon/ethshang
         <updated>2022-05-20T09:10:09.000Z</updated>
         <summary type="html"><![CDATA[RT Stepchange
 Poor NFTs and crypto. Almost as dead as the internet was in 2000 😢]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Danger Zone DAO: Web3’s most anticipated album by Danger Zone DAO founder @IbnInglor - will be released May 27th, and we couldn’t be happier! Wit...]]></title>
-        <id>https://twitter.com/DangerZoneDAO/status/1527535404613877760</id>
-        <link href="https://twitter.com/DangerZoneDAO/status/1527535404613877760"/>
-        <updated>2022-05-20T06:23:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Danger Zone DAO
-Web3’s most anticipated album by Danger Zone DAO founder @IbnInglor - will be released May 27th, and we couldn’t be happier!
-Without the community's support, the crowdfund supporters on @viamirror, and many others, we wouldn't be here today.
-Read more: https://ibn.mirror.xyz/-a59GysBmdORDSfD3T7wbMPOIdie2xtq6owJt2TCAEU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT sarah ◟( •⌄• ू )✧: got rejected/ghosted from every single web3 job i applied to in january & now i’m full time keep going. you can do it.]]></title>
-        <id>https://twitter.com/meowllark/status/1527438592825516037</id>
-        <link href="https://twitter.com/meowllark/status/1527438592825516037"/>
-        <updated>2022-05-19T23:58:33.000Z</updated>
-        <summary type="html"><![CDATA[RT sarah ◟( •⌄• ू )✧
-got rejected/ghosted from every single web3 job i applied to in january & now i’m full time 
-keep going. you can do it.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
