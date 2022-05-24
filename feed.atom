@@ -1,10 +1,136 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-23T06:16:48.798Z</id>
+    <id>urn:2022-05-24T06:15:12.482Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-23T06:16:48.798Z</updated>
+    <updated>2022-05-24T06:15:12.482Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#25 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/25-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/25-probably-nothing"/>
+        <updated>2022-05-24T05:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Now minting: Soulbound frens!]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Dalip Tyagi: Here, we are sharing some resources for both existing and new developers to come #BUIDL with @0xPolygon #WAGMIonPolygon @0xPolygonDevs...]]></title>
+        <id>https://twitter.com/dtyagi/status/1528890606683947010</id>
+        <link href="https://twitter.com/dtyagi/status/1528890606683947010"/>
+        <updated>2022-05-24T00:08:20.000Z</updated>
+        <summary type="html"><![CDATA[RT Dalip Tyagi
+Here, we are sharing some resources for both existing and new developers to come #BUIDL with @0xPolygon #WAGMIonPolygon @0xPolygonDevs 
+ Calling All Web3 Developers: #WAGMIonPolygon — Polygon | Blog https://blog.polygon.technology/calling-all-web3-developers-wagmionpolygon/?utm_source=Linkedin&utm_medium=Post&utm_campaign=Tier-1-Announcement]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Georgios Konstantopoulos: gm]]></title>
+        <id>https://twitter.com/gakonst/status/1528852891699666947</id>
+        <link href="https://twitter.com/gakonst/status/1528852891699666947"/>
+        <updated>2022-05-23T21:38:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Georgios Konstantopoulos
+gm
+laurence (🫡, 🫡): Holy hell writing tests in Foundry is straight up magic
+I checked and it all works on a Windows machine too
+How did Ethereum dev infra get this good]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth (🧱,🚀): things are taking shape with this! i'm soooo excited!]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1528847544041754625</id>
+        <link href="https://twitter.com/dhaiwat10/status/1528847544041754625"/>
+        <updated>2022-05-23T21:17:13.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth (🧱,🚀)
+things are taking shape with this! i'm soooo excited!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby.eth: If you’ve been wondering how @ArweaveTeam and @BundlrNetwork works, I wrote this article for you! Build your own decentralized im...]]></title>
+        <id>https://twitter.com/pbillingsby_eth/status/1528832248564183041</id>
+        <link href="https://twitter.com/pbillingsby_eth/status/1528832248564183041"/>
+        <updated>2022-05-23T20:16:27.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby.eth
+If you’ve been wondering how @ArweaveTeam and @BundlrNetwork works, I wrote this article for you!
+Build your own decentralized image uploader with Arweave and Bundlr 👇🏼 https://hashnode.com/post/decentralized-storage-with-arweave-and-bundlr-cl3hw72sr07xsmynvbmbo4059]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT david phelps (🐮,🐮)(🃏,🃏): person who becomes a dev just to join @developer_dao]]></title>
+        <id>https://twitter.com/divine_economy/status/1528832057547300870</id>
+        <link href="https://twitter.com/divine_economy/status/1528832057547300870"/>
+        <updated>2022-05-23T20:15:41.000Z</updated>
+        <summary type="html"><![CDATA[RT david phelps (🐮,🐮)(🃏,🃏)
+person who becomes a dev just to join @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1528777930255605767</id>
+        <link href="https://twitter.com/developer_dao/status/1528777930255605767"/>
+        <updated>2022-05-23T16:40:36.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT jeanayala.eth (🧱, 🚀): Hello my web3 frens! I want to share with you my first contribution to the @developer_dao in collaboration with @wearef...]]></title>
+        <id>https://twitter.com/mrsalitre/status/1528720833564266496</id>
+        <link href="https://twitter.com/mrsalitre/status/1528720833564266496"/>
+        <updated>2022-05-23T12:53:43.000Z</updated>
+        <summary type="html"><![CDATA[RT jeanayala.eth (🧱, 🚀)
+Hello my web3 frens! I want to share with you my first contribution to the @developer_dao in collaboration with @wearefloc 🚀
+With this dAPP less technical users will be able to have ownership of their NFT collections by owning the collection contract ✨ https://developer-dao-contract-factory.vercel.app]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC 4626 Tokenized Vaults by @developer_dao member @edzynda 🪅 In this video I cover the ERC-4626 Tokenized Vault Standard. What is it and why is it...]]></title>
+        <id>https://twitter.com/developer_dao/status/1528705604134613000</id>
+        <link href="https://twitter.com/developer_dao/status/1528705604134613000"/>
+        <updated>2022-05-23T11:53:12.000Z</updated>
+        <summary type="html"><![CDATA[ERC 4626 Tokenized Vaults by @developer_dao member @edzynda 🪅
+In this video I cover the ERC-4626 Tokenized Vault Standard. What is it and why is it important? https://www.youtube.com/watch?v=_UayAJaBo-U&feature=youtu.be]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sudharshan (🧱, 🚀): It's almost been a month since I joined @developer_dao! I want to let everyone know how incredibly rewarding it's been so ...]]></title>
+        <id>https://twitter.com/solderneer/status/1528698011526000640</id>
+        <link href="https://twitter.com/solderneer/status/1528698011526000640"/>
+        <updated>2022-05-23T11:23:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Sudharshan (🧱, 🚀)
+It's almost been a month since I joined @developer_dao!
+I want to let everyone know how incredibly rewarding it's been so let's do a retro and thank some people 🧵
+In this month I have...]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Hunter: Look what I saw when I was ordering a new work chair today 👀 $SOL $USDC]]></title>
+        <id>https://twitter.com/hunterxnicholas/status/1528599701477396480</id>
+        <link href="https://twitter.com/hunterxnicholas/status/1528599701477396480"/>
+        <updated>2022-05-23T04:52:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Hunter
+Look what I saw when I was ordering a new work chair today 👀 $SOL $USDC]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT carllippert.eth📍buenos aires 🇦🇷: .@developer_dao crew hits @BTCPizzaDayBA 🍻🍻 @0xTranqui @Matteo_Mer]]></title>
         <id>https://twitter.com/carllippert/status/1528529896095481858</id>
@@ -115,17 +241,6 @@ How Python Can Help You Enter Web3 ? ft. @Raza Zaidi || Unblocking Chain Ep.07�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🔮 An Effective Way To Build Your Own Oracle With Solidity by @developer_dao member @noahliechti Smart contracts cannot access off-chain data direct...]]></title>
-        <id>https://twitter.com/developer_dao/status/1527981010318655491</id>
-        <link href="https://twitter.com/developer_dao/status/1527981010318655491"/>
-        <updated>2022-05-21T11:53:56.000Z</updated>
-        <summary type="html"><![CDATA[🔮 An Effective Way To Build Your Own Oracle With Solidity by @developer_dao member @noahliechti
-Smart contracts cannot access off-chain data directly. In this tutorial, you will learn step by step how to connect Ethereum to any real world API. https://noahliechti.hashnode.dev/an-effective-way-to-build-your-own-oracle-with-solidity]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Manny (🇺🇸 San Francisco) (🧱,🚀): Just going to remind people to nominate and tag people under this thread (yes you can nominate yourself...]]></title>
         <id>https://twitter.com/codingwithmanny/status/1527850521490382849</id>
         <link href="https://twitter.com/codingwithmanny/status/1527850521490382849"/>
@@ -138,98 +253,6 @@ Manny (🇺🇸 San Francisco) (🧱,🚀): Giving away 2 @developer_dao NFTs 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🏘 The Complete Guide to Decentralized Autonomous Organizations by @developer_dao member @nonstack]]></title>
-        <id>https://twitter.com/developer_dao/status/1527794549963345920</id>
-        <link href="https://twitter.com/developer_dao/status/1527794549963345920"/>
-        <updated>2022-05-20T23:33:00.000Z</updated>
-        <summary type="html"><![CDATA[🏘 The Complete Guide to Decentralized Autonomous Organizations by @developer_dao member @nonstack https://blog.developerdao.com/the-complete-guide-to-decentralized-autonomous-organizations]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Michelle Bakels: Described in a tweet one single time as "famous", @developer_dao is building momentum and drawing attention... but what exactly *i...]]></title>
-        <id>https://twitter.com/MichelleBakels/status/1527767428633088001</id>
-        <link href="https://twitter.com/MichelleBakels/status/1527767428633088001"/>
-        <updated>2022-05-20T21:45:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Michelle Bakels
-Described in a tweet one single time as "famous", @developer_dao is building momentum and drawing attention... but what exactly *is* Developer DAO?
-I share answers to the most frequently asked D_D questions here ⬇️ https://michellebakels.hashnode.dev/what-is-developer-dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT leoglisic.eth 🦇🔊: Re @VitalikButerin, @glenweyl and @pujaohlhaver recently dropped a fascinating 37-pg paper on Soulbound Tokens. It sets the...]]></title>
-        <id>https://twitter.com/Leo_Glisic/status/1527743727917182977</id>
-        <link href="https://twitter.com/Leo_Glisic/status/1527743727917182977"/>
-        <updated>2022-05-20T20:11:03.000Z</updated>
-        <summary type="html"><![CDATA[RT leoglisic.eth 🦇🔊
-Re @VitalikButerin, @glenweyl and @pujaohlhaver recently dropped a fascinating 37-pg paper on Soulbound Tokens. 
-It sets the foundation for the next stage of crypto innovation, moving us beyond DeFi and NFTs into DeSoc (Decentralized Society).
-Here's what you need to know 🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DappaDan (🧱,🚀): Sharing my Top3 Web3 Content picks of the week that I read/listened/watched that you should also check out! ♥️👇]]></title>
-        <id>https://twitter.com/DAppaDanDev/status/1527742546914512896</id>
-        <link href="https://twitter.com/DAppaDanDev/status/1527742546914512896"/>
-        <updated>2022-05-20T20:06:21.000Z</updated>
-        <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
-Sharing my Top3 Web3 Content picks of the week that I read/listened/watched that you should also check out! ♥️👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Preethi Kasireddy: Most critics of Web 3 fail to acknowledge how early we are. Things are supposed look ugly and broken at this stage.]]></title>
-        <id>https://twitter.com/iam_preethi/status/1527724955135266817</id>
-        <link href="https://twitter.com/iam_preethi/status/1527724955135266817"/>
-        <updated>2022-05-20T18:56:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Preethi Kasireddy
-Most critics of Web 3 fail to acknowledge how early we are. Things are supposed look ugly and broken at this stage.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT OpenSea: Introducing Seaport, a brand new web3 marketplace protocol for safely and efficiently buying and selling NFTs. With an emphasis on flexibi...]]></title>
-        <id>https://twitter.com/opensea/status/1527705996549685248</id>
-        <link href="https://twitter.com/opensea/status/1527705996549685248"/>
-        <updated>2022-05-20T17:41:07.000Z</updated>
-        <summary type="html"><![CDATA[RT OpenSea
-Introducing Seaport, a brand new web3 marketplace protocol for safely and efficiently buying and selling NFTs.
-With an emphasis on flexibility and optimizations, Seaport has been built to support new and evolving use-cases for where NFTs are heading. https://opensea.io/blog/announcements/introducing-seaport-protocol/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Arweave Team: Come and build a DApp using Arweave and win prizes @ETHShanghai2022 hackathon, starting today until June 3rd! 😎🛠️ To register ...]]></title>
-        <id>https://twitter.com/ArweaveTeam/status/1527676157931528194</id>
-        <link href="https://twitter.com/ArweaveTeam/status/1527676157931528194"/>
-        <updated>2022-05-20T15:42:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Arweave Team
-Come and build a DApp using Arweave and win prizes @ETHShanghai2022 hackathon, starting today until June 3rd! 😎🛠️
-To register and participate go here 👇 https://gitcoin.co/hackathon/ethshanghai]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Stepchange: Poor NFTs and crypto. Almost as dead as the internet was in 2000 😢]]></title>
-        <id>https://twitter.com/stepchange8902/status/1527577407766798337</id>
-        <link href="https://twitter.com/stepchange8902/status/1527577407766798337"/>
-        <updated>2022-05-20T09:10:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Stepchange
-Poor NFTs and crypto. Almost as dead as the internet was in 2000 😢]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#24 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/24-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/24-probably-nothing"/>
@@ -237,19 +260,6 @@ Poor NFTs and crypto. Almost as dead as the internet was in 2000 😢]]></summar
         <summary type="html"><![CDATA[Winter is here. Time to buidl 🤝]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT useWeb3.eth · Learn Web3 development: 💻 Become a Blockchain Engineer by @PatrickAlphaC Check it out at 👇]]></title>
-        <id>https://twitter.com/useWeb3/status/1524416735398531073</id>
-        <link href="https://twitter.com/useWeb3/status/1524416735398531073"/>
-        <updated>2022-05-11T15:50:46.000Z</updated>
-        <summary type="html"><![CDATA[RT useWeb3.eth · Learn Web3 development
-💻 Become a Blockchain Engineer
-by @PatrickAlphaC
-Check it out at 👇 https://betterprogramming.pub/how-to-become-a-blockchain-engineer-fa4386a0504f]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
