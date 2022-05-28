@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-27T06:15:52.301Z</id>
+    <id>urn:2022-05-28T06:14:55.598Z</id>
     <title>web3::cave</title>
-    <updated>2022-05-27T06:15:52.301Z</updated>
+    <updated>2022-05-28T06:14:55.598Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! Today we had another awesome edition of #DevNTell where DAO members @unhappiimochii and @keikumata pres...]]></title>
+        <id>https://twitter.com/narb_s/status/1530269148537769985</id>
+        <link href="https://twitter.com/narb_s/status/1530269148537769985"/>
+        <updated>2022-05-27T19:26:10.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+gm @developer_dao frens!  Today we had another awesome edition of #DevNTell where DAO members @unhappiimochii and @keikumata presented @mintkudosXYZ 🎉
+If you missed the session, the recording is now up on the official Developer DAO YouTube channel 📹🍿 https://www.youtube.com/watch?v=DuTq4mrb23c]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT camiinthisthang.eth | Graph Day 👽🛸: Last nights @graphprotocol hack prep felt like the culmination of everything I’ve worked towards 🥹�...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1530232280236449792</id>
+        <link href="https://twitter.com/camiinthisthang/status/1530232280236449792"/>
+        <updated>2022-05-27T16:59:40.000Z</updated>
+        <summary type="html"><![CDATA[RT camiinthisthang.eth | Graph Day 👽🛸
+Last nights @graphprotocol hack prep felt like the culmination of everything I’ve worked towards 🥹🥹
+Seeing a room full of Black & Latino Bay Area natives in the same room as my web3 friends, both there to learn, was everything  💟
+@developer_dao 🤝 locals 🤝 @AtlasCafe_SF]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Austin Griffith: 🎀 GM, ANON! HAPPY BTF! 🎀 📣 The fastest way for a dev to learn how to build on Ethereum is... 🔥]]></title>
+        <id>https://twitter.com/austingriffith/status/1530227283926974464</id>
+        <link href="https://twitter.com/austingriffith/status/1530227283926974464"/>
+        <updated>2022-05-27T16:39:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Austin Griffith
+🎀 GM, ANON! HAPPY BTF! 🎀
+📣 The fastest way for a dev to learn how to build on Ethereum is... 
+🔥 http://SpeedRunEthereum.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Refract by @m1guelpf 🧊 A Hacker News style forum, built on @LensProtocol]]></title>
         <id>https://twitter.com/developer_dao/status/1529955298491908097</id>
@@ -180,7 +218,7 @@ dropknowledge.eth | lens 🚀 *Insert Location Here*: @developer_dao 🤝 @Len
 This partnership is just getting started, so if you haven’t claimed your .lens handle yet, you’ll want one for a little something we’re cooking up 👀
 Sp Thx to @davidesilverman & @brad_or_bradley for making this happen!
 It’s buidl time
- https://twitter.com/lensprotocol/status/1529505290202370048]]></summary>
+ https://twitter.com/LensProtocol/status/1529505290202370048]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -210,47 +248,12 @@ LFG🚀🚀]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT $MIGUEL Piedrafita: ✨ I used to love HN because of all the amazing articles & repos I found there. Unfortunately, quality has decreased over the y...]]></title>
-        <id>https://twitter.com/m1guelpf/status/1529686874377297922</id>
-        <link href="https://twitter.com/m1guelpf/status/1529686874377297922"/>
-        <updated>2022-05-26T04:52:25.000Z</updated>
-        <summary type="html"><![CDATA[RT $MIGUEL Piedrafita
-✨ I used to love HN because of all the amazing articles & repos I found there.
-Unfortunately, quality has decreased over the years (and they really really hate any crypto-related projects).
-So I made a new link board, powered by @LensProtocol 🌱 https://refract.withlens.app/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Brandon Campbell-Kearns | campbellkearns.eth: this seems like a right move, shout out @developer_dao & @LensProtocol]]></title>
-        <id>https://twitter.com/campbellkearns_/status/1529667073349124096</id>
-        <link href="https://twitter.com/campbellkearns_/status/1529667073349124096"/>
-        <updated>2022-05-26T03:33:44.000Z</updated>
-        <summary type="html"><![CDATA[RT Brandon Campbell-Kearns | campbellkearns.eth
-this seems like a right move, shout out @developer_dao  & @LensProtocol]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT ETHIndia: 👀]]></title>
         <id>https://twitter.com/ETHIndiaco/status/1529531489570164736</id>
         <link href="https://twitter.com/ETHIndiaco/status/1529531489570164736"/>
         <updated>2022-05-25T18:34:59.000Z</updated>
         <summary type="html"><![CDATA[RT ETHIndia
 👀 http://ethindia.co]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mirror: 1/ Introducing Writing NFTs]]></title>
-        <id>https://twitter.com/viamirror/status/1529523279245070337</id>
-        <link href="https://twitter.com/viamirror/status/1529523279245070337"/>
-        <updated>2022-05-25T18:02:21.000Z</updated>
-        <summary type="html"><![CDATA[RT Mirror
-1/ Introducing Writing NFTs https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0?w]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -285,6 +288,20 @@ The @ElrondNetwork Ad Astral Portal is finally here! But what is Elrond? and why
         <summary type="html"><![CDATA[Winter is here. Time to buidl 🤝]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ETHBarcelona: 🎟Our 2nd round of early bird tickets are now Join us this year for a solarpunk inspired conference and cultural experience.Only 25...]]></title>
+        <id>https://twitter.com/eth_barcelona/status/1526216550444740610</id>
+        <link href="https://twitter.com/eth_barcelona/status/1526216550444740610"/>
+        <updated>2022-05-16T15:02:36.000Z</updated>
+        <summary type="html"><![CDATA[RT ETHBarcelona
+🎟Our 2nd round of early bird tickets are now 
+Join us this year for a solarpunk inspired conference and cultural experience.Only 250 tickets left for our early bird #ETHBarcelona ☀️👩‍🚀 Go get them fast!!
+
+Tickets are 333 USDC on #polygon http://ethbarcelona.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
