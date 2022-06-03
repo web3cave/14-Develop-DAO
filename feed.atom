@@ -1,38 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-02T06:15:48.166Z</id>
+    <id>urn:2022-06-03T06:14:23.071Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-02T06:15:48.166Z</updated>
+    <updated>2022-06-03T06:14:23.071Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅 Here's how to enter 👇 1. Re...]]></title>
+        <id>https://twitter.com/developer_dao/status/1532542479957827586</id>
+        <link href="https://twitter.com/developer_dao/status/1532542479957827586"/>
+        <updated>2022-06-03T01:59:35.000Z</updated>
+        <summary type="html"><![CDATA[In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅
+Here's how to enter 👇
+1. Retweet this tweet along with a short message saying why you want to go 
+2. Tag a friend 
+See you in Spain! 🇪🇸
+ETHBarcelona: Come meet the movers & shakers of the crypto world at Spain’s first Ethereum conference.🇪🇸
+3 days of talks, music and festival vibes in the center of #Barcelona 🤩
+Come see what the future looks like at this amazing event.🥳
+🎟 Get your tickets today at
+ http://ethbarcelona.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT decentradude.eth (CJ) :: 🗽 #ETHNewYork: Feels like the web3 equivalent of getting your Hogwarts letter 🧙🏽‍♂️ 🪄 Lots of ground to cov...]]></title>
+        <id>https://twitter.com/decentradude_cj/status/1532537120044236804</id>
+        <link href="https://twitter.com/decentradude_cj/status/1532537120044236804"/>
+        <updated>2022-06-03T01:38:17.000Z</updated>
+        <summary type="html"><![CDATA[RT decentradude.eth (CJ) :: 🗽 #ETHNewYork
+Feels like the web3 equivalent of getting your Hogwarts letter 🧙🏽‍♂️ 🪄
+Lots of ground to cover w/ @developer_dao & @ETHNewYork over the next few weeks!
+#gm #LFG 😎]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nonstack.eth: ⚡⚡⚡ it's officially my 10th Article on @developer_dao So far hv interacted with so many amazing personalities in the DAO. Looking ...]]></title>
+        <id>https://twitter.com/nonstack/status/1532431160839651328</id>
+        <link href="https://twitter.com/nonstack/status/1532431160839651328"/>
+        <updated>2022-06-02T18:37:14.000Z</updated>
+        <summary type="html"><![CDATA[RT nonstack.eth
+⚡⚡⚡ it's officially my 10th Article on @developer_dao 
+So far hv interacted with so many amazing personalities in the DAO. Looking forward to learning Machine Learning with @BluePanda_io & React with @codingwithmanny. Working on a Web3 book with @K4y1s https://blog.developerdao.com/the-complete-guide-to-stablecoins]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT turja.eth: the rise of NFTs has undoubtedly brought immense attention to the Web 3 space, so where do you get one and why? next in the web 3 deep d...]]></title>
+        <id>https://twitter.com/tchowd_/status/1532424380327809039</id>
+        <link href="https://twitter.com/tchowd_/status/1532424380327809039"/>
+        <updated>2022-06-02T18:10:17.000Z</updated>
+        <summary type="html"><![CDATA[RT turja.eth
+the rise of NFTs has undoubtedly brought immense attention to the Web 3 space, so where do you get one and why?
+next in the web 3 deep dives, i tackle the go-to marketplace for NFTs - @OpenSea https://turja.substack.com/p/lets-talk-web-3-opensea-product-review?s=w]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 🦇🔊 cawfree.⟠ ᵍᵐ: I am so happy to finally reveal what I’ve been working on for the past two years. #Web3 is real, and it is powered by #R...]]></title>
+        <id>https://twitter.com/cawfree/status/1532412986991812608</id>
+        <link href="https://twitter.com/cawfree/status/1532412986991812608"/>
+        <updated>2022-06-02T17:25:01.000Z</updated>
+        <summary type="html"><![CDATA[RT 🦇🔊 cawfree.⟠ ᵍᵐ
+I am so happy to finally reveal what I’ve been working on for the past two years.
+#Web3 is real, and it is powered by #ReactNative!
+#GraphDay2022 https://edgeandnode.com/geo/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Web3Conf India🇮🇳: If you don't know him, are you even active in the web3 space?👀 His newsletters are 🔥 @VittoStack is a Creator, Consul...]]></title>
+        <id>https://twitter.com/web3conf_india/status/1532410317036105745</id>
+        <link href="https://twitter.com/web3conf_india/status/1532410317036105745"/>
+        <updated>2022-06-02T17:14:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3Conf India🇮🇳
+If you don't know him, are you even active in the web3 space?👀
+His newsletters are 🔥
+@VittoStack is a Creator, Consultant, and a Developer. He is also Devrel at @AlchemyPlatform and handles growth @web3university 🚀
+We are extremely excited to host him at Web3Conf India🇮🇳😀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT WBW3 💖🚀: Happy hour was a success 💟 So great to see builders, founders, and leaders all in the same building - find WBW3 today at #GraphDa...]]></title>
+        <id>https://twitter.com/womenbuildweb3/status/1532396586310828032</id>
+        <link href="https://twitter.com/womenbuildweb3/status/1532396586310828032"/>
+        <updated>2022-06-02T16:19:51.000Z</updated>
+        <summary type="html"><![CDATA[RT WBW3 💖🚀
+Happy hour was a success 💟 
+So great to see builders, founders, and leaders all in the same building - find WBW3 today at #GraphDay2022 🪄]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT albert: are y’all ready for this who’s building on @solana out here? 😁]]></title>
+        <id>https://twitter.com/thatguyintech/status/1532383101544026113</id>
+        <link href="https://twitter.com/thatguyintech/status/1532383101544026113"/>
+        <updated>2022-06-02T15:26:16.000Z</updated>
+        <summary type="html"><![CDATA[RT albert
+are y’all ready for this
+who’s building on @solana out here? 😁
+CoinDesk: .@alchemyplatform is expanding to the @solana ecosystem to support developers who want quicker, cheaper transactions.
+@camlearnscrypto reports
+ https://trib.al/NMKY3bR]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT bensadeghi.eth: Singapore @developer_dao meetup! 🤓🥳 Thanks @solderneer for organizing]]></title>
+        <id>https://twitter.com/BenSadeghi/status/1532328215079194625</id>
+        <link href="https://twitter.com/BenSadeghi/status/1532328215079194625"/>
+        <updated>2022-06-02T11:48:10.000Z</updated>
+        <summary type="html"><![CDATA[RT bensadeghi.eth
+Singapore @developer_dao meetup! 🤓🥳 Thanks @solderneer for organizing]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @thatguyintech @AlchemyPlatform @CryptoLeos @crypto_coven @mintkudosXYZ @odyssey_dao @womenbuildweb3 @CuriousAddys @FWBtweets gm 👑]]></title>
         <id>https://twitter.com/developer_dao/status/1532243852567842817</id>
         <link href="https://twitter.com/developer_dao/status/1532243852567842817"/>
         <updated>2022-06-02T06:12:56.000Z</updated>
         <summary type="html"><![CDATA[Re @thatguyintech @AlchemyPlatform @CryptoLeos @crypto_coven @mintkudosXYZ @odyssey_dao @womenbuildweb3 @CuriousAddys @FWBtweets gm 👑]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT albert: gm #RoadToWeb3 gm @AlchemyPlatform gm @developer_dao gm @CryptoLeos gm @crypto_coven gm @mintkudosXYZ gm @odyssey_dao gm @womenbuildweb3 gm...]]></title>
-        <id>https://twitter.com/thatguyintech/status/1532234519985541120</id>
-        <link href="https://twitter.com/thatguyintech/status/1532234519985541120"/>
-        <updated>2022-06-02T05:35:51.000Z</updated>
-        <summary type="html"><![CDATA[RT albert
-gm #RoadToWeb3 
-gm @AlchemyPlatform 
-gm @developer_dao 
-gm @CryptoLeos 
-gm @crypto_coven 
-gm @mintkudosXYZ 
-gm @odyssey_dao 
-gm @womenbuildweb3 
-gm @CuriousAddys 
-gm @FWBtweets 
-gm y’all 
-how are my favorite web3 communities doing today]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -51,11 +150,11 @@ We are all gonna make it 🔛 the Road to @EFDevcon http://speedrunethereum.co
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT TessaMero.eth: The NFT conference in Seattle is going to be amazing. The organizers team is 🔥 🔥! If you’re looking to sponsor or attend a co...]]></title>
+        <title type="html"><![CDATA[RT TessaMero.eth / tessa.lens: The NFT conference in Seattle is going to be amazing. The organizers team is 🔥 🔥! If you’re looking to sponsor o...]]></title>
         <id>https://twitter.com/TessaMero/status/1532197230072909825</id>
         <link href="https://twitter.com/TessaMero/status/1532197230072909825"/>
         <updated>2022-06-02T03:07:41.000Z</updated>
-        <summary type="html"><![CDATA[RT TessaMero.eth
+        <summary type="html"><![CDATA[RT TessaMero.eth / tessa.lens
 The NFT conference in Seattle is going to be amazing. The organizers team is 🔥 🔥!
 If you’re looking to sponsor or attend a conference and involved in #NFTs, this is the place!
 VIP tickets and sponsor spots are going to go fast💨 
@@ -145,18 +244,6 @@ Start building: https://api.zora.co]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💎 Ethereum Diamonds - EIP-2535 Multi Facet Proxy In this video you'll learn about the Mult-Facet Proxy standard (EIP-2535). ⚡️ by @developer_dao ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1532067454775533568</id>
-        <link href="https://twitter.com/developer_dao/status/1532067454775533568"/>
-        <updated>2022-06-01T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[💎 Ethereum Diamonds - EIP-2535 Multi Facet Proxy
-In this video you'll learn about the Mult-Facet Proxy standard (EIP-2535).
-⚡️ by @developer_dao member @what_the_func https://www.youtube.com/watch?v=yKLDBsYPyE8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Daeshawn.sol 👋🏾: I’m #blessed to say, I’ve accepted a full time Senior Product Manager role @metaplex! I’ll be working alongside an incred...]]></title>
         <id>https://twitter.com/DaeshawnBallard/status/1532042464793608192</id>
         <link href="https://twitter.com/DaeshawnBallard/status/1532042464793608192"/>
@@ -171,89 +258,12 @@ Daeshawn.sol 👋🏾: Calling it now. I’ll be working full time in crypto b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🟢 EIP-4844 and its Impact on Ethereum Scalability How the next protocol upgrade after the merge will completely change the rollup game. ⚡️ by @de...]]></title>
-        <id>https://twitter.com/developer_dao/status/1532037117815115778</id>
-        <link href="https://twitter.com/developer_dao/status/1532037117815115778"/>
-        <updated>2022-06-01T16:31:27.000Z</updated>
-        <summary type="html"><![CDATA[🟢 EIP-4844 and its Impact on Ethereum Scalability 
-How the next protocol upgrade after the merge will completely change the rollup game.
-⚡️ by @developer_dao member @pdomenico4 https://blog.developerdao.com/eip-4844-and-its-impact-on-ethereum-scalability]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tally: What if you already have a token and you want to create a DAO using that token? @NatachaDelaRosa has your back! On Tally's blog, Natacha sho...]]></title>
-        <id>https://twitter.com/tallyxyz/status/1532014757275766785</id>
-        <link href="https://twitter.com/tallyxyz/status/1532014757275766785"/>
-        <updated>2022-06-01T15:02:36.000Z</updated>
-        <summary type="html"><![CDATA[RT Tally
-What if you already have a token and you want to create a DAO using that token?
-@NatachaDelaRosa has your back! 
-On Tally's blog, Natacha shows us how to enable DAO governance for your existing token by adding an @OpenZeppelin Governor Contract. 🎉 https://blog.tally.xyz/how-to-add-dao-governance-to-existing-token-contracts-397855f081ac]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Kui He: thanks to @_Roamin_ , the Assembly Script SDK is pretty easy to use on Koinos. He's got 2 articles on how to use the SDK, both are linked h...]]></title>
-        <id>https://twitter.com/kuixihe/status/1532002640149860353</id>
-        <link href="https://twitter.com/kuixihe/status/1532002640149860353"/>
-        <updated>2022-06-01T14:14:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Kui He
-thanks to @_Roamin_ , the Assembly Script SDK is pretty easy to use on Koinos. He's got 2 articles on how to use the SDK, both are linked here: 
-But I've summarized them in a graphic for the @developer_dao fam.
-@koinosnetwork @JadeProtocol https://www.koinosforum.com/d_d-blogs/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Nhein.lens: Will be doing a Twitter spaces in a few hours, would love to see you there! Will be doing more of these in the future, so be sure to st...]]></title>
-        <id>https://twitter.com/NHeinDev/status/1532001405912985601</id>
-        <link href="https://twitter.com/NHeinDev/status/1532001405912985601"/>
-        <updated>2022-06-01T14:09:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Nhein.lens
-Will be doing a Twitter spaces in a few hours, would love to see you there!
-Will be doing more of these in the future, so be sure to stay on the look out for future spaces as well 👀
-QuickNode: Today at 1PM EST 🔔
-@NHeinDev from @QuickNode & @saminacodes from @thirdweb_ on landing a job in web3, ThirdWeb, and the web3 ecosystem! 
-See ya there 🤠
- https://twitter.com/i/spaces/1MnxnkEAvDXKO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rahat.eth @ Graph Day & Graph Hack: Warms my heart to see the awesome devrel folks from @developer_dao doing amazing things. This is a stan account...]]></title>
-        <id>https://twitter.com/Rahatcodes/status/1531993679077986309</id>
-        <link href="https://twitter.com/Rahatcodes/status/1531993679077986309"/>
-        <updated>2022-06-01T13:38:50.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth @ Graph Day & Graph Hack
-Warms my heart to see the awesome devrel folks from @developer_dao doing amazing things. This is a stan account for @JoshCStein @dhaiwat10 @kayprasla (damn ankr) @0ceans404 (yay polygon).
-There are more D_D folks who I know would be amazing in this role 👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BULL, BEAR, BUILDER by @jackbutcher]]></title>
-        <id>https://twitter.com/developer_dao/status/1531987492890505217</id>
-        <link href="https://twitter.com/developer_dao/status/1531987492890505217"/>
-        <updated>2022-06-01T13:14:15.000Z</updated>
-        <summary type="html"><![CDATA[BULL, BEAR, BUILDER by @jackbutcher]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Orbis, the web3 social network: For this week's AMA we're thrilled to play host to @me_jango, Founder of @juiceboxETH, on Friday June 3rd from 12pm...]]></title>
-        <id>https://twitter.com/OrbisClub/status/1531981270003068929</id>
-        <link href="https://twitter.com/OrbisClub/status/1531981270003068929"/>
-        <updated>2022-06-01T12:49:32.000Z</updated>
-        <summary type="html"><![CDATA[RT Orbis, the web3 social network
-For this week's AMA we're thrilled to play host to @me_jango, Founder of @juiceboxETH, on Friday June 3rd from 12pm EST.
-Juicebox is akin to a decentralized Kickstarter, allowing projects to raise funding from the community all powered by public smart contracts on Ethereum.]]></summary>
+        <title type="html"><![CDATA[RT susmit.eth wagmi: Our @huddle01com browser extension is now live 🙏 . Meeting simplified. :)]]></title>
+        <id>https://twitter.com/Susmit_Lavania/status/1531883811864457216</id>
+        <link href="https://twitter.com/Susmit_Lavania/status/1531883811864457216"/>
+        <updated>2022-06-01T06:22:16.000Z</updated>
+        <summary type="html"><![CDATA[RT susmit.eth wagmi
+Our @huddle01com browser extension is now live 🙏 . Meeting simplified. :)]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -265,17 +275,6 @@ Juicebox is akin to a decentralized Kickstarter, allowing projects to raise fund
         <updated>2022-05-31T23:07:25.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Smart Contract Programmer: Deploy Smart Contract to zkSync 2.0 | Layer 2]]></title>
-        <id>https://twitter.com/ProgrammerSmart/status/1531583630438711297</id>
-        <link href="https://twitter.com/ProgrammerSmart/status/1531583630438711297"/>
-        <updated>2022-05-31T10:29:27.000Z</updated>
-        <summary type="html"><![CDATA[RT Smart Contract Programmer
-Deploy Smart Contract to zkSync 2.0 | Layer 2 https://youtu.be/8ARpZ0zL48g]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
