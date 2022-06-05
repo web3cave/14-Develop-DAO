@@ -77,6 +77,46 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/web3paloma/status/1533133431764287494",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Paloma\nFinally claimed my lens handle. If you're in @developer_dao   and yet to claim your handle here's the link https://claim.lens.xyz/",
+          "link": "https://twitter.com/web3paloma/status/1533133431764287494",
+          "publishedOn": "2022-06-04T17:07:49.000Z",
+          "wordCount": 196,
+          "title": "RT Paloma: Finally claimed my lens handle. If you're in @developer_dao and yet to claim your handle here's the link",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1533111558519201793",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @DeStoreDAO wen @developer_dao",
+          "link": "https://twitter.com/developer_dao/status/1533111558519201793",
+          "publishedOn": "2022-06-04T15:40:54.000Z",
+          "wordCount": 196,
+          "title": "Re @DeStoreDAO wen @developer_dao",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1533111160488112129",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Dev & Tell | @mintkudosXYZ ✨\nIn last week's edition of DevNTell, DAO members @unhappiimochii and @keikumata present to us their project MintKudos 🎉 https://www.youtube.com/watch?v=DuTq4mrb23c",
+          "link": "https://twitter.com/developer_dao/status/1533111160488112129",
+          "publishedOn": "2022-06-04T15:39:19.000Z",
+          "wordCount": 196,
+          "title": "Dev & Tell | @mintkudosXYZ ✨ In last week's edition of DevNTell, DAO members @unhappiimochii and @keikumata present to us their project MintKudos �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/zubairself/status/1533078836719632394",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Zubair Ahmed\n😂😂 via @developer_dao discord",
+          "link": "https://twitter.com/zubairself/status/1533078836719632394",
+          "publishedOn": "2022-06-04T13:30:52.000Z",
+          "wordCount": 196,
+          "title": "RT Zubair Ahmed: 😂😂 via @developer_dao discord",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/camiinthisthang/status/1532939920280637441",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT camiinthisthang.eth @ Graph Hack 👽🛸\nVibes at the @womenbuildweb3 x @developer_dao meet up on immaculate 💅🏼",
@@ -117,6 +157,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/what_the_func/status/1532864560830480391",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ξd Zynda - What The Func? Ξ🦇🔊\nI realize web3 devs love @reactjs \nEverything is in react\nPersonally React and JSX hurt my eyes so...\nInspired by @dabit3 I decided to create my own @LensProtocol starter app written using...\n@sveltejs 🔥🚀\nCheckout the repo in progress here: https://github.com/mark3labs/lens-starter",
+          "link": "https://twitter.com/what_the_func/status/1532864560830480391",
+          "publishedOn": "2022-06-03T23:19:25.000Z",
+          "wordCount": 196,
+          "title": "RT Ξd Zynda - What The Func? Ξ🦇🔊: I realize web3 devs love @reactjs Everything is in react Personally React and JSX hurt my eyes so... Inspire...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/0xElan/status/1532864062891012096",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Elan Halpern\nIf you're new to the crypto space (let's face it - we all are) you know it can feel like information overload...\nTo break things down, I teamed up with @MyBFF to create some bite-sized intro to NFT videos 😎\nCheck out the full series here: https://www.youtube.com/playlist?list=PLA26elVwRcKhUsBp5zchqdnTZ8VwcOfWP",
@@ -124,36 +174,6 @@
           "publishedOn": "2022-06-03T23:17:26.000Z",
           "wordCount": 196,
           "title": "RT Elan Halpern: If you're new to the crypto space (let's face it - we all are) you know it can feel like information overload... To break things down...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1532814804762521600",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader dabit (🧱, 🚀) | sha.eth @ Graph Hack 2022\nWhat are some good project ideas for a web3 hackathon?\nI'll be sharing some of these ideas today in my Graph Hack keynote, and curating them later into some of my educational resources.",
-          "link": "https://twitter.com/dabit3/status/1532814804762521600",
-          "publishedOn": "2022-06-03T20:01:42.000Z",
-          "wordCount": 196,
-          "title": "RT nader dabit (🧱, 🚀) | sha.eth @ Graph Hack 2022: What are some good project ideas for a web3 hackathon? I'll be sharing some of these ideas to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1532801502166650880",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Accessing Ethereum Archive Nodes With @infura_io  by @developer_dao member @paul_can_code \n▵ In this article, we'll review the different types of Ethereum nodes, dive deeper into Archive Nodes, and introduce the new archive node capabilities of Infura. https://blog.paulmcaviney.ca/accessing-ethereum-archive-nodes-with-infura",
-          "link": "https://twitter.com/developer_dao/status/1532801502166650880",
-          "publishedOn": "2022-06-03T19:08:50.000Z",
-          "wordCount": 196,
-          "title": "Accessing Ethereum Archive Nodes With @infura_io by @developer_dao member @paul_can_code ▵ In this article, we'll review the different types of Ether...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TheBuilderDAO/status/1532771230138482688",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Builder DAO\n\"Filter the noise, focus on the fundamentals\"\n\"What is web3? Protocolization of web services\"\nHigh-density learning courtesy of @ArweaveTeam's @samecwilliams at @graphprotocol #graphday https://youtu.be/yLQmdM5DWSk?t=27801",
-          "link": "https://twitter.com/TheBuilderDAO/status/1532771230138482688",
-          "publishedOn": "2022-06-03T17:08:33.000Z",
-          "wordCount": 196,
-          "title": "RT Builder DAO: \"Filter the noise, focus on the fundamentals\" \"What is web3? Protocolization of web services\" High-density learning courtesy of @Arwea...",
           "imageUrl": null
         },
         {
@@ -167,19 +187,9 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/_eloigil/status/1532762886317215745",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT eloigil.eth\nGM! ☀️ Officially being onboarded to the @developer_dao \n#kudos to @wise_Tyy 👏👏",
-          "link": "https://twitter.com/_eloigil/status/1532762886317215745",
-          "publishedOn": "2022-06-03T16:35:24.000Z",
-          "wordCount": 196,
-          "title": "RT eloigil.eth: GM! ☀️ Officially being onboarded to the @developer_dao #kudos to @wise_Tyy 👏👏",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/LensProtocol/status/1532760148120322049",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT LensProtocol.lens 🌿\nCalling all Rabbithole credential holders, it’s time to visit https://claim.lens.xyz/",
+          "description": "RT LensProtocol.lens 🌿\nCalling all Rabbithole credential holders, it’s time to visit\nRabbitHole: *click*📸\nWe've got a treat for RabbitHole credential holders...\nOur friends at @LensProtocol have given you access to mint your Lens profile right now! \nHit us with a follow as well:\n http://claim.lens.xyz https://lenster.xyz/u/rabbithole.lens",
           "link": "https://twitter.com/LensProtocol/status/1532760148120322049",
           "publishedOn": "2022-06-03T16:24:31.000Z",
           "wordCount": 196,
@@ -187,73 +197,83 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/0ceans404/status/1532740834273071104",
+          "id": "https://twitter.com/SenLummis/status/1532746920866762754",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT steph ✈️ Graph Hack SF • ᴗ • oceans404.eth\neverything @womenbuildweb3 builds is going to the moon 🚀 graph day eclipse party  🌙 @graphprotocol @developer_dao",
-          "link": "https://twitter.com/0ceans404/status/1532740834273071104",
-          "publishedOn": "2022-06-03T15:07:46.000Z",
+          "description": "RT Senator Cynthia Lummis\nWe’ve been teasing it for months, but the time is almost here – a proposal to fully integrate digital assets into our financial system. Excited to finally unveil this effort next week. Stay tuned 👀 👀 👀",
+          "link": "https://twitter.com/SenLummis/status/1532746920866762754",
+          "publishedOn": "2022-06-03T15:31:57.000Z",
           "wordCount": 196,
-          "title": "RT steph ✈️ Graph Hack SF • ᴗ • oceans404.eth: everything @womenbuildweb3 builds is going to the moon 🚀 graph day eclipse party 🌙 @graphpro...",
+          "title": "RT Senator Cynthia Lummis: We’ve been teasing it for months, but the time is almost here – a proposal to fully integrate digital assets into our fin...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1532719791869267974",
+          "id": "https://twitter.com/turbahn/status/1532725306917797888",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "🌮 Did someone say Tacos?!?\n🎉 We're so excited to see all our frens tonight! \nCome hang with other D_D members, and meet the amazing teams behind @SpruceID and @womenbuildweb3! \n6:30pm to 9:30pm!\nRSVP early - we can't wait to see you there! https://lu.ma/ku9o6u7n",
-          "link": "https://twitter.com/developer_dao/status/1532719791869267974",
-          "publishedOn": "2022-06-03T13:44:09.000Z",
+          "description": "RT Itai\nContinuing our deep dive into the world of wallets, we wanted to explore the history of recovery in self-custodial wallets. We wrote a quick blog post about it: https://www.dynamic.xyz/blog/recovery-methods-in-wallets-an-overview",
+          "link": "https://twitter.com/turbahn/status/1532725306917797888",
+          "publishedOn": "2022-06-03T14:06:04.000Z",
           "wordCount": 196,
-          "title": "🌮 Did someone say Tacos?!? 🎉 We're so excited to see all our frens tonight! Come hang with other D_D members, and meet the amazing teams behind ...",
+          "title": "RT Itai: Continuing our deep dive into the world of wallets, we wanted to explore the history of recovery in self-custodial wallets. We wrote a quick ...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/tonyolendo/status/1532546845192372230",
+          "id": "https://twitter.com/gitopiaDAO/status/1532701065384108033",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tonyolendo.eth\nManifesting @web3con in Lagos in November. @web3afrika @Rahatcodes  @dhaiwat10 @Colin4ward @DAppaDanDev @narb_s @developer_dao",
-          "link": "https://twitter.com/tonyolendo/status/1532546845192372230",
-          "publishedOn": "2022-06-03T02:16:55.000Z",
+          "description": "RT Gitopia\n1/7 If you are a #developer looking to start exploring #web3 by contributing, then The Game of $LORE program is just for you. \nBenefits of #developers participating in The Game of $LORE thread 🧵👇",
+          "link": "https://twitter.com/gitopiaDAO/status/1532701065384108033",
+          "publishedOn": "2022-06-03T12:29:44.000Z",
           "wordCount": 196,
-          "title": "RT tonyolendo.eth: Manifesting @web3con in Lagos in November. @web3afrika @Rahatcodes @dhaiwat10 @Colin4ward @DAppaDanDev @narb_s @developer_dao",
+          "title": "RT Gitopia: 1/7 If you are a #developer looking to start exploring #web3 by contributing, then The Game of $LORE program is just for you. Benefits of ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Mardeni01/status/1532662268206399488",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT MardΞni (🧱, 🚀)\nWhat is Geo? A new web3 browser by @graphprotocol with a decentralization mission. \nRead my full article here: https://ahmadmardeni.substack.com/p/geo-the-new-web3-browser-with-a-decentralization",
+          "link": "https://twitter.com/Mardeni01/status/1532662268206399488",
+          "publishedOn": "2022-06-03T09:55:34.000Z",
+          "wordCount": 196,
+          "title": "RT MardΞni (🧱, 🚀): What is Geo? A new web3 browser by @graphprotocol with a decentralization mission. Read my full article here:",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/developer_dao/status/1532542479957827586",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅\nHere's how to enter 👇\n1. Retweet this tweet along with a short message saying why you want to go \n2. Tag a friend \nSee you in Spain! 🇪🇸",
+          "description": "RT Developer DAO (🧱, 🚀)\nIn partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅\nHere's how to enter 👇\n1. Retweet this tweet along with a short message saying why you want to go \n2. Tag a friend \nSee you in Spain! 🇪🇸\nETHBarcelona: Come meet the movers & shakers of the crypto world at Spain’s first Ethereum conference.🇪🇸\n3 days of talks, music and festival vibes in the center of #Barcelona 🤩\nCome see what the future looks like at this amazing event.🥳\n🎟 Get your tickets today at\n http://ethbarcelona.com",
           "link": "https://twitter.com/developer_dao/status/1532542479957827586",
           "publishedOn": "2022-06-03T01:59:35.000Z",
           "wordCount": 196,
-          "title": "In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅 Here's how to enter 👇 1. Re...",
+          "title": "RT Developer DAO (🧱, 🚀): In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/ken_wheeler/status/1532500092892086284",
+          "id": "https://twitter.com/ChainSafeth/status/1532387024665296903",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT well fed jon b @ RenderATL\nGave a talk today about making an iOS drum machine with Swift UI that loads and plays Music NFT samples. Big thanks to @its_txbrown and @ericlewis for swift help and @QuickNode for the hard ass APIs",
-          "link": "https://twitter.com/ken_wheeler/status/1532500092892086284",
-          "publishedOn": "2022-06-02T23:11:09.000Z",
+          "description": "RT ChainSafe\nThere's never been a better time to start building🛠 \nChainSafe #devlrel @waymobetta has created a simple, unbiased guide for people entering the blockchain space.\nA web3 developer roadmap👇 https://blog.chainsafe.io/how-to-become-a-web3-developer-8849ab20b686",
+          "link": "https://twitter.com/ChainSafeth/status/1532387024665296903",
+          "publishedOn": "2022-06-02T15:41:51.000Z",
           "wordCount": 196,
-          "title": "RT well fed jon b @ RenderATL: Gave a talk today about making an iOS drum machine with Swift UI that loads and plays Music NFT samples. Big thanks to ...",
+          "title": "RT ChainSafe: There's never been a better time to start building🛠 ChainSafe #devlrel @waymobetta has created a simple, unbiased guide for people en...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/ethlatam/status/1532473788683673622",
+          "id": "https://twitter.com/phi_xyz/status/1532140359479832577",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ETHLatam at BA 🇦🇷\nWho are the speakers you all want to see with us during  @ethlatam? Tag them here 👇\nA quiénes te gustaría ver de speakers en #ETHLatam? Etiquétalos 👇\n#WAGEI 💠",
-          "link": "https://twitter.com/ethlatam/status/1532473788683673622",
-          "publishedOn": "2022-06-02T21:26:37.000Z",
+          "description": "RT PHI\nGm everyone - we're excited to release our new design including the logo, the landing page, and the isometric land view designed by @eBoyArts, @0xOzh, @ta2nb_mkiii. Please check it out! 🎉 https://philand.xyz/",
+          "link": "https://twitter.com/phi_xyz/status/1532140359479832577",
+          "publishedOn": "2022-06-01T23:21:42.000Z",
           "wordCount": 196,
-          "title": "RT ETHLatam at BA 🇦🇷: Who are the speakers you all want to see with us during @ethlatam? Tag them here 👇 A quiénes te gustaría ver de speak...",
+          "title": "RT PHI: Gm everyone - we're excited to release our new design including the logo, the landing page, and the isometric land view designed by @eBoyArts,...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/adietrichs/status/1532333162755502081",
+          "id": "https://twitter.com/DeStoreDAO/status/1529199090600247296",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ansgar.eth 🦇🔊\nQuick personal update: Tuesday was my last day at Quilt, I am now a member of the Ethereum Foundation research team. I‘ll basically continue to do the same work as before, but have been drifting more towards pure research for a while now, so that move made sense.",
-          "link": "https://twitter.com/adietrichs/status/1532333162755502081",
-          "publishedOn": "2022-06-02T12:07:50.000Z",
+          "description": "RT DeStore\ngm frens\nOpen Today, FREE co-working space exclusively for specific NFT/token holders in SF!\nWen: Mon-Fri 9am - 5pm\nWhere: 348 Hayes St, SF\nWho: FWB members, BAYC, Clone X holders, etc..\nDetails in \nJust DM us. http://DeStoreWork.xyz",
+          "link": "https://twitter.com/DeStoreDAO/status/1529199090600247296",
+          "publishedOn": "2022-05-24T20:34:09.000Z",
           "wordCount": 196,
-          "title": "RT ansgar.eth 🦇🔊: Quick personal update: Tuesday was my last day at Quilt, I am now a member of the Ethereum Foundation research team. I‘ll bas...",
+          "title": "RT DeStore: gm frens Open Today, FREE co-working space exclusively for specific NFT/token holders in SF! Wen: Mon-Fri 9am - 5pm Where: 348 Hayes St, S...",
           "imageUrl": null
         }
       ]

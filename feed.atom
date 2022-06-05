@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-04T06:13:24.818Z</id>
+    <id>urn:2022-06-05T06:13:02.540Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-04T06:13:24.818Z</updated>
+    <updated>2022-06-05T06:13:02.540Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Paloma: Finally claimed my lens handle. If you're in @developer_dao and yet to claim your handle here's the link]]></title>
+        <id>https://twitter.com/web3paloma/status/1533133431764287494</id>
+        <link href="https://twitter.com/web3paloma/status/1533133431764287494"/>
+        <updated>2022-06-04T17:07:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Paloma
+Finally claimed my lens handle. If you're in @developer_dao   and yet to claim your handle here's the link https://claim.lens.xyz/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DeStoreDAO wen @developer_dao]]></title>
+        <id>https://twitter.com/developer_dao/status/1533111558519201793</id>
+        <link href="https://twitter.com/developer_dao/status/1533111558519201793"/>
+        <updated>2022-06-04T15:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Re @DeStoreDAO wen @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dev & Tell | @mintkudosXYZ ✨ In last week's edition of DevNTell, DAO members @unhappiimochii and @keikumata present to us their project MintKudos �...]]></title>
+        <id>https://twitter.com/developer_dao/status/1533111160488112129</id>
+        <link href="https://twitter.com/developer_dao/status/1533111160488112129"/>
+        <updated>2022-06-04T15:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Dev & Tell | @mintkudosXYZ ✨
+In last week's edition of DevNTell, DAO members @unhappiimochii and @keikumata present to us their project MintKudos 🎉 https://www.youtube.com/watch?v=DuTq4mrb23c]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Zubair Ahmed: 😂😂 via @developer_dao discord]]></title>
+        <id>https://twitter.com/zubairself/status/1533078836719632394</id>
+        <link href="https://twitter.com/zubairself/status/1533078836719632394"/>
+        <updated>2022-06-04T13:30:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Zubair Ahmed
+😂😂 via @developer_dao discord]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT camiinthisthang.eth @ Graph Hack 👽🛸: Vibes at the @womenbuildweb3 x @developer_dao meet up on immaculate 💅🏼]]></title>
         <id>https://twitter.com/camiinthisthang/status/1532939920280637441</id>
@@ -45,6 +88,22 @@ Vibes at the @womenbuildweb3 x @developer_dao meet up on immaculate 💅🏼]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Ξd Zynda - What The Func? Ξ🦇🔊: I realize web3 devs love @reactjs Everything is in react Personally React and JSX hurt my eyes so... Inspire...]]></title>
+        <id>https://twitter.com/what_the_func/status/1532864560830480391</id>
+        <link href="https://twitter.com/what_the_func/status/1532864560830480391"/>
+        <updated>2022-06-03T23:19:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Ξd Zynda - What The Func? Ξ🦇🔊
+I realize web3 devs love @reactjs 
+Everything is in react
+Personally React and JSX hurt my eyes so...
+Inspired by @dabit3 I decided to create my own @LensProtocol starter app written using...
+@sveltejs 🔥🚀
+Checkout the repo in progress here: https://github.com/mark3labs/lens-starter]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Elan Halpern: If you're new to the crypto space (let's face it - we all are) you know it can feel like information overload... To break things down...]]></title>
         <id>https://twitter.com/0xElan/status/1532864062891012096</id>
         <link href="https://twitter.com/0xElan/status/1532864062891012096"/>
@@ -53,42 +112,6 @@ Vibes at the @womenbuildweb3 x @developer_dao meet up on immaculate 💅🏼]]><
 If you're new to the crypto space (let's face it - we all are) you know it can feel like information overload...
 To break things down, I teamed up with @MyBFF to create some bite-sized intro to NFT videos 😎
 Check out the full series here: https://www.youtube.com/playlist?list=PLA26elVwRcKhUsBp5zchqdnTZ8VwcOfWP]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth @ Graph Hack 2022: What are some good project ideas for a web3 hackathon? I'll be sharing some of these ideas to...]]></title>
-        <id>https://twitter.com/dabit3/status/1532814804762521600</id>
-        <link href="https://twitter.com/dabit3/status/1532814804762521600"/>
-        <updated>2022-06-03T20:01:42.000Z</updated>
-        <summary type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth @ Graph Hack 2022
-What are some good project ideas for a web3 hackathon?
-I'll be sharing some of these ideas today in my Graph Hack keynote, and curating them later into some of my educational resources.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessing Ethereum Archive Nodes With @infura_io by @developer_dao member @paul_can_code ▵ In this article, we'll review the different types of Ether...]]></title>
-        <id>https://twitter.com/developer_dao/status/1532801502166650880</id>
-        <link href="https://twitter.com/developer_dao/status/1532801502166650880"/>
-        <updated>2022-06-03T19:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Accessing Ethereum Archive Nodes With @infura_io  by @developer_dao member @paul_can_code 
-▵ In this article, we'll review the different types of Ethereum nodes, dive deeper into Archive Nodes, and introduce the new archive node capabilities of Infura. https://blog.paulmcaviney.ca/accessing-ethereum-archive-nodes-with-infura]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Builder DAO: "Filter the noise, focus on the fundamentals" "What is web3? Protocolization of web services" High-density learning courtesy of @Arwea...]]></title>
-        <id>https://twitter.com/TheBuilderDAO/status/1532771230138482688</id>
-        <link href="https://twitter.com/TheBuilderDAO/status/1532771230138482688"/>
-        <updated>2022-06-03T17:08:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Builder DAO
-"Filter the noise, focus on the fundamentals"
-"What is web3? Protocolization of web services"
-High-density learning courtesy of @ArweaveTeam's @samecwilliams at @graphprotocol #graphday https://youtu.be/yLQmdM5DWSk?t=27801]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -105,109 +128,107 @@ Okay, I've been waiting a loooooongggg time for this. @developer_dao #3505!! LFG
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT eloigil.eth: GM! ☀️ Officially being onboarded to the @developer_dao #kudos to @wise_Tyy 👏👏]]></title>
-        <id>https://twitter.com/_eloigil/status/1532762886317215745</id>
-        <link href="https://twitter.com/_eloigil/status/1532762886317215745"/>
-        <updated>2022-06-03T16:35:24.000Z</updated>
-        <summary type="html"><![CDATA[RT eloigil.eth
-GM! ☀️ Officially being onboarded to the @developer_dao 
-#kudos to @wise_Tyy 👏👏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT LensProtocol.lens 🌿: Calling all Rabbithole credential holders, it’s time to visit]]></title>
         <id>https://twitter.com/LensProtocol/status/1532760148120322049</id>
         <link href="https://twitter.com/LensProtocol/status/1532760148120322049"/>
         <updated>2022-06-03T16:24:31.000Z</updated>
         <summary type="html"><![CDATA[RT LensProtocol.lens 🌿
-Calling all Rabbithole credential holders, it’s time to visit https://claim.lens.xyz/]]></summary>
+Calling all Rabbithole credential holders, it’s time to visit
+RabbitHole: *click*📸
+We've got a treat for RabbitHole credential holders...
+Our friends at @LensProtocol have given you access to mint your Lens profile right now! 
+Hit us with a follow as well:
+ http://claim.lens.xyz https://lenster.xyz/u/rabbithole.lens]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT steph ✈️ Graph Hack SF • ᴗ • oceans404.eth: everything @womenbuildweb3 builds is going to the moon 🚀 graph day eclipse party 🌙 @graphpro...]]></title>
-        <id>https://twitter.com/0ceans404/status/1532740834273071104</id>
-        <link href="https://twitter.com/0ceans404/status/1532740834273071104"/>
-        <updated>2022-06-03T15:07:46.000Z</updated>
-        <summary type="html"><![CDATA[RT steph ✈️ Graph Hack SF • ᴗ • oceans404.eth
-everything @womenbuildweb3 builds is going to the moon 🚀 graph day eclipse party  🌙 @graphprotocol @developer_dao]]></summary>
+        <title type="html"><![CDATA[RT Senator Cynthia Lummis: We’ve been teasing it for months, but the time is almost here – a proposal to fully integrate digital assets into our fin...]]></title>
+        <id>https://twitter.com/SenLummis/status/1532746920866762754</id>
+        <link href="https://twitter.com/SenLummis/status/1532746920866762754"/>
+        <updated>2022-06-03T15:31:57.000Z</updated>
+        <summary type="html"><![CDATA[RT Senator Cynthia Lummis
+We’ve been teasing it for months, but the time is almost here – a proposal to fully integrate digital assets into our financial system. Excited to finally unveil this effort next week. Stay tuned 👀 👀 👀]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🌮 Did someone say Tacos?!? 🎉 We're so excited to see all our frens tonight! Come hang with other D_D members, and meet the amazing teams behind ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1532719791869267974</id>
-        <link href="https://twitter.com/developer_dao/status/1532719791869267974"/>
-        <updated>2022-06-03T13:44:09.000Z</updated>
-        <summary type="html"><![CDATA[🌮 Did someone say Tacos?!?
-🎉 We're so excited to see all our frens tonight! 
-Come hang with other D_D members, and meet the amazing teams behind @SpruceID and @womenbuildweb3! 
-6:30pm to 9:30pm!
-RSVP early - we can't wait to see you there! https://lu.ma/ku9o6u7n]]></summary>
+        <title type="html"><![CDATA[RT Itai: Continuing our deep dive into the world of wallets, we wanted to explore the history of recovery in self-custodial wallets. We wrote a quick ...]]></title>
+        <id>https://twitter.com/turbahn/status/1532725306917797888</id>
+        <link href="https://twitter.com/turbahn/status/1532725306917797888"/>
+        <updated>2022-06-03T14:06:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Itai
+Continuing our deep dive into the world of wallets, we wanted to explore the history of recovery in self-custodial wallets. We wrote a quick blog post about it: https://www.dynamic.xyz/blog/recovery-methods-in-wallets-an-overview]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth: Manifesting @web3con in Lagos in November. @web3afrika @Rahatcodes @dhaiwat10 @Colin4ward @DAppaDanDev @narb_s @developer_dao]]></title>
-        <id>https://twitter.com/tonyolendo/status/1532546845192372230</id>
-        <link href="https://twitter.com/tonyolendo/status/1532546845192372230"/>
-        <updated>2022-06-03T02:16:55.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth
-Manifesting @web3con in Lagos in November. @web3afrika @Rahatcodes  @dhaiwat10 @Colin4ward @DAppaDanDev @narb_s @developer_dao]]></summary>
+        <title type="html"><![CDATA[RT Gitopia: 1/7 If you are a #developer looking to start exploring #web3 by contributing, then The Game of $LORE program is just for you. Benefits of ...]]></title>
+        <id>https://twitter.com/gitopiaDAO/status/1532701065384108033</id>
+        <link href="https://twitter.com/gitopiaDAO/status/1532701065384108033"/>
+        <updated>2022-06-03T12:29:44.000Z</updated>
+        <summary type="html"><![CDATA[RT Gitopia
+1/7 If you are a #developer looking to start exploring #web3 by contributing, then The Game of $LORE program is just for you. 
+Benefits of #developers participating in The Game of $LORE thread 🧵👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅 Here's how to enter 👇 1. Re...]]></title>
+        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀): What is Geo? A new web3 browser by @graphprotocol with a decentralization mission. Read my full article here:]]></title>
+        <id>https://twitter.com/Mardeni01/status/1532662268206399488</id>
+        <link href="https://twitter.com/Mardeni01/status/1532662268206399488"/>
+        <updated>2022-06-03T09:55:34.000Z</updated>
+        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀)
+What is Geo? A new web3 browser by @graphprotocol with a decentralization mission. 
+Read my full article here: https://ahmadmardeni.substack.com/p/geo-the-new-web3-browser-with-a-decentralization]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅...]]></title>
         <id>https://twitter.com/developer_dao/status/1532542479957827586</id>
         <link href="https://twitter.com/developer_dao/status/1532542479957827586"/>
         <updated>2022-06-03T01:59:35.000Z</updated>
-        <summary type="html"><![CDATA[In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅
+        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
+In partnership with @eth_barcelona, we are giving away 3 FREE tickets to attend ETH Barcelona, each worth $499 🤩🪅
 Here's how to enter 👇
 1. Retweet this tweet along with a short message saying why you want to go 
 2. Tag a friend 
-See you in Spain! 🇪🇸]]></summary>
+See you in Spain! 🇪🇸
+ETHBarcelona: Come meet the movers & shakers of the crypto world at Spain’s first Ethereum conference.🇪🇸
+3 days of talks, music and festival vibes in the center of #Barcelona 🤩
+Come see what the future looks like at this amazing event.🥳
+🎟 Get your tickets today at
+ http://ethbarcelona.com]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT well fed jon b @ RenderATL: Gave a talk today about making an iOS drum machine with Swift UI that loads and plays Music NFT samples. Big thanks to ...]]></title>
-        <id>https://twitter.com/ken_wheeler/status/1532500092892086284</id>
-        <link href="https://twitter.com/ken_wheeler/status/1532500092892086284"/>
-        <updated>2022-06-02T23:11:09.000Z</updated>
-        <summary type="html"><![CDATA[RT well fed jon b @ RenderATL
-Gave a talk today about making an iOS drum machine with Swift UI that loads and plays Music NFT samples. Big thanks to @its_txbrown and @ericlewis for swift help and @QuickNode for the hard ass APIs]]></summary>
+        <title type="html"><![CDATA[RT ChainSafe: There's never been a better time to start building🛠 ChainSafe #devlrel @waymobetta has created a simple, unbiased guide for people en...]]></title>
+        <id>https://twitter.com/ChainSafeth/status/1532387024665296903</id>
+        <link href="https://twitter.com/ChainSafeth/status/1532387024665296903"/>
+        <updated>2022-06-02T15:41:51.000Z</updated>
+        <summary type="html"><![CDATA[RT ChainSafe
+There's never been a better time to start building🛠 
+ChainSafe #devlrel @waymobetta has created a simple, unbiased guide for people entering the blockchain space.
+A web3 developer roadmap👇 https://blog.chainsafe.io/how-to-become-a-web3-developer-8849ab20b686]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT ETHLatam at BA 🇦🇷: Who are the speakers you all want to see with us during @ethlatam? Tag them here 👇 A quiénes te gustaría ver de speak...]]></title>
-        <id>https://twitter.com/ethlatam/status/1532473788683673622</id>
-        <link href="https://twitter.com/ethlatam/status/1532473788683673622"/>
-        <updated>2022-06-02T21:26:37.000Z</updated>
-        <summary type="html"><![CDATA[RT ETHLatam at BA 🇦🇷
-Who are the speakers you all want to see with us during  @ethlatam? Tag them here 👇
-A quiénes te gustaría ver de speakers en #ETHLatam? Etiquétalos 👇
-#WAGEI 💠]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ansgar.eth 🦇🔊: Quick personal update: Tuesday was my last day at Quilt, I am now a member of the Ethereum Foundation research team. I‘ll bas...]]></title>
-        <id>https://twitter.com/adietrichs/status/1532333162755502081</id>
-        <link href="https://twitter.com/adietrichs/status/1532333162755502081"/>
-        <updated>2022-06-02T12:07:50.000Z</updated>
-        <summary type="html"><![CDATA[RT ansgar.eth 🦇🔊
-Quick personal update: Tuesday was my last day at Quilt, I am now a member of the Ethereum Foundation research team. I‘ll basically continue to do the same work as before, but have been drifting more towards pure research for a while now, so that move made sense.]]></summary>
+        <title type="html"><![CDATA[RT PHI: Gm everyone - we're excited to release our new design including the logo, the landing page, and the isometric land view designed by @eBoyArts,...]]></title>
+        <id>https://twitter.com/phi_xyz/status/1532140359479832577</id>
+        <link href="https://twitter.com/phi_xyz/status/1532140359479832577"/>
+        <updated>2022-06-01T23:21:42.000Z</updated>
+        <summary type="html"><![CDATA[RT PHI
+Gm everyone - we're excited to release our new design including the logo, the landing page, and the isometric land view designed by @eBoyArts, @0xOzh, @ta2nb_mkiii. Please check it out! 🎉 https://philand.xyz/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -229,6 +250,23 @@ Quick personal update: Tuesday was my last day at Quilt, I am now a member of th
         <summary type="html"><![CDATA[Turns out, scribes run the world]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DeStore: gm frens Open Today, FREE co-working space exclusively for specific NFT/token holders in SF! Wen: Mon-Fri 9am - 5pm Where: 348 Hayes St, S...]]></title>
+        <id>https://twitter.com/DeStoreDAO/status/1529199090600247296</id>
+        <link href="https://twitter.com/DeStoreDAO/status/1529199090600247296"/>
+        <updated>2022-05-24T20:34:09.000Z</updated>
+        <summary type="html"><![CDATA[RT DeStore
+gm frens
+Open Today, FREE co-working space exclusively for specific NFT/token holders in SF!
+Wen: Mon-Fri 9am - 5pm
+Where: 348 Hayes St, SF
+Who: FWB members, BAYC, Clone X holders, etc..
+Details in 
+Just DM us. http://DeStoreWork.xyz]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
