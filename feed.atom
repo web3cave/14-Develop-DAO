@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-10T06:14:00.931Z</id>
+    <id>urn:2022-06-11T06:12:58.343Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-10T06:14:00.931Z</updated>
+    <updated>2022-06-11T06:12:58.343Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT tonyolendo.eth: Re @developer_dao in the West Indies. cc @kempsterrrr]]></title>
+        <id>https://twitter.com/tonyolendo/status/1535474092748464129</id>
+        <link href="https://twitter.com/tonyolendo/status/1535474092748464129"/>
+        <updated>2022-06-11T04:08:46.000Z</updated>
+        <summary type="html"><![CDATA[RT tonyolendo.eth
+Re @developer_dao in the West Indies. cc @kempsterrrr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Daeshawn.sol 👋🏾: Shoutout to @Filecoin for our @web3con swag ❤️ from @developer_dao]]></title>
+        <id>https://twitter.com/DaeshawnBallard/status/1535427099296681985</id>
+        <link href="https://twitter.com/DaeshawnBallard/status/1535427099296681985"/>
+        <updated>2022-06-11T01:02:01.000Z</updated>
+        <summary type="html"><![CDATA[RT Daeshawn.sol 👋🏾
+Shoutout to @Filecoin for our @web3con swag ❤️ from @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['NFTs will change the music industry' from @developer_dao member @alikonukk1 ⚡️🎵]]></title>
+        <id>https://twitter.com/developer_dao/status/1535399517041721345</id>
+        <link href="https://twitter.com/developer_dao/status/1535399517041721345"/>
+        <updated>2022-06-10T23:12:25.000Z</updated>
+        <summary type="html"><![CDATA['NFTs will change the music industry' from @developer_dao member @alikonukk1 ⚡️🎵 https://0xali.hashnode.dev/nfts-will-change-the-music-industry]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phaver - Share-to-earn decentralised social app built on @LensProtocol @phaverapp 🌱]]></title>
+        <id>https://twitter.com/developer_dao/status/1535222665916694528</id>
+        <link href="https://twitter.com/developer_dao/status/1535222665916694528"/>
+        <updated>2022-06-10T11:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Phaver - Share-to-earn decentralised social app built on @LensProtocol  @phaverapp 🌱 https://phaver.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SuhailKakar check out @Glossetadotcom 🔥]]></title>
+        <id>https://twitter.com/developer_dao/status/1535215482562822144</id>
+        <link href="https://twitter.com/developer_dao/status/1535215482562822144"/>
+        <updated>2022-06-10T11:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @SuhailKakar check out @Glossetadotcom 🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT rahat.eth: Yooooo everyone drop your @web3con swag pics!]]></title>
         <id>https://twitter.com/Rahatcodes/status/1535105769997320192</id>
@@ -140,74 +192,12 @@ zero-knowledge proof? why do i have to prove i have zero knowledge i already kno
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Graph Client | The Graph | Web3 by @graphqlwtf 🔥 Generate a fully typed SDK automatically to query the Ethereum network using The Graph Client ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1534957813671288832</id>
-        <link href="https://twitter.com/developer_dao/status/1534957813671288832"/>
-        <updated>2022-06-09T17:57:15.000Z</updated>
-        <summary type="html"><![CDATA[The Graph Client | The Graph | Web3 by @graphqlwtf 🔥
-Generate a fully typed SDK automatically to query the Ethereum network using The Graph Client by @graphprotocol https://www.youtube.com/watch?v=ZsRAmyUtvwg]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Alexis Bed.: If anyone is looking to be a DevRel at a sick company, also lmk, working on a juicy one 😈]]></title>
         <id>https://twitter.com/solidityslayer/status/1534950578324914179</id>
         <link href="https://twitter.com/solidityslayer/status/1534950578324914179"/>
         <updated>2022-06-09T17:28:30.000Z</updated>
         <summary type="html"><![CDATA[RT Alexis Bed.
 If anyone is looking to be a DevRel at a sick company, also lmk, working on a juicy one 😈]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Phu Minh: Thanks @developer_dao for your support! You guys have just given me one of the biggest motivation ❤️]]></title>
-        <id>https://twitter.com/NguynPhMinh8/status/1534937368012427265</id>
-        <link href="https://twitter.com/NguynPhMinh8/status/1534937368012427265"/>
-        <updated>2022-06-09T16:36:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Phu Minh
-Thanks @developer_dao for your support! You guys have just given me one of the biggest motivation ❤️
-Developer DAO (🧱, 🚀): ⚡️ Creating a blockchain in 60 lines of Javascript by @NguynPhMinh8 
-Blog post
-
-Video
- https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka https://www.youtube.com/playlist?list=PL3yCt3MJq1pzCvFMBPZPMM6K7o-ukrDBI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jim Carrey: I’ve been both blessed and cursed in this life with a vivid imagination and a burning desire to share my peculiarities and inspiration...]]></title>
-        <id>https://twitter.com/JimCarrey/status/1534928426628395008</id>
-        <link href="https://twitter.com/JimCarrey/status/1534928426628395008"/>
-        <updated>2022-06-09T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Jim Carrey
-I’ve been both blessed and cursed in this life with a vivid imagination and a burning desire to share my peculiarities and inspirations with you. This little mood enhancer is called Sunshower. 
-I hope this NFT does for you what it did for me… weeeeeeeee! https://superrare.com/artwork-v2/sunshower-35216]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign Message with Ethers.js and Verify with Solidity Contract by @ProgrammerSmart ⚡️⚡️⚡️ Code Video]]></title>
-        <id>https://twitter.com/developer_dao/status/1534904213507014657</id>
-        <link href="https://twitter.com/developer_dao/status/1534904213507014657"/>
-        <updated>2022-06-09T14:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Sign Message with Ethers.js and Verify with Solidity Contract by @ProgrammerSmart ⚡️⚡️⚡️
-Code
-
-Video https://github.com/t4sk/hello-erc20-permit https://www.youtube.com/watch?v=Y6MtQG6IEGk]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EthCC Week 2022 @EthCCWeek | List of Events in Paris the week of @EthCC 🇫🇷]]></title>
-        <id>https://twitter.com/developer_dao/status/1534903031610875904</id>
-        <link href="https://twitter.com/developer_dao/status/1534903031610875904"/>
-        <updated>2022-06-09T14:19:34.000Z</updated>
-        <summary type="html"><![CDATA[EthCC Week 2022 @EthCCWeek | List of Events in Paris the week of @EthCC 🇫🇷 https://www.ethccweek.fr/ethcc-week-events]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
