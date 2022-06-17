@@ -1,23 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-16T06:13:47.806Z</id>
+    <id>urn:2022-06-17T06:14:31.977Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-16T06:13:47.806Z</updated>
+    <updated>2022-06-17T06:14:31.977Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[BearConf - cheapest hostel in town is official lodging - happy meals for lunch - no venue we just get together, hack, and group at coffee shops - no p...]]></title>
-        <id>https://twitter.com/developer_dao/status/1537241868865765377</id>
-        <link href="https://twitter.com/developer_dao/status/1537241868865765377"/>
-        <updated>2022-06-16T01:13:16.000Z</updated>
-        <summary type="html"><![CDATA[BearConf
-- cheapest hostel in town is official lodging 
-- happy meals for lunch 
-- no venue we just get together, hack, and group at coffee shops 
-- no parties, we all just go vibe at McDonald’s every night
-- public goods focused
-- keynote speaker is @notscottmoore 
-Who’s down?]]></summary>
+        <title type="html"><![CDATA[RT $MIGUEL Piedrafita (🫐, 🫐): When I was learning Solidity, I remember feeling like there were no good resources to go beginner ➡️ intermediat...]]></title>
+        <id>https://twitter.com/m1guelpf/status/1537635453700083723</id>
+        <link href="https://twitter.com/m1guelpf/status/1537635453700083723"/>
+        <updated>2022-06-17T03:17:14.000Z</updated>
+        <summary type="html"><![CDATA[RT $MIGUEL Piedrafita (🫐, 🫐)
+When I was learning Solidity, I remember feeling like there were no good resources to go beginner ➡️ intermediate
+To continue learning, I built simplified versions of popular apps (ENS, OpenSea, Gnosis, ...)
+Might be helpful for those on the path now 👇 https://github.com/m1guelpf/lil-web3]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT camiinthisthang.eth: Once again I'm asking for your support on @womenbuildweb3's gitcoin grant 🫶 A $1 (yes, one) contribution gets matched at $2...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1537533876473675779</id>
+        <link href="https://twitter.com/camiinthisthang/status/1537533876473675779"/>
+        <updated>2022-06-16T20:33:36.000Z</updated>
+        <summary type="html"><![CDATA[RT camiinthisthang.eth
+Once again I'm asking for your support on @womenbuildweb3's gitcoin grant 🫶
+A $1 (yes, one) contribution gets matched at $283. The more contributors we have, the better match rate we're awarded. Fund engineering projects by sick devs 👀 https://gitcoin.co/grants/6100/women-build-web3-developer-accelerator]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Devin Abbott: What's the use case for web3 beyond NFT/crypto speculation? Geo, hopefully, is one answer to that question. Created by @edgeandnode a...]]></title>
+        <id>https://twitter.com/dvnabbott/status/1537526003588685825</id>
+        <link href="https://twitter.com/dvnabbott/status/1537526003588685825"/>
+        <updated>2022-06-16T20:02:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Devin Abbott
+What's the use case for web3 beyond NFT/crypto speculation?
+Geo, hopefully, is one answer to that question. Created by @edgeandnode and powered by @graphprotocol, it also fits my vision of web3 as backend infrastructure for apps. Here's why https://medium.com/@devinabbott/meet-geo-a-browser-for-web3-content-and-my-vision-for-web3-as-backend-infrastructure-for-apps-3b0cef1d7a0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT crites.eth: we're hiring dev rel engineers at @aztecnetwork. an amazing opportunity to learn the latest about zk-snarks, ethereum scalability and h...]]></title>
+        <id>https://twitter.com/critesjosh_/status/1537502640686485504</id>
+        <link href="https://twitter.com/critesjosh_/status/1537502640686485504"/>
+        <updated>2022-06-16T18:29:29.000Z</updated>
+        <summary type="html"><![CDATA[RT crites.eth
+we're hiring dev rel engineers at @aztecnetwork. an amazing opportunity to learn the latest about zk-snarks, ethereum scalability and help build the next generation of private, scalable blockchain applications on aztec. also my DMs are open https://boards.eu.greenhouse.io/aztec/jobs/4052220101]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -48,11 +79,11 @@ Just @developer_dao DevRel things 🧑‍💻👀 cc: @tchowd_ @calvintoes @kayp
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT turja.eth: Would anyone be interested to sponsor a @developer_dao meet at @NFT_NYC / @ETHNewYork? We’ll shill your company for you as a thank you...]]></title>
+        <title type="html"><![CDATA[RT turja.eth 🕺 NYC: Would anyone be interested to sponsor a @developer_dao meet at @NFT_NYC / @ETHNewYork? We’ll shill your company for you as a t...]]></title>
         <id>https://twitter.com/tchowd_/status/1537159395867492354</id>
         <link href="https://twitter.com/tchowd_/status/1537159395867492354"/>
         <updated>2022-06-15T19:45:33.000Z</updated>
-        <summary type="html"><![CDATA[RT turja.eth
+        <summary type="html"><![CDATA[RT turja.eth 🕺 NYC
 Would anyone be interested to sponsor a @developer_dao meet at @NFT_NYC / @ETHNewYork?
 We’ll shill your company for you as a thank you🎉🥂]]></summary>
         <author>
@@ -184,28 +215,6 @@ Alchemy’s @solana API endpoints allow dApps to connect to a Solana node and in
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT samina: I heard we are taking pictures of our Web3 con merch this week. ☀️]]></title>
-        <id>https://twitter.com/saminacodes/status/1537070988537409537</id>
-        <link href="https://twitter.com/saminacodes/status/1537070988537409537"/>
-        <updated>2022-06-15T13:54:15.000Z</updated>
-        <summary type="html"><![CDATA[RT samina
-I heard we are taking pictures of our Web3 con merch this week. ☀️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not your keys, not your crypto by @developer_dao member @web3forbasicbs 💅 How to move your funds from Coinbase to a Ledger hardware wallet]]></title>
-        <id>https://twitter.com/developer_dao/status/1537067297398980611</id>
-        <link href="https://twitter.com/developer_dao/status/1537067297398980611"/>
-        <updated>2022-06-15T13:39:35.000Z</updated>
-        <summary type="html"><![CDATA[Not your keys, not your crypto by @developer_dao member @web3forbasicbs 💅
-How to move your funds from Coinbase to a Ledger hardware wallet https://www.youtube.com/watch?v=3lUZP1szMis]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Baptiste: Today we have a gift for the @ceramicnetwork community, we are launching the very first Ceramic explorer! It’s available here: More deta...]]></title>
         <id>https://twitter.com/BaptisteGreve/status/1537061840659922944</id>
         <link href="https://twitter.com/BaptisteGreve/status/1537061840659922944"/>
@@ -219,12 +228,14 @@ More details in the thread👇🧵 https://cerscan.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Chris Johnston: Re @developer_dao Hiring @thesilverlogic - all scrum team positions. Web3 devs and D_D holders welcome!]]></title>
-        <id>https://twitter.com/cjohndesign/status/1537056472449921026</id>
-        <link href="https://twitter.com/cjohndesign/status/1537056472449921026"/>
-        <updated>2022-06-15T12:56:34.000Z</updated>
-        <summary type="html"><![CDATA[RT Chris Johnston
-Re @developer_dao Hiring @thesilverlogic - all scrum team positions. Web3 devs and D_D holders welcome!]]></summary>
+        <title type="html"><![CDATA[RT Fullstack Frontend: Today is my birthday, so I am gifting you an article! 🥳🥳🥳🥳 If you're a Web3 bear market builder or a Web2 dev curio...]]></title>
+        <id>https://twitter.com/fllstck_/status/1537037630507995139</id>
+        <link href="https://twitter.com/fllstck_/status/1537037630507995139"/>
+        <updated>2022-06-15T11:41:42.000Z</updated>
+        <summary type="html"><![CDATA[RT Fullstack Frontend
+Today is my birthday, so I am gifting you an article! 🥳🥳🥳🥳
+If you're a Web3 bear market builder or a Web2 dev curious about decentralized technology, check it out.
+We will use @radicle as a GitHub alternative and @ipfs to deploy a website! https://dev.to/fllstck/web3-without-wallet-34n4]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -236,17 +247,6 @@ Re @developer_dao Hiring @thesilverlogic - all scrum team positions. Web3 devs a
         <updated>2022-06-15T10:28:43.000Z</updated>
         <summary type="html"><![CDATA[RT akhila.eth
 I was laid off by Coinbase yesterday. I’m a backend engineer looking to transition into technical product management, web3 jobs preferred. Please DM me if you have any leads! 🤗]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT harish.eth: Re @developer_dao @Covalent_HQ is hiring for Senior Dev Advocates:]]></title>
-        <id>https://twitter.com/harish_yvr/status/1536901195209379840</id>
-        <link href="https://twitter.com/harish_yvr/status/1536901195209379840"/>
-        <updated>2022-06-15T02:39:33.000Z</updated>
-        <summary type="html"><![CDATA[RT harish.eth
-Re @developer_dao @Covalent_HQ is hiring for Senior Dev Advocates: https://www.covalenthq.com/about/careers/?jobId=rZLqFEezoogl]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
