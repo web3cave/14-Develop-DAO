@@ -77,14 +77,44 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/thatguyintech/status/1538309056703496192",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT albert\nIf you’re building something interesting in web3 and you’re down to chat / want to get featured on the Alchemy YouTube channel, hmu\nEspecially if you’re in NYC next week, but also for anyone :)\ngoing to try something new for the channel 👀",
+          "link": "https://twitter.com/thatguyintech/status/1538309056703496192",
+          "publishedOn": "2022-06-18T23:53:54.000Z",
+          "wordCount": 352,
+          "title": "RT albert: If you’re building something interesting in web3 and you’re down to chat / want to get featured on the Alchemy YouTube channel, hmu Espec...",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1538141924430946305",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Exploring Quadratic Voting by @developer_dao member @bybobbay ⚡️\nOne of my previous posts introduces quadratic voting in a more practical aspect. This piece will dive deeper into quadratic voting, acting more as a thought piece than a practical one. https://mirror.xyz/bybobbay.eth/0LRouBD-2lKMsjfHN8zQElDGEDMOnTz56uh7PVEaVCo",
+          "link": "https://twitter.com/developer_dao/status/1538141924430946305",
+          "publishedOn": "2022-06-18T12:49:46.000Z",
+          "wordCount": 352,
+          "title": "Exploring Quadratic Voting by @developer_dao member @bybobbay ⚡️ One of my previous posts introduces quadratic voting in a more practical aspect. Th...",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
+        },
+        {
+          "id": "https://twitter.com/ProgrammerSmart/status/1538131009396301825",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Smart Contract Programmer\nConstant Product AMM Math | DeFi https://youtu.be/QNPyFs8Wybk",
+          "link": "https://twitter.com/ProgrammerSmart/status/1538131009396301825",
+          "publishedOn": "2022-06-18T12:06:24.000Z",
+          "wordCount": 352,
+          "title": "RT Smart Contract Programmer: Constant Product AMM Math | DeFi",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1537988299008012289",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "",
           "link": "https://twitter.com/developer_dao/status/1537988299008012289",
           "publishedOn": "2022-06-18T02:39:19.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "Untitled",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/developer_dao/status/1537960643382284288",
@@ -92,9 +122,9 @@
           "description": "",
           "link": "https://twitter.com/developer_dao/status/1537960643382284288",
           "publishedOn": "2022-06-18T00:49:25.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "Untitled",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/thatguyintech/status/1537872694468759552",
@@ -102,9 +132,19 @@
           "description": "RT albert\ndocumented my first time funding gitcoin grants\ncheck it out, go fund a few yourself, let's help the builders out\nfeat.\n- @camiinthisthang & @womenbuildweb3 \n- @austingriffith \n- @ricmoo https://www.youtube.com/watch?v=aKYscOP1gpQ",
           "link": "https://twitter.com/thatguyintech/status/1537872694468759552",
           "publishedOn": "2022-06-17T18:59:57.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT albert: documented my first time funding gitcoin grants check it out, go fund a few yourself, let's help the builders out feat. - @camiinthisthang ...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
+        },
+        {
+          "id": "https://twitter.com/jadler0/status/1537864662129287172",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT John Adler | ✨⛽\nExactly one year and ~2000 PRs and issues after the initial prototype, the @SwayLang standard library now supports vectors.\nThis is a monumental moment for #Ethereum smart contract development. A short thread comparing this to existing alternatives.",
+          "link": "https://twitter.com/jadler0/status/1537864662129287172",
+          "publishedOn": "2022-06-17T18:28:02.000Z",
+          "wordCount": 352,
+          "title": "RT John Adler | ✨⛽: Exactly one year and ~2000 PRs and issues after the initial prototype, the @SwayLang standard library now supports vectors. This...",
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/UnlockProtocol/status/1537851457482813440",
@@ -112,9 +152,9 @@
           "description": "RT Ʉnlock - unlock-protocol.eth\n1/ The @UnlockProtocol team is going to be all over NYC from June 20-26! We're doing events and a happy hour, and members of the team will be speaking throughout the week. Want to RSVP for our happy hour and connect up? Here's where we'll be, when. 🧵",
           "link": "https://twitter.com/UnlockProtocol/status/1537851457482813440",
           "publishedOn": "2022-06-17T17:35:34.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Ʉnlock - unlock-protocol.eth: 1/ The @UnlockProtocol team is going to be all over NYC from June 20-26! We're doing events and a happy hour, and me...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/LensProtocol/status/1537838785874083847",
@@ -122,9 +162,9 @@
           "description": "RT LensProtocol.lens 🌿\n1/ Hey bloomers, it’s time to announce the next crop of winners from the Lens Grants Program!🌿 With a whole field of buildoors submitting their applications, let’s see who will be joining us for this second round: Cohort 1, the Saplings 👀👇",
           "link": "https://twitter.com/LensProtocol/status/1537838785874083847",
           "publishedOn": "2022-06-17T16:45:12.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT LensProtocol.lens 🌿: 1/ Hey bloomers, it’s time to announce the next crop of winners from the Lens Grants Program!🌿 With a whole field of bu...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/developer_dao/status/1537834202997043203",
@@ -132,19 +172,19 @@
           "description": "Web3 Without Wallet\nby @developer_dao member @K4y1s ✨\nThere are two exciting decentralized technologies out there, and you can use both of them without cryptocurrencies: @radicle & @IPFS ⚡️ https://blog.developerdao.com/web3-without-wallet",
           "link": "https://twitter.com/developer_dao/status/1537834202997043203",
           "publishedOn": "2022-06-17T16:27:00.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "Web3 Without Wallet by @developer_dao member @K4y1s ✨ There are two exciting decentralized technologies out there, and you can use both of them witho...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/0xElan/status/1537825711859171329",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Elan Halpern\nIf your team or Web3 project has been affected by the bear market, I'd highly recommend applying for this developer grant!\nAlchemy - for web3 developers: 1/ Announcing the WAGBI Grant - #WereAllGonnaBuildIt!! 👷‍♀️🛠️\nAlchemy's $25M Developer Grants Initiative\nThe market tanks - we #WAGBI on Web3\nHere’s what it is and how you can access it:",
+          "description": "RT Elan Halpern\nIf your team or Web3 project has been affected by the bear market, I'd highly recommend applying for this developer grant!\nAlchemy | The Web3 developer platform: 1/ Announcing the WAGBI Grant - #WereAllGonnaBuildIt!! 👷‍♀️🛠️\nAlchemy's $25M Developer Grants Initiative\nThe market tanks - we #WAGBI on Web3\nHere’s what it is and how you can access it:",
           "link": "https://twitter.com/0xElan/status/1537825711859171329",
           "publishedOn": "2022-06-17T15:53:15.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Elan Halpern: If your team or Web3 project has been affected by the bear market, I'd highly recommend applying for this developer grant!",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/developer_dao/status/1537808170965520384",
@@ -152,9 +192,9 @@
           "description": "Blockspace via @developer_dao member @Blockspace_cc ⚡️\nWe're building a marketplace for Web3 companies and crypto people to thrive together. #BUIDL your education, engage, and grow 🌱 https://www.blockspace.cc/",
           "link": "https://twitter.com/developer_dao/status/1537808170965520384",
           "publishedOn": "2022-06-17T14:43:33.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "Blockspace via @developer_dao member @Blockspace_cc ⚡️ We're building a marketplace for Web3 companies and crypto people to thrive together. #BUIDL ...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/LitProtocol/status/1537806877211471872",
@@ -162,9 +202,9 @@
           "description": "RT Lit Protocol\nAre you building something open source with decentralized compute and encryption?\nCould you use a little support? \nCheck out Lit Grants! https://github.com/LIT-Protocol/LitGrants",
           "link": "https://twitter.com/LitProtocol/status/1537806877211471872",
           "publishedOn": "2022-06-17T14:38:25.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Lit Protocol: Are you building something open source with decentralized compute and encryption? Could you use a little support? Check out Lit Grant...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/BundlrNetwork/status/1537798052844650497",
@@ -172,9 +212,9 @@
           "description": "RT Bundlr\n1/ Last week, @Delphi_Digital did a deep dive into @ArweaveTeam and how @BundlrNetwork is helping the ecosystem scale\nHere are some of the key takeaways 👇 https://members.delphidigital.io/reports/arweave-update-a-maturing-storage-solution-in-web3",
           "link": "https://twitter.com/BundlrNetwork/status/1537798052844650497",
           "publishedOn": "2022-06-17T14:03:21.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Bundlr: 1/ Last week, @Delphi_Digital did a deep dive into @ArweaveTeam and how @BundlrNetwork is helping the ecosystem scale Here are some of the ...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/developer_dao/status/1537784194738397190",
@@ -182,49 +222,9 @@
           "description": "gm",
           "link": "https://twitter.com/developer_dao/status/1537784194738397190",
           "publishedOn": "2022-06-17T13:08:17.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "gm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nonstack/status/1537769304573222917",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nonstack.eth\nThanks @hashnode for mentioning me on the honourable mention (no 75) for the The Epic Hashnode Writeathon\n@developer_dao\n@K4y1s https://townhall.hashnode.com/the-epic-hashnode-writeathon-the-winners",
-          "link": "https://twitter.com/nonstack/status/1537769304573222917",
-          "publishedOn": "2022-06-17T12:09:07.000Z",
-          "wordCount": 196,
-          "title": "RT nonstack.eth: Thanks @hashnode for mentioning me on the honourable mention (no 75) for the The Epic Hashnode Writeathon @developer_dao @K4y1s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xjuandavid/status/1537659042935582720",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0xjuandavid.eth\nRe @EthColombia con su equipo de @developer_dao se llevó el premio mayor!\nSuena a cliché, pero al final todos ganamos 🙌🏽\n\nSantiago Garzón: Hoy en el torneo de cripto tejo. Gracias a @tropykus @SoyHodler @ethstatus_ES por integrar a la comunidad Cripto en Colombia!!\nQuién apuesta?, se lo lleva #ethereum o #bitcoin??",
-          "link": "https://twitter.com/0xjuandavid/status/1537659042935582720",
-          "publishedOn": "2022-06-17T04:50:58.000Z",
-          "wordCount": 196,
-          "title": "RT 0xjuandavid.eth: Re @EthColombia con su equipo de @developer_dao se llevó el premio mayor! Suena a cliché, pero al final todos ganamos 🙌🏽",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/m1guelpf/status/1537635453700083723",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT $MIGUEL Piedrafita (🫐, 🫐)\nWhen I was learning Solidity, I remember feeling like there were no good resources to go beginner ➡️ intermediate\nTo continue learning, I built simplified versions of popular apps (ENS, OpenSea, Gnosis, ...)\nMight be helpful for those on the path now 👇 https://github.com/m1guelpf/lil-web3",
-          "link": "https://twitter.com/m1guelpf/status/1537635453700083723",
-          "publishedOn": "2022-06-17T03:17:14.000Z",
-          "wordCount": 196,
-          "title": "RT $MIGUEL Piedrafita (🫐, 🫐): When I was learning Solidity, I remember feeling like there were no good resources to go beginner ➡️ intermediat...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dvnabbott/status/1537526003588685825",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Devin Abbott\nWhat's the use case for web3 beyond NFT/crypto speculation?\nGeo, hopefully, is one answer to that question. Created by @edgeandnode and powered by @graphprotocol, it also fits my vision of web3 as backend infrastructure for apps. Here's why https://medium.com/@devinabbott/meet-geo-a-browser-for-web3-content-and-my-vision-for-web3-as-backend-infrastructure-for-apps-3b0cef1d7a0",
-          "link": "https://twitter.com/dvnabbott/status/1537526003588685825",
-          "publishedOn": "2022-06-16T20:02:19.000Z",
-          "wordCount": 196,
-          "title": "RT Devin Abbott: What's the use case for web3 beyond NFT/crypto speculation? Geo, hopefully, is one answer to that question. Created by @edgeandnode a...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/nixcraft/status/1537490186392993797",
@@ -232,9 +232,9 @@
           "description": "RT nixCraft",
           "link": "https://twitter.com/nixcraft/status/1537490186392993797",
           "publishedOn": "2022-06-16T17:40:00.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT nixCraft:",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/madfiprotocol/status/1537448288529526787",
@@ -242,9 +242,9 @@
           "description": "RT Mad Finance\nTraditional social media platforms fail to appropriately compensate its content creators. Web3 social along with protocols that empower users will turn this model on its head. https://mirror.xyz/carlosbeltran.eth/3kP65y2Mr-HURT8JcaKy32pvnEUBGo6u4Gyh_YHVbxQ",
           "link": "https://twitter.com/madfiprotocol/status/1537448288529526787",
           "publishedOn": "2022-06-16T14:53:31.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Mad Finance: Traditional social media platforms fail to appropriately compensate its content creators. Web3 social along with protocols that empowe...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/gitopiaDAO/status/1537433653877256193",
@@ -252,9 +252,9 @@
           "description": "RT Gitopia\nAnnouncing the Gitopia Language Ambassadors Program for #opensource & #web3 enthusiasts willing to promote technical education in their local languages & become flag bearers of Gitopia in their region 🌍 \nRead more: \nApply Now: https://bit.ly/gitopiaglap https://bit.ly/glaapplication",
           "link": "https://twitter.com/gitopiaDAO/status/1537433653877256193",
           "publishedOn": "2022-06-16T13:55:21.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Gitopia: Announcing the Gitopia Language Ambassadors Program for #opensource & #web3 enthusiasts willing to promote technical education in their lo...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/0xTranqui/status/1537148175596789762",
@@ -262,9 +262,9 @@
           "description": "RT tranqui.eth 🔆\nThis thread is for all the nerds out there 🧠💻\nA deep dive into the inner workings of the \"Gardens of @FeltZine Delights\" minting experience\nLive now at http://gardens.feltzine.art",
           "link": "https://twitter.com/0xTranqui/status/1537148175596789762",
           "publishedOn": "2022-06-15T19:00:58.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT tranqui.eth 🔆: This thread is for all the nerds out there 🧠💻 A deep dive into the inner workings of the \"Gardens of @FeltZine Delights\" mi...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         },
         {
           "id": "https://twitter.com/chunza2542/status/1537040041310302208",
@@ -272,9 +272,9 @@
           "description": "RT Chun ☀️\nA Complete Introduction to Gitcoin Passport 🛂\nWhat is a @gitcoin passport? What problem does it solve? And how will it become an essential building block for a decentralized society?\nLet's dive in!\n🧵👇\n1/25",
           "link": "https://twitter.com/chunza2542/status/1537040041310302208",
           "publishedOn": "2022-06-15T11:51:17.000Z",
-          "wordCount": 196,
+          "wordCount": 352,
           "title": "RT Chun ☀️: A Complete Introduction to Gitcoin Passport 🛂 What is a @gitcoin passport? What problem does it solve? And how will it become an esse...",
-          "imageUrl": null
+          "imageUrl": "http://pbs.twimg.com/profile_images/1498373755583799301/dr7zfeyt_normal.jpg"
         }
       ]
     },
@@ -296,5 +296,5 @@
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }

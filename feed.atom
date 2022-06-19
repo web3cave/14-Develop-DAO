@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T06:13:03.437Z</id>
+    <id>urn:2022-06-19T06:13:26.411Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-18T06:13:03.437Z</updated>
-    <generator>osmosfeed 1.14.4</generator>
+    <updated>2022-06-19T06:13:26.411Z</updated>
+    <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT albert: If you’re building something interesting in web3 and you’re down to chat / want to get featured on the Alchemy YouTube channel, hmu Espec...]]></title>
+        <id>https://twitter.com/thatguyintech/status/1538309056703496192</id>
+        <link href="https://twitter.com/thatguyintech/status/1538309056703496192"/>
+        <updated>2022-06-18T23:53:54.000Z</updated>
+        <summary type="html"><![CDATA[RT albert
+If you’re building something interesting in web3 and you’re down to chat / want to get featured on the Alchemy YouTube channel, hmu
+Especially if you’re in NYC next week, but also for anyone :)
+going to try something new for the channel 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Quadratic Voting by @developer_dao member @bybobbay ⚡️ One of my previous posts introduces quadratic voting in a more practical aspect. Th...]]></title>
+        <id>https://twitter.com/developer_dao/status/1538141924430946305</id>
+        <link href="https://twitter.com/developer_dao/status/1538141924430946305"/>
+        <updated>2022-06-18T12:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Exploring Quadratic Voting by @developer_dao member @bybobbay ⚡️
+One of my previous posts introduces quadratic voting in a more practical aspect. This piece will dive deeper into quadratic voting, acting more as a thought piece than a practical one. https://mirror.xyz/bybobbay.eth/0LRouBD-2lKMsjfHN8zQElDGEDMOnTz56uh7PVEaVCo]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Smart Contract Programmer: Constant Product AMM Math | DeFi]]></title>
+        <id>https://twitter.com/ProgrammerSmart/status/1538131009396301825</id>
+        <link href="https://twitter.com/ProgrammerSmart/status/1538131009396301825"/>
+        <updated>2022-06-18T12:06:24.000Z</updated>
+        <summary type="html"><![CDATA[RT Smart Contract Programmer
+Constant Product AMM Math | DeFi https://youtu.be/QNPyFs8Wybk]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://twitter.com/developer_dao/status/1537988299008012289</id>
@@ -35,6 +70,18 @@ feat.
 - @camiinthisthang & @womenbuildweb3 
 - @austingriffith 
 - @ricmoo https://www.youtube.com/watch?v=aKYscOP1gpQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT John Adler | ✨⛽: Exactly one year and ~2000 PRs and issues after the initial prototype, the @SwayLang standard library now supports vectors. This...]]></title>
+        <id>https://twitter.com/jadler0/status/1537864662129287172</id>
+        <link href="https://twitter.com/jadler0/status/1537864662129287172"/>
+        <updated>2022-06-17T18:28:02.000Z</updated>
+        <summary type="html"><![CDATA[RT John Adler | ✨⛽
+Exactly one year and ~2000 PRs and issues after the initial prototype, the @SwayLang standard library now supports vectors.
+This is a monumental moment for #Ethereum smart contract development. A short thread comparing this to existing alternatives.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -80,7 +127,7 @@ There are two exciting decentralized technologies out there, and you can use bot
         <updated>2022-06-17T15:53:15.000Z</updated>
         <summary type="html"><![CDATA[RT Elan Halpern
 If your team or Web3 project has been affected by the bear market, I'd highly recommend applying for this developer grant!
-Alchemy - for web3 developers: 1/ Announcing the WAGBI Grant - #WereAllGonnaBuildIt!! 👷‍♀️🛠️
+Alchemy | The Web3 developer platform: 1/ Announcing the WAGBI Grant - #WereAllGonnaBuildIt!! 👷‍♀️🛠️
 Alchemy's $25M Developer Grants Initiative
 The market tanks - we #WAGBI on Web3
 Here’s what it is and how you can access it:]]></summary>
@@ -130,59 +177,6 @@ Here are some of the key takeaways 👇 https://members.delphidigital.io/repor
         <link href="https://twitter.com/developer_dao/status/1537784194738397190"/>
         <updated>2022-06-17T13:08:17.000Z</updated>
         <summary type="html"><![CDATA[gm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nonstack.eth: Thanks @hashnode for mentioning me on the honourable mention (no 75) for the The Epic Hashnode Writeathon @developer_dao @K4y1s]]></title>
-        <id>https://twitter.com/nonstack/status/1537769304573222917</id>
-        <link href="https://twitter.com/nonstack/status/1537769304573222917"/>
-        <updated>2022-06-17T12:09:07.000Z</updated>
-        <summary type="html"><![CDATA[RT nonstack.eth
-Thanks @hashnode for mentioning me on the honourable mention (no 75) for the The Epic Hashnode Writeathon
-@developer_dao
-@K4y1s https://townhall.hashnode.com/the-epic-hashnode-writeathon-the-winners]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 0xjuandavid.eth: Re @EthColombia con su equipo de @developer_dao se llevó el premio mayor! Suena a cliché, pero al final todos ganamos 🙌🏽]]></title>
-        <id>https://twitter.com/0xjuandavid/status/1537659042935582720</id>
-        <link href="https://twitter.com/0xjuandavid/status/1537659042935582720"/>
-        <updated>2022-06-17T04:50:58.000Z</updated>
-        <summary type="html"><![CDATA[RT 0xjuandavid.eth
-Re @EthColombia con su equipo de @developer_dao se llevó el premio mayor!
-Suena a cliché, pero al final todos ganamos 🙌🏽
-
-Santiago Garzón: Hoy en el torneo de cripto tejo. Gracias a @tropykus @SoyHodler @ethstatus_ES por integrar a la comunidad Cripto en Colombia!!
-Quién apuesta?, se lo lleva #ethereum o #bitcoin??]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT $MIGUEL Piedrafita (🫐, 🫐): When I was learning Solidity, I remember feeling like there were no good resources to go beginner ➡️ intermediat...]]></title>
-        <id>https://twitter.com/m1guelpf/status/1537635453700083723</id>
-        <link href="https://twitter.com/m1guelpf/status/1537635453700083723"/>
-        <updated>2022-06-17T03:17:14.000Z</updated>
-        <summary type="html"><![CDATA[RT $MIGUEL Piedrafita (🫐, 🫐)
-When I was learning Solidity, I remember feeling like there were no good resources to go beginner ➡️ intermediate
-To continue learning, I built simplified versions of popular apps (ENS, OpenSea, Gnosis, ...)
-Might be helpful for those on the path now 👇 https://github.com/m1guelpf/lil-web3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Devin Abbott: What's the use case for web3 beyond NFT/crypto speculation? Geo, hopefully, is one answer to that question. Created by @edgeandnode a...]]></title>
-        <id>https://twitter.com/dvnabbott/status/1537526003588685825</id>
-        <link href="https://twitter.com/dvnabbott/status/1537526003588685825"/>
-        <updated>2022-06-16T20:02:19.000Z</updated>
-        <summary type="html"><![CDATA[RT Devin Abbott
-What's the use case for web3 beyond NFT/crypto speculation?
-Geo, hopefully, is one answer to that question. Created by @edgeandnode and powered by @graphprotocol, it also fits my vision of web3 as backend infrastructure for apps. Here's why https://medium.com/@devinabbott/meet-geo-a-browser-for-web3-content-and-my-vision-for-web3-as-backend-infrastructure-for-apps-3b0cef1d7a0]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
