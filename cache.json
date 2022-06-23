@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90c86617-182d-4c99-8814-60e981f64942_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/25-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Now minting: Soulbound frens!",
-          "link": "https://developerdao.substack.com/p/25-probably-nothing",
-          "publishedOn": "2022-05-24T05:34:26.000Z",
-          "wordCount": null,
-          "title": "#25 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9440d08c-12bd-420a-96ae-dce35ed95f47_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9440d08c-12bd-420a-96ae-dce35ed95f47_1100x550.png"
         }
       ]
     },
@@ -93,6 +77,96 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/mewn21/status/1539771013172297728",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT mewny\nthe rumors were true. \nit doesnt take many big players like this to act as a schelling point for other devs to take a technical narrative seriously. \ni guess we're entering appchain season? i've been pilled on async composability. must open and adjust assumptions.",
+          "link": "https://twitter.com/mewn21/status/1539771013172297728",
+          "publishedOn": "2022-06-23T00:43:11.000Z",
+          "wordCount": 352,
+          "title": "RT mewny: the rumors were true. it doesnt take many big players like this to act as a schelling point for other devs to take a technical narrative ser...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1539720633436712961",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "What is Developer DAO by @MichelleBakels ♥️\nIt doesn't take long for builders, creators, enthusiasts, and inquisitive newcomers to the Web3 space to stumble upon ~Developer DAO~. Poking around to learn more, it may be challenging to pinpoint exactly ... https://blog.developerdao.com/what-is-developer-dao",
+          "link": "https://twitter.com/developer_dao/status/1539720633436712961",
+          "publishedOn": "2022-06-22T21:23:00.000Z",
+          "wordCount": 352,
+          "title": "What is Developer DAO by @MichelleBakels ♥️ It doesn't take long for builders, creators, enthusiasts, and inquisitive newcomers to the Web3 space to...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1539690258429771778",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "⚡️ How to create a private blockchain network using geth by @developer_dao member @codewitheric \nIn this tutorial you will learn how to connect to the Ethereum Mainnet and then later build a private blockchain network using Go-Ethereum https://dev.to/codewitheric/how-to-create-a-private-blockchain-network-using-go-ethereumgeth-4inn",
+          "link": "https://twitter.com/developer_dao/status/1539690258429771778",
+          "publishedOn": "2022-06-22T19:22:18.000Z",
+          "wordCount": 352,
+          "title": "⚡️ How to create a private blockchain network using geth by @developer_dao member @codewitheric In this tutorial you will learn how to connect to th...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ajcwebdev/status/1539654195787501573",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ajcwebdev.wallet\nGoing live with Vickjoe!! We'll be talking DevRel, content creation, and web3.",
+          "link": "https://twitter.com/ajcwebdev/status/1539654195787501573",
+          "publishedOn": "2022-06-22T16:59:00.000Z",
+          "wordCount": 352,
+          "title": "RT ajcwebdev.wallet: Going live with Vickjoe!! We'll be talking DevRel, content creation, and web3.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1539642803852279809",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader dabit (🧱, 🚀) | sha.eth | nader.lens\nI just released a new video: Smart Contract Development with Foundry 🪐✨\nIncludes\n- Foundry overview\n- VS Code integration + remappings\n- Testing\n- Scripting\n- Local deployment\n- Contract calls & transactions from CLI w cast\n- Deploying to @optimismPBC https://www.youtube.com/watch?v=uelA2U9TbgM",
+          "link": "https://twitter.com/dabit3/status/1539642803852279809",
+          "publishedOn": "2022-06-22T16:13:44.000Z",
+          "wordCount": 352,
+          "title": "RT nader dabit (🧱, 🚀) | sha.eth | nader.lens: I just released a new video: Smart Contract Development with Foundry 🪐✨ Includes - Foundry ove...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1539629375892512768",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\n⚡️Wrote a guide on how to deploy censorship-resistant React frontends to the permaweb w/ @ArweaveTeam! \n- decentralized\n- permanent \n- fully rendered on the client, no third-party servers involved https://mirror.xyz/dhaiwat.eth/NV--7dv8CO0NCcFCvRjDCxBe3VuxdB2_KggwFEfLGRc",
+          "link": "https://twitter.com/dhaiwat10/status/1539629375892512768",
+          "publishedOn": "2022-06-22T15:20:22.000Z",
+          "wordCount": 352,
+          "title": "RT dhai.eth: ⚡️Wrote a guide on how to deploy censorship-resistant React frontends to the permaweb w/ @ArweaveTeam! - decentralized - permanent - fu...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/publicgoodswkly/status/1539597201491591170",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT publicgoodsweekly\n🔊 PG Weekly #4\n📢 @gitcoin GR14 has <48 hours left! We'd like to spotlight why you should donate\n📹 @rehashweb3 featured @notscottmoore on a podcast explaining why Public goods are Good\n♥️ We take you around the @Givethio Galaxy\nRead it here! https://publicgoodsweekly.substack.com/p/pg-weekly-4?sd=pf",
+          "link": "https://twitter.com/publicgoodswkly/status/1539597201491591170",
+          "publishedOn": "2022-06-22T13:12:31.000Z",
+          "wordCount": 352,
+          "title": "RT publicgoodsweekly: 🔊 PG Weekly #4 📢 @gitcoin GR14 has <48 hours left! We'd like to spotlight why you should donate 📹 @rehashweb3 featured ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BuildingWeb4/status/1539594068501708804",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Mike | BuildingWeb4.eth\nThe Abundance Protocol is providing scholarships (NFTs) for 3 developers to join @developer_dao.\nDevelopers must have a record of building or supporting Public Goods.\nIf you're interested (or would like to recommend someone) people reply to this tweet or DM.",
+          "link": "https://twitter.com/BuildingWeb4/status/1539594068501708804",
+          "publishedOn": "2022-06-22T13:00:04.000Z",
+          "wordCount": 352,
+          "title": "RT Mike | BuildingWeb4.eth: The Abundance Protocol is providing scholarships (NFTs) for 3 developers to join @developer_dao. Developers must have a re...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ArweaveAz/status/1539583681219727361",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Az | Arweave News\nCheck out this awesome explainer video of one of the best protocols being built on #Arweave right now!",
+          "link": "https://twitter.com/ArweaveAz/status/1539583681219727361",
+          "publishedOn": "2022-06-22T12:18:48.000Z",
+          "wordCount": 352,
+          "title": "RT Az | Arweave News: Check out this awesome explainer video of one of the best protocols being built on #Arweave right now!",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1539371834805583872",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Delegates and streamlines governance by @developer_dao member @bybobbay ⚡️\nIn this post, we will explore the function of delegation, the benefits and drawbacks, and issues that delegates currently face. https://medium.com/stablenode-blog/delegates-and-streamlines-governance-277341156f1",
@@ -100,6 +174,16 @@
           "publishedOn": "2022-06-21T22:17:00.000Z",
           "wordCount": 352,
           "title": "Delegates and streamlines governance by @developer_dao member @bybobbay ⚡️ In this post, we will explore the function of delegation, the benefits an...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Rahatcodes/status/1539357980231184387",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT rahat.eth @ NFT NYC\nMet up with @tchowd_ and he got me a @developer_dao cap 😭😭",
+          "link": "https://twitter.com/Rahatcodes/status/1539357980231184387",
+          "publishedOn": "2022-06-21T21:21:57.000Z",
+          "wordCount": 352,
+          "title": "RT rahat.eth @ NFT NYC: Met up with @tchowd_ and he got me a @developer_dao cap 😭😭",
           "imageUrl": null
         },
         {
@@ -143,103 +227,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1539354167449468930",
+          "id": "https://twitter.com/patika_dev/status/1539307303282757632",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re On the Tuesdays in between workshops (recall workshops are every 2 weeks), we'll meet in the cbc-voice channel to do a synchronous study session. Sessions will be recorded and uploaded to the D_D Youtube channel.",
-          "link": "https://twitter.com/developer_dao/status/1539354167449468930",
-          "publishedOn": "2022-06-21T21:06:47.000Z",
+          "description": "RT Patika.dev\nWe’re proud to finally present y’all: WEB3 FUNDAMENTALS COURSE! 🥳🔥\nLearn web3 fundamentals for free in this online course by @DAppaDanDev!\n👉 \nNo matter who you are and where you are, you can now take your first step into web3! 🚀🔥 https://app.patika.dev/courses/web3",
+          "link": "https://twitter.com/patika_dev/status/1539307303282757632",
+          "publishedOn": "2022-06-21T18:00:34.000Z",
           "wordCount": 352,
-          "title": "Re On the Tuesdays in between workshops (recall workshops are every 2 weeks), we'll meet in the cbc-voice channel to do a synchronous study session. S...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539354166136643590",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re CBC will be coordinated by @tonyolendo and @Melvillius, they will be in-charge of running CBC and ensuring continuity, feel free to ask them any questions. @Melvillius is the lead instructor at Macro.",
-          "link": "https://twitter.com/developer_dao/status/1539354166136643590",
-          "publishedOn": "2022-06-21T21:06:47.000Z",
-          "wordCount": 352,
-          "title": "Re CBC will be coordinated by @tonyolendo and @Melvillius, they will be in-charge of running CBC and ensuring continuity, feel free to ask them any qu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539354164882554880",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re In between synchronous meetings, participants will study the protocol on their own, and use the cbc-general channel in the D_D discord to ask questions and get them answered by others",
-          "link": "https://twitter.com/developer_dao/status/1539354164882554880",
-          "publishedOn": "2022-06-21T21:06:47.000Z",
-          "wordCount": 352,
-          "title": "Re In between synchronous meetings, participants will study the protocol on their own, and use the cbc-general channel in the D_D discord to ask quest...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539354163540377606",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re We'll meet every 2 weeks on Tuesdays 4:00pm PST - 5:30pm PST synchronously for a workshop on a selected protocol. Expect a detailed teardown and in-depth reviews of engineering stacks, smart contracts and more.",
-          "link": "https://twitter.com/developer_dao/status/1539354163540377606",
-          "publishedOn": "2022-06-21T21:06:47.000Z",
-          "wordCount": 352,
-          "title": "Re We'll meet every 2 weeks on Tuesdays 4:00pm PST - 5:30pm PST synchronously for a workshop on a selected protocol. Expect a detailed teardown and in...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539353369113989128",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re CBC is an Ethereum Developer Education initiative in partnership with @0xMacroDAO \nCBC is designed to help engineers learn more about protocols in web3 by meeting periodically to discuss those protocols. How does it work?",
-          "link": "https://twitter.com/developer_dao/status/1539353369113989128",
-          "publishedOn": "2022-06-21T21:03:37.000Z",
-          "wordCount": 352,
-          "title": "Re CBC is an Ethereum Developer Education initiative in partnership with @0xMacroDAO CBC is designed to help engineers learn more about protocols in w...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539353180613525506",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Are you stuck in Solidity purgatory? Do you understand the basics but not entirely sure how to get to Defi Quant levels? or do you just want to be a security focused smart contract developer? Then we might have something for you. We are pleased to announce Contract Book Club 🧵",
-          "link": "https://twitter.com/developer_dao/status/1539353180613525506",
-          "publishedOn": "2022-06-21T21:02:52.000Z",
-          "wordCount": 352,
-          "title": "Are you stuck in Solidity purgatory? Do you understand the basics but not entirely sure how to get to Defi Quant levels? or do you just want to be a s...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539352780485312515",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "nice",
-          "link": "https://twitter.com/developer_dao/status/1539352780485312515",
-          "publishedOn": "2022-06-21T21:01:17.000Z",
-          "wordCount": 352,
-          "title": "nice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1539341417289551876",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "⚡️ React Native & Celo: Easily build React Native dApps on Celo.\n🛠 by @developer_dao member @HarpalJadeja11\nQuickly develop Android and iOS apps on Celo using the Celo Composer for React Native. https://medium.com/celodevelopers/celo-composer-react-native-easily-build-react-native-dapps-on-celo-bdc57080772f",
-          "link": "https://twitter.com/developer_dao/status/1539341417289551876",
-          "publishedOn": "2022-06-21T20:16:08.000Z",
-          "wordCount": 352,
-          "title": "⚡️ React Native & Celo: Easily build React Native dApps on Celo. 🛠 by @developer_dao member @HarpalJadeja11 Quickly develop Android and iOS apps ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Mardeni01/status/1539341367176044546",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT MardΞni (🧱, 🚀)\nWhat is @PythNetwork, why it is important in the web3 space, and how it is revolutionize the Oracles technology?🧵👇",
-          "link": "https://twitter.com/Mardeni01/status/1539341367176044546",
-          "publishedOn": "2022-06-21T20:15:56.000Z",
-          "wordCount": 352,
-          "title": "RT MardΞni (🧱, 🚀): What is @PythNetwork, why it is important in the web3 space, and how it is revolutionize the Oracles technology?🧵👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nonstack/status/1539310815861276673",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nonstack.eth\nThis article is actually a chapter on the book I'm working on .\nThe layman's Guide to the Decentralized Web\nWritten for @developer_dao\nEditor @K4y1s\n@dabit3 https://blog.developerdao.com/what-is-web-30-a-laymans-guide-to-the-decentralized-web",
-          "link": "https://twitter.com/nonstack/status/1539310815861276673",
-          "publishedOn": "2022-06-21T18:14:32.000Z",
-          "wordCount": 352,
-          "title": "RT nonstack.eth: This article is actually a chapter on the book I'm working on . The layman's Guide to the Decentralized Web Written for @developer_da...",
+          "title": "RT Patika.dev: We’re proud to finally present y’all: WEB3 FUNDAMENTALS COURSE! 🥳🔥 Learn web3 fundamentals for free in this online course by @D...",
           "imageUrl": null
         },
         {
@@ -253,43 +247,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/0xsomeguy/status/1539281237893861378",
+          "id": "https://twitter.com/g01din/status/1539153353258811393",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0xSomeGuy @ NFTNYC | #StopSuicide ♥👊\nwheres all the @developer_dao folks in nyc?",
-          "link": "https://twitter.com/0xsomeguy/status/1539281237893861378",
-          "publishedOn": "2022-06-21T16:17:00.000Z",
+          "description": "RT Boris - g01din.eth\nModular DAO architecture 〰️\nTLDR;\nMonolithic DAOs on scale == big slow corps == monolithic legacy software\nModular DAOs == crops with autonomous execution units == micro service architecture (0/13)",
+          "link": "https://twitter.com/g01din/status/1539153353258811393",
+          "publishedOn": "2022-06-21T07:48:50.000Z",
           "wordCount": 352,
-          "title": "RT 0xSomeGuy @ NFTNYC | #StopSuicide ♥👊: wheres all the @developer_dao folks in nyc?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/paul_can_code/status/1539266470542118914",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0xPaulie.eth\nYour weekly 💧 of @developer_dao news! 📰\nProbably Nothing #29 - 📈\nRead on for an invite to our @vibesIRL event in New York this Friday, open proposal voting, and more guild budget proposals! https://developerdao.substack.com/p/29-probably-nothing",
-          "link": "https://twitter.com/paul_can_code/status/1539266470542118914",
-          "publishedOn": "2022-06-21T15:18:19.000Z",
-          "wordCount": 352,
-          "title": "RT 0xPaulie.eth: Your weekly 💧 of @developer_dao news! 📰 Probably Nothing #29 - 📈 Read on for an invite to our @vibesIRL event in New York th...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/LucemansNL/status/1539262011191701507",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Luc | v3x.eth | lucemans.eth\nI'm super thrilled to announce that I'm joining the @ensdomains team doing DevRel! 🥑\nOver the upcomming months expect to see me *everywhere*, be prepared 😉\nExcited to collaborate, educate, and build tooling 🛠️\nHere are some of my quests for the next chapter of Luc & ENS\n👇",
-          "link": "https://twitter.com/LucemansNL/status/1539262011191701507",
-          "publishedOn": "2022-06-21T15:00:36.000Z",
-          "wordCount": 352,
-          "title": "RT Luc | v3x.eth | lucemans.eth: I'm super thrilled to announce that I'm joining the @ensdomains team doing DevRel! 🥑 Over the upcomming months exp...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/EthSanDiego/status/1538950742823796736",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ETH SD\nwhat better way to start @NFT_NYC than getting our grant approved on @gitcoin 🥳\nwith funding, we will be able to continue providing educational content and networking events for our community ✨\nhelp us scale and reach our goal of throwing the first ETH SD hackathon 🤝\nETH SD: I am verifying my ownership of ETH SD on Gitcoin Grants at\n https://gitcoin.co/grants/6660/eth-sd",
-          "link": "https://twitter.com/EthSanDiego/status/1538950742823796736",
-          "publishedOn": "2022-06-20T18:23:44.000Z",
-          "wordCount": 352,
-          "title": "RT ETH SD: what better way to start @NFT_NYC than getting our grant approved on @gitcoin 🥳 with funding, we will be able to continue providing educ...",
+          "title": "RT Boris - g01din.eth: Modular DAO architecture 〰️ TLDR; Monolithic DAOs on scale == big slow corps == monolithic legacy software Modular DAOs == cr...",
           "imageUrl": null
         }
       ]
@@ -299,6 +263,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uelA2U9TbgM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uelA2U9TbgM",
+          "publishedOn": "2022-06-22T16:09:03.000Z",
+          "wordCount": null,
+          "title": "Smart Contract Development with Foundry",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LcxOdWWL8xs",
           "author": null,
