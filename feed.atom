@@ -1,19 +1,129 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T06:14:44.321Z</id>
+    <id>urn:2022-06-25T06:13:35.940Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-24T06:14:44.321Z</updated>
+    <updated>2022-06-25T06:13:35.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT joshcs.eth ⚓️ buildmarket.eth 🇺🇦 (🧱,🚀)ᵍᵐ: 🇪🇸 looking forward to giving a workshop for @eth_barcelona on the 6th! 🧱 I'll be...]]></title>
-        <id>https://twitter.com/JoshCStein/status/1540187964742975488</id>
-        <link href="https://twitter.com/JoshCStein/status/1540187964742975488"/>
-        <updated>2022-06-24T04:20:00.000Z</updated>
-        <summary type="html"><![CDATA[RT joshcs.eth ⚓️ buildmarket.eth 🇺🇦 (🧱,🚀)ᵍᵐ
-🇪🇸 looking forward to giving a workshop for @eth_barcelona on the 6th!
-🧱 I'll be showing you how to Write your first NFT Smart Contract and talking about my journey into web3 🚀
-🎥 I can't make it IRL, and look forward to sharing the presentation/repo 😄]]></summary>
+        <title type="html"><![CDATA[RT Hashnode: Chances are, if you're interested in the web3 space, you've stumbled upon @developer_dao, but there is also a good chance u didn't unders...]]></title>
+        <id>https://twitter.com/hashnode/status/1540523172054896641</id>
+        <link href="https://twitter.com/hashnode/status/1540523172054896641"/>
+        <updated>2022-06-25T02:32:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Hashnode
+Chances are, if you're interested in the web3 space, you've stumbled upon @developer_dao, but there is also a good chance u didn't understand what it's all about!
+@MichelleBakels answers the questions:
+🔸 Who is in it?
+🔸 What is it doing?
+🔸 & more! https://blog.developerdao.com/what-is-developer-dao?source=tw0622]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Zack Voell: You think you're so cool hating NFTs in 2022. Hal Finney loved them. ...in 1993.]]></title>
+        <id>https://twitter.com/zackvoell/status/1540448322787344394</id>
+        <link href="https://twitter.com/zackvoell/status/1540448322787344394"/>
+        <updated>2022-06-24T21:34:34.000Z</updated>
+        <summary type="html"><![CDATA[RT Zack Voell
+You think you're so cool hating NFTs in 2022.
+Hal Finney loved them.
+...in 1993.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Italo Casas: 🎉 New Anchor docs]]></title>
+        <id>https://twitter.com/italoacasas/status/1540408919490760709</id>
+        <link href="https://twitter.com/italoacasas/status/1540408919490760709"/>
+        <updated>2022-06-24T18:58:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Italo Casas
+🎉 New Anchor docs https://www.anchor-lang.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Aayush Gupta: Had an excellent mentor/mentee session with so amazing developers. @developer_dao are killing it. @BluePanda_io and Piablo leading fr...]]></title>
+        <id>https://twitter.com/Aayush_gupta_ji/status/1540393786505048064</id>
+        <link href="https://twitter.com/Aayush_gupta_ji/status/1540393786505048064"/>
+        <updated>2022-06-24T17:57:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Aayush Gupta
+Had an excellent mentor/mentee session with so amazing developers. @developer_dao are killing it.
+@BluePanda_io and Piablo leading from the front.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jon Charbonneau: Grab your popcorn as two of the biggest gigabrains 🧠 around finally get together Filming next week on @PodcastDelphi - @dankrad...]]></title>
+        <id>https://twitter.com/jon_charb/status/1540378223938265088</id>
+        <link href="https://twitter.com/jon_charb/status/1540378223938265088"/>
+        <updated>2022-06-24T16:56:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Jon Charbonneau
+Grab your popcorn as two of the biggest gigabrains 🧠 around finally get together
+Filming next week on @PodcastDelphi - @dankrad from @ethereum and @jadler0 from @CelestiaOrg get into the nitty gritty of the exciting modular stacks being built
+Some of the topics we’ll hit 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT camiinthisthang.eth @ nyc: I’m giving a workshop on what I’ve found to be my ideal tech stack for building dapps at 4pm at @ETHNewYork Basically ...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1540367126602694656</id>
+        <link href="https://twitter.com/camiinthisthang/status/1540367126602694656"/>
+        <updated>2022-06-24T16:11:56.000Z</updated>
+        <summary type="html"><![CDATA[RT camiinthisthang.eth @ nyc
+I’m giving a workshop on what I’ve found to be my ideal tech stack for building dapps at 4pm at @ETHNewYork 
+Basically a crash course in piecing all the primitives together to build dapps 🫶🗽]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Bundlr: 1/ What does data permanency mean? It is data that has a maintained high replication rate on an immutable blockchain What does this mean an...]]></title>
+        <id>https://twitter.com/BundlrNetwork/status/1540354102198165504</id>
+        <link href="https://twitter.com/BundlrNetwork/status/1540354102198165504"/>
+        <updated>2022-06-24T15:20:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Bundlr
+1/ What does data permanency mean? 
+It is data that has a maintained high replication rate on an immutable blockchain 
+What does this mean and how is it achieved? 
+A thread 🧵👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT rohail.eth in nyc: I’ll be at the @developer_dao x @vibesIRL event this eve. Come say hi if you want eyes on your project, funding advice/connecti...]]></title>
+        <id>https://twitter.com/rohail_altaf/status/1540348327794982915</id>
+        <link href="https://twitter.com/rohail_altaf/status/1540348327794982915"/>
+        <updated>2022-06-24T14:57:14.000Z</updated>
+        <summary type="html"><![CDATA[RT rohail.eth in nyc
+I’ll be at the @developer_dao x @vibesIRL event this eve. Come say hi if you want eyes on your project, funding advice/connections, a good ol’ 9-5 job, or maybe just a new homie]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Nazeeh21 @BluePanda_io 🙏🙏🙏🙏]]></title>
+        <id>https://twitter.com/developer_dao/status/1540322755417194498</id>
+        <link href="https://twitter.com/developer_dao/status/1540322755417194498"/>
+        <updated>2022-06-24T13:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @Nazeeh21 @BluePanda_io 🙏🙏🙏🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Michael Blau: gm, I built a tool to help people detect metamorphic smart contracts. What’s a metamorphic smart contract? Why is detecting them imp...]]></title>
+        <id>https://twitter.com/blauyourmind/status/1540310070952599552</id>
+        <link href="https://twitter.com/blauyourmind/status/1540310070952599552"/>
+        <updated>2022-06-24T12:25:13.000Z</updated>
+        <summary type="html"><![CDATA[RT Michael Blau
+gm, I built a tool to help people detect metamorphic smart contracts.
+What’s a metamorphic smart contract? Why is detecting them important? And how does the tool work? A thread 🧵 https://a16zcrypto.com/metamorphic-smart-contract-detector-tool]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -72,35 +182,6 @@ Don't worry anon, I've got you covered. In this video I walk you through how to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re More info on the builder discounts here: Apply for the builder discount here: Learn more about DevCon here: See you in Bogota 🫡🫡🫡]]></title>
-        <id>https://twitter.com/developer_dao/status/1540018401694867459</id>
-        <link href="https://twitter.com/developer_dao/status/1540018401694867459"/>
-        <updated>2022-06-23T17:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Re More info on the builder discounts here: 
-Apply for the builder discount here:
-
-Learn more about DevCon here:
-
-See you in Bogota 🫡🫡🫡 https://devcon.org/en/tickets/ https://docs.google.com/forms/d/e/1FAIpQLSd0Ce92qxcCsOOPAhPAs2mo87bzfaL5ezcKXpd5M20OuBUmMQ/viewform https://devcon.org/en/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevCon Bogota is coming October 11 - 14! 🇨🇴 Developer DAO members are invited & encouraged to submit talks, workshops, and panel ideas. Applicat...]]></title>
-        <id>https://twitter.com/developer_dao/status/1540018398096248835</id>
-        <link href="https://twitter.com/developer_dao/status/1540018398096248835"/>
-        <updated>2022-06-23T17:06:12.000Z</updated>
-        <summary type="html"><![CDATA[DevCon Bogota is coming October 11 - 14! 🇨🇴
-Developer DAO members are invited & encouraged to submit talks, workshops, and panel ideas. 
-Applications are open for the next 5 days here:
-
-Builder discount applications are also open for a few more days! 👇 https://devcon.org/en/applications/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Only Arweave ⓐ 🐘: Latest Permaweb Pioneers episode is now available! Featuring @shek_dev of ⓐ 🎧 Listen here:]]></title>
         <id>https://twitter.com/onlyarweave/status/1540016839379431424</id>
         <link href="https://twitter.com/onlyarweave/status/1540016839379431424"/>
@@ -110,17 +191,6 @@ Latest Permaweb Pioneers episode is now available!
 Featuring @shek_dev of 
 ⓐ
 🎧 Listen here: http://wordcel.club https://podcast.onlyarweave.com/episodes/publishing-rich-articles-on-the-blockchain-with-founder-shek-dev]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT camiinthisthang.eth: Love love love @Livepeer’s new look 😍🎥]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1540000636858560512</id>
-        <link href="https://twitter.com/camiinthisthang/status/1540000636858560512"/>
-        <updated>2022-06-23T15:55:38.000Z</updated>
-        <summary type="html"><![CDATA[RT camiinthisthang.eth
-Love love love @Livepeer’s new look 😍🎥 https://livepeer.studio/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -169,86 +239,12 @@ A quick thread on how Tendermint consensus works 🧵👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT avrahm.eth | .sol: Damn this is so sudden!! Can’t believe we were chatting last week. Xavier was an awesome, genuine, and fun person. He worked on...]]></title>
-        <id>https://twitter.com/avrahm/status/1539927089943613443</id>
-        <link href="https://twitter.com/avrahm/status/1539927089943613443"/>
-        <updated>2022-06-23T11:03:23.000Z</updated>
-        <summary type="html"><![CDATA[RT avrahm.eth | .sol
-Damn this is so sudden!! Can’t believe we were chatting last week. Xavier was an awesome, genuine, and fun person. He worked on @DefiKingdoms and was the person who peaked my interest into web3. Honestly without his enthusiasm I wouldn’t be apart of @developer_dao. (1/2)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Patrick Collins: .@Explorer_Geek and I talking about @solana, @chainlink, @developer_dao, and all kinds of developer stuff.]]></title>
-        <id>https://twitter.com/PatrickAlphaC/status/1539869623797141504</id>
-        <link href="https://twitter.com/PatrickAlphaC/status/1539869623797141504"/>
-        <updated>2022-06-23T07:15:02.000Z</updated>
-        <summary type="html"><![CDATA[RT Patrick Collins
-.@Explorer_Geek and I talking about @solana, @chainlink, @developer_dao, and all kinds of developer stuff.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT mewny: the rumors were true. it doesnt take many big players like this to act as a schelling point for other devs to take a technical narrative ser...]]></title>
-        <id>https://twitter.com/mewn21/status/1539771013172297728</id>
-        <link href="https://twitter.com/mewn21/status/1539771013172297728"/>
-        <updated>2022-06-23T00:43:11.000Z</updated>
-        <summary type="html"><![CDATA[RT mewny
-the rumors were true. 
-it doesnt take many big players like this to act as a schelling point for other devs to take a technical narrative seriously. 
-i guess we're entering appchain season? i've been pilled on async composability. must open and adjust assumptions.
-dYdX: We’re excited to announce that dYdX V4 will be developed as a standalone Cosmos-based blockchain! 🔗🎉
- https://dydx.exchange/blog/dydx-chain]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Thorne 🌸 ens0.eth: Wrote about how post-mint reveal NFTs work, which we utilized for @wandwitchnft!]]></title>
         <id>https://twitter.com/ExistentialEnso/status/1539767033814024192</id>
         <link href="https://twitter.com/ExistentialEnso/status/1539767033814024192"/>
         <updated>2022-06-23T00:27:23.000Z</updated>
         <summary type="html"><![CDATA[RT Thorne 🌸 ens0.eth
 Wrote about how post-mint reveal NFTs work, which we utilized for @wandwitchnft! https://smol.news/p/the-magic-of-revealing-nfts?utm_source=twitter&sd=pf]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Developer DAO by @MichelleBakels ♥️ It doesn't take long for builders, creators, enthusiasts, and inquisitive newcomers to the Web3 space to...]]></title>
-        <id>https://twitter.com/developer_dao/status/1539720633436712961</id>
-        <link href="https://twitter.com/developer_dao/status/1539720633436712961"/>
-        <updated>2022-06-22T21:23:00.000Z</updated>
-        <summary type="html"><![CDATA[What is Developer DAO by @MichelleBakels ♥️
-It doesn't take long for builders, creators, enthusiasts, and inquisitive newcomers to the Web3 space to stumble upon ~Developer DAO~. Poking around to learn more, it may be challenging to pinpoint exactly ... https://blog.developerdao.com/what-is-developer-dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡️ How to create a private blockchain network using geth by @developer_dao member @codewitheric In this tutorial you will learn how to connect to th...]]></title>
-        <id>https://twitter.com/developer_dao/status/1539690258429771778</id>
-        <link href="https://twitter.com/developer_dao/status/1539690258429771778"/>
-        <updated>2022-06-22T19:22:18.000Z</updated>
-        <summary type="html"><![CDATA[⚡️ How to create a private blockchain network using geth by @developer_dao member @codewitheric 
-In this tutorial you will learn how to connect to the Ethereum Mainnet and then later build a private blockchain network using Go-Ethereum https://dev.to/codewitheric/how-to-create-a-private-blockchain-network-using-go-ethereumgeth-4inn]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ajcwebdev.wallet: Going live with Vickjoe!! We'll be talking DevRel, content creation, and web3.]]></title>
-        <id>https://twitter.com/ajcwebdev/status/1539654195787501573</id>
-        <link href="https://twitter.com/ajcwebdev/status/1539654195787501573"/>
-        <updated>2022-06-22T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[RT ajcwebdev.wallet
-Going live with Vickjoe!! We'll be talking DevRel, content creation, and web3.
-GitHub Education: 🚀 Have you ever considered content creation, technical writing, or Dev Rel? Join @IamVickjoe and @ajcwebdev TODAY for an opportunity to learn all about it. 
-📆 Today, at 5 PM (GMT) 
-📺
- https://github.co/3vIz4uJ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -263,21 +259,6 @@ GitHub Education: 🚀 Have you ever considered content creation, technical wr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT publicgoodsweekly: 🔊 PG Weekly #4 📢 @gitcoin GR14 has <48 hours left! We'd like to spotlight why you should donate 📹 @rehashweb3 featured ...]]></title>
-        <id>https://twitter.com/publicgoodswkly/status/1539597201491591170</id>
-        <link href="https://twitter.com/publicgoodswkly/status/1539597201491591170"/>
-        <updated>2022-06-22T13:12:31.000Z</updated>
-        <summary type="html"><![CDATA[RT publicgoodsweekly
-🔊 PG Weekly #4
-📢 @gitcoin GR14 has <48 hours left! We'd like to spotlight why you should donate
-📹 @rehashweb3 featured @notscottmoore on a podcast explaining why Public goods are Good
-♥️ We take you around the @Givethio Galaxy
-Read it here! https://publicgoodsweekly.substack.com/p/pg-weekly-4?sd=pf]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#29 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/29-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/29-probably-nothing"/>
@@ -285,6 +266,17 @@ Read it here! https://publicgoodsweekly.substack.com/p/pg-weekly-4?sd=pf]]></s
         <summary type="html"><![CDATA[D_D 📈]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Manny (🧱,🚀)(📍🇹🇷 Istanbul): Heading to Istanbul 🇹🇷 next week. Any Web3 and @developer_dao members want to meet?]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1539136269380468746</id>
+        <link href="https://twitter.com/codingwithmanny/status/1539136269380468746"/>
+        <updated>2022-06-21T06:40:57.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🧱,🚀)(📍🇹🇷 Istanbul)
+Heading to Istanbul 🇹🇷 next week. Any Web3 and @developer_dao members want to meet?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
