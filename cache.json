@@ -77,6 +77,36 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/narb_s/status/1540872259400654848",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\nIf you want to get started with Foundry, this is gonna be where you want to start 🚀\nIf you’d like to see Nader show you how easy it is to get up and running, be sure to check out the latest #DevNTell with the link below:\nnader dabit (🧱, 🚀) | sha.eth | nader.lens: I open sourced Foundry cheat sheet yesterday\nbasically just all of the notes, links, commands, and apis I’ve been using the most since I started using it, it’s been a good reference for me so far\n https://github.com/dabit3/foundry-cheatsheet",
+          "link": "https://twitter.com/narb_s/status/1540872259400654848",
+          "publishedOn": "2022-06-26T01:39:09.000Z",
+          "wordCount": 352,
+          "title": "RT Narb | narbeh.eth: If you want to get started with Foundry, this is gonna be where you want to start 🚀 If you’d like to see Nader show you how ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1540755506112827395",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader dabit (🧱, 🚀) | sha.eth | nader.lens\nI open sourced Foundry cheat sheet yesterday\nbasically just all of the notes, links, commands, and apis I’ve been using the most since I started using it, it’s been a good reference for me so far https://github.com/dabit3/foundry-cheatsheet",
+          "link": "https://twitter.com/dabit3/status/1540755506112827395",
+          "publishedOn": "2022-06-25T17:55:13.000Z",
+          "wordCount": 352,
+          "title": "RT nader dabit (🧱, 🚀) | sha.eth | nader.lens: I open sourced Foundry cheat sheet yesterday basically just all of the notes, links, commands, and...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/victordelrosal/status/1540634054072193025",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Victor del Rosal\nThank you @web3con @developer_dao...👍🏻👍🏻",
+          "link": "https://twitter.com/victordelrosal/status/1540634054072193025",
+          "publishedOn": "2022-06-25T09:52:36.000Z",
+          "wordCount": 352,
+          "title": "RT Victor del Rosal: Thank you @web3con @developer_dao...👍🏻👍🏻",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/hashnode/status/1540523172054896641",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Hashnode\nChances are, if you're interested in the web3 space, you've stumbled upon @developer_dao, but there is also a good chance u didn't understand what it's all about!\n@MichelleBakels answers the questions:\n🔸 Who is in it?\n🔸 What is it doing?\n🔸 & more! https://blog.developerdao.com/what-is-developer-dao?source=tw0622",
@@ -197,16 +227,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/solana/status/1540032336594718720",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Solana\nRe 2/\nSolana \nMobile \nStack\nIt’s the toolkit you need to build beautiful, seamless web3 mobile experiences, coming first on Saga, a flagship device from @Solanamobile.\nPre-order at http://SolanaMobile.com",
-          "link": "https://twitter.com/solana/status/1540032336594718720",
-          "publishedOn": "2022-06-23T18:01:36.000Z",
-          "wordCount": 352,
-          "title": "RT Solana: Re 2/ Solana Mobile Stack It’s the toolkit you need to build beautiful, seamless web3 mobile experiences, coming first on Saga, a flagship...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/NHeinDev/status/1540032315149148163",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Nhein.lens\nHow do I get all the tokens from a wallet on Solana!?\nDon't worry anon, I've got you covered. In this video I walk you through how to get all of the token accounts for any wallet on Solana, and give you tips on how you can make it ⚡️ faster ⚡️ https://youtube.com/watch?v=h3Qad6k0xFc",
@@ -227,16 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/RussLive215/status/1539972083534266369",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT russ.eth (🔋, 🌻)\nOnboarded Styles P yesterday, you can’t tell me nothing no mo",
-          "link": "https://twitter.com/RussLive215/status/1539972083534266369",
-          "publishedOn": "2022-06-23T14:02:10.000Z",
-          "wordCount": 352,
-          "title": "RT russ.eth (🔋, 🌻): Onboarded Styles P yesterday, you can’t tell me nothing no mo",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/yusuket_/status/1539957748405862400",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Yusuke Tanaka\n📆 This Week in Metaverse #017 📆\n👉 NYC Supreme Court allows use of NFT\n👉 Games are coming to Polygon\n👉 Goblintown creator revealed\n👉 BAYC prices drop\n👉 OpenSea moves to Seaport Protocol\n👉 Axie Infinity launches Axie Creator Program\n👉 Nouns Vision begins public mint\n🧵↓",
@@ -254,16 +264,6 @@
           "publishedOn": "2022-06-23T11:30:02.000Z",
           "wordCount": 352,
           "title": "RT Gitopia: 1/16 Gitopia uses the @Tendermint_Core consensus engine to validate its POS network. The protocol has been battle-tested since 2014 and ha...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ExistentialEnso/status/1539767033814024192",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Thorne 🌸 ens0.eth\nWrote about how post-mint reveal NFTs work, which we utilized for @wandwitchnft! https://smol.news/p/the-magic-of-revealing-nfts?utm_source=twitter&sd=pf",
-          "link": "https://twitter.com/ExistentialEnso/status/1539767033814024192",
-          "publishedOn": "2022-06-23T00:27:23.000Z",
-          "wordCount": 352,
-          "title": "RT Thorne 🌸 ens0.eth: Wrote about how post-mint reveal NFTs work, which we utilized for @wandwitchnft!",
           "imageUrl": null
         },
         {

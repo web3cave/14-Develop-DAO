@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-25T06:13:35.940Z</id>
+    <id>urn:2022-06-26T06:13:04.663Z</id>
     <title>web3::cave</title>
-    <updated>2022-06-25T06:13:35.940Z</updated>
+    <updated>2022-06-26T06:13:04.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: If you want to get started with Foundry, this is gonna be where you want to start 🚀 If you’d like to see Nader show you how ...]]></title>
+        <id>https://twitter.com/narb_s/status/1540872259400654848</id>
+        <link href="https://twitter.com/narb_s/status/1540872259400654848"/>
+        <updated>2022-06-26T01:39:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+If you want to get started with Foundry, this is gonna be where you want to start 🚀
+If you’d like to see Nader show you how easy it is to get up and running, be sure to check out the latest #DevNTell with the link below:
+nader dabit (🧱, 🚀) | sha.eth | nader.lens: I open sourced Foundry cheat sheet yesterday
+basically just all of the notes, links, commands, and apis I’ve been using the most since I started using it, it’s been a good reference for me so far
+ https://github.com/dabit3/foundry-cheatsheet]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth | nader.lens: I open sourced Foundry cheat sheet yesterday basically just all of the notes, links, commands, and...]]></title>
+        <id>https://twitter.com/dabit3/status/1540755506112827395</id>
+        <link href="https://twitter.com/dabit3/status/1540755506112827395"/>
+        <updated>2022-06-25T17:55:13.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit (🧱, 🚀) | sha.eth | nader.lens
+I open sourced Foundry cheat sheet yesterday
+basically just all of the notes, links, commands, and apis I’ve been using the most since I started using it, it’s been a good reference for me so far https://github.com/dabit3/foundry-cheatsheet]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Victor del Rosal: Thank you @web3con @developer_dao...👍🏻👍🏻]]></title>
+        <id>https://twitter.com/victordelrosal/status/1540634054072193025</id>
+        <link href="https://twitter.com/victordelrosal/status/1540634054072193025"/>
+        <updated>2022-06-25T09:52:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Victor del Rosal
+Thank you @web3con @developer_dao...👍🏻👍🏻]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Hashnode: Chances are, if you're interested in the web3 space, you've stumbled upon @developer_dao, but there is also a good chance u didn't unders...]]></title>
         <id>https://twitter.com/hashnode/status/1540523172054896641</id>
@@ -154,22 +192,6 @@ Video https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Solana: Re 2/ Solana Mobile Stack It’s the toolkit you need to build beautiful, seamless web3 mobile experiences, coming first on Saga, a flagship...]]></title>
-        <id>https://twitter.com/solana/status/1540032336594718720</id>
-        <link href="https://twitter.com/solana/status/1540032336594718720"/>
-        <updated>2022-06-23T18:01:36.000Z</updated>
-        <summary type="html"><![CDATA[RT Solana
-Re 2/
-Solana 
-Mobile 
-Stack
-It’s the toolkit you need to build beautiful, seamless web3 mobile experiences, coming first on Saga, a flagship device from @Solanamobile.
-Pre-order at http://SolanaMobile.com]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Nhein.lens: How do I get all the tokens from a wallet on Solana!? Don't worry anon, I've got you covered. In this video I walk you through how to g...]]></title>
         <id>https://twitter.com/NHeinDev/status/1540032315149148163</id>
         <link href="https://twitter.com/NHeinDev/status/1540032315149148163"/>
@@ -191,17 +213,6 @@ Latest Permaweb Pioneers episode is now available!
 Featuring @shek_dev of 
 ⓐ
 🎧 Listen here: http://wordcel.club https://podcast.onlyarweave.com/episodes/publishing-rich-articles-on-the-blockchain-with-founder-shek-dev]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT russ.eth (🔋, 🌻): Onboarded Styles P yesterday, you can’t tell me nothing no mo]]></title>
-        <id>https://twitter.com/RussLive215/status/1539972083534266369</id>
-        <link href="https://twitter.com/RussLive215/status/1539972083534266369"/>
-        <updated>2022-06-23T14:02:10.000Z</updated>
-        <summary type="html"><![CDATA[RT russ.eth (🔋, 🌻)
-Onboarded Styles P yesterday, you can’t tell me nothing no mo]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -234,17 +245,6 @@ Onboarded Styles P yesterday, you can’t tell me nothing no mo]]></summary>
 1/16 Gitopia uses the @Tendermint_Core consensus engine to validate its POS network. 
 The protocol has been battle-tested since 2014 and has not suffered any major security breaches since its inception.
 A quick thread on how Tendermint consensus works 🧵👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Thorne 🌸 ens0.eth: Wrote about how post-mint reveal NFTs work, which we utilized for @wandwitchnft!]]></title>
-        <id>https://twitter.com/ExistentialEnso/status/1539767033814024192</id>
-        <link href="https://twitter.com/ExistentialEnso/status/1539767033814024192"/>
-        <updated>2022-06-23T00:27:23.000Z</updated>
-        <summary type="html"><![CDATA[RT Thorne 🌸 ens0.eth
-Wrote about how post-mint reveal NFTs work, which we utilized for @wandwitchnft! https://smol.news/p/the-magic-of-revealing-nfts?utm_source=twitter&sd=pf]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
