@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02148f97-431e-45b7-972d-071f911063e9_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/26-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Turns out, scribes run the world",
-          "link": "https://developerdao.substack.com/p/26-probably-nothing",
-          "publishedOn": "2022-05-31T07:49:05.000Z",
-          "wordCount": null,
-          "title": "#26 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90c86617-182d-4c99-8814-60e981f64942_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90c86617-182d-4c99-8814-60e981f64942_1100x550.png"
         }
       ]
     },
@@ -92,6 +76,126 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/carlomigueldy/status/1542342218782228480",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT carlomigueldy.eth\nWould love to see my @developer_dao frens cast votes to proposals from our metaverse at @atlantis0x 😍💙",
+          "link": "https://twitter.com/carlomigueldy/status/1542342218782228480",
+          "publishedOn": "2022-06-30T03:00:14.000Z",
+          "wordCount": 352,
+          "title": "RT carlomigueldy.eth: Would love to see my @developer_dao frens cast votes to proposals from our metaverse at @atlantis0x 😍💙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1542335323346288642",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Smart Contract Development with Foundry by @dabit3 \nIn this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry. 🦭 https://www.youtube.com/watch?v=uelA2U9TbgM",
+          "link": "https://twitter.com/developer_dao/status/1542335323346288642",
+          "publishedOn": "2022-06-30T02:32:50.000Z",
+          "wordCount": 352,
+          "title": "Smart Contract Development with Foundry by @dabit3 In this video you'll learn how to build, test, and deploy smart contracts with Solidity using Found...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pbillingsby_eth/status/1542315856893317121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby.eth\nJust when you thought there was enough perks to being a @developer_dao member, we get ready to release the  @getP3RKS MVP. Keep an eye out for future savings buildoorssss 👀👀👀",
+          "link": "https://twitter.com/pbillingsby_eth/status/1542315856893317121",
+          "publishedOn": "2022-06-30T01:15:29.000Z",
+          "wordCount": 352,
+          "title": "RT pbillingsby.eth: Just when you thought there was enough perks to being a @developer_dao member, we get ready to release the @getP3RKS MVP. Keep an ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1542293194599268353",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1542293194599268353",
+          "publishedOn": "2022-06-29T23:45:26.000Z",
+          "wordCount": 352,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AK694208888/status/1542290321383608320",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT AK\nWhen I \"go to work\" at @developer_dao (i.e. open Discord 😅), my #NFT verifies that I'm authorized to be there.\nNFTs are a metaverse access pass.",
+          "link": "https://twitter.com/AK694208888/status/1542290321383608320",
+          "publishedOn": "2022-06-29T23:34:01.000Z",
+          "wordCount": 352,
+          "title": "RT AK: When I \"go to work\" at @developer_dao (i.e. open Discord 😅), my #NFT verifies that I'm authorized to be there. NFTs are a metaverse access p...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/me_jango/status/1542261002280095745",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT jango.eth\ncc @buidlguidl @jokedao_ @juiceboxETH @developer_dao and whoever else wants to hack",
+          "link": "https://twitter.com/me_jango/status/1542261002280095745",
+          "publishedOn": "2022-06-29T21:37:31.000Z",
+          "wordCount": 352,
+          "title": "RT jango.eth: cc @buidlguidl @jokedao_ @juiceboxETH @developer_dao and whoever else wants to hack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/meteorjs/status/1542221380942499846",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Meteor\nIt is finally here! An NFT marketplace app built with Meteor. 🛒☄️\nThis app is for demonstration purposes only and is based on @dabit3 tutorial about creating an #NFT marketplace. \nLink here: \n#meteorjs #javascript #nodejs https://social.meteor.com/nft-marketplace-blog",
+          "link": "https://twitter.com/meteorjs/status/1542221380942499846",
+          "publishedOn": "2022-06-29T19:00:04.000Z",
+          "wordCount": 352,
+          "title": "RT Meteor: It is finally here! An NFT marketplace app built with Meteor. 🛒☄️ This app is for demonstration purposes only and is based on @dabit3 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BundlrNetwork/status/1542184836223361030",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Bundlr\nBIG NEWS! 🎉\n🤝Introducing the Bundlr Ambassador Program 🤝\nWe're inviting members of the community to become Ambassadors of Bundlr\nHelp us as we build and shape the brand that is making web3 data storage fast and easy https://medium.com/bundlr-network/introducing-the-bundlr-ambassador-program-19b7124cb97e",
+          "link": "https://twitter.com/BundlrNetwork/status/1542184836223361030",
+          "publishedOn": "2022-06-29T16:34:52.000Z",
+          "wordCount": 352,
+          "title": "RT Bundlr: BIG NEWS! 🎉 🤝Introducing the Bundlr Ambassador Program 🤝 We're inviting members of the community to become Ambassadors of Bundlr H...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/alpeh_v/status/1542182142511353857",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT alephv.eth\nim begging, crying, puking, running up and down the streets naked in desperation... if you're a good solidity dev please come work with me and end my suffering",
+          "link": "https://twitter.com/alpeh_v/status/1542182142511353857",
+          "publishedOn": "2022-06-29T16:24:09.000Z",
+          "wordCount": 352,
+          "title": "RT alephv.eth: im begging, crying, puking, running up and down the streets naked in desperation... if you're a good solidity dev please come work with...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1542164199396315136",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "developer dao members built dffrnt",
+          "link": "https://twitter.com/developer_dao/status/1542164199396315136",
+          "publishedOn": "2022-06-29T15:12:51.000Z",
+          "wordCount": 352,
+          "title": "developer dao members built dffrnt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1542161895679049728",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "I scraped 7 million dev jobs for 8 months and these are the most demanded languages.\nHere are the 8 most demanded programming languages in 2022. https://www.devjobsscanner.com/blog/top-8-most-demanded-languages-in-2022/",
+          "link": "https://twitter.com/developer_dao/status/1542161895679049728",
+          "publishedOn": "2022-06-29T15:03:42.000Z",
+          "wordCount": 352,
+          "title": "I scraped 7 million dev jobs for 8 months and these are the most demanded languages. Here are the 8 most demanded programming languages in 2022.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/crlfq/status/1542149966512234499",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ivan Zhang\nHey guys, we are hosting another open bar + quality cocktails + engaging discussions on finance+crypto meetup tomorrow 6/30 in NYC! Anyone in? @developer_dao https://www.eventbrite.com/e/pennyworks-x-hut-consulting-tickets-369043949387?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=escb",
+          "link": "https://twitter.com/crlfq/status/1542149966512234499",
+          "publishedOn": "2022-06-29T14:16:18.000Z",
+          "wordCount": 352,
+          "title": "RT Ivan Zhang: Hey guys, we are hosting another open bar + quality cocktails + engaging discussions on finance+crypto meetup tomorrow 6/30 in NYC! Any...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/solderneer/status/1541982071622492160",
           "author": "Developer DAO (🧱, 🚀)",
@@ -143,136 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/StaniKulechov/status/1541855546122305536",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT stani.lens (🌿,👻)\nInternet is owned by few corporations currently. Think about that for a moment.",
-          "link": "https://twitter.com/StaniKulechov/status/1541855546122305536",
-          "publishedOn": "2022-06-28T18:46:23.000Z",
-          "wordCount": 352,
-          "title": "RT stani.lens (🌿,👻): Internet is owned by few corporations currently. Think about that for a moment.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1541837372790394883",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @tonyolendo congratulations!!! 🔥🔥🔥",
-          "link": "https://twitter.com/developer_dao/status/1541837372790394883",
-          "publishedOn": "2022-06-28T17:34:10.000Z",
-          "wordCount": 352,
-          "title": "Re @tonyolendo congratulations!!! 🔥🔥🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CelestiaOrg/status/1541837342075367425",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Celestia\nCelestia is now on Reddit 👋\nJump in to find community updates, discussions, and potentially AMAs with the Celestia Labs team 👀\nJoin the subreddit: https://reddit.com/r/CelestiaNetwork/",
-          "link": "https://twitter.com/CelestiaOrg/status/1541837342075367425",
-          "publishedOn": "2022-06-28T17:34:02.000Z",
-          "wordCount": 352,
-          "title": "RT Celestia: Celestia is now on Reddit 👋 Jump in to find community updates, discussions, and potentially AMAs with the Celestia Labs team 👀 Join...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1541836892152467456",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @ejay_eth @guildxyz Hi, still interested in this ticket?",
-          "link": "https://twitter.com/developer_dao/status/1541836892152467456",
-          "publishedOn": "2022-06-28T17:32:15.000Z",
-          "wordCount": 352,
-          "title": "Re @ejay_eth @guildxyz Hi, still interested in this ticket?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1541830149116657664",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "⚡️ Solana Onboarding by @_ilmoi \nThis action-list has everything you need to go from wannabe who never coded Rust to proper Solana hacker. https://github.com/ilmoi/solana-onboarding",
-          "link": "https://twitter.com/developer_dao/status/1541830149116657664",
-          "publishedOn": "2022-06-28T17:05:28.000Z",
-          "wordCount": 352,
-          "title": "⚡️ Solana Onboarding by @_ilmoi This action-list has everything you need to go from wannabe who never coded Rust to proper Solana hacker.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nonstack/status/1541821621543047172",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nonstack.eth\nThe whole world should know more about Machine NFTs & the Job @MaxThake @dorloechter and the entire @peaqnetwork is doing to help people profit from automation & not outrightly displacing them of their sole means of income.\n@developer_dao\nEditor @K4y1s https://blog.developerdao.com/what-are-machine-nfts-and-how-can-you-benefit-from-them",
-          "link": "https://twitter.com/nonstack/status/1541821621543047172",
-          "publishedOn": "2022-06-28T16:31:34.000Z",
-          "wordCount": 352,
-          "title": "RT nonstack.eth: The whole world should know more about Machine NFTs & the Job @MaxThake @dorloechter and the entire @peaqnetwork is doing to help peo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1541816675812708353",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Crypto Events 2022, curated by @CryptoNomads_gm\n A list of upcoming crypto and web3 events happening around the world along with dates, locations, and links! ✨ https://docs.google.com/spreadsheets/d/1KtyFTb_W282bQ1xoVA5rlTwTDz3QfhswWIVpXhpbQIc/edit#gid=0",
-          "link": "https://twitter.com/developer_dao/status/1541816675812708353",
-          "publishedOn": "2022-06-28T16:11:55.000Z",
-          "wordCount": 352,
-          "title": "Crypto Events 2022, curated by @CryptoNomads_gm A list of upcoming crypto and web3 events happening around the world along with dates, locations, and ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1541815111320584195",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "New Developer DAO Newsletter - Issue #30 🚀🚀🚀\n0xPaulie.eth: Your weekly 💧 of @developer_dao news! 📰\nProbably Nothing #30 - Big 3-0, Let's Go D_D\nCheck out the launch of the Contract Book Club with @0xMacroDAO, vote on open proposal P-15, and nominate 2 new DAO Operator roles! Not to mention all the guild news!\n https://developerdao.substack.com/p/30-probably-nothing",
-          "link": "https://twitter.com/developer_dao/status/1541815111320584195",
-          "publishedOn": "2022-06-28T16:05:42.000Z",
-          "wordCount": 352,
-          "title": "New Developer DAO Newsletter - Issue #30 🚀🚀🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/armaniferrante/status/1541809106389983234",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT xNFT Armani 🎒\nLooking for *the* 10x devrel for all things @0xCoral @anchorlang @xNFT_Backpack!",
-          "link": "https://twitter.com/armaniferrante/status/1541809106389983234",
-          "publishedOn": "2022-06-28T15:41:51.000Z",
-          "wordCount": 352,
-          "title": "RT xNFT Armani 🎒: Looking for *the* 10x devrel for all things @0xCoral @anchorlang @xNFT_Backpack!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xPolygonDevs/status/1541794045663625216",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Polygon Developers 💜\n🔔 We are having a chat with @dabit3 on buidling the future of web3. \nDo you have any question for web3's favorite guru? Drop your questions in the form below and we'll get Nader to answer them during the #WAGMIonPolygon session\nℹ️ https://bit.ly/3NzO18k",
-          "link": "https://twitter.com/0xPolygonDevs/status/1541794045663625216",
-          "publishedOn": "2022-06-28T14:42:00.000Z",
-          "wordCount": 352,
-          "title": "RT Polygon Developers 💜: 🔔 We are having a chat with @dabit3 on buidling the future of web3. Do you have any question for web3's favorite guru? ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kaykayeth/status/1541782148105080834",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Kay ⧫ 🇺🇦\nneed web3 fren for @EthCC who’ll be taking me as +1 wherever they go, since I always miss out those cool parties and bad at socializing\n@html_tina isn’t going, I’ll end up sitting in the corner alone…",
-          "link": "https://twitter.com/kaykayeth/status/1541782148105080834",
-          "publishedOn": "2022-06-28T13:54:43.000Z",
-          "wordCount": 352,
-          "title": "RT Kay ⧫ 🇺🇦: need web3 fren for @EthCC who’ll be taking me as +1 wherever they go, since I always miss out those cool parties and bad at socia...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tonyolendo/status/1541612240570310656",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tonyolendo.eth\nOh yeah, btw, I work for Polygon now as a developer education evangelist.\n[insert long thread explaining why here]",
-          "link": "https://twitter.com/tonyolendo/status/1541612240570310656",
-          "publishedOn": "2022-06-28T02:39:34.000Z",
-          "wordCount": 352,
-          "title": "RT tonyolendo.eth: Oh yeah, btw, I work for Polygon now as a developer education evangelist. [insert long thread explaining why here]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/sohrabwashere/status/1541531942004264960",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Sohrab\nPlain @solana and @anchorlang programs may look a world apart but it's all there in Anchor, except it is doing a lot more heavy lifting for you; more validation, and better ergonomics.\nLet's dig into how these two deal with program invocations 🧵 \n1/6",
-          "link": "https://twitter.com/sohrabwashere/status/1541531942004264960",
-          "publishedOn": "2022-06-27T21:20:29.000Z",
-          "wordCount": 352,
-          "title": "RT Sohrab: Plain @solana and @anchorlang programs may look a world apart but it's all there in Anchor, except it is doing a lot more heavy lifting for...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/devan_non/status/1541421622858756096",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Devan Non\n🔥⚒️ Foundry Coverage is here! If you use VS Code you're going to want to read this post!\nI write long form content now too. Or, for the boomers, I'm a blogger now too. https://mirror.xyz/devanon.eth/RrDvKPnlD-pmpuW7hQeR5wWdVjklrpOgPCOA-PJkWFU",
@@ -280,16 +254,6 @@
           "publishedOn": "2022-06-27T14:02:07.000Z",
           "wordCount": 352,
           "title": "RT Devan Non: 🔥⚒️ Foundry Coverage is here! If you use VS Code you're going to want to read this post! I write long form content now too. Or, for...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/twofivedev/status/1541270080813670401",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 2.5 Intelligence\nCollection size, mint price and royalty fees matter! Here's why 🧵👇\nFull report: https://2.5.dev/research/collections-review.pdf",
-          "link": "https://twitter.com/twofivedev/status/1541270080813670401",
-          "publishedOn": "2022-06-27T03:59:57.000Z",
-          "wordCount": 352,
-          "title": "RT 2.5 Intelligence: Collection size, mint price and royalty fees matter! Here's why 🧵👇 Full report:",
           "imageUrl": null
         }
       ]
