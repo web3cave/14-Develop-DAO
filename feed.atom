@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T06:13:54.409Z</id>
+    <id>urn:2022-07-04T06:17:14.352Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-03T06:13:54.409Z</updated>
+    <updated>2022-07-04T06:17:14.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT DappaDan (🧱,🚀): I started reviewing CVs for @developer_dao as a nice gesture. I have now descended into becoming the Gordon Ramsay of CV revi...]]></title>
+        <id>https://twitter.com/DAppaDanDev/status/1543688528512421889</id>
+        <link href="https://twitter.com/DAppaDanDev/status/1543688528512421889"/>
+        <updated>2022-07-03T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
+I started reviewing CVs for @developer_dao as a nice gesture. 
+I have now descended into becoming the Gordon Ramsay of CV reviews and this isn't even my final form.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 🐘🔗 sam.arweave.dev: 1,143 days ago, Lev Berman and I launched It cost us $0.0038 at the time, and not a single penny since. There has precise...]]></title>
+        <id>https://twitter.com/samecwilliams/status/1543673466766999552</id>
+        <link href="https://twitter.com/samecwilliams/status/1543673466766999552"/>
+        <updated>2022-07-03T19:10:09.000Z</updated>
+        <summary type="html"><![CDATA[RT 🐘🔗 sam.arweave.dev
+1,143 days ago, Lev Berman and I launched 
+It cost us $0.0038 at the time, and not a single penny since.
+There has precisely zero downtime for the app, and it still works perfectly.
+This is the power of permaweb apps. http://weavemail.app]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MOHΔMΞD SΔDIQ: . @developer_dao FM v1.1.0 is live! 🔥 Now you get to choose which type of music suits you the most. ↳]]></title>
+        <id>https://twitter.com/sadiq_moo/status/1543630960322912257</id>
+        <link href="https://twitter.com/sadiq_moo/status/1543630960322912257"/>
+        <updated>2022-07-03T16:21:14.000Z</updated>
+        <summary type="html"><![CDATA[RT MOHΔMΞD SΔDIQ
+. @developer_dao FM v1.1.0 is live! 🔥
+ Now you get to choose which type of music suits you the most.
+↳ https://www.developerdaofm.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby.eth: I need to make some serious money this month to move my family cross country. Any freelance work or anything to help me reach that...]]></title>
+        <id>https://twitter.com/pbillingsby_eth/status/1543479193370890240</id>
+        <link href="https://twitter.com/pbillingsby_eth/status/1543479193370890240"/>
+        <updated>2022-07-03T06:18:10.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby.eth
+I need to make some serious money this month to move my family cross country. Any freelance work or anything to help me reach that amount of money would be so so so helpful so please reach out if you have anything. Have to be out by the 30 so I’m really hustling to make it happen]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT dengdeng: Just quit my job and took a gap year from Wharton. Trying to learn to code, can I get some advice?? 🥺 👉👈]]></title>
         <id>https://twitter.com/dengdengspams/status/1543405169924243457</id>
@@ -47,6 +97,17 @@ Trying to learn to code, can I get some advice?? 🥺 👉👈]]></summary>
         <updated>2022-07-02T20:20:56.000Z</updated>
         <summary type="html"><![CDATA[RT dhai.eth
 had to do it]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby.eth: Any @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL]]></title>
+        <id>https://twitter.com/pbillingsby_eth/status/1543295844987768833</id>
+        <link href="https://twitter.com/pbillingsby_eth/status/1543295844987768833"/>
+        <updated>2022-07-02T18:09:37.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby.eth
+Any @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -120,74 +181,6 @@ I joined Tendermint (the company) three years ago, on June 17th, 2019. I started
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Landed a Developer Relations Role in Web3 after 6 months 🙇‍♂️ By @developer_dao member @olanetsoft]]></title>
-        <id>https://twitter.com/developer_dao/status/1543096246587490304</id>
-        <link href="https://twitter.com/developer_dao/status/1543096246587490304"/>
-        <updated>2022-07-02T04:56:29.000Z</updated>
-        <summary type="html"><![CDATA[How I Landed a Developer Relations Role in Web3 after 6 months 🙇‍♂️
-By @developer_dao member @olanetsoft https://blog.idrisolubisi.com/how-i-landed-a-developer-relations-role-in-web3-after-6-months]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT D_D School Of Code: Are we late to the party?]]></title>
-        <id>https://twitter.com/ddschoolofcode/status/1543060308561911808</id>
-        <link href="https://twitter.com/ddschoolofcode/status/1543060308561911808"/>
-        <updated>2022-07-02T02:33:40.000Z</updated>
-        <summary type="html"><![CDATA[RT D_D School Of Code
-Are we late to the party? https://ddschoolofcode.arweave.dev/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 🐘🔗ario.arweave.dev: We've already reached 200 test Arweave Name System pilots🥇! Incredible to see all of your @permapages! We're going to ...]]></title>
-        <id>https://twitter.com/ar_io_network/status/1542937022486265857</id>
-        <link href="https://twitter.com/ar_io_network/status/1542937022486265857"/>
-        <updated>2022-07-01T18:23:47.000Z</updated>
-        <summary type="html"><![CDATA[RT 🐘🔗ario.arweave.dev
-We've already reached 200 test Arweave Name System pilots🥇! Incredible to see all of your @permapages!
-We're going to open up a new wave of test pilots right now. The next 500 people to sign up will receive a 🥈 atomic NFT for helping us test ArNS 👇 http://pilot.ar.io]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Sabnock: "I use Foundry" is the new "I use Arch"]]></title>
-        <id>https://twitter.com/Sabnock66/status/1542914494644588546</id>
-        <link href="https://twitter.com/Sabnock66/status/1542914494644588546"/>
-        <updated>2022-07-01T16:54:16.000Z</updated>
-        <summary type="html"><![CDATA[RT Sabnock
-"I use Foundry" is the new "I use Arch"]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mind and Glory 🎖: If you lack discipline, read this thread.]]></title>
-        <id>https://twitter.com/mindandglory/status/1542837360336969728</id>
-        <link href="https://twitter.com/mindandglory/status/1542837360336969728"/>
-        <updated>2022-07-01T11:47:45.000Z</updated>
-        <summary type="html"><![CDATA[RT Mind and Glory 🎖
-If you lack discipline, read this thread.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT brent: Decentralized Identifiers (DIDs) v1.0 is now an official W3C Recommendation! It's been a long road, but we're just getting started.]]></title>
-        <id>https://twitter.com/brent_zundel/status/1542633423054942210</id>
-        <link href="https://twitter.com/brent_zundel/status/1542633423054942210"/>
-        <updated>2022-06-30T22:17:23.000Z</updated>
-        <summary type="html"><![CDATA[RT brent
-Decentralized Identifiers (DIDs) v1.0 is now an official W3C Recommendation!
-It's been a long road, but we're just getting started.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT 2.5 Intelligence: It’s been a wild year for NFT’s 🎢 Enjoy this visualization of NFT floor prices throughout the last 12 months Can you spot yo...]]></title>
         <id>https://twitter.com/twofivedev/status/1542188709659004928</id>
         <link href="https://twitter.com/twofivedev/status/1542188709659004928"/>
@@ -196,25 +189,6 @@ It's been a long road, but we're just getting started.]]></summary>
 It’s been a wild year for NFT’s 🎢
 Enjoy this visualization of NFT floor prices throughout the last 12 months
 Can you spot your favorite projects? 👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT This Week in DAOs 🌈: 📆 This Week in DAOs #027 📆 👉Uniswap acquired Genie 👉Light v1 announced 👉Tand3m launched 👉how DAOs work �...]]></title>
-        <id>https://twitter.com/TWiDAOs/status/1541927234977443842</id>
-        <link href="https://twitter.com/TWiDAOs/status/1541927234977443842"/>
-        <updated>2022-06-28T23:31:15.000Z</updated>
-        <summary type="html"><![CDATA[RT This Week in DAOs 🌈
-📆 This Week in DAOs #027 📆
-👉Uniswap acquired Genie
-👉Light v1 announced
-👉Tand3m launched
-👉how DAOs work
-👉zksync update
-👉Gucci & SuperRare DAO
-👉Thoughts on MakerDAO
-↓]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
