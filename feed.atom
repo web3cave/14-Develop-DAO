@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-04T06:17:14.352Z</id>
+    <id>urn:2022-07-05T06:14:38.295Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-04T06:17:14.352Z</updated>
+    <updated>2022-07-05T06:14:38.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @IbnInglor 🕊]]></title>
+        <id>https://twitter.com/developer_dao/status/1544174182812057600</id>
+        <link href="https://twitter.com/developer_dao/status/1544174182812057600"/>
+        <updated>2022-07-05T04:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @IbnInglor 🕊]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby.eth: Had to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10! npm install react-arweave-image <Ar...]]></title>
+        <id>https://twitter.com/pbillingsby_eth/status/1544109229354536960</id>
+        <link href="https://twitter.com/pbillingsby_eth/status/1544109229354536960"/>
+        <updated>2022-07-05T00:01:43.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby.eth
+Had to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10!
+npm install react-arweave-image
+<ArweaveImage hash="<arweave image tx #>" />
+You can also pass in any HTML image props like class names and event handlers to this component.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT JackForge.eth: Re @NFTsAreNice Definitely not wrong. 😅 Some of the best communities are probably for collections that aren't worth anything. @de...]]></title>
+        <id>https://twitter.com/TheJackForge/status/1544001323477061632</id>
+        <link href="https://twitter.com/TheJackForge/status/1544001323477061632"/>
+        <updated>2022-07-04T16:52:56.000Z</updated>
+        <summary type="html"><![CDATA[RT JackForge.eth
+Re @NFTsAreNice Definitely not wrong. 😅
+Some of the best communities are probably for collections that aren't worth anything.
+@developer_dao used NFTs for entry into the DAO. There is no speculative value to the NFTs, but the opportunities that come with being a member is massive.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Will Worth: "Solidity Basics for JavaScript Devs" by @k4y1s on the @developer_dao blog:]]></title>
+        <id>https://twitter.com/willworthdev/status/1543953229612027910</id>
+        <link href="https://twitter.com/willworthdev/status/1543953229612027910"/>
+        <updated>2022-07-04T13:41:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Will Worth
+"Solidity Basics for JavaScript Devs" by @k4y1s  on the @developer_dao blog: https://blog.developerdao.com/solidity-basics-for-javascript-devs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rescue Your Hacked Crypto Wallet Tokens | Flashbots Tutorial by @developer_dao member @what_the_func 👻 In this video I show you how you can rescue ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1543951664067084288</id>
+        <link href="https://twitter.com/developer_dao/status/1543951664067084288"/>
+        <updated>2022-07-04T13:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Rescue Your Hacked Crypto Wallet Tokens | Flashbots Tutorial by @developer_dao member @what_the_func 👻
+In this video I show you how you can rescue your tokens from a compromised Ethereum wallet by using the power of Flashbots. https://www.youtube.com/watch?v=1Cfqh303m0A&feature=youtu.be]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1543942542969937925</id>
+        <link href="https://twitter.com/developer_dao/status/1543942542969937925"/>
+        <updated>2022-07-04T12:59:21.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT jimxjim.eth (🧱, 🚀) Ching Tan Hsieh 👨‍🚀: Thank you 🧱🚀 @web3con @developer_dao Build the future, build yourself.]]></title>
+        <id>https://twitter.com/jim74255/status/1543862732545732608</id>
+        <link href="https://twitter.com/jim74255/status/1543862732545732608"/>
+        <updated>2022-07-04T07:42:13.000Z</updated>
+        <summary type="html"><![CDATA[RT jimxjim.eth (🧱, 🚀) Ching Tan Hsieh 👨‍🚀
+Thank you 🧱🚀 @web3con @developer_dao
+Build the future, build yourself.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT DappaDan (🧱,🚀): I started reviewing CVs for @developer_dao as a nice gesture. I have now descended into becoming the Gordon Ramsay of CV revi...]]></title>
         <id>https://twitter.com/DAppaDanDev/status/1543688528512421889</id>
@@ -40,6 +120,18 @@ This is the power of permaweb apps. http://weavemail.app]]></summary>
 . @developer_dao FM v1.1.0 is live! 🔥
  Now you get to choose which type of music suits you the most.
 ↳ https://www.developerdaofm.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: npm install react-ipfs-image <IpfsImage hash='<hash>' />]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1543618857054613505</id>
+        <link href="https://twitter.com/dhaiwat10/status/1543618857054613505"/>
+        <updated>2022-07-03T15:33:09.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+npm install react-ipfs-image
+<IpfsImage hash='<hash>' />]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -108,100 +200,6 @@ had to do it]]></summary>
         <updated>2022-07-02T18:09:37.000Z</updated>
         <summary type="html"><![CDATA[RT pbillingsby.eth
 Any @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT susmeet.lens: It is easy to miss web3's real impact with the noise on twitter. Me and @poojasutodiya have curated tweets from artists & creators na...]]></title>
-        <id>https://twitter.com/SusmeetJain/status/1543283284574371840</id>
-        <link href="https://twitter.com/SusmeetJain/status/1543283284574371840"/>
-        <updated>2022-07-02T17:19:42.000Z</updated>
-        <summary type="html"><![CDATA[RT susmeet.lens
-It is easy to miss web3's real impact with the noise on twitter.
-Me and @poojasutodiya have curated tweets from artists & creators nailing Web3 and making crazy money💰
-Launching 
-Curation of tweets from OGs like @dabit3, @imdanielallan, @mikeshinoda http://web3-creators.popsy.site]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ivan Zhang: I'll be in Lisbon for a few weeks, any @developer_dao web3 builders and shakers nearby? Would love to meet up and learn what you are up...]]></title>
-        <id>https://twitter.com/crlfq/status/1543207193184550914</id>
-        <link href="https://twitter.com/crlfq/status/1543207193184550914"/>
-        <updated>2022-07-02T12:17:20.000Z</updated>
-        <summary type="html"><![CDATA[RT Ivan Zhang
-I'll be in Lisbon for a few weeks, any @developer_dao web3 builders and shakers nearby? Would love to meet up and learn what you are up to!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does having an anime profile pic make you a better programmer]]></title>
-        <id>https://twitter.com/developer_dao/status/1543196480521076738</id>
-        <link href="https://twitter.com/developer_dao/status/1543196480521076738"/>
-        <updated>2022-07-02T11:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Does having an anime profile pic make you a better programmer]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defining DAO Operators by @developer_dao 👑 @Erik_Knobl Most initiatives are an attempt to solve a problem. In the case of the proposal to define DA...]]></title>
-        <id>https://twitter.com/developer_dao/status/1543195026993414144</id>
-        <link href="https://twitter.com/developer_dao/status/1543195026993414144"/>
-        <updated>2022-07-02T11:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Defining DAO Operators
-by @developer_dao 👑 @Erik_Knobl 
-Most initiatives are an attempt to solve a problem. In the case of the proposal to define DAO operators, the issue was the lack of definition around our paid roles. https://blog.developerdao.com/defining-dao-operators]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Denis Fadeev: I joined Tendermint (the company) three years ago, on June 17th, 2019. I started as a frontend engineer and progressed to building my...]]></title>
-        <id>https://twitter.com/fadeev/status/1543164680230797313</id>
-        <link href="https://twitter.com/fadeev/status/1543164680230797313"/>
-        <updated>2022-07-02T09:28:25.000Z</updated>
-        <summary type="html"><![CDATA[RT Denis Fadeev
-I joined Tendermint (the company) three years ago, on June 17th, 2019. I started as a frontend engineer and progressed to building my own product (Ignite), leading an engineering team on a mission to improve the developer experience of @cosmos. We've succeeded. Here's a retro.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @web3slinger @PatrickAlphaC 🔥🔥🔥🔥🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1543105604541095939</id>
-        <link href="https://twitter.com/developer_dao/status/1543105604541095939"/>
-        <updated>2022-07-02T05:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @web3slinger @PatrickAlphaC 🔥🔥🔥🔥🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 2.5 Intelligence: It’s been a wild year for NFT’s 🎢 Enjoy this visualization of NFT floor prices throughout the last 12 months Can you spot yo...]]></title>
-        <id>https://twitter.com/twofivedev/status/1542188709659004928</id>
-        <link href="https://twitter.com/twofivedev/status/1542188709659004928"/>
-        <updated>2022-06-29T16:50:15.000Z</updated>
-        <summary type="html"><![CDATA[RT 2.5 Intelligence
-It’s been a wild year for NFT’s 🎢
-Enjoy this visualization of NFT floor prices throughout the last 12 months
-Can you spot your favorite projects? 👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT spidΞy: Big shoutout to @PatrickAlphaC!!! 🤝 👾 GitHub: 📜 Contract Address:]]></title>
-        <id>https://twitter.com/web3slinger/status/1541923723862745088</id>
-        <link href="https://twitter.com/web3slinger/status/1541923723862745088"/>
-        <updated>2022-06-28T23:17:17.000Z</updated>
-        <summary type="html"><![CDATA[RT spidΞy
-Big shoutout to @PatrickAlphaC!!! 🤝
-👾 GitHub: 
-📜 Contract Address: http://cryptip.me https://github.com/web3slinger/cryptip.me https://etherscan.io/address/0xa9453f980c0c7a9b56f8347d4c4532869f119b01]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
