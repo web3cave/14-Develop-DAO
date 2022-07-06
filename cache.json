@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/31-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Turns out holiday deadlines can be ambitious",
+          "link": "https://developerdao.substack.com/p/31-probably-nothing",
+          "publishedOn": "2022-07-05T17:22:39.000Z",
+          "wordCount": null,
+          "title": "#31 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F09892268-4a38-4665-b335-afa19ef9b915_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F09892268-4a38-4665-b335-afa19ef9b915_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/30-probably-nothing",
           "author": "Colin4ward",
           "description": "Big 3-0, Let's go D_D",
@@ -77,6 +93,116 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1544476238793900034",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Web3 Use Cases: The Future\n📠 by @packyM https://www.notboring.co/p/web3-use-cases-the-future",
+          "link": "https://twitter.com/developer_dao/status/1544476238793900034",
+          "publishedOn": "2022-07-06T00:20:04.000Z",
+          "wordCount": 352,
+          "title": "Web3 Use Cases: The Future 📠 by @packyM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ropats16/status/1544418015344615424",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nA walkthrough for deploying a decentralised @nextjs Guestbook to the permaweb using @BundlrNetwork & @ArweaveTeam 📖\nCreate a Solidity smart contract that allows your friends to sign & leave you a message ✍️\nAdd a UI using @wagmi_sh @rainbowdotme 🪝 https://ropats16.hashnode.dev/build-and-upload-a-fully-decentralised-app-using-bundlr",
+          "link": "https://twitter.com/ropats16/status/1544418015344615424",
+          "publishedOn": "2022-07-05T20:28:43.000Z",
+          "wordCount": 352,
+          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: A walkthrough for deploying a decentralised @nextjs Guestbook to the permaweb using @BundlrNetwork & @ArweaveTeam 📖 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1544407756853108740",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth| (🧱, 🚀) ᵍᵐ\nany @developer_dao folks big into @graphprotocol or @LensProtocol who fancy helping @Nazeeh21 and co build out this subgraph 👀\n\nRT FOR REACH FANX https://github.com/Developer-DAO/Lens-Graph-Subgraph",
+          "link": "https://twitter.com/kempsterrrr/status/1544407756853108740",
+          "publishedOn": "2022-07-05T19:47:57.000Z",
+          "wordCount": 352,
+          "title": "RT kempsterrrr.eth| (🧱, 🚀) ᵍᵐ: any @developer_dao folks big into @graphprotocol or @LensProtocol who fancy helping @Nazeeh21 and co build out ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1544393756186529793",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @codingwithmanny @alikonukk1 that's not helping my fomo",
+          "link": "https://twitter.com/developer_dao/status/1544393756186529793",
+          "publishedOn": "2022-07-05T18:52:19.000Z",
+          "wordCount": 352,
+          "title": "Re @codingwithmanny @alikonukk1 that's not helping my fomo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1544389754275319808",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @alikonukk1 @codingwithmanny fomo \n- on behalf of the entire vc5 squad",
+          "link": "https://twitter.com/developer_dao/status/1544389754275319808",
+          "publishedOn": "2022-07-05T18:36:25.000Z",
+          "wordCount": 352,
+          "title": "Re @alikonukk1 @codingwithmanny fomo - on behalf of the entire vc5 squad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/officer_cia/status/1544388139204198402",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT CIA Officer\nCheck out this awesome collection of practical security-focused guides and checklists for smart contract development 🙌 \nIt skews towards practical and opinionated recommendations for teams developing and managing early versions of a protocol! http://github.com/nascentxyz/simple-security-toolkit",
+          "link": "https://twitter.com/officer_cia/status/1544388139204198402",
+          "publishedOn": "2022-07-05T18:30:00.000Z",
+          "wordCount": 352,
+          "title": "RT CIA Officer: Check out this awesome collection of practical security-focused guides and checklists for smart contract development 🙌 It skews tow...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/paul_can_code/status/1544384290208616448",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT 0xPaulie.eth\n📰 @developer_dao Newsletter coming in hot! 📰\nProbably Nothing #31 - Turns out holiday deadlines can be ambitious 😅\nThis week there are a few proposals on snapshot and in voting stage on the forum, and a D_D meetup taking place at ETH Barcelona! https://developerdao.substack.com/p/31-probably-nothing",
+          "link": "https://twitter.com/paul_can_code/status/1544384290208616448",
+          "publishedOn": "2022-07-05T18:14:42.000Z",
+          "wordCount": 352,
+          "title": "RT 0xPaulie.eth: 📰 @developer_dao Newsletter coming in hot! 📰 Probably Nothing #31 - Turns out holiday deadlines can be ambitious 😅 This week...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1544371943679307778",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "D_D members have a special allocation for these <3. See you in Spain!\nQuickNode: We’re giving away tickets! RT 🔁 this for a chance to win ETHBarcelona tickets!\n https://twitter.com/quicknode/status/1544365498212794370",
+          "link": "https://twitter.com/developer_dao/status/1544371943679307778",
+          "publishedOn": "2022-07-05T17:25:39.000Z",
+          "wordCount": 352,
+          "title": "D_D members have a special allocation for these <3. See you in Spain!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xTranqui/status/1544365790086012931",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tranqui.eth 🔆\nlong time coming 🌜😁🌛\n@ourZORA \nhow it started                        how its going",
+          "link": "https://twitter.com/0xTranqui/status/1544365790086012931",
+          "publishedOn": "2022-07-05T17:01:11.000Z",
+          "wordCount": 352,
+          "title": "RT tranqui.eth 🔆: long time coming 🌜😁🌛 @ourZORA how it started how its going",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/GargEtisha/status/1544287237017194496",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Etisha Garg | etisha.eth\nIf you want to get into Web3 and you ask me what are some of the initial steps you must take, I would definitely say join communities & @developer_dao would be the first on the list\nWhy @developer_dao? A thread🧵",
+          "link": "https://twitter.com/GargEtisha/status/1544287237017194496",
+          "publishedOn": "2022-07-05T11:49:03.000Z",
+          "wordCount": 352,
+          "title": "RT Etisha Garg | etisha.eth: If you want to get into Web3 and you ask me what are some of the initial steps you must take, I would definitely say join...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SuhailKakar/status/1544210217621426176",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Suhail Kakar\nTop 50 Web3 and Blockchain projects to watch in 2022",
+          "link": "https://twitter.com/SuhailKakar/status/1544210217621426176",
+          "publishedOn": "2022-07-05T06:43:00.000Z",
+          "wordCount": 352,
+          "title": "RT Suhail Kakar: Top 50 Web3 and Blockchain projects to watch in 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1544174182812057600",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @IbnInglor 🕊",
@@ -89,7 +215,7 @@
         {
           "id": "https://twitter.com/pbillingsby_eth/status/1544109229354536960",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby.eth\nHad to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10!\nnpm install react-arweave-image\n<ArweaveImage hash=\"<arweave image tx #>\" />\nYou can also pass in any HTML image props like class names and event handlers to this component.",
+          "description": "RT pbillingsby.eth\nHad to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10!\nnpm install react-arweave-image\n<ArweaveImage hash=\"<arweave image tx #>\" />\nYou can also pass in any HTML image props like class names and event handlers to this component.\n\ndhai.eth: npm install react-ipfs-image\n<IpfsImage hash='<hash>' />",
           "link": "https://twitter.com/pbillingsby_eth/status/1544109229354536960",
           "publishedOn": "2022-07-05T00:01:43.000Z",
           "wordCount": 352,
@@ -157,26 +283,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/samecwilliams/status/1543673466766999552",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 🐘🔗 sam.arweave.dev\n1,143 days ago, Lev Berman and I launched \nIt cost us $0.0038 at the time, and not a single penny since.\nThere has precisely zero downtime for the app, and it still works perfectly.\nThis is the power of permaweb apps. http://weavemail.app",
-          "link": "https://twitter.com/samecwilliams/status/1543673466766999552",
-          "publishedOn": "2022-07-03T19:10:09.000Z",
-          "wordCount": 352,
-          "title": "RT 🐘🔗 sam.arweave.dev: 1,143 days ago, Lev Berman and I launched It cost us $0.0038 at the time, and not a single penny since. There has precise...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/sadiq_moo/status/1543630960322912257",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT MOHΔMΞD SΔDIQ\n. @developer_dao FM v1.1.0 is live! 🔥\n Now you get to choose which type of music suits you the most.\n↳ https://www.developerdaofm.com/",
-          "link": "https://twitter.com/sadiq_moo/status/1543630960322912257",
-          "publishedOn": "2022-07-03T16:21:14.000Z",
-          "wordCount": 352,
-          "title": "RT MOHΔMΞD SΔDIQ: . @developer_dao FM v1.1.0 is live! 🔥 Now you get to choose which type of music suits you the most. ↳",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/dhaiwat10/status/1543618857054613505",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT dhai.eth\nnpm install react-ipfs-image\n<IpfsImage hash='<hash>' />",
@@ -184,76 +290,6 @@
           "publishedOn": "2022-07-03T15:33:09.000Z",
           "wordCount": 352,
           "title": "RT dhai.eth: npm install react-ipfs-image <IpfsImage hash='<hash>' />",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pbillingsby_eth/status/1543479193370890240",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby.eth\nI need to make some serious money this month to move my family cross country. Any freelance work or anything to help me reach that amount of money would be so so so helpful so please reach out if you have anything. Have to be out by the 30 so I’m really hustling to make it happen",
-          "link": "https://twitter.com/pbillingsby_eth/status/1543479193370890240",
-          "publishedOn": "2022-07-03T06:18:10.000Z",
-          "wordCount": 352,
-          "title": "RT pbillingsby.eth: I need to make some serious money this month to move my family cross country. Any freelance work or anything to help me reach that...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dengdengspams/status/1543405169924243457",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dengdeng\nJust quit my job and took a gap year from Wharton. \nTrying to learn to code, can I get some advice?? 🥺 👉👈",
-          "link": "https://twitter.com/dengdengspams/status/1543405169924243457",
-          "publishedOn": "2022-07-03T01:24:02.000Z",
-          "wordCount": 352,
-          "title": "RT dengdeng: Just quit my job and took a gap year from Wharton. Trying to learn to code, can I get some advice?? 🥺 👉👈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DawsonBotsford/status/1543343286659600384",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT daws.eth\n🎙 Subscribe to THE podcast for web3 developers.\n\n💊 Get dev3 pilled http://Dev3.fm",
-          "link": "https://twitter.com/DawsonBotsford/status/1543343286659600384",
-          "publishedOn": "2022-07-02T21:18:08.000Z",
-          "wordCount": 352,
-          "title": "RT daws.eth: 🎙 Subscribe to THE podcast for web3 developers. 💊 Get dev3 pilled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1543329498489360386",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @dhaiwat10 🕊",
-          "link": "https://twitter.com/developer_dao/status/1543329498489360386",
-          "publishedOn": "2022-07-02T20:23:20.000Z",
-          "wordCount": 352,
-          "title": "Re @dhaiwat10 🕊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1543328893502758912",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\nhad to do it",
-          "link": "https://twitter.com/dhaiwat10/status/1543328893502758912",
-          "publishedOn": "2022-07-02T20:20:56.000Z",
-          "wordCount": 352,
-          "title": "RT dhai.eth: had to do it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pbillingsby_eth/status/1543295844987768833",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby.eth\nAny @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL",
-          "link": "https://twitter.com/pbillingsby_eth/status/1543295844987768833",
-          "publishedOn": "2022-07-02T18:09:37.000Z",
-          "wordCount": 352,
-          "title": "RT pbillingsby.eth: Any @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/EmployeeTears/status/1540065438473695232",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Employee Tears\nl asked my boss for a raise and He\nsaid what for? I told him three\ndifferent companies are after me. He\nasked which ones? I said: The gas company, the water company and the \nElectric company.",
-          "link": "https://twitter.com/EmployeeTears/status/1540065438473695232",
-          "publishedOn": "2022-06-23T20:13:08.000Z",
-          "wordCount": 352,
-          "title": "RT Employee Tears: l asked my boss for a raise and He said what for? I told him three different companies are after me. He asked which ones? I said: T...",
           "imageUrl": null
         }
       ]

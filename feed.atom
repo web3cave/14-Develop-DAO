@@ -1,10 +1,151 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T06:14:38.295Z</id>
+    <id>urn:2022-07-06T06:14:23.658Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-05T06:14:38.295Z</updated>
+    <updated>2022-07-06T06:14:23.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3 Use Cases: The Future 📠 by @packyM]]></title>
+        <id>https://twitter.com/developer_dao/status/1544476238793900034</id>
+        <link href="https://twitter.com/developer_dao/status/1544476238793900034"/>
+        <updated>2022-07-06T00:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Web3 Use Cases: The Future
+📠 by @packyM https://www.notboring.co/p/web3-use-cases-the-future]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ: A walkthrough for deploying a decentralised @nextjs Guestbook to the permaweb using @BundlrNetwork & @ArweaveTeam 📖 ...]]></title>
+        <id>https://twitter.com/ropats16/status/1544418015344615424</id>
+        <link href="https://twitter.com/ropats16/status/1544418015344615424"/>
+        <updated>2022-07-05T20:28:43.000Z</updated>
+        <summary type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ
+A walkthrough for deploying a decentralised @nextjs Guestbook to the permaweb using @BundlrNetwork & @ArweaveTeam 📖
+Create a Solidity smart contract that allows your friends to sign & leave you a message ✍️
+Add a UI using @wagmi_sh @rainbowdotme 🪝 https://ropats16.hashnode.dev/build-and-upload-a-fully-decentralised-app-using-bundlr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth| (🧱, 🚀) ᵍᵐ: any @developer_dao folks big into @graphprotocol or @LensProtocol who fancy helping @Nazeeh21 and co build out ...]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1544407756853108740</id>
+        <link href="https://twitter.com/kempsterrrr/status/1544407756853108740"/>
+        <updated>2022-07-05T19:47:57.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth| (🧱, 🚀) ᵍᵐ
+any @developer_dao folks big into @graphprotocol or @LensProtocol who fancy helping @Nazeeh21 and co build out this subgraph 👀
+
+RT FOR REACH FANX https://github.com/Developer-DAO/Lens-Graph-Subgraph]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @codingwithmanny @alikonukk1 that's not helping my fomo]]></title>
+        <id>https://twitter.com/developer_dao/status/1544393756186529793</id>
+        <link href="https://twitter.com/developer_dao/status/1544393756186529793"/>
+        <updated>2022-07-05T18:52:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @codingwithmanny @alikonukk1 that's not helping my fomo]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @alikonukk1 @codingwithmanny fomo - on behalf of the entire vc5 squad]]></title>
+        <id>https://twitter.com/developer_dao/status/1544389754275319808</id>
+        <link href="https://twitter.com/developer_dao/status/1544389754275319808"/>
+        <updated>2022-07-05T18:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @alikonukk1 @codingwithmanny fomo 
+- on behalf of the entire vc5 squad]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT CIA Officer: Check out this awesome collection of practical security-focused guides and checklists for smart contract development 🙌 It skews tow...]]></title>
+        <id>https://twitter.com/officer_cia/status/1544388139204198402</id>
+        <link href="https://twitter.com/officer_cia/status/1544388139204198402"/>
+        <updated>2022-07-05T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RT CIA Officer
+Check out this awesome collection of practical security-focused guides and checklists for smart contract development 🙌 
+It skews towards practical and opinionated recommendations for teams developing and managing early versions of a protocol! http://github.com/nascentxyz/simple-security-toolkit]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 0xPaulie.eth: 📰 @developer_dao Newsletter coming in hot! 📰 Probably Nothing #31 - Turns out holiday deadlines can be ambitious 😅 This week...]]></title>
+        <id>https://twitter.com/paul_can_code/status/1544384290208616448</id>
+        <link href="https://twitter.com/paul_can_code/status/1544384290208616448"/>
+        <updated>2022-07-05T18:14:42.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xPaulie.eth
+📰 @developer_dao Newsletter coming in hot! 📰
+Probably Nothing #31 - Turns out holiday deadlines can be ambitious 😅
+This week there are a few proposals on snapshot and in voting stage on the forum, and a D_D meetup taking place at ETH Barcelona! https://developerdao.substack.com/p/31-probably-nothing]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D_D members have a special allocation for these <3. See you in Spain!]]></title>
+        <id>https://twitter.com/developer_dao/status/1544371943679307778</id>
+        <link href="https://twitter.com/developer_dao/status/1544371943679307778"/>
+        <updated>2022-07-05T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[D_D members have a special allocation for these <3. See you in Spain!
+QuickNode: We’re giving away tickets! RT 🔁 this for a chance to win ETHBarcelona tickets!
+ https://twitter.com/quicknode/status/1544365498212794370]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#31 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/31-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/31-probably-nothing"/>
+        <updated>2022-07-05T17:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Turns out holiday deadlines can be ambitious]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT tranqui.eth 🔆: long time coming 🌜😁🌛 @ourZORA how it started how its going]]></title>
+        <id>https://twitter.com/0xTranqui/status/1544365790086012931</id>
+        <link href="https://twitter.com/0xTranqui/status/1544365790086012931"/>
+        <updated>2022-07-05T17:01:11.000Z</updated>
+        <summary type="html"><![CDATA[RT tranqui.eth 🔆
+long time coming 🌜😁🌛
+@ourZORA 
+how it started                        how its going]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Etisha Garg | etisha.eth: If you want to get into Web3 and you ask me what are some of the initial steps you must take, I would definitely say join...]]></title>
+        <id>https://twitter.com/GargEtisha/status/1544287237017194496</id>
+        <link href="https://twitter.com/GargEtisha/status/1544287237017194496"/>
+        <updated>2022-07-05T11:49:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Etisha Garg | etisha.eth
+If you want to get into Web3 and you ask me what are some of the initial steps you must take, I would definitely say join communities & @developer_dao would be the first on the list
+Why @developer_dao? A thread🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Suhail Kakar: Top 50 Web3 and Blockchain projects to watch in 2022]]></title>
+        <id>https://twitter.com/SuhailKakar/status/1544210217621426176</id>
+        <link href="https://twitter.com/SuhailKakar/status/1544210217621426176"/>
+        <updated>2022-07-05T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Suhail Kakar
+Top 50 Web3 and Blockchain projects to watch in 2022]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @IbnInglor 🕊]]></title>
         <id>https://twitter.com/developer_dao/status/1544174182812057600</id>
@@ -24,7 +165,10 @@
 Had to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10!
 npm install react-arweave-image
 <ArweaveImage hash="<arweave image tx #>" />
-You can also pass in any HTML image props like class names and event handlers to this component.]]></summary>
+You can also pass in any HTML image props like class names and event handlers to this component.
+
+dhai.eth: npm install react-ipfs-image
+<IpfsImage hash='<hash>' />]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -98,33 +242,6 @@ I have now descended into becoming the Gordon Ramsay of CV reviews and this isn'
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 🐘🔗 sam.arweave.dev: 1,143 days ago, Lev Berman and I launched It cost us $0.0038 at the time, and not a single penny since. There has precise...]]></title>
-        <id>https://twitter.com/samecwilliams/status/1543673466766999552</id>
-        <link href="https://twitter.com/samecwilliams/status/1543673466766999552"/>
-        <updated>2022-07-03T19:10:09.000Z</updated>
-        <summary type="html"><![CDATA[RT 🐘🔗 sam.arweave.dev
-1,143 days ago, Lev Berman and I launched 
-It cost us $0.0038 at the time, and not a single penny since.
-There has precisely zero downtime for the app, and it still works perfectly.
-This is the power of permaweb apps. http://weavemail.app]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT MOHΔMΞD SΔDIQ: . @developer_dao FM v1.1.0 is live! 🔥 Now you get to choose which type of music suits you the most. ↳]]></title>
-        <id>https://twitter.com/sadiq_moo/status/1543630960322912257</id>
-        <link href="https://twitter.com/sadiq_moo/status/1543630960322912257"/>
-        <updated>2022-07-03T16:21:14.000Z</updated>
-        <summary type="html"><![CDATA[RT MOHΔMΞD SΔDIQ
-. @developer_dao FM v1.1.0 is live! 🔥
- Now you get to choose which type of music suits you the most.
-↳ https://www.developerdaofm.com/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT dhai.eth: npm install react-ipfs-image <IpfsImage hash='<hash>' />]]></title>
         <id>https://twitter.com/dhaiwat10/status/1543618857054613505</id>
         <link href="https://twitter.com/dhaiwat10/status/1543618857054613505"/>
@@ -137,74 +254,6 @@ npm install react-ipfs-image
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT pbillingsby.eth: I need to make some serious money this month to move my family cross country. Any freelance work or anything to help me reach that...]]></title>
-        <id>https://twitter.com/pbillingsby_eth/status/1543479193370890240</id>
-        <link href="https://twitter.com/pbillingsby_eth/status/1543479193370890240"/>
-        <updated>2022-07-03T06:18:10.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby.eth
-I need to make some serious money this month to move my family cross country. Any freelance work or anything to help me reach that amount of money would be so so so helpful so please reach out if you have anything. Have to be out by the 30 so I’m really hustling to make it happen]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dengdeng: Just quit my job and took a gap year from Wharton. Trying to learn to code, can I get some advice?? 🥺 👉👈]]></title>
-        <id>https://twitter.com/dengdengspams/status/1543405169924243457</id>
-        <link href="https://twitter.com/dengdengspams/status/1543405169924243457"/>
-        <updated>2022-07-03T01:24:02.000Z</updated>
-        <summary type="html"><![CDATA[RT dengdeng
-Just quit my job and took a gap year from Wharton. 
-Trying to learn to code, can I get some advice?? 🥺 👉👈]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT daws.eth: 🎙 Subscribe to THE podcast for web3 developers. 💊 Get dev3 pilled]]></title>
-        <id>https://twitter.com/DawsonBotsford/status/1543343286659600384</id>
-        <link href="https://twitter.com/DawsonBotsford/status/1543343286659600384"/>
-        <updated>2022-07-02T21:18:08.000Z</updated>
-        <summary type="html"><![CDATA[RT daws.eth
-🎙 Subscribe to THE podcast for web3 developers.
-
-💊 Get dev3 pilled http://Dev3.fm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dhaiwat10 🕊]]></title>
-        <id>https://twitter.com/developer_dao/status/1543329498489360386</id>
-        <link href="https://twitter.com/developer_dao/status/1543329498489360386"/>
-        <updated>2022-07-02T20:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @dhaiwat10 🕊]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: had to do it]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1543328893502758912</id>
-        <link href="https://twitter.com/dhaiwat10/status/1543328893502758912"/>
-        <updated>2022-07-02T20:20:56.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-had to do it]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby.eth: Any @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL]]></title>
-        <id>https://twitter.com/pbillingsby_eth/status/1543295844987768833</id>
-        <link href="https://twitter.com/pbillingsby_eth/status/1543295844987768833"/>
-        <updated>2022-07-02T18:09:37.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby.eth
-Any @developer_dao members live in Philly? I’m moving there back at the end of this month. Let’s vibe IRL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#30 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/30-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/30-probably-nothing"/>
@@ -212,21 +261,6 @@ Any @developer_dao members live in Philly? I’m moving there back at the end of
         <summary type="html"><![CDATA[Big 3-0, Let's go D_D]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Employee Tears: l asked my boss for a raise and He said what for? I told him three different companies are after me. He asked which ones? I said: T...]]></title>
-        <id>https://twitter.com/EmployeeTears/status/1540065438473695232</id>
-        <link href="https://twitter.com/EmployeeTears/status/1540065438473695232"/>
-        <updated>2022-06-23T20:13:08.000Z</updated>
-        <summary type="html"><![CDATA[RT Employee Tears
-l asked my boss for a raise and He
-said what for? I told him three
-different companies are after me. He
-asked which ones? I said: The gas company, the water company and the 
-Electric company.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
