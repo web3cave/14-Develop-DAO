@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-06T06:14:23.658Z</id>
+    <id>urn:2022-07-07T06:14:44.529Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-06T06:14:23.658Z</updated>
+    <updated>2022-07-07T06:14:44.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT alikonuk.eth: Made a solidity library for exotic smart contract implementations so you can easly import some of the wide used erc implementations. ...]]></title>
+        <id>https://twitter.com/alikonukk1/status/1544727402600964096</id>
+        <link href="https://twitter.com/alikonukk1/status/1544727402600964096"/>
+        <updated>2022-07-06T16:58:07.000Z</updated>
+        <summary type="html"><![CDATA[RT alikonuk.eth
+Made a solidity library for exotic smart contract implementations so you can easly import some of the wide used erc implementations. Now it has only soulbound implementations of ERC20 and ERC721 but more on the schedule.🧙🏼‍♂️⛓ https://www.npmjs.com/package/@alikonuk/sirius]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: this is what peak performance looks like]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1544702753233965057</id>
+        <link href="https://twitter.com/dhaiwat10/status/1544702753233965057"/>
+        <updated>2022-07-06T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+this is what peak performance looks like]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kubdev 💚: Learn Foundry with foundry-cheatsheet from Nader @dabit3 🛸 I'm sure you'll find your happiness here @fps8k !]]></title>
+        <id>https://twitter.com/mkubdev/status/1544667308395823104</id>
+        <link href="https://twitter.com/mkubdev/status/1544667308395823104"/>
+        <updated>2022-07-06T12:59:19.000Z</updated>
+        <summary type="html"><![CDATA[RT kubdev 💚
+Learn Foundry with foundry-cheatsheet from Nader @dabit3 🛸
+I'm sure you'll find your happiness here @fps8k ! https://github.com/dabit3/foundry-cheatsheet]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3Dubai call for papers is open 🎉 If you're interested in speaking or giving a workshop at @Web3Dubai, apply here 👇]]></title>
+        <id>https://twitter.com/developer_dao/status/1544608400243396608</id>
+        <link href="https://twitter.com/developer_dao/status/1544608400243396608"/>
+        <updated>2022-07-06T09:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Web3Dubai call for papers is open 🎉
+If you're interested in speaking or giving a workshop at @Web3Dubai, apply here 👇 https://checkout.eventlama.com/#/events/web3dubai/cfp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT I D R I S 💙: NEW TWITTER SPACE 🛑🛑🛑 Have you ever wondered why building in public is essential? I & @GargEtisha will discuss building pu...]]></title>
+        <id>https://twitter.com/olanetsoft/status/1544598958554636288</id>
+        <link href="https://twitter.com/olanetsoft/status/1544598958554636288"/>
+        <updated>2022-07-06T08:27:43.000Z</updated>
+        <summary type="html"><![CDATA[RT I D R I S 💙
+NEW TWITTER SPACE 🛑🛑🛑
+Have you ever wondered why building in public is essential?
+I & @GargEtisha will discuss building public and sharing our experience getting a role in Web3.
+Join us tomorrow at 16:00 WAT / 20:30 IST
+SET A REMINDER 👇 https://twitter.com/i/spaces/1vAxRkknoNzKl?s=20]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Iggy: Very excited for Spain's first-ever ETH conference @eth_barcelona and to hangout with some of @developer_dao's greats @camiinthisthang @bybob...]]></title>
+        <id>https://twitter.com/iggy_gl/status/1544558511115288576</id>
+        <link href="https://twitter.com/iggy_gl/status/1544558511115288576"/>
+        <updated>2022-07-06T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Iggy
+Very excited for Spain's first-ever ETH conference @eth_barcelona and to hangout with some of @developer_dao's greats @camiinthisthang @bybobbay @dabit3 
+Who else is here?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3 Use Cases: The Future 📠 by @packyM]]></title>
         <id>https://twitter.com/developer_dao/status/1544476238793900034</id>
@@ -93,9 +165,7 @@ This week there are a few proposals on snapshot and in voting stage on the forum
         <id>https://twitter.com/developer_dao/status/1544371943679307778</id>
         <link href="https://twitter.com/developer_dao/status/1544371943679307778"/>
         <updated>2022-07-05T17:25:39.000Z</updated>
-        <summary type="html"><![CDATA[D_D members have a special allocation for these <3. See you in Spain!
-QuickNode: We’re giving away tickets! RT 🔁 this for a chance to win ETHBarcelona tickets!
- https://twitter.com/quicknode/status/1544365498212794370]]></summary>
+        <summary type="html"><![CDATA[D_D members have a special allocation for these <3. See you in Spain! https://twitter.com/quicknode/status/1544368066506768385]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -147,101 +217,6 @@ Top 50 Web3 and Blockchain projects to watch in 2022]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @IbnInglor 🕊]]></title>
-        <id>https://twitter.com/developer_dao/status/1544174182812057600</id>
-        <link href="https://twitter.com/developer_dao/status/1544174182812057600"/>
-        <updated>2022-07-05T04:19:49.000Z</updated>
-        <summary type="html"><![CDATA[Re @IbnInglor 🕊]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby.eth: Had to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10! npm install react-arweave-image <Ar...]]></title>
-        <id>https://twitter.com/pbillingsby_eth/status/1544109229354536960</id>
-        <link href="https://twitter.com/pbillingsby_eth/status/1544109229354536960"/>
-        <updated>2022-07-05T00:01:43.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby.eth
-Had to do one for @ArweaveTeam too. Thanks for helping me publish my first package @dhaiwat10!
-npm install react-arweave-image
-<ArweaveImage hash="<arweave image tx #>" />
-You can also pass in any HTML image props like class names and event handlers to this component.
-
-dhai.eth: npm install react-ipfs-image
-<IpfsImage hash='<hash>' />]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT JackForge.eth: Re @NFTsAreNice Definitely not wrong. 😅 Some of the best communities are probably for collections that aren't worth anything. @de...]]></title>
-        <id>https://twitter.com/TheJackForge/status/1544001323477061632</id>
-        <link href="https://twitter.com/TheJackForge/status/1544001323477061632"/>
-        <updated>2022-07-04T16:52:56.000Z</updated>
-        <summary type="html"><![CDATA[RT JackForge.eth
-Re @NFTsAreNice Definitely not wrong. 😅
-Some of the best communities are probably for collections that aren't worth anything.
-@developer_dao used NFTs for entry into the DAO. There is no speculative value to the NFTs, but the opportunities that come with being a member is massive.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Will Worth: "Solidity Basics for JavaScript Devs" by @k4y1s on the @developer_dao blog:]]></title>
-        <id>https://twitter.com/willworthdev/status/1543953229612027910</id>
-        <link href="https://twitter.com/willworthdev/status/1543953229612027910"/>
-        <updated>2022-07-04T13:41:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Will Worth
-"Solidity Basics for JavaScript Devs" by @k4y1s  on the @developer_dao blog: https://blog.developerdao.com/solidity-basics-for-javascript-devs]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rescue Your Hacked Crypto Wallet Tokens | Flashbots Tutorial by @developer_dao member @what_the_func 👻 In this video I show you how you can rescue ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1543951664067084288</id>
-        <link href="https://twitter.com/developer_dao/status/1543951664067084288"/>
-        <updated>2022-07-04T13:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Rescue Your Hacked Crypto Wallet Tokens | Flashbots Tutorial by @developer_dao member @what_the_func 👻
-In this video I show you how you can rescue your tokens from a compromised Ethereum wallet by using the power of Flashbots. https://www.youtube.com/watch?v=1Cfqh303m0A&feature=youtu.be]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1543942542969937925</id>
-        <link href="https://twitter.com/developer_dao/status/1543942542969937925"/>
-        <updated>2022-07-04T12:59:21.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT jimxjim.eth (🧱, 🚀) Ching Tan Hsieh 👨‍🚀: Thank you 🧱🚀 @web3con @developer_dao Build the future, build yourself.]]></title>
-        <id>https://twitter.com/jim74255/status/1543862732545732608</id>
-        <link href="https://twitter.com/jim74255/status/1543862732545732608"/>
-        <updated>2022-07-04T07:42:13.000Z</updated>
-        <summary type="html"><![CDATA[RT jimxjim.eth (🧱, 🚀) Ching Tan Hsieh 👨‍🚀
-Thank you 🧱🚀 @web3con @developer_dao
-Build the future, build yourself.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DappaDan (🧱,🚀): I started reviewing CVs for @developer_dao as a nice gesture. I have now descended into becoming the Gordon Ramsay of CV revi...]]></title>
-        <id>https://twitter.com/DAppaDanDev/status/1543688528512421889</id>
-        <link href="https://twitter.com/DAppaDanDev/status/1543688528512421889"/>
-        <updated>2022-07-03T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
-I started reviewing CVs for @developer_dao as a nice gesture. 
-I have now descended into becoming the Gordon Ramsay of CV reviews and this isn't even my final form.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT dhai.eth: npm install react-ipfs-image <IpfsImage hash='<hash>' />]]></title>
         <id>https://twitter.com/dhaiwat10/status/1543618857054613505</id>
         <link href="https://twitter.com/dhaiwat10/status/1543618857054613505"/>
@@ -288,16 +263,6 @@ npm install react-ipfs-image
         <link href="https://developerdao.substack.com/p/28-probably-nothing"/>
         <updated>2022-06-14T07:29:19.000Z</updated>
         <summary type="html"><![CDATA[Good News Bears]]></summary>
-        <author>
-            <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#27 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/27-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/27-probably-nothing"/>
-        <updated>2022-06-07T04:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Proposals are the reason for the Season]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>
