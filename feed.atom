@@ -1,17 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-08T06:15:46.983Z</id>
+    <id>urn:2022-07-09T06:13:34.796Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-08T06:15:46.983Z</updated>
+    <updated>2022-07-09T06:13:34.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Alec: 1/ The idea of a “modular blockchain” is becoming a category-defining narrative around scalability and blockchain infrastructure. 🧵👇]]></title>
-        <id>https://twitter.com/0xAlec/status/1545176941002575872</id>
-        <link href="https://twitter.com/0xAlec/status/1545176941002575872"/>
-        <updated>2022-07-07T22:44:25.000Z</updated>
-        <summary type="html"><![CDATA[RT Alec
-1/ The idea of a “modular blockchain” is becoming a category-defining narrative around scalability and blockchain infrastructure. 🧵👇 https://volt.capital/blog/modular-blockchains]]></summary>
+        <title type="html"><![CDATA[Nobody will remember: - Your salary - Your fancy title - How ‘busy’ you were - How stressed you were - How many hours you worked People will remembe...]]></title>
+        <id>https://twitter.com/developer_dao/status/1545525101369892864</id>
+        <link href="https://twitter.com/developer_dao/status/1545525101369892864"/>
+        <updated>2022-07-08T21:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Nobody will remember:
+- Your salary
+- Your fancy title
+- How ‘busy’ you were
+- How stressed you were
+- How many hours you worked
+People will remember:
+- How many times you said gm in the gm channel]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT $MIGUEL Piedrafita @ ETHBarcelona: soon @LensProtocol 📹📺]]></title>
+        <id>https://twitter.com/m1guelpf/status/1545500484215230464</id>
+        <link href="https://twitter.com/m1guelpf/status/1545500484215230464"/>
+        <updated>2022-07-08T20:10:04.000Z</updated>
+        <summary type="html"><![CDATA[RT $MIGUEL Piedrafita @ ETHBarcelona
+soon @LensProtocol 📹📺]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! We had another awesome showing during #DevNTell today where @kempsterrrr , @pbillingsby_eth , @EMBuxman...]]></title>
+        <id>https://twitter.com/narb_s/status/1545493926286467072</id>
+        <link href="https://twitter.com/narb_s/status/1545493926286467072"/>
+        <updated>2022-07-08T19:44:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+gm @developer_dao frens!  We had another awesome showing during #DevNTell today where @kempsterrrr , @pbillingsby_eth , @EMBuxmann and @jimmynikz presented an overview of @getP3RKS 💎🚀
+The recoding is now available for your viewing pleasure 📹🍿: https://youtu.be/o8IvCJRkrCg]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Boardroom 🗳️: 🔁 Introducing: Boardroom Roundup A weekly recap that brings you the DAO news headlines and notable governance proposals from t...]]></title>
+        <id>https://twitter.com/boardroom_info/status/1545427892913455104</id>
+        <link href="https://twitter.com/boardroom_info/status/1545427892913455104"/>
+        <updated>2022-07-08T15:21:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Boardroom 🗳️
+🔁 Introducing: Boardroom Roundup
+A weekly recap that brings you the DAO news headlines and notable governance proposals from the week
+This week, @tonyolendo from @developer_dao joins to walk us through a recent proposal
+🎙️ Listen → https://anchor.fm/boardroom-io/episodes/Boardroom-Roundup-Developer-DAO-formalizes-their-Improvement-Proposal-Process-e1kujre]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kayprasla spill who?]]></title>
+        <id>https://twitter.com/developer_dao/status/1545386419144822784</id>
+        <link href="https://twitter.com/developer_dao/status/1545386419144822784"/>
+        <updated>2022-07-08T12:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @kayprasla spill who?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Az | Arweave News: Hey #Arweave Community! I would love to hear people’s experience so far with @ar_io_network’s #ArNS I will be putting together...]]></title>
+        <id>https://twitter.com/ArweaveAz/status/1545384350870552576</id>
+        <link href="https://twitter.com/ArweaveAz/status/1545384350870552576"/>
+        <updated>2022-07-08T12:28:35.000Z</updated>
+        <summary type="html"><![CDATA[RT Az | Arweave News
+Hey #Arweave Community!
+I would love to hear people’s experience so far with @ar_io_network’s #ArNS 
+I will be putting together an article to showcase ArNS to the world, so if you are one of the 200 people lucky enough to be testing it out, please feel free to DM me your story.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT iamnico.eth (🥩,🔨)(📹 , ⛏️) 🦇🔊: I love how @HardhatHQ tasks allow you to write a CLI for your contracts in a wimp 💻 Create a 'tas...]]></title>
+        <id>https://twitter.com/nico_eth/status/1545383737545953282</id>
+        <link href="https://twitter.com/nico_eth/status/1545383737545953282"/>
+        <updated>2022-07-08T12:26:09.000Z</updated>
+        <summary type="html"><![CDATA[RT iamnico.eth (🥩,🔨)(📹 , ⛏️) 🦇🔊
+I love how @HardhatHQ tasks allow you to write a CLI for your contracts in a wimp 💻
+Create a 'tasks' directory and paste this script in your hardhat config file to start 👷]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[He's a 10 but he doesn't have a Developer Dao NFT.]]></title>
+        <id>https://twitter.com/developer_dao/status/1545367627668889600</id>
+        <link href="https://twitter.com/developer_dao/status/1545367627668889600"/>
+        <updated>2022-07-08T11:22:08.000Z</updated>
+        <summary type="html"><![CDATA[He's a 10 but he doesn't have a Developer Dao NFT.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Patricia | SuperPat.eth/.lens 📍🇪🇸 | ✈️ 🇫🇷: If you are a girl n building something dope in web3, comment below Coolest ✨ gals 💅...]]></title>
+        <id>https://twitter.com/superpatx_/status/1545356439966867457</id>
+        <link href="https://twitter.com/superpatx_/status/1545356439966867457"/>
+        <updated>2022-07-08T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[RT Patricia | SuperPat.eth/.lens 📍🇪🇸 | ✈️ 🇫🇷
+If you are a girl n building something dope in web3, comment below
+Coolest ✨ gals 💅 gets ✨ Paris 🇫🇷 @letsraave 👻 tix 🎟]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Permanent File Storage for Web3 Apps With Arweave, Bundlr, Next.js, RainbowKit, and Wagmi 🛠 In this article, I will be showing you how to create a ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1545347199428710404</id>
+        <link href="https://twitter.com/developer_dao/status/1545347199428710404"/>
+        <updated>2022-07-08T10:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Permanent File Storage for Web3 Apps With Arweave, Bundlr, Next.js, RainbowKit, and Wagmi
+🛠 In this article, I will be showing you how to create a Dapp that allows us to store data on the Arweave network, using @BundlrNetwork on testnet. https://betterprogramming.pub/permanent-file-storage-for-web3-apps-with-arweave-bundlr-next-js-rainbowkit-and-wagmi-18aa1506fa6e]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -32,6 +143,30 @@
         <link href="https://twitter.com/developer_dao/status/1545153557573271557"/>
         <updated>2022-07-07T21:11:30.000Z</updated>
         <summary type="html"><![CDATA[Developer DAO dinner @eth_barcelona 🦑]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Gabe Greenberg: Looking for a developer with web3 experience that wants a paid project w/ @g2i_co creating a rubric to help our interviewing team p...]]></title>
+        <id>https://twitter.com/gabe_g2i/status/1545153555484614656</id>
+        <link href="https://twitter.com/gabe_g2i/status/1545153555484614656"/>
+        <updated>2022-07-07T21:11:29.000Z</updated>
+        <summary type="html"><![CDATA[RT Gabe Greenberg
+Looking for a developer with web3 experience that wants a paid project w/ @g2i_co creating a rubric to help our interviewing team perform technical interviews for web3 focused devs. If you know someone please DM @icookandcode]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ChainSafe: Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & ...]]></title>
+        <id>https://twitter.com/ChainSafeth/status/1545151517719760897</id>
+        <link href="https://twitter.com/ChainSafeth/status/1545151517719760897"/>
+        <updated>2022-07-07T21:03:24.000Z</updated>
+        <summary type="html"><![CDATA[RT ChainSafe
+Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & @elizabethereum.
+They also participated in an Implementation Teams Panel w/ @protocollabs' @juanbenet & @lotus_web3's @_jennijuju, & Aayush 𑁍
+👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -110,127 +245,6 @@ really cool project. "Tableland is a decentralized network for relational, compo
 I just published a new video! 🫡
 Went over the easiest and relatively safer way for contract deployments using @thirdweb_  deploy, especially for beginners deploying to testnets. 🤝
 Hope this saves someone from leaking their private key on GitHub ^_^ https://www.youtube.com/watch?v=CaODHRnFgBw]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Ronnie gave me tickets 🎟 for @letsraave! Use 🔑 “naderraider” and see you in Paris...]]></title>
-        <id>https://twitter.com/dabit3/status/1545038267552190464</id>
-        <link href="https://twitter.com/dabit3/status/1545038267552190464"/>
-        <updated>2022-07-07T13:33:23.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-Ronnie gave me tickets 🎟 for @letsraave!
-Use 🔑 “naderraider” and see you in Paris! 👻 https://www.eventbrite.co.uk/e/raave-paris-tickets-375122580737]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT alikonuk.eth: Made a solidity library for exotic smart contract implementations so you can easly import some of the wide used erc implementations. ...]]></title>
-        <id>https://twitter.com/alikonukk1/status/1544727402600964096</id>
-        <link href="https://twitter.com/alikonukk1/status/1544727402600964096"/>
-        <updated>2022-07-06T16:58:07.000Z</updated>
-        <summary type="html"><![CDATA[RT alikonuk.eth
-Made a solidity library for exotic smart contract implementations so you can easly import some of the wide used erc implementations. Now it has only soulbound implementations of ERC20 and ERC721 but more on the schedule.🧙🏼‍♂️⛓ https://www.npmjs.com/package/@alikonuk/sirius]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: this is what peak performance looks like]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1544702753233965057</id>
-        <link href="https://twitter.com/dhaiwat10/status/1544702753233965057"/>
-        <updated>2022-07-06T15:20:10.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-this is what peak performance looks like]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kubdev 💚: Learn Foundry with foundry-cheatsheet from Nader @dabit3 🛸 I'm sure you'll find your happiness here @fps8k !]]></title>
-        <id>https://twitter.com/mkubdev/status/1544667308395823104</id>
-        <link href="https://twitter.com/mkubdev/status/1544667308395823104"/>
-        <updated>2022-07-06T12:59:19.000Z</updated>
-        <summary type="html"><![CDATA[RT kubdev 💚
-Learn Foundry with foundry-cheatsheet from Nader @dabit3 🛸
-I'm sure you'll find your happiness here @fps8k ! https://github.com/dabit3/foundry-cheatsheet]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3Dubai call for papers is open 🎉 If you're interested in speaking or giving a workshop at @Web3Dubai, apply here 👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1544608400243396608</id>
-        <link href="https://twitter.com/developer_dao/status/1544608400243396608"/>
-        <updated>2022-07-06T09:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Web3Dubai call for papers is open 🎉
-If you're interested in speaking or giving a workshop at @Web3Dubai, apply here 👇 https://checkout.eventlama.com/#/events/web3dubai/cfp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT I D R I S 💙: NEW TWITTER SPACE 🛑🛑🛑 Have you ever wondered why building in public is essential? I & @GargEtisha will discuss building pu...]]></title>
-        <id>https://twitter.com/olanetsoft/status/1544598958554636288</id>
-        <link href="https://twitter.com/olanetsoft/status/1544598958554636288"/>
-        <updated>2022-07-06T08:27:43.000Z</updated>
-        <summary type="html"><![CDATA[RT I D R I S 💙
-NEW TWITTER SPACE 🛑🛑🛑
-Have you ever wondered why building in public is essential?
-I & @GargEtisha will discuss building public and sharing our experience getting a role in Web3.
-Join us tomorrow at 16:00 WAT / 20:30 IST
-SET A REMINDER 👇 https://twitter.com/i/spaces/1vAxRkknoNzKl?s=20]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Iggy: Very excited for Spain's first-ever ETH conference @eth_barcelona and to hangout with some of @developer_dao's greats @camiinthisthang @bybob...]]></title>
-        <id>https://twitter.com/iggy_gl/status/1544558511115288576</id>
-        <link href="https://twitter.com/iggy_gl/status/1544558511115288576"/>
-        <updated>2022-07-06T05:47:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Iggy
-Very excited for Spain's first-ever ETH conference @eth_barcelona and to hangout with some of @developer_dao's greats @camiinthisthang @bybobbay @dabit3 
-Who else is here?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Use Cases: The Future 📠 by @packyM]]></title>
-        <id>https://twitter.com/developer_dao/status/1544476238793900034</id>
-        <link href="https://twitter.com/developer_dao/status/1544476238793900034"/>
-        <updated>2022-07-06T00:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Web3 Use Cases: The Future
-📠 by @packyM https://www.notboring.co/p/web3-use-cases-the-future]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ: A walkthrough for deploying a decentralised @nextjs Guestbook to the permaweb using @BundlrNetwork & @ArweaveTeam 📖 ...]]></title>
-        <id>https://twitter.com/ropats16/status/1544418015344615424</id>
-        <link href="https://twitter.com/ropats16/status/1544418015344615424"/>
-        <updated>2022-07-05T20:28:43.000Z</updated>
-        <summary type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ
-A walkthrough for deploying a decentralised @nextjs Guestbook to the permaweb using @BundlrNetwork & @ArweaveTeam 📖
-Create a Solidity smart contract that allows your friends to sign & leave you a message ✍️
-Add a UI using @wagmi_sh @rainbowdotme 🪝 https://ropats16.hashnode.dev/build-and-upload-a-fully-decentralised-app-using-bundlr]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kempsterrrr.eth| (🧱, 🚀) ᵍᵐ: any @developer_dao folks big into @graphprotocol or @LensProtocol who fancy helping @Nazeeh21 and co build out ...]]></title>
-        <id>https://twitter.com/kempsterrrr/status/1544407756853108740</id>
-        <link href="https://twitter.com/kempsterrrr/status/1544407756853108740"/>
-        <updated>2022-07-05T19:47:57.000Z</updated>
-        <summary type="html"><![CDATA[RT kempsterrrr.eth| (🧱, 🚀) ᵍᵐ
-any @developer_dao folks big into @graphprotocol or @LensProtocol who fancy helping @Nazeeh21 and co build out this subgraph 👀
-
-RT FOR REACH FANX https://github.com/Developer-DAO/Lens-Graph-Subgraph]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
