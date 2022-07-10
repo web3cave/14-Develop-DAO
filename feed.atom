@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-09T06:13:34.796Z</id>
+    <id>urn:2022-07-10T06:14:05.905Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-09T06:13:34.796Z</updated>
+    <updated>2022-07-10T06:14:05.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @ngnathan You are welcome]]></title>
+        <id>https://twitter.com/developer_dao/status/1545886889915232258</id>
+        <link href="https://twitter.com/developer_dao/status/1545886889915232258"/>
+        <updated>2022-07-09T21:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @ngnathan You are welcome]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @vijethx @_buildspace 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1545885947656798208</id>
+        <link href="https://twitter.com/developer_dao/status/1545885947656798208"/>
+        <updated>2022-07-09T21:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @vijethx @_buildspace 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @divine_economy]]></title>
+        <id>https://twitter.com/developer_dao/status/1545853328877187073</id>
+        <link href="https://twitter.com/developer_dao/status/1545853328877187073"/>
+        <updated>2022-07-09T19:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @divine_economy]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1545833755310403584</id>
+        <link href="https://twitter.com/developer_dao/status/1545833755310403584"/>
+        <updated>2022-07-09T18:14:22.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT LensProtocol.lens 🌿: Get ready for @pussyrrriot final NFT drop on Lens! We hear it’s an exciting one 👀 with all proceeds being donated to Le...]]></title>
+        <id>https://twitter.com/LensProtocol/status/1545831083291336704</id>
+        <link href="https://twitter.com/LensProtocol/status/1545831083291336704"/>
+        <updated>2022-07-09T18:03:45.000Z</updated>
+        <summary type="html"><![CDATA[RT LensProtocol.lens 🌿
+Get ready for @pussyrrriot final NFT drop on Lens! We hear it’s an exciting one 👀 with all proceeds being donated to LegalAbortion.eth, collect this 250-editioned NFT on Lens for 300 MATIC each! https://irisapp.xyz/user/pussyriotxyz.lens]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔒 A Guide to Privacy On-Chain: Aztec Network by @wc49358]]></title>
+        <id>https://twitter.com/developer_dao/status/1545830831285219333</id>
+        <link href="https://twitter.com/developer_dao/status/1545830831285219333"/>
+        <updated>2022-07-09T18:02:44.000Z</updated>
+        <summary type="html"><![CDATA[🔒 A Guide to Privacy On-Chain: Aztec Network 
+by @wc49358 https://billyjitsu.hashnode.dev/a-guide-to-privacy-on-chain-aztec-network]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Manny (🧱,🚀): For the web3 devs wanting to build a file uploader with @Filebase]]></title>
+        <id>https://twitter.com/codingwithmanny/status/1545818292522307588</id>
+        <link href="https://twitter.com/codingwithmanny/status/1545818292522307588"/>
+        <updated>2022-07-09T17:12:55.000Z</updated>
+        <summary type="html"><![CDATA[RT Manny (🧱,🚀)
+For the web3 devs wanting to build a file uploader with @Filebase https://ankr.hashnode.dev/create-a-backend-nodejs-ipfs-file-uploader-with-filebase]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @hazae41 don't tell em]]></title>
+        <id>https://twitter.com/developer_dao/status/1545762331493183488</id>
+        <link href="https://twitter.com/developer_dao/status/1545762331493183488"/>
+        <updated>2022-07-09T13:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @hazae41 don't tell em]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1545737144190128129</id>
+        <link href="https://twitter.com/developer_dao/status/1545737144190128129"/>
+        <updated>2022-07-09T11:50:28.000Z</updated>
+        <summary type="html"><![CDATA[https://gateway.ipfs.io/ipfs/QmcniBv7UQ4gGPQQW2BwbD4ZZHzN3o3tPuNLZCbBchd1zh]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Vijeth☀️⚡: what are some awesome developer communities you are super super bullish on? let me start with @developer_dao, @_buildspace]]></title>
+        <id>https://twitter.com/vijethx/status/1545648578986909696</id>
+        <link href="https://twitter.com/vijethx/status/1545648578986909696"/>
+        <updated>2022-07-09T05:58:32.000Z</updated>
+        <summary type="html"><![CDATA[RT Vijeth☀️⚡
+what are some awesome developer communities you are super super bullish on?
+let me start with @developer_dao, @_buildspace]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nobody will remember: - Your salary - Your fancy title - How ‘busy’ you were - How stressed you were - How many hours you worked People will remembe...]]></title>
         <id>https://twitter.com/developer_dao/status/1545525101369892864</id>
@@ -95,70 +199,6 @@ Create a 'tasks' directory and paste this script in your hardhat config file to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[He's a 10 but he doesn't have a Developer Dao NFT.]]></title>
-        <id>https://twitter.com/developer_dao/status/1545367627668889600</id>
-        <link href="https://twitter.com/developer_dao/status/1545367627668889600"/>
-        <updated>2022-07-08T11:22:08.000Z</updated>
-        <summary type="html"><![CDATA[He's a 10 but he doesn't have a Developer Dao NFT.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Patricia | SuperPat.eth/.lens 📍🇪🇸 | ✈️ 🇫🇷: If you are a girl n building something dope in web3, comment below Coolest ✨ gals 💅...]]></title>
-        <id>https://twitter.com/superpatx_/status/1545356439966867457</id>
-        <link href="https://twitter.com/superpatx_/status/1545356439966867457"/>
-        <updated>2022-07-08T10:37:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Patricia | SuperPat.eth/.lens 📍🇪🇸 | ✈️ 🇫🇷
-If you are a girl n building something dope in web3, comment below
-Coolest ✨ gals 💅 gets ✨ Paris 🇫🇷 @letsraave 👻 tix 🎟]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Permanent File Storage for Web3 Apps With Arweave, Bundlr, Next.js, RainbowKit, and Wagmi 🛠 In this article, I will be showing you how to create a ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1545347199428710404</id>
-        <link href="https://twitter.com/developer_dao/status/1545347199428710404"/>
-        <updated>2022-07-08T10:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Permanent File Storage for Web3 Apps With Arweave, Bundlr, Next.js, RainbowKit, and Wagmi
-🛠 In this article, I will be showing you how to create a Dapp that allows us to store data on the Arweave network, using @BundlrNetwork on testnet. https://betterprogramming.pub/permanent-file-storage-for-web3-apps-with-arweave-bundlr-next-js-rainbowkit-and-wagmi-18aa1506fa6e]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @tomiwa1a @eth_barcelona 🇫🇷 100% !]]></title>
-        <id>https://twitter.com/developer_dao/status/1545175253932015616</id>
-        <link href="https://twitter.com/developer_dao/status/1545175253932015616"/>
-        <updated>2022-07-07T22:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @tomiwa1a @eth_barcelona 🇫🇷 100% !]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer DAO dinner @eth_barcelona 🦑]]></title>
-        <id>https://twitter.com/developer_dao/status/1545153557573271557</id>
-        <link href="https://twitter.com/developer_dao/status/1545153557573271557"/>
-        <updated>2022-07-07T21:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Developer DAO dinner @eth_barcelona 🦑]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Gabe Greenberg: Looking for a developer with web3 experience that wants a paid project w/ @g2i_co creating a rubric to help our interviewing team p...]]></title>
-        <id>https://twitter.com/gabe_g2i/status/1545153555484614656</id>
-        <link href="https://twitter.com/gabe_g2i/status/1545153555484614656"/>
-        <updated>2022-07-07T21:11:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Gabe Greenberg
-Looking for a developer with web3 experience that wants a paid project w/ @g2i_co creating a rubric to help our interviewing team perform technical interviews for web3 focused devs. If you know someone please DM @icookandcode]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT ChainSafe: Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & ...]]></title>
         <id>https://twitter.com/ChainSafeth/status/1545151517719760897</id>
         <link href="https://twitter.com/ChainSafeth/status/1545151517719760897"/>
@@ -167,84 +207,6 @@ Looking for a developer with web3 experience that wants a paid project w/ @g2i_c
 Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & @elizabethereum.
 They also participated in an Implementation Teams Panel w/ @protocollabs' @juanbenet & @lotus_web3's @_jennijuju, & Aayush 𑁍
 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Devin Abbott: I was with @AirbnbEng during the hype and sunsetting of @reactnative, which ultimately succeeded as a disruptive technology. I see a ...]]></title>
-        <id>https://twitter.com/dvnabbott/status/1545150940973375488</id>
-        <link href="https://twitter.com/dvnabbott/status/1545150940973375488"/>
-        <updated>2022-07-07T21:01:06.000Z</updated>
-        <summary type="html"><![CDATA[RT Devin Abbott
-I was with @AirbnbEng during the hype and sunsetting of @reactnative, which ultimately succeeded as a disruptive technology. I see a lot of parallels between React Native in its early days and web3 today. Here's why: https://medium.com/@devinabbott/what-working-at-airbnb-during-its-react-native-era-taught-me-about-web3-6d34d855d892]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT TAD BLAKE-WEBER, UXC: Developer DAO FM - Listen to Lofi music while building cool stuff]]></title>
-        <id>https://twitter.com/tadblakeweber/status/1545129074447753216</id>
-        <link href="https://twitter.com/tadblakeweber/status/1545129074447753216"/>
-        <updated>2022-07-07T19:34:13.000Z</updated>
-        <summary type="html"><![CDATA[RT TAD BLAKE-WEBER, UXC
-Developer DAO FM - Listen to Lofi music while building cool stuff https://ift.tt/2GUao9g]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Forefront: Re 2/ The following communities are now listed on Terminal: - @developer_dao - @seedclubhq - @juiceboxETH - @CityDAO - @lootproject - @l...]]></title>
-        <id>https://twitter.com/forefront__/status/1545127976274214914</id>
-        <link href="https://twitter.com/forefront__/status/1545127976274214914"/>
-        <updated>2022-07-07T19:29:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Forefront
-Re 2/ The following communities are now listed on Terminal:
-- @developer_dao 
-- @seedclubhq 
-- @juiceboxETH 
-- @CityDAO 
-- @lootproject 
-- @lilnounsdao  
-- @surge_women]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Boardroom 🗳️: Re 📃 Highlighted Proposals ✦ @developer_dao lays out a governance process ✦ @OptimismGov continues w/ Governance Fund Phase ...]]></title>
-        <id>https://twitter.com/boardroom_info/status/1545127954115698690</id>
-        <link href="https://twitter.com/boardroom_info/status/1545127954115698690"/>
-        <updated>2022-07-07T19:29:46.000Z</updated>
-        <summary type="html"><![CDATA[RT Boardroom 🗳️
-Re 📃 Highlighted Proposals
-✦ @developer_dao lays out a governance process
-✦ @OptimismGov continues w/ Governance Fund Phase 1
-✦ @CityDAO seeks a big parcel for HQ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Nick Culpin: really cool project. "Tableland is a decentralized network for relational, composable data — powered by smart contracts + SQL" #web3 ...]]></title>
-        <id>https://twitter.com/njculpin/status/1545117757561196544</id>
-        <link href="https://twitter.com/njculpin/status/1545117757561196544"/>
-        <updated>2022-07-07T18:49:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Nick Culpin
-really cool project. "Tableland is a decentralized network for relational, composable data — powered by smart contracts + SQL" #web3 @developer_dao https://tableland.xyz/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: I just published a new video! 🫡 Went over the easiest and relatively safer way for contract deployments using @thirdweb_ deploy, espec...]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1545103701412827137</id>
-        <link href="https://twitter.com/dhaiwat10/status/1545103701412827137"/>
-        <updated>2022-07-07T17:53:23.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-I just published a new video! 🫡
-Went over the easiest and relatively safer way for contract deployments using @thirdweb_  deploy, especially for beginners deploying to testnets. 🤝
-Hope this saves someone from leaking their private key on GitHub ^_^ https://www.youtube.com/watch?v=CaODHRnFgBw]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
