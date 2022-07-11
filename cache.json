@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1546186224557101056",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "gm regens",
+          "link": "https://twitter.com/developer_dao/status/1546186224557101056",
+          "publishedOn": "2022-07-10T17:34:57.000Z",
+          "wordCount": 352,
+          "title": "gm regens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1545892324311310337",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\n.@developer_dao is a network state in the making 🫶",
+          "link": "https://twitter.com/dhaiwat10/status/1545892324311310337",
+          "publishedOn": "2022-07-09T22:07:06.000Z",
+          "wordCount": 352,
+          "title": "RT dhai.eth: .@developer_dao is a network state in the making 🫶",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1545886889915232258",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @ngnathan You are welcome",
@@ -104,6 +124,16 @@
           "publishedOn": "2022-07-09T19:32:08.000Z",
           "wordCount": 352,
           "title": "Re @divine_economy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/hexonaut/status/1545845549328465932",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT hexonaut.eth\n🤯 Cross-chain end-to-end testing has landed in Foundry. These sorts of features are critical for Maker going multichain.\nMad respect to the Foundry team - they are shipping new features like crazy. 💨💨",
+          "link": "https://twitter.com/hexonaut/status/1545845549328465932",
+          "publishedOn": "2022-07-09T19:01:14.000Z",
+          "wordCount": 352,
+          "title": "RT hexonaut.eth: 🤯 Cross-chain end-to-end testing has landed in Foundry. These sorts of features are critical for Maker going multichain. Mad respe...",
           "imageUrl": null
         },
         {
@@ -189,11 +219,11 @@
         {
           "id": "https://twitter.com/m1guelpf/status/1545500484215230464",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT $MIGUEL Piedrafita @ ETHBarcelona\nsoon @LensProtocol 📹📺",
+          "description": "RT $MIGUEL Piedrafita\nsoon @LensProtocol 📹📺",
           "link": "https://twitter.com/m1guelpf/status/1545500484215230464",
           "publishedOn": "2022-07-08T20:10:04.000Z",
           "wordCount": 352,
-          "title": "RT $MIGUEL Piedrafita @ ETHBarcelona: soon @LensProtocol 📹📺",
+          "title": "RT $MIGUEL Piedrafita: soon @LensProtocol 📹📺",
           "imageUrl": null
         },
         {
@@ -217,26 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1545386419144822784",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @kayprasla spill who?",
-          "link": "https://twitter.com/developer_dao/status/1545386419144822784",
-          "publishedOn": "2022-07-08T12:36:48.000Z",
-          "wordCount": 352,
-          "title": "Re @kayprasla spill who?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ArweaveAz/status/1545384350870552576",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Az | Arweave News\nHey #Arweave Community!\nI would love to hear people’s experience so far with @ar_io_network’s #ArNS \nI will be putting together an article to showcase ArNS to the world, so if you are one of the 200 people lucky enough to be testing it out, please feel free to DM me your story.",
-          "link": "https://twitter.com/ArweaveAz/status/1545384350870552576",
-          "publishedOn": "2022-07-08T12:28:35.000Z",
-          "wordCount": 352,
-          "title": "RT Az | Arweave News: Hey #Arweave Community! I would love to hear people’s experience so far with @ar_io_network’s #ArNS I will be putting together...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/nico_eth/status/1545383737545953282",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT iamnico.eth (🥩,🔨)(📹 , ⛏️) 🦇🔊\nI love how @HardhatHQ tasks allow you to write a CLI for your contracts in a wimp 💻\nCreate a 'tasks' directory and paste this script in your hardhat config file to start 👷",
@@ -244,16 +254,6 @@
           "publishedOn": "2022-07-08T12:26:09.000Z",
           "wordCount": 352,
           "title": "RT iamnico.eth (🥩,🔨)(📹 , ⛏️) 🦇🔊: I love how @HardhatHQ tasks allow you to write a CLI for your contracts in a wimp 💻 Create a 'tas...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ChainSafeth/status/1545151517719760897",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ChainSafe\nRe We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & @elizabethereum.\nThey also participated in an Implementation Teams Panel w/ @protocollabs' @juanbenet & @lotus_web3's @_jennijuju, & Aayush 𑁍\n👇",
-          "link": "https://twitter.com/ChainSafeth/status/1545151517719760897",
-          "publishedOn": "2022-07-07T21:03:24.000Z",
-          "wordCount": 352,
-          "title": "RT ChainSafe: Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & ...",
           "imageUrl": null
         }
       ]

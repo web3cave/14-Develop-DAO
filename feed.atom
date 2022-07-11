@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T06:14:05.905Z</id>
+    <id>urn:2022-07-11T06:15:18.480Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-10T06:14:05.905Z</updated>
+    <updated>2022-07-11T06:15:18.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[gm regens]]></title>
+        <id>https://twitter.com/developer_dao/status/1546186224557101056</id>
+        <link href="https://twitter.com/developer_dao/status/1546186224557101056"/>
+        <updated>2022-07-10T17:34:57.000Z</updated>
+        <summary type="html"><![CDATA[gm regens]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: .@developer_dao is a network state in the making 🫶]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1545892324311310337</id>
+        <link href="https://twitter.com/dhaiwat10/status/1545892324311310337"/>
+        <updated>2022-07-09T22:07:06.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+.@developer_dao is a network state in the making 🫶]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @ngnathan You are welcome]]></title>
         <id>https://twitter.com/developer_dao/status/1545886889915232258</id>
@@ -31,6 +52,18 @@
         <link href="https://twitter.com/developer_dao/status/1545853328877187073"/>
         <updated>2022-07-09T19:32:08.000Z</updated>
         <summary type="html"><![CDATA[Re @divine_economy]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT hexonaut.eth: 🤯 Cross-chain end-to-end testing has landed in Foundry. These sorts of features are critical for Maker going multichain. Mad respe...]]></title>
+        <id>https://twitter.com/hexonaut/status/1545845549328465932</id>
+        <link href="https://twitter.com/hexonaut/status/1545845549328465932"/>
+        <updated>2022-07-09T19:01:14.000Z</updated>
+        <summary type="html"><![CDATA[RT hexonaut.eth
+🤯 Cross-chain end-to-end testing has landed in Foundry. These sorts of features are critical for Maker going multichain.
+Mad respect to the Foundry team - they are shipping new features like crazy. 💨💨]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -127,11 +160,11 @@ People will remember:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT $MIGUEL Piedrafita @ ETHBarcelona: soon @LensProtocol 📹📺]]></title>
+        <title type="html"><![CDATA[RT $MIGUEL Piedrafita: soon @LensProtocol 📹📺]]></title>
         <id>https://twitter.com/m1guelpf/status/1545500484215230464</id>
         <link href="https://twitter.com/m1guelpf/status/1545500484215230464"/>
         <updated>2022-07-08T20:10:04.000Z</updated>
-        <summary type="html"><![CDATA[RT $MIGUEL Piedrafita @ ETHBarcelona
+        <summary type="html"><![CDATA[RT $MIGUEL Piedrafita
 soon @LensProtocol 📹📺]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
@@ -164,29 +197,6 @@ This week, @tonyolendo from @developer_dao joins to walk us through a recent pro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @kayprasla spill who?]]></title>
-        <id>https://twitter.com/developer_dao/status/1545386419144822784</id>
-        <link href="https://twitter.com/developer_dao/status/1545386419144822784"/>
-        <updated>2022-07-08T12:36:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @kayprasla spill who?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Az | Arweave News: Hey #Arweave Community! I would love to hear people’s experience so far with @ar_io_network’s #ArNS I will be putting together...]]></title>
-        <id>https://twitter.com/ArweaveAz/status/1545384350870552576</id>
-        <link href="https://twitter.com/ArweaveAz/status/1545384350870552576"/>
-        <updated>2022-07-08T12:28:35.000Z</updated>
-        <summary type="html"><![CDATA[RT Az | Arweave News
-Hey #Arweave Community!
-I would love to hear people’s experience so far with @ar_io_network’s #ArNS 
-I will be putting together an article to showcase ArNS to the world, so if you are one of the 200 people lucky enough to be testing it out, please feel free to DM me your story.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT iamnico.eth (🥩,🔨)(📹 , ⛏️) 🦇🔊: I love how @HardhatHQ tasks allow you to write a CLI for your contracts in a wimp 💻 Create a 'tas...]]></title>
         <id>https://twitter.com/nico_eth/status/1545383737545953282</id>
         <link href="https://twitter.com/nico_eth/status/1545383737545953282"/>
@@ -194,19 +204,6 @@ I will be putting together an article to showcase ArNS to the world, so if you a
         <summary type="html"><![CDATA[RT iamnico.eth (🥩,🔨)(📹 , ⛏️) 🦇🔊
 I love how @HardhatHQ tasks allow you to write a CLI for your contracts in a wimp 💻
 Create a 'tasks' directory and paste this script in your hardhat config file to start 👷]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ChainSafe: Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & ...]]></title>
-        <id>https://twitter.com/ChainSafeth/status/1545151517719760897</id>
-        <link href="https://twitter.com/ChainSafeth/status/1545151517719760897"/>
-        <updated>2022-07-07T21:03:24.000Z</updated>
-        <summary type="html"><![CDATA[RT ChainSafe
-Re We had the pleasure of speaking to an engaged audience about our @rustlang impl of @Filecoin, #Forest 🌲, presented by @lerajk44 & @elizabethereum.
-They also participated in an Implementation Teams Panel w/ @protocollabs' @juanbenet & @lotus_web3's @_jennijuju, & Aayush 𑁍
-👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
