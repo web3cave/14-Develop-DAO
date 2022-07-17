@@ -1,16 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-16T06:13:44.057Z</id>
+    <id>urn:2022-07-17T06:13:50.253Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-16T06:13:44.057Z</updated>
+    <updated>2022-07-17T06:13:50.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT alec.eth / imRecruiter.ethᵍᵐ🤠📍🇫🇷EthCC🔜: <3 DD]]></title>
+        <id>https://twitter.com/Chipagosfinest/status/1548452055882182656</id>
+        <link href="https://twitter.com/Chipagosfinest/status/1548452055882182656"/>
+        <updated>2022-07-16T23:38:33.000Z</updated>
+        <summary type="html"><![CDATA[RT alec.eth / imRecruiter.ethᵍᵐ🤠📍🇫🇷EthCC🔜
+<3 DD]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: Been wanting to list this out. I know at least one @developer_dao member from each of these countries: 🇮🇳🇺🇸🇬🇧🇺🇦�...]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1548445818029412352</id>
+        <link href="https://twitter.com/dhaiwat10/status/1548445818029412352"/>
+        <updated>2022-07-16T23:13:46.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+Been wanting to list this out. I know at least one @developer_dao member from each of these countries:
+🇮🇳🇺🇸🇬🇧🇺🇦🇩🇪🇫🇷🇳🇱🇮🇩🇸🇬🇳🇿🇦🇺🇦🇹🇰🇪🇵🇰🇹🇷🇦🇪🇿🇦🇨🇳🇷🇴🇸🇦🇷🇺🇨🇴🇻🇪🇨🇱🇧🇷🇦🇷🇵🇪🇨🇦🇹🇹🇪🇸🇵🇹🇳🇬🇮🇪🇱🇰🇮🇹🇵🇱
+36 countries. that's not bad]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to mint random NFTs from your NFT Smart Contract - minting in a random (and not sequential) order. 🧱 by @developer_dao member @Web3Club ⚡️]]></title>
+        <id>https://twitter.com/developer_dao/status/1548342696393129985</id>
+        <link href="https://twitter.com/developer_dao/status/1548342696393129985"/>
+        <updated>2022-07-16T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[How to mint random NFTs from your NFT Smart Contract - minting in a random (and not sequential) order. 🧱
+by @developer_dao member @Web3Club ⚡️ https://www.youtube.com/watch?v=WV2cTebHQi8&feature=youtu.be]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡️ 10 Hour Video Tutorial - Solidity, Ethereum Virtual Machine, Hardhat, ethers.js, Damn Vulnerable Defi Part 1 🧱 by @developer_dao member @Soura...]]></title>
+        <id>https://twitter.com/developer_dao/status/1548296838931169280</id>
+        <link href="https://twitter.com/developer_dao/status/1548296838931169280"/>
+        <updated>2022-07-16T13:21:47.000Z</updated>
+        <summary type="html"><![CDATA[⚡️ 10 Hour Video Tutorial - Solidity, Ethereum Virtual Machine, Hardhat, ethers.js, Damn Vulnerable Defi Part 1
+🧱 by @developer_dao member @SourabhLight https://www.youtube.com/watch?v=n3u3AcBBRbU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deadline extended to apply for the Ethereum Foundation Fellowship Program 💫]]></title>
         <id>https://twitter.com/developer_dao/status/1548059458848182279</id>
         <link href="https://twitter.com/developer_dao/status/1548059458848182279"/>
         <updated>2022-07-15T21:38:31.000Z</updated>
         <summary type="html"><![CDATA[Deadline extended to apply for the Ethereum Foundation Fellowship Program 💫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT wolovim.eth: Deadline extended to apply for Cohort 2 of the #Ethereum Foundation Fellowship Program - ✨ apply by July 24 ✨]]></title>
+        <id>https://twitter.com/wolovim/status/1547988745747476480</id>
+        <link href="https://twitter.com/wolovim/status/1547988745747476480"/>
+        <updated>2022-07-15T16:57:31.000Z</updated>
+        <summary type="html"><![CDATA[RT wolovim.eth
+Deadline extended to apply for Cohort 2 of the #Ethereum Foundation Fellowship Program -
+✨ apply by July 24 ✨ https://fellowship.ethereum.foundation/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT eric | builder 4 hire: more choices to {🧱, 🚀} I've added the choice of css frameworks to build with npx create-web3 now including @tailwindcs...]]></title>
+        <id>https://twitter.com/ericroupe/status/1547984099364638721</id>
+        <link href="https://twitter.com/ericroupe/status/1547984099364638721"/>
+        <updated>2022-07-15T16:39:04.000Z</updated>
+        <summary type="html"><![CDATA[RT eric | builder 4 hire
+more choices to {🧱, 🚀}
+I've added the choice of css frameworks to build with 
+npx create-web3
+now including @tailwindcss  and chakra to add to your  dapp frontend
+Let's keep building😀 https://www.npmjs.com/package/create-web3]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -118,68 +191,12 @@ members of @developer_dao will be able to claim voting tokens friday morning (st
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Via Protocol - All cross‑chain bridges and DEXs in one UI ⚡️ Via Protocol is a cross-chain liquidity aggregation protocol designed to create a fast...]]></title>
-        <id>https://twitter.com/developer_dao/status/1547680080159092736</id>
-        <link href="https://twitter.com/developer_dao/status/1547680080159092736"/>
-        <updated>2022-07-14T20:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Via Protocol - All cross‑chain bridges and DEXs in one UI
-⚡️ Via Protocol is a cross-chain liquidity aggregation protocol designed to create a fast, efficient and seamless swap experience across 13 Сhains using 53 DEXs, 15 Bridges, and 5 Providers https://www.producthunt.com/posts/via-protocol]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonbuilders Academy: Learn How to Develop on @MoonbeamNetwork with Solidity Moonbuilders Academy is a new learning hub & educational platform where d...]]></title>
-        <id>https://twitter.com/developer_dao/status/1547649825050488833</id>
-        <link href="https://twitter.com/developer_dao/status/1547649825050488833"/>
-        <updated>2022-07-14T18:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Moonbuilders Academy: Learn How to Develop on @MoonbeamNetwork with Solidity
-Moonbuilders Academy is a new learning hub & educational platform where developers can learn how to build Web3 apps on Polkadot’s Moonbeam parachain (& Moonriver on Kusama). ⚡️ https://runtelldapp.com/moonbeam-moonbuilders-academy/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security in Crypto, Hardware Wallets, and Pseudonymity - Part 1 🔒 by @developer_dao member @MetaversityOne]]></title>
-        <id>https://twitter.com/developer_dao/status/1547648938500427777</id>
-        <link href="https://twitter.com/developer_dao/status/1547648938500427777"/>
-        <updated>2022-07-14T18:27:15.000Z</updated>
-        <summary type="html"><![CDATA[Security in Crypto, Hardware Wallets, and Pseudonymity - Part 1 🔒
-by @developer_dao member @MetaversityOne https://blog.developerdao.com/security-in-crypto-hardware-wallets-and-pseudonymity-part-1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT pbillingsby.eth: Been a long time coming but I just gave my 2 weeks notice. So long !]]></title>
         <id>https://twitter.com/pbillingsby_eth/status/1547642864611364866</id>
         <link href="https://twitter.com/pbillingsby_eth/status/1547642864611364866"/>
         <updated>2022-07-14T18:03:07.000Z</updated>
         <summary type="html"><![CDATA[RT pbillingsby.eth
 Been a long time coming but I just gave my 2 weeks notice. So long !]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ETHGlobal 🦾🙇‍♂️]]></title>
-        <id>https://twitter.com/developer_dao/status/1547627448258351105</id>
-        <link href="https://twitter.com/developer_dao/status/1547627448258351105"/>
-        <updated>2022-07-14T17:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @ETHGlobal 🦾🙇‍♂️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ETHGlobal: We are coming to Mexico City, Aug 19-21! ☀️ Interested in becoming a Support Staff member for our #ETHMexico 🇲🇽 event? Fill out ...]]></title>
-        <id>https://twitter.com/ETHGlobal/status/1547621974205075460</id>
-        <link href="https://twitter.com/ETHGlobal/status/1547621974205075460"/>
-        <updated>2022-07-14T16:40:06.000Z</updated>
-        <summary type="html"><![CDATA[RT ETHGlobal
-We are coming to Mexico City, Aug 19-21! ☀️ 
-Interested in becoming a Support Staff member for our #ETHMexico 🇲🇽 event? 
-Fill out the form below 👇🏼]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -206,25 +223,16 @@ Looking for a developer experience lead with open source experience. If that's y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Eda 🎈: 📢 New Post: my notes from ETH NYC on @hashnode! first tysm to @ETHGlobal for making it possible! Before attending, I had so many quest...]]></title>
-        <id>https://twitter.com/edatweets_/status/1544741304852258818</id>
-        <link href="https://twitter.com/edatweets_/status/1544741304852258818"/>
-        <updated>2022-07-06T17:53:21.000Z</updated>
-        <summary type="html"><![CDATA[RT Eda 🎈
-📢 New Post: my notes from ETH NYC on @hashnode! first tysm to @ETHGlobal for making it possible!
-Before attending, I had so many questions: Do I need a team, have an idea, what can you build in 36hrs & how's the application process? So here's my post👇 https://eda.hashnode.dev/my-first-web3-hackathon]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Wat: A brief before/after of what is coming at @reservoir0x We deal with the search so you can focus on what matters 🥺💛]]></title>
-        <id>https://twitter.com/wat_to_wat/status/1544446965370343424</id>
-        <link href="https://twitter.com/wat_to_wat/status/1544446965370343424"/>
-        <updated>2022-07-05T22:23:45.000Z</updated>
-        <summary type="html"><![CDATA[RT Wat
-A brief before/after of what is coming at @reservoir0x 
-We deal with the search so you can focus on what matters 🥺💛]]></summary>
+        <title type="html"><![CDATA[RT Billyjitsu: Re @aztecnetwork is so 🔥 I had to write a guide on how to use it. A Guide to Privacy On-Chain: Aztec Network { by Billyjitsu } As a ...]]></title>
+        <id>https://twitter.com/wc49358/status/1545610897258737664</id>
+        <link href="https://twitter.com/wc49358/status/1545610897258737664"/>
+        <updated>2022-07-09T03:28:48.000Z</updated>
+        <summary type="html"><![CDATA[RT Billyjitsu
+Re @aztecnetwork is so 🔥 I had to write a guide on how to use it.
+A Guide to Privacy On-Chain: Aztec Network
+{ by Billyjitsu }
+As a private consumer, it is always everybody's business what I do.
+#blockchain #privacy #aztecnetwork https://billyjitsu.hashnode.dev/a-guide-to-privacy-on-chain-aztec-network]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
