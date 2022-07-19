@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/33-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Election results and French connections -> Yes oui can",
+          "link": "https://developerdao.substack.com/p/33-probably-nothing",
+          "publishedOn": "2022-07-19T05:16:56.000Z",
+          "wordCount": null,
+          "title": "#33 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90cf217d-e849-42f8-bc7a-23d7a4b405c5_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90cf217d-e849-42f8-bc7a-23d7a4b405c5_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/32-probably-nothing",
           "author": "Colin4ward",
           "description": "Budget Storm",
@@ -77,6 +93,106 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/twicrates/status/1549197978484744192",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT MANIC PIXIE NIGHTMARE MANLET\nthe breaking changes to said api every two weeks is just job security bro pls\nDeveloper DAO (🧱, 🚀): Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to learn but just trust me bro it's 2% faster bro",
+          "link": "https://twitter.com/twicrates/status/1549197978484744192",
+          "publishedOn": "2022-07-19T01:02:35.000Z",
+          "wordCount": 352,
+          "title": "RT MANIC PIXIE NIGHTMARE MANLET: the breaking changes to said api every two weeks is just job security bro pls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549196877614223360",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to learn but just trust me bro it's 2% faster bro",
+          "link": "https://twitter.com/developer_dao/status/1549196877614223360",
+          "publishedOn": "2022-07-19T00:58:12.000Z",
+          "wordCount": 352,
+          "title": "Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to l...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549158314629423104",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1549158314629423104",
+          "publishedOn": "2022-07-18T22:24:58.000Z",
+          "wordCount": 352,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549156384293265408",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @tonyolendo @dabit3 We're just getting started! 🫡",
+          "link": "https://twitter.com/developer_dao/status/1549156384293265408",
+          "publishedOn": "2022-07-18T22:17:18.000Z",
+          "wordCount": 352,
+          "title": "Re @tonyolendo @dabit3 We're just getting started! 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/tonyolendo/status/1549155351823585287",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tonyolendo.eth\nAnd to think that we started with a buggy smart contract and a discord server... look at @developer_dao now. Maaaan, it's been a wild ride. Also, bless up @dabit3 and the countless people who keep building the most vibrant Web3 community in the world.",
+          "link": "https://twitter.com/tonyolendo/status/1549155351823585287",
+          "publishedOn": "2022-07-18T22:13:12.000Z",
+          "wordCount": 352,
+          "title": "RT tonyolendo.eth: And to think that we started with a buggy smart contract and a discord server... look at @developer_dao now. Maaaan, it's been a wi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1549153462348234752",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\nOpen invitation to all @developer_dao members to stay at my place if you come here for EthIndia in December 🇮🇳🫶\ndhai.eth: Signed the lease ✍️❤️",
+          "link": "https://twitter.com/dhaiwat10/status/1549153462348234752",
+          "publishedOn": "2022-07-18T22:05:41.000Z",
+          "wordCount": 352,
+          "title": "RT dhai.eth: Open invitation to all @developer_dao members to stay at my place if you come here for EthIndia in December 🇮🇳🫶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wise_Tyy/status/1549087309424955392",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ty\nIf you're a part of @developer_dao were chatting about @balajis's new book: The Network State. Come join!",
+          "link": "https://twitter.com/wise_Tyy/status/1549087309424955392",
+          "publishedOn": "2022-07-18T17:42:49.000Z",
+          "wordCount": 352,
+          "title": "RT Ty: If you're a part of @developer_dao were chatting about @balajis's new book: The Network State. Come join!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549065817756770307",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "D_D ~vibesIRL~ happening in Paris 🇫🇷🗼alongside #EthCC this Wednesday (20th) @DuplexParis💃\nRegister ➡️  \ngood vibes and an open bar all night 😎\nThanks to our sponsors @ArcanaNetwork, @MetisDAO and @klaytn_official for this making the event possible🤝 https://lu.ma/developer-dao-vibes-irl-ethcc-paris-2022",
+          "link": "https://twitter.com/developer_dao/status/1549065817756770307",
+          "publishedOn": "2022-07-18T16:17:25.000Z",
+          "wordCount": 352,
+          "title": "D_D ~vibesIRL~ happening in Paris 🇫🇷🗼alongside #EthCC this Wednesday (20th) @DuplexParis💃 Register ➡️ good vibes and an open bar all nig...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kayprasla/status/1549029471474401282",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krinza.eth\n🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. \n✍️ Here a tutorial for y'all too → https://ankr.hashnode.dev/nft-20-creating-a-soulbound-token",
+          "link": "https://twitter.com/kayprasla/status/1549029471474401282",
+          "publishedOn": "2022-07-18T13:53:00.000Z",
+          "wordCount": 352,
+          "title": "RT krinza.eth: 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/alpeh_v/status/1549011577784991746",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT alephv.eth\nFYI, hustle culture is out. What's cool is sleep maxing, you gotta be sleeping 18 hours a night doing 2 hours of work then having a nap. You gotta be unable to get out of bed for more than 3 hours, you gotta be prioritizing laying down over meetings. I do this and it's why I win.",
+          "link": "https://twitter.com/alpeh_v/status/1549011577784991746",
+          "publishedOn": "2022-07-18T12:41:54.000Z",
+          "wordCount": 352,
+          "title": "RT alephv.eth: FYI, hustle culture is out. What's cool is sleep maxing, you gotta be sleeping 18 hours a night doing 2 hours of work then having a nap...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/dabit3/status/1548902620927971328",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nJust pushed some new updates to the @nextjs + @LensProtocol starter project.\nEasiest way to get started developing web3 social media.\nIt only takes a few seconds to get up & running, & you don't need a Lens handle to start building + testing it out. https://github.com/dabit3/lens-protocol-frontend",
@@ -119,21 +235,11 @@
         {
           "id": "https://twitter.com/0xSaura/status/1548764494213545984",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Saura 🔜 ImpactIRL\nToday was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao .\nBest day of the year? ✨✨✨\nTy @dabit3 🥲🥲🥲",
+          "description": "RT Saura 🔜 We Impact 💥🤍\nToday was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao .\nBest day of the year? ✨✨✨\nTy @dabit3 🥲🥲🥲",
           "link": "https://twitter.com/0xSaura/status/1548764494213545984",
           "publishedOn": "2022-07-17T20:20:04.000Z",
           "wordCount": 352,
-          "title": "RT Saura 🔜 ImpactIRL: Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao . Best day of the year? ✨✨...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wolovim/status/1548692044184444932",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT wolovim.eth\nKPIs that count 🤝",
-          "link": "https://twitter.com/wolovim/status/1548692044184444932",
-          "publishedOn": "2022-07-17T15:32:11.000Z",
-          "wordCount": 352,
-          "title": "RT wolovim.eth: KPIs that count 🤝",
+          "title": "RT Saura 🔜 We Impact 💥🤍: Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao . Best day of the y...",
           "imageUrl": null
         },
         {
@@ -147,36 +253,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1548570083907104768",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @dhaiwat10 @sneha_bb @vibesIRL 🫶",
-          "link": "https://twitter.com/developer_dao/status/1548570083907104768",
-          "publishedOn": "2022-07-17T07:27:33.000Z",
-          "wordCount": 352,
-          "title": "Re @dhaiwat10 @sneha_bb @vibesIRL 🫶",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/_shrutipanjwani/status/1548480329807122438",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shrutipanjwani.eth (⚒, 🇮🇳)\nWomen in web3 @developer_dao @vibesIRL 🔥🫶",
-          "link": "https://twitter.com/_shrutipanjwani/status/1548480329807122438",
-          "publishedOn": "2022-07-17T01:30:54.000Z",
-          "wordCount": 352,
-          "title": "RT shrutipanjwani.eth (⚒, 🇮🇳): Women in web3 @developer_dao @vibesIRL 🔥🫶",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Chipagosfinest/status/1548452055882182656",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT alec.eth / imRecruiter.ethᵍᵐ🤠📍🇫🇷EthCC\n<3 DD",
-          "link": "https://twitter.com/Chipagosfinest/status/1548452055882182656",
-          "publishedOn": "2022-07-16T23:38:33.000Z",
-          "wordCount": 352,
-          "title": "RT alec.eth / imRecruiter.ethᵍᵐ🤠📍🇫🇷EthCC: <3 DD",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/dabit3/status/1548449624322494464",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nI published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes!\nLight Nodes help secure the network and perform data availability sampling (DAS) which is a core innovation of Celestia ⚡️ https://www.youtube.com/watch?v=9uL3jZe4mTY",
@@ -184,46 +260,6 @@
           "publishedOn": "2022-07-16T23:28:53.000Z",
           "wordCount": 352,
           "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes! ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1548445818029412352",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\nBeen wanting to list this out. I know at least one @developer_dao member from each of these countries:\n🇮🇳🇺🇸🇬🇧🇺🇦🇩🇪🇫🇷🇳🇱🇮🇩🇸🇬🇳🇿🇦🇺🇦🇹🇰🇪🇵🇰🇹🇷🇦🇪🇿🇦🇨🇳🇷🇴🇸🇦🇷🇺🇨🇴🇻🇪🇨🇱🇧🇷🇦🇷🇵🇪🇨🇦🇹🇹🇪🇸🇵🇹🇳🇬🇮🇪🇱🇰🇮🇹🇵🇱\n36 countries. that's not bad",
-          "link": "https://twitter.com/dhaiwat10/status/1548445818029412352",
-          "publishedOn": "2022-07-16T23:13:46.000Z",
-          "wordCount": 352,
-          "title": "RT dhai.eth: Been wanting to list this out. I know at least one @developer_dao member from each of these countries: 🇮🇳🇺🇸🇬🇧🇺🇦�...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/incrypto32/status/1548353562836537344",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Krishna | 0xKrishna.eth 🦇🔊\nHad a fun time at @developer_dao meetup at Banglore!",
-          "link": "https://twitter.com/incrypto32/status/1548353562836537344",
-          "publishedOn": "2022-07-16T17:07:11.000Z",
-          "wordCount": 352,
-          "title": "RT Krishna | 0xKrishna.eth 🦇🔊: Had a fun time at @developer_dao meetup at Banglore!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1548342696393129985",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "How to mint random NFTs from your NFT Smart Contract - minting in a random (and not sequential) order. 🧱\nby @developer_dao member @Web3Club ⚡️ https://www.youtube.com/watch?v=WV2cTebHQi8&feature=youtu.be",
-          "link": "https://twitter.com/developer_dao/status/1548342696393129985",
-          "publishedOn": "2022-07-16T16:24:00.000Z",
-          "wordCount": 352,
-          "title": "How to mint random NFTs from your NFT Smart Contract - minting in a random (and not sequential) order. 🧱 by @developer_dao member @Web3Club ⚡️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1548338726673080321",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\ni've got everything in devrel figured out apart from knowing how to take a selfie \nonce i figure this out it's over for y'all",
-          "link": "https://twitter.com/dhaiwat10/status/1548338726673080321",
-          "publishedOn": "2022-07-16T16:08:13.000Z",
-          "wordCount": 352,
-          "title": "RT dhai.eth: i've got everything in devrel figured out apart from knowing how to take a selfie once i figure this out it's over for y'all",
           "imageUrl": null
         },
         {

@@ -1,10 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T06:16:07.757Z</id>
+    <id>urn:2022-07-19T06:15:20.640Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-18T06:16:07.757Z</updated>
+    <updated>2022-07-19T06:15:20.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#33 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/33-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/33-probably-nothing"/>
+        <updated>2022-07-19T05:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Election results and French connections -> Yes oui can]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MANIC PIXIE NIGHTMARE MANLET: the breaking changes to said api every two weeks is just job security bro pls]]></title>
+        <id>https://twitter.com/twicrates/status/1549197978484744192</id>
+        <link href="https://twitter.com/twicrates/status/1549197978484744192"/>
+        <updated>2022-07-19T01:02:35.000Z</updated>
+        <summary type="html"><![CDATA[RT MANIC PIXIE NIGHTMARE MANLET
+the breaking changes to said api every two weeks is just job security bro pls
+Developer DAO (🧱, 🚀): Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to learn but just trust me bro it's 2% faster bro]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to l...]]></title>
+        <id>https://twitter.com/developer_dao/status/1549196877614223360</id>
+        <link href="https://twitter.com/developer_dao/status/1549196877614223360"/>
+        <updated>2022-07-19T00:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to learn but just trust me bro it's 2% faster bro]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1549158314629423104</id>
+        <link href="https://twitter.com/developer_dao/status/1549158314629423104"/>
+        <updated>2022-07-18T22:24:58.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @tonyolendo @dabit3 We're just getting started! 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1549156384293265408</id>
+        <link href="https://twitter.com/developer_dao/status/1549156384293265408"/>
+        <updated>2022-07-18T22:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @tonyolendo @dabit3 We're just getting started! 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT tonyolendo.eth: And to think that we started with a buggy smart contract and a discord server... look at @developer_dao now. Maaaan, it's been a wi...]]></title>
+        <id>https://twitter.com/tonyolendo/status/1549155351823585287</id>
+        <link href="https://twitter.com/tonyolendo/status/1549155351823585287"/>
+        <updated>2022-07-18T22:13:12.000Z</updated>
+        <summary type="html"><![CDATA[RT tonyolendo.eth
+And to think that we started with a buggy smart contract and a discord server... look at @developer_dao now. Maaaan, it's been a wild ride. Also, bless up @dabit3 and the countless people who keep building the most vibrant Web3 community in the world.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: Open invitation to all @developer_dao members to stay at my place if you come here for EthIndia in December 🇮🇳🫶]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1549153462348234752</id>
+        <link href="https://twitter.com/dhaiwat10/status/1549153462348234752"/>
+        <updated>2022-07-18T22:05:41.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+Open invitation to all @developer_dao members to stay at my place if you come here for EthIndia in December 🇮🇳🫶
+dhai.eth: Signed the lease ✍️❤️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ty: If you're a part of @developer_dao were chatting about @balajis's new book: The Network State. Come join!]]></title>
+        <id>https://twitter.com/wise_Tyy/status/1549087309424955392</id>
+        <link href="https://twitter.com/wise_Tyy/status/1549087309424955392"/>
+        <updated>2022-07-18T17:42:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Ty
+If you're a part of @developer_dao were chatting about @balajis's new book: The Network State. Come join!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D_D ~vibesIRL~ happening in Paris 🇫🇷🗼alongside #EthCC this Wednesday (20th) @DuplexParis💃 Register ➡️ good vibes and an open bar all nig...]]></title>
+        <id>https://twitter.com/developer_dao/status/1549065817756770307</id>
+        <link href="https://twitter.com/developer_dao/status/1549065817756770307"/>
+        <updated>2022-07-18T16:17:25.000Z</updated>
+        <summary type="html"><![CDATA[D_D ~vibesIRL~ happening in Paris 🇫🇷🗼alongside #EthCC this Wednesday (20th) @DuplexParis💃
+Register ➡️  
+good vibes and an open bar all night 😎
+Thanks to our sponsors @ArcanaNetwork, @MetisDAO and @klaytn_official for this making the event possible🤝 https://lu.ma/developer-dao-vibes-irl-ethcc-paris-2022]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth: 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. ...]]></title>
+        <id>https://twitter.com/kayprasla/status/1549029471474401282</id>
+        <link href="https://twitter.com/kayprasla/status/1549029471474401282"/>
+        <updated>2022-07-18T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth
+🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. 
+✍️ Here a tutorial for y'all too → https://ankr.hashnode.dev/nft-20-creating-a-soulbound-token]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT alephv.eth: FYI, hustle culture is out. What's cool is sleep maxing, you gotta be sleeping 18 hours a night doing 2 hours of work then having a nap...]]></title>
+        <id>https://twitter.com/alpeh_v/status/1549011577784991746</id>
+        <link href="https://twitter.com/alpeh_v/status/1549011577784991746"/>
+        <updated>2022-07-18T12:41:54.000Z</updated>
+        <summary type="html"><![CDATA[RT alephv.eth
+FYI, hustle culture is out. What's cool is sleep maxing, you gotta be sleeping 18 hours a night doing 2 hours of work then having a nap. You gotta be unable to get out of bed for more than 3 hours, you gotta be prioritizing laying down over meetings. I do this and it's why I win.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Just pushed some new updates to the @nextjs + @LensProtocol starter project. Easiest way ...]]></title>
         <id>https://twitter.com/dabit3/status/1548902620927971328</id>
@@ -54,25 +175,14 @@ gotta get some tshirts and caps too]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Saura 🔜 ImpactIRL: Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao . Best day of the year? ✨✨...]]></title>
+        <title type="html"><![CDATA[RT Saura 🔜 We Impact 💥🤍: Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao . Best day of the y...]]></title>
         <id>https://twitter.com/0xSaura/status/1548764494213545984</id>
         <link href="https://twitter.com/0xSaura/status/1548764494213545984"/>
         <updated>2022-07-17T20:20:04.000Z</updated>
-        <summary type="html"><![CDATA[RT Saura 🔜 ImpactIRL
+        <summary type="html"><![CDATA[RT Saura 🔜 We Impact 💥🤍
 Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao .
 Best day of the year? ✨✨✨
 Ty @dabit3 🥲🥲🥲]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT wolovim.eth: KPIs that count 🤝]]></title>
-        <id>https://twitter.com/wolovim/status/1548692044184444932</id>
-        <link href="https://twitter.com/wolovim/status/1548692044184444932"/>
-        <updated>2022-07-17T15:32:11.000Z</updated>
-        <summary type="html"><![CDATA[RT wolovim.eth
-KPIs that count 🤝]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -89,38 +199,6 @@ I want to follow some new @developer_dao members today. Where ya at?]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @dhaiwat10 @sneha_bb @vibesIRL 🫶]]></title>
-        <id>https://twitter.com/developer_dao/status/1548570083907104768</id>
-        <link href="https://twitter.com/developer_dao/status/1548570083907104768"/>
-        <updated>2022-07-17T07:27:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @dhaiwat10 @sneha_bb @vibesIRL 🫶]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT shrutipanjwani.eth (⚒, 🇮🇳): Women in web3 @developer_dao @vibesIRL 🔥🫶]]></title>
-        <id>https://twitter.com/_shrutipanjwani/status/1548480329807122438</id>
-        <link href="https://twitter.com/_shrutipanjwani/status/1548480329807122438"/>
-        <updated>2022-07-17T01:30:54.000Z</updated>
-        <summary type="html"><![CDATA[RT shrutipanjwani.eth (⚒, 🇮🇳)
-Women in web3 @developer_dao @vibesIRL 🔥🫶]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT alec.eth / imRecruiter.ethᵍᵐ🤠📍🇫🇷EthCC: <3 DD]]></title>
-        <id>https://twitter.com/Chipagosfinest/status/1548452055882182656</id>
-        <link href="https://twitter.com/Chipagosfinest/status/1548452055882182656"/>
-        <updated>2022-07-16T23:38:33.000Z</updated>
-        <summary type="html"><![CDATA[RT alec.eth / imRecruiter.ethᵍᵐ🤠📍🇫🇷EthCC
-<3 DD]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes! ...]]></title>
         <id>https://twitter.com/dabit3/status/1548449624322494464</id>
         <link href="https://twitter.com/dabit3/status/1548449624322494464"/>
@@ -128,53 +206,6 @@ Women in web3 @developer_dao @vibesIRL 🔥🫶]]></summary>
         <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
 I published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes!
 Light Nodes help secure the network and perform data availability sampling (DAS) which is a core innovation of Celestia ⚡️ https://www.youtube.com/watch?v=9uL3jZe4mTY]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: Been wanting to list this out. I know at least one @developer_dao member from each of these countries: 🇮🇳🇺🇸🇬🇧🇺🇦�...]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1548445818029412352</id>
-        <link href="https://twitter.com/dhaiwat10/status/1548445818029412352"/>
-        <updated>2022-07-16T23:13:46.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-Been wanting to list this out. I know at least one @developer_dao member from each of these countries:
-🇮🇳🇺🇸🇬🇧🇺🇦🇩🇪🇫🇷🇳🇱🇮🇩🇸🇬🇳🇿🇦🇺🇦🇹🇰🇪🇵🇰🇹🇷🇦🇪🇿🇦🇨🇳🇷🇴🇸🇦🇷🇺🇨🇴🇻🇪🇨🇱🇧🇷🇦🇷🇵🇪🇨🇦🇹🇹🇪🇸🇵🇹🇳🇬🇮🇪🇱🇰🇮🇹🇵🇱
-36 countries. that's not bad]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Krishna | 0xKrishna.eth 🦇🔊: Had a fun time at @developer_dao meetup at Banglore!]]></title>
-        <id>https://twitter.com/incrypto32/status/1548353562836537344</id>
-        <link href="https://twitter.com/incrypto32/status/1548353562836537344"/>
-        <updated>2022-07-16T17:07:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Krishna | 0xKrishna.eth 🦇🔊
-Had a fun time at @developer_dao meetup at Banglore!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to mint random NFTs from your NFT Smart Contract - minting in a random (and not sequential) order. 🧱 by @developer_dao member @Web3Club ⚡️]]></title>
-        <id>https://twitter.com/developer_dao/status/1548342696393129985</id>
-        <link href="https://twitter.com/developer_dao/status/1548342696393129985"/>
-        <updated>2022-07-16T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[How to mint random NFTs from your NFT Smart Contract - minting in a random (and not sequential) order. 🧱
-by @developer_dao member @Web3Club ⚡️ https://www.youtube.com/watch?v=WV2cTebHQi8&feature=youtu.be]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: i've got everything in devrel figured out apart from knowing how to take a selfie once i figure this out it's over for y'all]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1548338726673080321</id>
-        <link href="https://twitter.com/dhaiwat10/status/1548338726673080321"/>
-        <updated>2022-07-16T16:08:13.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-i've got everything in devrel figured out apart from knowing how to take a selfie 
-once i figure this out it's over for y'all]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
