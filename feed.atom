@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-19T06:15:20.640Z</id>
+    <id>urn:2022-07-20T06:15:20.716Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-19T06:15:20.640Z</updated>
+    <updated>2022-07-20T06:15:20.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @0xcorgis @FarzaTV @farhajmayan @_buildspace 🔥🔥🔥🔥🔥]]></title>
+        <id>https://twitter.com/developer_dao/status/1549536744466440193</id>
+        <link href="https://twitter.com/developer_dao/status/1549536744466440193"/>
+        <updated>2022-07-19T23:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Re @0xcorgis @FarzaTV @farhajmayan @_buildspace 🔥🔥🔥🔥🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT GitHub Education: 🚀 Free education in web 3 is a public good, this is what @ddschoolofcode aims to achieve. Join @IamVickjoe and @ddschoolofcode...]]></title>
+        <id>https://twitter.com/GitHubEducation/status/1549438980181082112</id>
+        <link href="https://twitter.com/GitHubEducation/status/1549438980181082112"/>
+        <updated>2022-07-19T17:00:14.000Z</updated>
+        <summary type="html"><![CDATA[RT GitHub Education
+🚀 Free education in web 3 is a public good, this is what @ddschoolofcode aims to achieve. Join @IamVickjoe and @ddschoolofcode team tomorrow as we talk about their plans for education in web3 ✨ 
+📆 July 20th, at 5 PM (GMT)
+🔗 https://github.co/3vIz4uJ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New edition of Developer DAO newsletter 🧱 Probably Nothing #33 - Election results and French connections -> Yes oui can 🇫🇷]]></title>
+        <id>https://twitter.com/developer_dao/status/1549382445820248066</id>
+        <link href="https://twitter.com/developer_dao/status/1549382445820248066"/>
+        <updated>2022-07-19T13:15:35.000Z</updated>
+        <summary type="html"><![CDATA[New edition of Developer DAO newsletter 🧱
+Probably Nothing #33 - Election results and French connections -> Yes oui can 🇫🇷 https://developerdao.substack.com/p/33-probably-nothing]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[in case you missed it yesterday... 👇 D_D @vibesIRL party tomorrow alongside #EthCC in Paris 🇫🇷 @DuplexParis from 9pm - free entry & open bar ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1549345602596651008</id>
+        <link href="https://twitter.com/developer_dao/status/1549345602596651008"/>
+        <updated>2022-07-19T10:49:11.000Z</updated>
+        <summary type="html"><![CDATA[in case you missed it yesterday... 👇
+D_D @vibesIRL party tomorrow alongside #EthCC in Paris 🇫🇷 @DuplexParis from 9pm - free entry & open bar
+come join us for the good folks, good vibes 😎 and developers dancing 💃
+RSVP 👉
+Developer DAO (🧱, 🚀): D_D ~vibesIRL~ happening in Paris 🇫🇷🗼alongside #EthCC this Wednesday (20th) @DuplexParis💃
+Register ➡️  
+good vibes and an open bar all night 😎
+Thanks to our sponsors @ArcanaNetwork, @MetisDAO and @klaytn_official for this making the event possible🤝
+ https://lu.ma/developer-dao-vibes-irl-ethcc-paris-2022]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Mustafa Al-Bassam 🧱: Are you a weird distributed systems engineer interested in building new tech that's such a departure from old ways of think...]]></title>
+        <id>https://twitter.com/musalbas/status/1549328525987282946</id>
+        <link href="https://twitter.com/musalbas/status/1549328525987282946"/>
+        <updated>2022-07-19T09:41:20.000Z</updated>
+        <summary type="html"><![CDATA[RT Mustafa Al-Bassam 🧱
+Are you a weird distributed systems engineer interested in building new tech that's such a departure from old ways of thinking that it seems like made up nonsense? We're hiring:
+Mustafa Al-Bassam 🧱: @kevinsekniqi @stonecoldpat0 Distributed systems were all made up one day too
+You would have probably also called them nonsense and said everything is just a computer or something]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @androoster_nft We love React 🫶🙇‍♂️]]></title>
+        <id>https://twitter.com/developer_dao/status/1549278098910318592</id>
+        <link href="https://twitter.com/developer_dao/status/1549278098910318592"/>
+        <updated>2022-07-19T06:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @androoster_nft We love React 🫶🙇‍♂️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#33 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/33-probably-nothing</id>
@@ -104,11 +179,11 @@ Thanks to our sponsors @ArcanaNetwork, @MetisDAO and @klaytn_official for this m
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT krinza.eth: 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. ...]]></title>
+        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulb...]]></title>
         <id>https://twitter.com/kayprasla/status/1549029471474401282</id>
         <link href="https://twitter.com/kayprasla/status/1549029471474401282"/>
         <updated>2022-07-18T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[RT krinza.eth
+        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. 
 ✍️ Here a tutorial for y'all too → https://ankr.hashnode.dev/nft-20-creating-a-soulbound-token]]></summary>
         <author>
@@ -163,86 +238,17 @@ Ok, finished the @wagmi_sh + @rainbowdotme kit guide.  Thanks to those that gave
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT dhai.eth: i have gotten like 300 of these stickers printed and i'm gonna give them to ppl i meet for the next 5 months on the road gotta get some t...]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1548789366671040512</id>
-        <link href="https://twitter.com/dhaiwat10/status/1548789366671040512"/>
-        <updated>2022-07-17T21:58:54.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-i have gotten like 300 of these stickers printed and i'm gonna give them to ppl i meet for the next 5 months on the road
-gotta get some tshirts and caps too]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Saura 🔜 We Impact 💥🤍: Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao . Best day of the y...]]></title>
-        <id>https://twitter.com/0xSaura/status/1548764494213545984</id>
-        <link href="https://twitter.com/0xSaura/status/1548764494213545984"/>
-        <updated>2022-07-17T20:20:04.000Z</updated>
-        <summary type="html"><![CDATA[RT Saura 🔜 We Impact 💥🤍
-Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao .
-Best day of the year? ✨✨✨
-Ty @dabit3 🥲🥲🥲]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby.eth: I want to follow some new @developer_dao members today. Where ya at?]]></title>
-        <id>https://twitter.com/pbillingsby_eth/status/1548681755216920576</id>
-        <link href="https://twitter.com/pbillingsby_eth/status/1548681755216920576"/>
-        <updated>2022-07-17T14:51:18.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby.eth
-I want to follow some new @developer_dao members today. Where ya at?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes! ...]]></title>
-        <id>https://twitter.com/dabit3/status/1548449624322494464</id>
-        <link href="https://twitter.com/dabit3/status/1548449624322494464"/>
-        <updated>2022-07-16T23:28:53.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-I published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes!
-Light Nodes help secure the network and perform data availability sampling (DAS) which is a core innovation of Celestia ⚡️ https://www.youtube.com/watch?v=9uL3jZe4mTY]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Madhu Punjabi: Re @BoysClubCrypto no joke, was totally inspired by the podcast you did with @provenauthority that we decided to launch a fully encr...]]></title>
-        <id>https://twitter.com/MadPunjabi/status/1547702492200243203</id>
-        <link href="https://twitter.com/MadPunjabi/status/1547702492200243203"/>
-        <updated>2022-07-14T22:00:03.000Z</updated>
-        <summary type="html"><![CDATA[RT Madhu Punjabi
-Re @BoysClubCrypto no joke, was totally inspired by the podcast you did with @provenauthority that we decided to launch a fully encrypted period tracker. https://www.indiegogo.com/projects/shameless-app-fully-encrypted-period-tracker-app#/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT wolovim.eth: new post ⚡️ use Web3py to perform secure off-chain data lookups]]></title>
-        <id>https://twitter.com/wolovim/status/1547643109542023168</id>
-        <link href="https://twitter.com/wolovim/status/1547643109542023168"/>
-        <updated>2022-07-14T18:04:05.000Z</updated>
-        <summary type="html"><![CDATA[RT wolovim.eth
-new post ⚡️
-use Web3py to perform secure off-chain data lookups https://snakecharmers.ethereum.org/web3-py-patterns-off-chain-lookups/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tranqui.eth 🔆: looking for ppl to help with translation of the hyperstructures essay into: Spanish (✅), Chinese, Swahili, Indonesian, Arabic, F...]]></title>
-        <id>https://twitter.com/0xTranqui/status/1547631988818841600</id>
-        <link href="https://twitter.com/0xTranqui/status/1547631988818841600"/>
-        <updated>2022-07-14T17:19:54.000Z</updated>
-        <summary type="html"><![CDATA[RT tranqui.eth 🔆
-looking for ppl to help with translation of the hyperstructures essay into:
-Spanish (✅), Chinese, Swahili, Indonesian, Arabic, French, Portuguese, German, and more !!!
-if u or someone u know may be interested plz hit me up 🙏🙏
-link to essay: https://jacob.energy/hyperstructures.html]]></summary>
+        <title type="html"><![CDATA[RT 0xcorgis: Happy to be part of Nights and Weekends (N&W)! Planning to go to SF 🌉 for N&W IRL 🌙. Maybe in the 0xcorgi suit 🐶🤷‍♀️ ... @...]]></title>
+        <id>https://twitter.com/0xcorgis/status/1548760466473644033</id>
+        <link href="https://twitter.com/0xcorgis/status/1548760466473644033"/>
+        <updated>2022-07-17T20:04:04.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xcorgis
+Happy to be part of Nights and Weekends (N&W)!  
+Planning to go to SF 🌉  for N&W IRL 🌙.
+Maybe in the 0xcorgi suit 🐶🤷‍♀️ ... 
+@FarzaTV 
+@farhajmayan 
+@_buildspace]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

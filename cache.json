@@ -93,6 +93,66 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1549536744466440193",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @0xcorgis @FarzaTV @farhajmayan @_buildspace 🔥🔥🔥🔥🔥",
+          "link": "https://twitter.com/developer_dao/status/1549536744466440193",
+          "publishedOn": "2022-07-19T23:28:43.000Z",
+          "wordCount": 352,
+          "title": "Re @0xcorgis @FarzaTV @farhajmayan @_buildspace 🔥🔥🔥🔥🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/GitHubEducation/status/1549438980181082112",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT GitHub Education\n🚀 Free education in web 3 is a public good, this is what @ddschoolofcode aims to achieve. Join @IamVickjoe and @ddschoolofcode team tomorrow as we talk about their plans for education in web3 ✨ \n📆 July 20th, at 5 PM (GMT)\n🔗 https://github.co/3vIz4uJ",
+          "link": "https://twitter.com/GitHubEducation/status/1549438980181082112",
+          "publishedOn": "2022-07-19T17:00:14.000Z",
+          "wordCount": 352,
+          "title": "RT GitHub Education: 🚀 Free education in web 3 is a public good, this is what @ddschoolofcode aims to achieve. Join @IamVickjoe and @ddschoolofcode...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549382445820248066",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "New edition of Developer DAO newsletter 🧱\nProbably Nothing #33 - Election results and French connections -> Yes oui can 🇫🇷 https://developerdao.substack.com/p/33-probably-nothing",
+          "link": "https://twitter.com/developer_dao/status/1549382445820248066",
+          "publishedOn": "2022-07-19T13:15:35.000Z",
+          "wordCount": 352,
+          "title": "New edition of Developer DAO newsletter 🧱 Probably Nothing #33 - Election results and French connections -> Yes oui can 🇫🇷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549345602596651008",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "in case you missed it yesterday... 👇\nD_D @vibesIRL party tomorrow alongside #EthCC in Paris 🇫🇷 @DuplexParis from 9pm - free entry & open bar\ncome join us for the good folks, good vibes 😎 and developers dancing 💃\nRSVP 👉\nDeveloper DAO (🧱, 🚀): D_D ~vibesIRL~ happening in Paris 🇫🇷🗼alongside #EthCC this Wednesday (20th) @DuplexParis💃\nRegister ➡️  \ngood vibes and an open bar all night 😎\nThanks to our sponsors @ArcanaNetwork, @MetisDAO and @klaytn_official for this making the event possible🤝\n https://lu.ma/developer-dao-vibes-irl-ethcc-paris-2022",
+          "link": "https://twitter.com/developer_dao/status/1549345602596651008",
+          "publishedOn": "2022-07-19T10:49:11.000Z",
+          "wordCount": 352,
+          "title": "in case you missed it yesterday... 👇 D_D @vibesIRL party tomorrow alongside #EthCC in Paris 🇫🇷 @DuplexParis from 9pm - free entry & open bar ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/musalbas/status/1549328525987282946",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Mustafa Al-Bassam 🧱\nAre you a weird distributed systems engineer interested in building new tech that's such a departure from old ways of thinking that it seems like made up nonsense? We're hiring:\nMustafa Al-Bassam 🧱: @kevinsekniqi @stonecoldpat0 Distributed systems were all made up one day too\nYou would have probably also called them nonsense and said everything is just a computer or something",
+          "link": "https://twitter.com/musalbas/status/1549328525987282946",
+          "publishedOn": "2022-07-19T09:41:20.000Z",
+          "wordCount": 352,
+          "title": "RT Mustafa Al-Bassam 🧱: Are you a weird distributed systems engineer interested in building new tech that's such a departure from old ways of think...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1549278098910318592",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @androoster_nft We love React 🫶🙇‍♂️",
+          "link": "https://twitter.com/developer_dao/status/1549278098910318592",
+          "publishedOn": "2022-07-19T06:20:57.000Z",
+          "wordCount": 352,
+          "title": "Re @androoster_nft We love React 🫶🙇‍♂️",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/twicrates/status/1549197978484744192",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT MANIC PIXIE NIGHTMARE MANLET\nthe breaking changes to said api every two weeks is just job security bro pls\nDeveloper DAO (🧱, 🚀): Bro this React Framework is so good bro you're gonna love it bro just give me 45 minutes to explain the API bro please bro no it takes six months to learn but just trust me bro it's 2% faster bro",
@@ -175,11 +235,11 @@
         {
           "id": "https://twitter.com/kayprasla/status/1549029471474401282",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT krinza.eth\n🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. \n✍️ Here a tutorial for y'all too → https://ankr.hashnode.dev/nft-20-creating-a-soulbound-token",
+          "description": "RT krinza.eth (🧱, 🚀)\n🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. \n✍️ Here a tutorial for y'all too → https://ankr.hashnode.dev/nft-20-creating-a-soulbound-token",
           "link": "https://twitter.com/kayprasla/status/1549029471474401282",
           "publishedOn": "2022-07-18T13:53:00.000Z",
           "wordCount": 352,
-          "title": "RT krinza.eth: 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulbound) token. ...",
+          "title": "RT krinza.eth (🧱, 🚀): 🧩 led a workshop yesterday for @googledevs student communities on turning an ERC-721 NFT into a non-transferable (Soulb...",
           "imageUrl": null
         },
         {
@@ -223,73 +283,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/dhaiwat10/status/1548789366671040512",
+          "id": "https://twitter.com/0xcorgis/status/1548760466473644033",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\ni have gotten like 300 of these stickers printed and i'm gonna give them to ppl i meet for the next 5 months on the road\ngotta get some tshirts and caps too",
-          "link": "https://twitter.com/dhaiwat10/status/1548789366671040512",
-          "publishedOn": "2022-07-17T21:58:54.000Z",
+          "description": "RT 0xcorgis\nHappy to be part of Nights and Weekends (N&W)!  \nPlanning to go to SF 🌉  for N&W IRL 🌙.\nMaybe in the 0xcorgi suit 🐶🤷‍♀️ ... \n@FarzaTV \n@farhajmayan \n@_buildspace",
+          "link": "https://twitter.com/0xcorgis/status/1548760466473644033",
+          "publishedOn": "2022-07-17T20:04:04.000Z",
           "wordCount": 352,
-          "title": "RT dhai.eth: i have gotten like 300 of these stickers printed and i'm gonna give them to ppl i meet for the next 5 months on the road gotta get some t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xSaura/status/1548764494213545984",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Saura 🔜 We Impact 💥🤍\nToday was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao .\nBest day of the year? ✨✨✨\nTy @dabit3 🥲🥲🥲",
-          "link": "https://twitter.com/0xSaura/status/1548764494213545984",
-          "publishedOn": "2022-07-17T20:20:04.000Z",
-          "wordCount": 352,
-          "title": "RT Saura 🔜 We Impact 💥🤍: Today was an amazing day. We won a 4x4 beach volley tournament. And also got into @developer_dao . Best day of the y...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pbillingsby_eth/status/1548681755216920576",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby.eth\nI want to follow some new @developer_dao members today. Where ya at?",
-          "link": "https://twitter.com/pbillingsby_eth/status/1548681755216920576",
-          "publishedOn": "2022-07-17T14:51:18.000Z",
-          "wordCount": 352,
-          "title": "RT pbillingsby.eth: I want to follow some new @developer_dao members today. Where ya at?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1548449624322494464",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nI published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes!\nLight Nodes help secure the network and perform data availability sampling (DAS) which is a core innovation of Celestia ⚡️ https://www.youtube.com/watch?v=9uL3jZe4mTY",
-          "link": "https://twitter.com/dabit3/status/1548449624322494464",
-          "publishedOn": "2022-07-16T23:28:53.000Z",
-          "wordCount": 352,
-          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I published a video showing how to run a @CelestiaOrg Light Node in less than 5 minutes! ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MadPunjabi/status/1547702492200243203",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Madhu Punjabi\nRe @BoysClubCrypto no joke, was totally inspired by the podcast you did with @provenauthority that we decided to launch a fully encrypted period tracker. https://www.indiegogo.com/projects/shameless-app-fully-encrypted-period-tracker-app#/",
-          "link": "https://twitter.com/MadPunjabi/status/1547702492200243203",
-          "publishedOn": "2022-07-14T22:00:03.000Z",
-          "wordCount": 352,
-          "title": "RT Madhu Punjabi: Re @BoysClubCrypto no joke, was totally inspired by the podcast you did with @provenauthority that we decided to launch a fully encr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wolovim/status/1547643109542023168",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT wolovim.eth\nnew post ⚡️\nuse Web3py to perform secure off-chain data lookups https://snakecharmers.ethereum.org/web3-py-patterns-off-chain-lookups/",
-          "link": "https://twitter.com/wolovim/status/1547643109542023168",
-          "publishedOn": "2022-07-14T18:04:05.000Z",
-          "wordCount": 352,
-          "title": "RT wolovim.eth: new post ⚡️ use Web3py to perform secure off-chain data lookups",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xTranqui/status/1547631988818841600",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tranqui.eth 🔆\nlooking for ppl to help with translation of the hyperstructures essay into:\nSpanish (✅), Chinese, Swahili, Indonesian, Arabic, French, Portuguese, German, and more !!!\nif u or someone u know may be interested plz hit me up 🙏🙏\nlink to essay: https://jacob.energy/hyperstructures.html",
-          "link": "https://twitter.com/0xTranqui/status/1547631988818841600",
-          "publishedOn": "2022-07-14T17:19:54.000Z",
-          "wordCount": 352,
-          "title": "RT tranqui.eth 🔆: looking for ppl to help with translation of the hyperstructures essay into: Spanish (✅), Chinese, Swahili, Indonesian, Arabic, F...",
+          "title": "RT 0xcorgis: Happy to be part of Nights and Weekends (N&W)! Planning to go to SF 🌉 for N&W IRL 🌙. Maybe in the 0xcorgi suit 🐶🤷‍♀️ ... @...",
           "imageUrl": null
         }
       ]
