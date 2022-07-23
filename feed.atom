@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T06:15:40.484Z</id>
+    <id>urn:2022-07-23T06:14:00.570Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-22T06:15:40.484Z</updated>
+    <updated>2022-07-23T06:14:00.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! We had another awesome #DevNTell today with DAO member @DawsonBotsford presenting his project Essential...]]></title>
+        <id>https://twitter.com/narb_s/status/1550568975859273729</id>
+        <link href="https://twitter.com/narb_s/status/1550568975859273729"/>
+        <updated>2022-07-22T19:50:26.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+gm @developer_dao frens!  We had another awesome #DevNTell today with DAO member @DawsonBotsford presenting his project Essential Eth🚀
+If you're a #web3 dev woking in the #Ethereum ecosystem you're definitely going to want to check this framework out 🤯 https://youtu.be/z_pFBXTr5RE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nazeeh.eth: We are organizing the @developer_dao meetup sponsored by @EnticeCoin in Vadodara on 31 July. If you are in Vadodara on 31, let's catch ...]]></title>
+        <id>https://twitter.com/Nazeeh21/status/1550561212638892033</id>
+        <link href="https://twitter.com/Nazeeh21/status/1550561212638892033"/>
+        <updated>2022-07-22T19:19:35.000Z</updated>
+        <summary type="html"><![CDATA[RT nazeeh.eth
+We are organizing the @developer_dao meetup sponsored by @EnticeCoin  in Vadodara on 31 July. If you are in Vadodara on 31, let's catch up.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[it's always gm somewhere never a bad time to say gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1550538545773019136</id>
+        <link href="https://twitter.com/developer_dao/status/1550538545773019136"/>
+        <updated>2022-07-22T17:49:31.000Z</updated>
+        <summary type="html"><![CDATA[it's always gm somewhere
+never a bad time to say gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: hanging out in @developer_dao discord listening to @DawsonBotsford chat through his new library 👉�...]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1550498424809742337</id>
+        <link href="https://twitter.com/kempsterrrr/status/1550498424809742337"/>
+        <updated>2022-07-22T15:10:05.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ
+hanging out in @developer_dao discord listening to @DawsonBotsford chat through his new library 👉🏻 https://github.com/Earnifi/essential-eth]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀): Heyy @developer_dao members 👋 hit my DMs if you are in Dubai, we are having a web3 meetup tomorrow 👀]]></title>
+        <id>https://twitter.com/Mardeni01/status/1550471413303222272</id>
+        <link href="https://twitter.com/Mardeni01/status/1550471413303222272"/>
+        <updated>2022-07-22T13:22:45.000Z</updated>
+        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀)
+Heyy @developer_dao members 👋 hit my DMs if you are in Dubai, we are having a web3 meetup tomorrow 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT dhai.eth 🤠 📍 🇦🇪: We need to start tracking how many devs we are onboarding to web3 at @developer_dao Pretty sure we have managed to get...]]></title>
         <id>https://twitter.com/dhaiwat10/status/1550147245261078529</id>
@@ -65,7 +121,10 @@ It was great to meet some other @developer_dao members in NYC and discuss #Web3 
         <updated>2022-07-20T22:28:15.000Z</updated>
         <summary type="html"><![CDATA[help our frens @SpruceID improve Sign-in with Ethereum by dropping some feedback in the form below.
 they're doing the lords work for the ecosystem 🤝
-no PII required, just a few mins of your time]]></summary>
+no PII required, just a few mins of your time
+Spruce: We're conducting general research on how developers build dapps - specifically to learn more about how we can best support Sign-In with Ethereum development.
+If you are a developer and have 3-5 minutes - we'd love to hear your feedback:
+ https://forms.gle/L8jpMjVtVBk4i5HV8]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -75,7 +134,10 @@ no PII required, just a few mins of your time]]></summary>
         <id>https://twitter.com/developer_dao/status/1549803863506649095</id>
         <link href="https://twitter.com/developer_dao/status/1549803863506649095"/>
         <updated>2022-07-20T17:10:09.000Z</updated>
-        <summary type="html"><![CDATA[This kicking off now - go check out the awesome work the @ddschoolofcode team are doing for free open education 👑]]></summary>
+        <summary type="html"><![CDATA[This kicking off now - go check out the awesome work the @ddschoolofcode team are doing for free open education 👑
+D_D School Of Code: Join us with @IamVickjoe to discuss the future of web3 education, community and public goods on July 20th at 5 PM UTC 🗓 
+We will be dropping some alpha for folks tuning in to this so hope to see y’all there 👀
+ https://m.twitch.tv/githubeducation/schedule]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -129,24 +191,16 @@ if you're a product/protocol/service that wants distribution to 1000s of develop
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[still some spots left for D_D @vibesIRL in Paris 🇫🇷 tonight alongside #ETHCC5 👀 get em whilst you can... ➡️]]></title>
-        <id>https://twitter.com/developer_dao/status/1549719286276571136</id>
-        <link href="https://twitter.com/developer_dao/status/1549719286276571136"/>
-        <updated>2022-07-20T11:34:04.000Z</updated>
-        <summary type="html"><![CDATA[still some spots left for D_D @vibesIRL in Paris 🇫🇷 tonight alongside #ETHCC5 👀
-get em whilst you can... ➡️ https://lu.ma/developer-dao-vibes-irl-ethcc-paris-2022]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Austin Griffith: 📽 catch me rapping about how to quickly prototype decentralized apps! ⌚️1:30 in Bievre room]]></title>
         <id>https://twitter.com/austingriffith/status/1549707956958158848</id>
         <link href="https://twitter.com/austingriffith/status/1549707956958158848"/>
         <updated>2022-07-20T10:49:03.000Z</updated>
         <summary type="html"><![CDATA[RT Austin Griffith
 📽 catch me rapping about how to quickly prototype decentralized apps!
-⌚️1:30 in Bievre room]]></summary>
+⌚️1:30 in Bievre room
+EthCC - Ethereum Community Conference: 🎤 #EthCC Speakers 🎤
+@austingriffith from @ethereum will speak about "🛠 Building Decentralized Apps"
+💙🤍❤️]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -171,27 +225,6 @@ just the foundations you need to get building 🔨 https://ankr.hashnode.dev/g
         <updated>2022-07-20T02:12:43.000Z</updated>
         <summary type="html"><![CDATA[RT pbillingsby.eth
 I’ve had more insightful conversations in the @developer_dao discord than anywhere else in my life. 10/10 would recommend.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xcorgis @FarzaTV @farhajmayan @_buildspace 🔥🔥🔥🔥🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1549536744466440193</id>
-        <link href="https://twitter.com/developer_dao/status/1549536744466440193"/>
-        <updated>2022-07-19T23:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xcorgis @FarzaTV @farhajmayan @_buildspace 🔥🔥🔥🔥🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Manny (🧱,🚀): I know what I'm doing this weekend 👏 @dhaiwat10]]></title>
-        <id>https://twitter.com/codingwithmanny/status/1549522181675155456</id>
-        <link href="https://twitter.com/codingwithmanny/status/1549522181675155456"/>
-        <updated>2022-07-19T22:30:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Manny (🧱,🚀)
-I know what I'm doing this weekend 👏 @dhaiwat10 https://ankr.hashnode.dev/getting-started-with-lens-protocol-as-a-frontend-developer]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
