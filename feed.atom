@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T06:13:58.130Z</id>
+    <id>urn:2022-07-25T06:15:41.528Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-24T06:13:58.130Z</updated>
+    <updated>2022-07-25T06:15:41.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Olia Nayda | eglote.com (🧱, 🚀): Eglote team renewed with top professionals from @developer_dao. Thank you D_D for being so Awesome. Thanks Ni...]]></title>
+        <id>https://twitter.com/olianayda/status/1551237144865390593</id>
+        <link href="https://twitter.com/olianayda/status/1551237144865390593"/>
+        <updated>2022-07-24T16:05:30.000Z</updated>
+        <summary type="html"><![CDATA[RT Olia Nayda | eglote.com (🧱, 🚀)
+Eglote team renewed with top professionals from @developer_dao. Thank you D_D for being so Awesome. Thanks Nicolas and David for joining the team]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @me256ow @devdaowomen 💙]]></title>
+        <id>https://twitter.com/developer_dao/status/1551219886034231302</id>
+        <link href="https://twitter.com/developer_dao/status/1551219886034231302"/>
+        <updated>2022-07-24T14:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @me256ow @devdaowomen 💙]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Suhail Kakar: Lens.js coming soon 🌿 A JavaScript SDK / API wrapper for @LensProtocol that allows you to create any kind of Web3 social media app...]]></title>
+        <id>https://twitter.com/SuhailKakar/status/1551184691247861760</id>
+        <link href="https://twitter.com/SuhailKakar/status/1551184691247861760"/>
+        <updated>2022-07-24T12:37:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Suhail Kakar
+Lens.js coming soon 🌿
+A JavaScript SDK / API wrapper for @LensProtocol  that allows you to create any kind of Web3 social media apps quickly and easily]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Octavian Voss: Hi everyone! I'd like to introduce Envoy. @web3envoy is a friendly bot that connects the web3 community. At the moment, Twitter is t...]]></title>
+        <id>https://twitter.com/octavianvoss/status/1551056157699186689</id>
+        <link href="https://twitter.com/octavianvoss/status/1551056157699186689"/>
+        <updated>2022-07-24T04:06:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Octavian Voss
+Hi everyone!
+I'd like to introduce Envoy.
+@web3envoy is a friendly bot that connects the web3 community.
+At the moment, Twitter is the town hall of most things web3 — and what could be a better place to look for new teammates and opportunities than right here.
+🧶👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Learned more about @fuellabs_ after meeting @IAmNickDodson, some points: 1. Blazing fast ...]]></title>
         <id>https://twitter.com/dabit3/status/1550999040707502088</id>
@@ -169,57 +217,12 @@ Vouches/rts are appreciated 🙏🏼💯]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: gm @developer_dao frens! We had another awesome #DevNTell today with DAO member @DawsonBotsford presenting his project Essential...]]></title>
-        <id>https://twitter.com/narb_s/status/1550568975859273729</id>
-        <link href="https://twitter.com/narb_s/status/1550568975859273729"/>
-        <updated>2022-07-22T19:50:26.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-gm @developer_dao frens!  We had another awesome #DevNTell today with DAO member @DawsonBotsford presenting his project Essential Eth🚀
-If you're a #web3 dev woking in the #Ethereum ecosystem you're definitely going to want to check this framework out 🤯 https://youtu.be/z_pFBXTr5RE]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT nazeeh.eth: We are organizing the @developer_dao meetup sponsored by @EnticeCoin in Vadodara on 31 July. If you are in Vadodara on 31, let's catch ...]]></title>
         <id>https://twitter.com/Nazeeh21/status/1550561212638892033</id>
         <link href="https://twitter.com/Nazeeh21/status/1550561212638892033"/>
         <updated>2022-07-22T19:19:35.000Z</updated>
         <summary type="html"><![CDATA[RT nazeeh.eth
 We are organizing the @developer_dao meetup sponsored by @EnticeCoin  in Vadodara on 31 July. If you are in Vadodara on 31, let's catch up.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[it's always gm somewhere never a bad time to say gm]]></title>
-        <id>https://twitter.com/developer_dao/status/1550538545773019136</id>
-        <link href="https://twitter.com/developer_dao/status/1550538545773019136"/>
-        <updated>2022-07-22T17:49:31.000Z</updated>
-        <summary type="html"><![CDATA[it's always gm somewhere
-never a bad time to say gm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: hanging out in @developer_dao discord listening to @DawsonBotsford chat through his new library 👉�...]]></title>
-        <id>https://twitter.com/kempsterrrr/status/1550498424809742337</id>
-        <link href="https://twitter.com/kempsterrrr/status/1550498424809742337"/>
-        <updated>2022-07-22T15:10:05.000Z</updated>
-        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ
-hanging out in @developer_dao discord listening to @DawsonBotsford chat through his new library 👉🏻 https://github.com/Earnifi/essential-eth]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀): Heyy @developer_dao members 👋 hit my DMs if you are in Dubai, we are having a web3 meetup tomorrow 👀]]></title>
-        <id>https://twitter.com/Mardeni01/status/1550471413303222272</id>
-        <link href="https://twitter.com/Mardeni01/status/1550471413303222272"/>
-        <updated>2022-07-22T13:22:45.000Z</updated>
-        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀)
-Heyy @developer_dao members 👋 hit my DMs if you are in Dubai, we are having a web3 meetup tomorrow 👀]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -248,11 +251,11 @@ recording: https://docs.google.com/presentation/d/1AuQojnFMkozOiR8kDu5LlWT7vv1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Thorne 🌸 ens0.eth: New post on the @smolfarm Substack! What the Heck is a Smart Contract? web3 veterans typically understand what these are well...]]></title>
+        <title type="html"><![CDATA[RT Thorne 🌸: New post on the @smolfarm Substack! What the Heck is a Smart Contract? web3 veterans typically understand what these are well, but it ...]]></title>
         <id>https://twitter.com/ExistentialEnso/status/1548768804846567424</id>
         <link href="https://twitter.com/ExistentialEnso/status/1548768804846567424"/>
         <updated>2022-07-17T20:37:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Thorne 🌸 ens0.eth
+        <summary type="html"><![CDATA[RT Thorne 🌸
 New post on the @smolfarm Substack!
 What the Heck is a Smart Contract?
 web3 veterans typically understand what these are well, but it can be a confusing concept for newcomers. https://smol.news/p/what-the-heck-is-a-smart-contract]]></summary>
