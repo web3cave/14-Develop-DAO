@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/34-probably-nothing",
+          "author": "myz1237",
+          "description": "Surviving summer with frens",
+          "link": "https://developerdao.substack.com/p/34-probably-nothing",
+          "publishedOn": "2022-07-26T17:36:45.000Z",
+          "wordCount": null,
+          "title": "#34 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd1e7c9e-6e76-4de8-a3d3-f5325229cde2_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd1e7c9e-6e76-4de8-a3d3-f5325229cde2_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/33-probably-nothing",
           "author": "Colin4ward",
           "description": "Election results and French connections -> Yes oui can",
@@ -76,6 +92,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/0xcorgis/status/1552050623826210816",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT 0xcorgis\nMaking progress... now support your favorite nfts as study buddies or learning guides to web3!\ntrying to improve 1% better each day \nwhat nft project should we support next?\ncc @_buildspace \n@developer_dao \n@dabit3 \n@FarzaTV \n@narb_s \n@alec_dilanchian \n@ser_ando",
+          "link": "https://twitter.com/0xcorgis/status/1552050623826210816",
+          "publishedOn": "2022-07-26T21:57:59.000Z",
+          "wordCount": 383,
+          "title": "RT 0xcorgis: Making progress... now support your favorite nfts as study buddies or learning guides to web3! trying to improve 1% better each day what ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1552041330208940032",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "this is what u look like asking around for testnet tokens on random discords",
+          "link": "https://twitter.com/developer_dao/status/1552041330208940032",
+          "publishedOn": "2022-07-26T21:21:03.000Z",
+          "wordCount": 383,
+          "title": "this is what u look like asking around for testnet tokens on random discords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dazuck/status/1551958716173402112",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Danny | Ceramic\nToday we published our vision for the Dataverse: a composable, web-scale data ecosystem owned by everyone and no one. \nWe've discussed this vision internally @3boxlabs for years and @somemikesena brought it to life beautifully in this post. A summary👇 https://twitter.com/ceramicnetwork/status/1551958409456623617",
+          "link": "https://twitter.com/dazuck/status/1551958716173402112",
+          "publishedOn": "2022-07-26T15:52:46.000Z",
+          "wordCount": 383,
+          "title": "RT Danny | Ceramic: Today we published our vision for the Dataverse: a composable, web-scale data ecosystem owned by everyone and no one. We've discus...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1551914984904560641",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Build a Decentralized Social Network with Reactjs, TailwindCSS & @LensProtocol ✨\nby @developer_dao member @olanetsoft 🌿 https://blog.idrisolubisi.com/build-a-decentralized-social-network-with-reactjs-tailwindcss-lens-protocol",
+          "link": "https://twitter.com/developer_dao/status/1551914984904560641",
+          "publishedOn": "2022-07-26T12:59:00.000Z",
+          "wordCount": 383,
+          "title": "Build a Decentralized Social Network with Reactjs, TailwindCSS & @LensProtocol ✨ by @developer_dao member @olanetsoft 🌿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/peduarte/status/1551872348818735104",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ped.eth\nnew rainbowkit video 🌈 📺\n\"Build an NFT Minting Site with wagmi\"\n· connected state → `useAccount`\n· fast TTOW → `usePrepareContractWrite`\n· mint → `useContractWrite`\n· transaction state → `useWaitForTransaction`\n· read contract → `useContractRead` https://youtu.be/YnxyVpE6PIE",
+          "link": "https://twitter.com/peduarte/status/1551872348818735104",
+          "publishedOn": "2022-07-26T10:09:35.000Z",
+          "wordCount": 383,
+          "title": "RT ped.eth: new rainbowkit video 🌈 📺 \"Build an NFT Minting Site with wagmi\" · connected state → `useAccount` · fast TTOW → `usePrepareContra...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/nutlope/status/1551747889545629697",
           "author": "Developer DAO (🧱, 🚀)",
@@ -149,7 +215,7 @@
         {
           "id": "https://twitter.com/camiinthisthang/status/1551620551562563585",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Cami\nThis open source course walks you through building an event creation & management platform. You'll learn how to build with all the faves rn:\n@0xPolygon\n@rainbowdotme \n@Web3Storage \n@graphprotocol \n@nextjs \n@radicle \n@infura_io \nPreview the course:\nWBW3 💖🚀: #30DaysOfWeb3 is finally here! This free course walks devs through the architecture of building a fullstack dapp, beginning to end. \n- Workshops from top devs\n- Available in English & Spanish\n- Office hours\n- $130K accelerator \nRegister for our cohort 👇\n https://www.30daysofweb3.xyz/",
+          "description": "RT Cami\nThis open source course walks you through building an event creation & management platform. You'll learn how to build with all the faves rn:\n@0xPolygon\n@rainbowdotme \n@Web3Storage \n@graphprotocol \n@nextjs \n@radicle \n@infura_io \nPreview the course: https://www.30daysofweb3.xyz/preview",
           "link": "https://twitter.com/camiinthisthang/status/1551620551562563585",
           "publishedOn": "2022-07-25T17:29:01.000Z",
           "wordCount": 383,
@@ -177,16 +243,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1551588888589869056",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Into the Dataverse 🪐🔭\nA future where everyone in the world is building applications on the same networked, composable data layer via @ceramicnetwork ✨ https://blog.ceramic.network/into-the-dataverse/",
-          "link": "https://twitter.com/developer_dao/status/1551588888589869056",
-          "publishedOn": "2022-07-25T15:23:12.000Z",
-          "wordCount": 383,
-          "title": "Into the Dataverse 🪐🔭 A future where everyone in the world is building applications on the same networked, composable data layer via @ceramicnet...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/Nazeeh21/status/1551563317927346176",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT nazeeh.eth\nPublished an article illustrating how to write and deploy Smart Contracts Using Foundry & @thirdweb_ \n#web3 #smartcontracts #ethereum @hashnode https://nazeeh.hashnode.dev/writing-and-deploying-smart-contracts-using-foundry-thirdweb-deploy",
@@ -194,56 +250,6 @@
           "publishedOn": "2022-07-25T13:41:36.000Z",
           "wordCount": 383,
           "title": "RT nazeeh.eth: Published an article illustrating how to write and deploy Smart Contracts Using Foundry & @thirdweb_ #web3 #smartcontracts #ethereum @h...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1551550860903186433",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @kempsterrrr @getP3RKS 🫡",
-          "link": "https://twitter.com/developer_dao/status/1551550860903186433",
-          "publishedOn": "2022-07-25T12:52:06.000Z",
-          "wordCount": 383,
-          "title": "Re @kempsterrrr @getP3RKS 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1551550342613065729",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "gm 🔆 what are we shipping this week?",
-          "link": "https://twitter.com/developer_dao/status/1551550342613065729",
-          "publishedOn": "2022-07-25T12:50:02.000Z",
-          "wordCount": 383,
-          "title": "gm 🔆 what are we shipping this week?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kempsterrrr/status/1551549574652858368",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ\n.@dhaiwat10 has officially made it",
-          "link": "https://twitter.com/kempsterrrr/status/1551549574652858368",
-          "publishedOn": "2022-07-25T12:46:59.000Z",
-          "wordCount": 383,
-          "title": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: .@dhaiwat10 has officially made it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CodingMage/status/1551522142868602880",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Urek | the25thbamm.eth\nGot my @web3con by @developer_dao swag today 🙂.",
-          "link": "https://twitter.com/CodingMage/status/1551522142868602880",
-          "publishedOn": "2022-07-25T10:57:59.000Z",
-          "wordCount": 383,
-          "title": "RT Urek | the25thbamm.eth: Got my @web3con by @developer_dao swag today 🙂.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SuhailKakar/status/1551184691247861760",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Suhail Kakar\nLens.js coming soon 🌿\nA JavaScript SDK / API wrapper for @LensProtocol  that allows you to create any kind of Web3 social media apps quickly and easily",
-          "link": "https://twitter.com/SuhailKakar/status/1551184691247861760",
-          "publishedOn": "2022-07-24T12:37:04.000Z",
-          "wordCount": 383,
-          "title": "RT Suhail Kakar: Lens.js coming soon 🌿 A JavaScript SDK / API wrapper for @LensProtocol that allows you to create any kind of Web3 social media app...",
           "imageUrl": null
         },
         {
@@ -259,21 +265,11 @@
         {
           "id": "https://twitter.com/token_trees/status/1549449762079854592",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Token Trees NFT\nWhat are #TokenTrees NFTs you ask? A 🧵\nOur Python Dapp scans all the erc721 tokens in your Eth wallet. We use @infura_io to get a bunch of data including all the TokenIds, NFT contract addresses and fromAddresses. Then the Turtle algorithms go into beaver mode. 1/n\nToken Trees NFT: Beautiful upright tree with complimenting foilage and roots, minted by @MZKZxyz!",
+          "description": "RT Token Trees NFT\nWhat are #TokenTrees NFTs you ask? A 🧵\nOur Python Dapp scans all the erc721 tokens in your Eth wallet. We use @infura_io to get a bunch of data including all the TokenIds, NFT contract addresses and fromAddresses. Then the Turtle algorithms go into beaver mode. 1/n",
           "link": "https://twitter.com/token_trees/status/1549449762079854592",
           "publishedOn": "2022-07-19T17:43:05.000Z",
           "wordCount": 383,
           "title": "RT Token Trees NFT: What are #TokenTrees NFTs you ask? A 🧵 Our Python Dapp scans all the erc721 tokens in your Eth wallet. We use @infura_io to get...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/olanetsoft/status/1549354021261086721",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT I D R I S 💙\n📢Announcing 👉Hack The Mara 2022\nDo you have what it takes to build the decentralized future of Africa?\nThis is your opportunity to build De-Fi solutions that can serve anyone\nSpend a week hacking in Kenya's Masai Mara Nature Reserve & stand a chance to win $100,000 in prizes\nMara: 📢Announcing…Hack The Mara 2022!\nDo you have what it takes to build the decentralised future of Africa 🚀\nThis is your opportunity to build De-Fi solutions that can serve anyone, anywhere, no matter how remote.",
-          "link": "https://twitter.com/olanetsoft/status/1549354021261086721",
-          "publishedOn": "2022-07-19T11:22:38.000Z",
-          "wordCount": 383,
-          "title": "RT I D R I S 💙: 📢Announcing 👉Hack The Mara 2022 Do you have what it takes to build the decentralized future of Africa? This is your opportuni...",
           "imageUrl": null
         }
       ]
