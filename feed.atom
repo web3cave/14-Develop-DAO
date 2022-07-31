@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T06:13:27.473Z</id>
+    <id>urn:2022-07-31T06:13:37.961Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-30T06:13:27.473Z</updated>
+    <updated>2022-07-31T06:13:37.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nazeeh.eth: We’re organising a small @developer_dao meetup in vadodara today, so if you are around then let’s catch up]]></title>
+        <id>https://twitter.com/Nazeeh21/status/1553584460162994176</id>
+        <link href="https://twitter.com/Nazeeh21/status/1553584460162994176"/>
+        <updated>2022-07-31T03:32:54.000Z</updated>
+        <summary type="html"><![CDATA[RT nazeeh.eth
+We’re organising a small @developer_dao meetup in vadodara today, so if you are around then let’s catch up]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Suhail Kakar: Introducing Lens.js 🌿 Lens.js is an open source JavaScript SDK or API wrapper for @LensProtocol that allows you to create any kind...]]></title>
+        <id>https://twitter.com/SuhailKakar/status/1553403037074575361</id>
+        <link href="https://twitter.com/SuhailKakar/status/1553403037074575361"/>
+        <updated>2022-07-30T15:31:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Suhail Kakar
+Introducing Lens.js 🌿
+Lens.js is an open source JavaScript SDK or API wrapper for @LensProtocol that allows you to create any kind of social media apps quickly and easily. 
+GitHub and docs links below  ↓]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Zile: Just published my first article on smart contract development! Read it here: Only started this summer but learned a lot through tutorials by ...]]></title>
         <id>https://twitter.com/zile_cao/status/1553197417482588161</id>
@@ -15,6 +39,18 @@ Just published my first article on smart contract development! Read it here:
 Only started this summer but learned a lot through tutorials by @dabit3 @codeSTACKr @Jeffdelaney23 give them a follow!
 Cheers and go light! 😅
 #web3 #phygital #smartcontracts https://medium.com/bridxe/the-full-guide-on-how-to-develop-and-deploy-a-simple-escrow-marketplace-smart-contract-ab3e25919f75]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kklas: Interested in learning how smart contract programming on Solana works? This article I've just published has you covered It's aimed at devs w...]]></title>
+        <id>https://twitter.com/kklas_/status/1553133625264472064</id>
+        <link href="https://twitter.com/kklas_/status/1553133625264472064"/>
+        <updated>2022-07-29T21:41:26.000Z</updated>
+        <summary type="html"><![CDATA[RT kklas
+Interested in learning how smart contract programming on Solana works? This article I've just published has you covered 
+It's aimed at devs with no Solana smart contract experience and covers all the important concepts to get you started! https://medium.com/@kklas/solana-for-non-smart-contract-developers-7ef4e419afef]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -129,21 +165,6 @@ Special thanks to @wise_Tyy for the onboarding call and for guiding me through t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT tr3butor | web3-native talent platform: What do tr3butor & @DeveloperDAO have in common? - Focus on helping web3 builders to strive and flourish - ...]]></title>
-        <id>https://twitter.com/tr3butor/status/1553055519220318209</id>
-        <link href="https://twitter.com/tr3butor/status/1553055519220318209"/>
-        <updated>2022-07-29T16:31:04.000Z</updated>
-        <summary type="html"><![CDATA[RT tr3butor | web3-native talent platform
-What do tr3butor & @DeveloperDAO have in common? 
-- Focus on helping web3 builders to strive and flourish
-- Community-centric approach to building things
-- Free-to-mint NFTs to bootstrap the community
-Today we're whitelisting DD's holders for the Contributor OAT 👇👇👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Cami: If you’re one of the 728485 companies trying to hire for dev rel, I have 2 amazing candidates who are looking to leave their company. I wann...]]></title>
         <id>https://twitter.com/camiinthisthang/status/1553045853576654848</id>
         <link href="https://twitter.com/camiinthisthang/status/1553045853576654848"/>
@@ -182,48 +203,14 @@ link bellow 👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】🔴 🗽: web3 has the potential to revolutionize how we think about philanthropy and...]]></title>
+        <title type="html"><![CDATA[RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽: web3 has the potential to revolutionize how we think about philanthropy an...]]></title>
         <id>https://twitter.com/notscottmoore/status/1553014093765873665</id>
         <link href="https://twitter.com/notscottmoore/status/1553014093765873665"/>
         <updated>2022-07-29T13:46:28.000Z</updated>
-        <summary type="html"><![CDATA[RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】🔴 🗽
+        <summary type="html"><![CDATA[RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽
 web3 has the potential to revolutionize how we think about philanthropy
 and although they're in their infancy, we're just starting to get a glimpse of the kinds of public goods impact DAOs could help fund
 huge thanks to @NRaemont for writing this piece! https://www.cnet.com/personal-finance/crypto/the-future-of-philanthropy-could-be-on-the-blockchain/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to implement a `mint` function in your NFT contract? by @developer_dao member @w1nt3r_eth 🌿 Simple and straightforward overview of how to enhan...]]></title>
-        <id>https://twitter.com/developer_dao/status/1552997004862693378</id>
-        <link href="https://twitter.com/developer_dao/status/1552997004862693378"/>
-        <updated>2022-07-29T12:38:33.000Z</updated>
-        <summary type="html"><![CDATA[How to implement a `mint` function in your NFT contract? by @developer_dao member @w1nt3r_eth 🌿
-Simple and straightforward overview of how to enhance an ERC721 contract with additional features and functionality 🦾 https://mirror.xyz/w1nt3r.eth/tagu5P67bAtk1EhQFp2a6ECJrVvVqz1DCDHDmohGnW0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Hyperstructures - crypto protocols that can run for free and forever, without maintenance...]]></title>
-        <id>https://twitter.com/dabit3/status/1552984200982167553</id>
-        <link href="https://twitter.com/dabit3/status/1552984200982167553"/>
-        <updated>2022-07-29T11:47:41.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-Hyperstructures - crypto protocols that can run for free and forever, without maintenance, interruption, or intermediaries.
-Hyperapps - permanent and indestructible client-side applications built on the permaweb, a hyperstructure enabled by @ArweaveTeam. http://arweave.net/UfF_u1-ghCZ7LIwXcQ-hcDSkH06UsSaHfnrD88zsBxI/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀) 📍🇦🇪: .@MessariCrypto has published a report titled "State of @graphprotocol Q2 2022". Here is my personal insight an...]]></title>
-        <id>https://twitter.com/Mardeni01/status/1552977221849174016</id>
-        <link href="https://twitter.com/Mardeni01/status/1552977221849174016"/>
-        <updated>2022-07-29T11:19:57.000Z</updated>
-        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀) 📍🇦🇪
-.@MessariCrypto has published a report titled "State of @graphprotocol  Q2 2022". Here is my personal insight and some stats 🧵👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -248,22 +235,6 @@ Had an amazing meeting with🌱 `Soil` Team🌱. We are working faster and effec
         <summary type="html"><![CDATA[Surviving summer with frens]]></summary>
         <author>
             <name>myz1237</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tr3butor | web3-native talent platform: 💥 Today we launch 'The NFT you can't buy'💥 No VC allocations. No influencer shills. It needs to be ea...]]></title>
-        <id>https://twitter.com/tr3butor/status/1550519465347108866</id>
-        <link href="https://twitter.com/tr3butor/status/1550519465347108866"/>
-        <updated>2022-07-22T16:33:42.000Z</updated>
-        <summary type="html"><![CDATA[RT tr3butor | web3-native talent platform
-💥 Today we launch 'The NFT you can't buy'💥
-No VC allocations.
-No influencer shills.
-It needs to be earned.
-Are you a web3 builder? 👷
-Then you probably already qualify 👇👇👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>

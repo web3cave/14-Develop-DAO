@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/Nazeeh21/status/1553584460162994176",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nazeeh.eth\nWe’re organising a small @developer_dao meetup in vadodara today, so if you are around then let’s catch up",
+          "link": "https://twitter.com/Nazeeh21/status/1553584460162994176",
+          "publishedOn": "2022-07-31T03:32:54.000Z",
+          "wordCount": 382,
+          "title": "RT nazeeh.eth: We’re organising a small @developer_dao meetup in vadodara today, so if you are around then let’s catch up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SuhailKakar/status/1553403037074575361",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Suhail Kakar\nIntroducing Lens.js 🌿\nLens.js is an open source JavaScript SDK or API wrapper for @LensProtocol that allows you to create any kind of social media apps quickly and easily. \nGitHub and docs links below  ↓",
+          "link": "https://twitter.com/SuhailKakar/status/1553403037074575361",
+          "publishedOn": "2022-07-30T15:31:59.000Z",
+          "wordCount": 382,
+          "title": "RT Suhail Kakar: Introducing Lens.js 🌿 Lens.js is an open source JavaScript SDK or API wrapper for @LensProtocol that allows you to create any kind...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/zile_cao/status/1553197417482588161",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Zile\nJust published my first article on smart contract development! Read it here: \nOnly started this summer but learned a lot through tutorials by @dabit3 @codeSTACKr @Jeffdelaney23 give them a follow!\nCheers and go light! 😅\n#web3 #phygital #smartcontracts https://medium.com/bridxe/the-full-guide-on-how-to-develop-and-deploy-a-simple-escrow-marketplace-smart-contract-ab3e25919f75",
@@ -84,6 +104,16 @@
           "publishedOn": "2022-07-30T01:54:55.000Z",
           "wordCount": 382,
           "title": "RT Zile: Just published my first article on smart contract development! Read it here: Only started this summer but learned a lot through tutorials by ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kklas_/status/1553133625264472064",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kklas\nInterested in learning how smart contract programming on Solana works? This article I've just published has you covered \nIt's aimed at devs with no Solana smart contract experience and covers all the important concepts to get you started! https://medium.com/@kklas/solana-for-non-smart-contract-developers-7ef4e419afef",
+          "link": "https://twitter.com/kklas_/status/1553133625264472064",
+          "publishedOn": "2022-07-29T21:41:26.000Z",
+          "wordCount": 382,
+          "title": "RT kklas: Interested in learning how smart contract programming on Solana works? This article I've just published has you covered It's aimed at devs w...",
           "imageUrl": null
         },
         {
@@ -177,16 +207,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/tr3butor/status/1553055519220318209",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tr3butor | web3-native talent platform\nWhat do tr3butor & @DeveloperDAO have in common? \n- Focus on helping web3 builders to strive and flourish\n- Community-centric approach to building things\n- Free-to-mint NFTs to bootstrap the community\nToday we're whitelisting DD's holders for the Contributor OAT 👇👇👇",
-          "link": "https://twitter.com/tr3butor/status/1553055519220318209",
-          "publishedOn": "2022-07-29T16:31:04.000Z",
-          "wordCount": 382,
-          "title": "RT tr3butor | web3-native talent platform: What do tr3butor & @DeveloperDAO have in common? - Focus on helping web3 builders to strive and flourish - ...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/camiinthisthang/status/1553045853576654848",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Cami\nIf you’re one of the 728485 companies trying to hire for dev rel, I have 2 amazing candidates who are looking to leave their company. I wanna connect them to the best teams so hmu 💅🏼",
@@ -219,41 +239,11 @@
         {
           "id": "https://twitter.com/notscottmoore/status/1553014093765873665",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】🔴 🗽\nweb3 has the potential to revolutionize how we think about philanthropy\nand although they're in their infancy, we're just starting to get a glimpse of the kinds of public goods impact DAOs could help fund\nhuge thanks to @NRaemont for writing this piece! https://www.cnet.com/personal-finance/crypto/the-future-of-philanthropy-could-be-on-the-blockchain/",
+          "description": "RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽\nweb3 has the potential to revolutionize how we think about philanthropy\nand although they're in their infancy, we're just starting to get a glimpse of the kinds of public goods impact DAOs could help fund\nhuge thanks to @NRaemont for writing this piece! https://www.cnet.com/personal-finance/crypto/the-future-of-philanthropy-could-be-on-the-blockchain/",
           "link": "https://twitter.com/notscottmoore/status/1553014093765873665",
           "publishedOn": "2022-07-29T13:46:28.000Z",
           "wordCount": 382,
-          "title": "RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】🔴 🗽: web3 has the potential to revolutionize how we think about philanthropy and...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1552997004862693378",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "How to implement a `mint` function in your NFT contract? by @developer_dao member @w1nt3r_eth 🌿\nSimple and straightforward overview of how to enhance an ERC721 contract with additional features and functionality 🦾 https://mirror.xyz/w1nt3r.eth/tagu5P67bAtk1EhQFp2a6ECJrVvVqz1DCDHDmohGnW0",
-          "link": "https://twitter.com/developer_dao/status/1552997004862693378",
-          "publishedOn": "2022-07-29T12:38:33.000Z",
-          "wordCount": 382,
-          "title": "How to implement a `mint` function in your NFT contract? by @developer_dao member @w1nt3r_eth 🌿 Simple and straightforward overview of how to enhan...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1552984200982167553",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nHyperstructures - crypto protocols that can run for free and forever, without maintenance, interruption, or intermediaries.\nHyperapps - permanent and indestructible client-side applications built on the permaweb, a hyperstructure enabled by @ArweaveTeam. http://arweave.net/UfF_u1-ghCZ7LIwXcQ-hcDSkH06UsSaHfnrD88zsBxI/",
-          "link": "https://twitter.com/dabit3/status/1552984200982167553",
-          "publishedOn": "2022-07-29T11:47:41.000Z",
-          "wordCount": 382,
-          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Hyperstructures - crypto protocols that can run for free and forever, without maintenance...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Mardeni01/status/1552977221849174016",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT MardΞni (🧱, 🚀) 📍🇦🇪\n.@MessariCrypto has published a report titled \"State of @graphprotocol  Q2 2022\". Here is my personal insight and some stats 🧵👇",
-          "link": "https://twitter.com/Mardeni01/status/1552977221849174016",
-          "publishedOn": "2022-07-29T11:19:57.000Z",
-          "wordCount": 382,
-          "title": "RT MardΞni (🧱, 🚀) 📍🇦🇪: .@MessariCrypto has published a report titled \"State of @graphprotocol Q2 2022\". Here is my personal insight an...",
+          "title": "RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽: web3 has the potential to revolutionize how we think about philanthropy an...",
           "imageUrl": null
         },
         {
@@ -264,16 +254,6 @@
           "publishedOn": "2022-07-28T17:32:59.000Z",
           "wordCount": 382,
           "title": "RT Aayush Gupta | aayush.lens 🌿: Had an amazing meeting with🌱 `Soil` Team🌱. We are working faster and effectively than most tech comp. Believ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tr3butor/status/1550519465347108866",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tr3butor | web3-native talent platform\n💥 Today we launch 'The NFT you can't buy'💥\nNo VC allocations.\nNo influencer shills.\nIt needs to be earned.\nAre you a web3 builder? 👷\nThen you probably already qualify 👇👇👇",
-          "link": "https://twitter.com/tr3butor/status/1550519465347108866",
-          "publishedOn": "2022-07-22T16:33:42.000Z",
-          "wordCount": 382,
-          "title": "RT tr3butor | web3-native talent platform: 💥 Today we launch 'The NFT you can't buy'💥 No VC allocations. No influencer shills. It needs to be ea...",
           "imageUrl": null
         }
       ]
