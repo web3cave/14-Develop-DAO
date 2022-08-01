@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T06:13:37.961Z</id>
+    <id>urn:2022-08-01T06:28:23.969Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-31T06:13:37.961Z</updated>
+    <updated>2022-08-01T06:28:23.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @saminacodes 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1553917355268489216</id>
+        <link href="https://twitter.com/developer_dao/status/1553917355268489216"/>
+        <updated>2022-08-01T01:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @saminacodes 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dounbug🐞: Re this shit rly testing me rn fr]]></title>
+        <id>https://twitter.com/d0unbug/status/1553916390301728772</id>
+        <link href="https://twitter.com/d0unbug/status/1553916390301728772"/>
+        <updated>2022-08-01T01:31:52.000Z</updated>
+        <summary type="html"><![CDATA[RT dounbug🐞
+Re this shit rly testing me rn fr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT day (💫,💫) #30DaysOfWeb3: Wooo! Officially taking part in 30 days of web3! I’m excited to take my web3 skills to the next level and challenge...]]></title>
+        <id>https://twitter.com/hello_dayana/status/1553904131600891904</id>
+        <link href="https://twitter.com/hello_dayana/status/1553904131600891904"/>
+        <updated>2022-08-01T00:43:09.000Z</updated>
+        <summary type="html"><![CDATA[RT day (💫,💫) #30DaysOfWeb3
+Wooo! Officially taking part in 30 days of web3! I’m excited to take my web3 skills to the next level and challenge myself to build consistently for the next 30 days!! @womenbuildweb3 💗😊🥳]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Smakosh | smakosh.eth: Almost the same, Watched @WhiteboardCryp1 & @finematics videos Followed @dabit3 tutorials, articles & was given a @developer...]]></title>
+        <id>https://twitter.com/smakosh/status/1553814070989578240</id>
+        <link href="https://twitter.com/smakosh/status/1553814070989578240"/>
+        <updated>2022-07-31T18:45:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Smakosh | smakosh.eth
+Almost the same,
+Watched @WhiteboardCryp1 & @finematics videos
+Followed @dabit3 tutorials, articles & was given a @developer_dao NFT by @gregan8 to be a member
+Built Mintify (Unsplash to Opensea app) fully open sourced
+Worked at @TheDopeWars and @LinksDAO
+tranqui.eth 🔆: How I went from zero crypto knowledge to joining @ourZORA in ~1 year 
+1. Listened to this: 
+2. Read this: 
+3. Joined @developer_dao
+4. Completed this: 
+Engaged genuinely with real ppl/projects along the way ☀️
+ https://youtu.be/eim8REOYLzA https://a16z.com/2018/02/10/crypto-readings-resources/ https://tranqui.xyz/posts/100-days-of-code]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT tranqui.eth 🔆: How I went from zero crypto knowledge to joining @ourZORA in ~1 year 1. Listened to this: 2. Read this: 3. Joined @developer_dao ...]]></title>
+        <id>https://twitter.com/0xTranqui/status/1553804502331002881</id>
+        <link href="https://twitter.com/0xTranqui/status/1553804502331002881"/>
+        <updated>2022-07-31T18:07:16.000Z</updated>
+        <summary type="html"><![CDATA[RT tranqui.eth 🔆
+How I went from zero crypto knowledge to joining @ourZORA in ~1 year 
+1. Listened to this: 
+2. Read this: 
+3. Joined @developer_dao
+4. Completed this: 
+Engaged genuinely with real ppl/projects along the way ☀️ https://youtu.be/eim8REOYLzA https://a16z.com/2018/02/10/crypto-readings-resources/ https://tranqui.xyz/posts/100-days-of-code]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): Published a guide on how you can build an end-to-end crowdfunding dApp on @0xPolygon using @rainbowdotme 🌈, @wagmi_sh a...]]></title>
+        <id>https://twitter.com/kayprasla/status/1553765673872101376</id>
+        <link href="https://twitter.com/kayprasla/status/1553765673872101376"/>
+        <updated>2022-07-31T15:32:58.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
+Published a guide on how you can build an end-to-end crowdfunding dApp on @0xPolygon using @rainbowdotme 🌈, @wagmi_sh and @ankr ⚒️
+From deploying crowdfunding smart contract to coding frontend ↓ https://ankr.hashnode.dev/how-to-build-an-end-to-end-donation-based-crowdfunding-dapp-on-polygon]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nazeeh.eth: We’re organising a small @developer_dao meetup in vadodara today, so if you are around then let’s catch up]]></title>
         <id>https://twitter.com/Nazeeh21/status/1553584460162994176</id>
@@ -126,11 +208,11 @@ slide into my dms 😇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT WBW3 💖🚀: Our friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶 - Students who complete the course wi...]]></title>
+        <title type="html"><![CDATA[RT WBW3 #30DaysOfWeb3: Our friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶 - Students who complete the cour...]]></title>
         <id>https://twitter.com/womenbuildweb3/status/1553065269194412034</id>
         <link href="https://twitter.com/womenbuildweb3/status/1553065269194412034"/>
         <updated>2022-07-29T17:09:49.000Z</updated>
-        <summary type="html"><![CDATA[RT WBW3 💖🚀
+        <summary type="html"><![CDATA[RT WBW3 #30DaysOfWeb3
 Our friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶
 - Students who complete the course will be able to claim their Lens handle
 - $20K accelerator grant to support projects built on Lens 🔥
@@ -165,64 +247,12 @@ Special thanks to @wise_Tyy for the onboarding call and for guiding me through t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Cami: If you’re one of the 728485 companies trying to hire for dev rel, I have 2 amazing candidates who are looking to leave their company. I wann...]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1553045853576654848</id>
-        <link href="https://twitter.com/camiinthisthang/status/1553045853576654848"/>
-        <updated>2022-07-29T15:52:40.000Z</updated>
-        <summary type="html"><![CDATA[RT Cami
-If you’re one of the 728485 companies trying to hire for dev rel, I have 2 amazing candidates who are looking to leave their company. I wanna connect them to the best teams so hmu 💅🏼]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT D_D School Of Code: It's almost time👀]]></title>
         <id>https://twitter.com/ddschoolofcode/status/1553024594210131969</id>
         <link href="https://twitter.com/ddschoolofcode/status/1553024594210131969"/>
         <updated>2022-07-29T14:28:11.000Z</updated>
         <summary type="html"><![CDATA[RT D_D School Of Code
 It's almost time👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 𓀣 Odysseas.eth 𓀢: Created a lil something help out people who are only starting looking into interop - Useful Resources to learn about the sp...]]></title>
-        <id>https://twitter.com/odysseas_eth/status/1553016017856724992</id>
-        <link href="https://twitter.com/odysseas_eth/status/1553016017856724992"/>
-        <updated>2022-07-29T13:54:06.000Z</updated>
-        <summary type="html"><![CDATA[RT 𓀣 Odysseas.eth 𓀢
-Created a lil something help out people who are only starting looking into interop
-- Useful Resources to learn about the space
-- Projects that exist ( + links to job boards)
-- Resources for niche subjects such as cross-chain MEV
-h/t to @pranaymohan for the idea
-link bellow 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽: web3 has the potential to revolutionize how we think about philanthropy an...]]></title>
-        <id>https://twitter.com/notscottmoore/status/1553014093765873665</id>
-        <link href="https://twitter.com/notscottmoore/status/1553014093765873665"/>
-        <updated>2022-07-29T13:46:28.000Z</updated>
-        <summary type="html"><![CDATA[RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽
-web3 has the potential to revolutionize how we think about philanthropy
-and although they're in their infancy, we're just starting to get a glimpse of the kinds of public goods impact DAOs could help fund
-huge thanks to @NRaemont for writing this piece! https://www.cnet.com/personal-finance/crypto/the-future-of-philanthropy-could-be-on-the-blockchain/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Aayush Gupta | aayush.lens 🌿: Had an amazing meeting with🌱 `Soil` Team🌱. We are working faster and effectively than most tech comp. Believ...]]></title>
-        <id>https://twitter.com/Aayush_gupta_ji/status/1552708713756381184</id>
-        <link href="https://twitter.com/Aayush_gupta_ji/status/1552708713756381184"/>
-        <updated>2022-07-28T17:32:59.000Z</updated>
-        <summary type="html"><![CDATA[RT Aayush Gupta | aayush.lens 🌿
-Had an amazing meeting with🌱 `Soil` Team🌱. We are working faster and effectively than most tech comp. Believe me Something GREAT is coming.  
-@developer_dao @BluePanda_io @moiz_0309 @milo_io_ @AmoweO @TomHusson @wise_Tyy and other great people I couldn't find twitter handle of]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

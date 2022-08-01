@@ -77,6 +77,66 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1553917355268489216",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @saminacodes 🫡",
+          "link": "https://twitter.com/developer_dao/status/1553917355268489216",
+          "publishedOn": "2022-08-01T01:35:42.000Z",
+          "wordCount": 382,
+          "title": "Re @saminacodes 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/d0unbug/status/1553916390301728772",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dounbug🐞\nRe this shit rly testing me rn fr",
+          "link": "https://twitter.com/d0unbug/status/1553916390301728772",
+          "publishedOn": "2022-08-01T01:31:52.000Z",
+          "wordCount": 382,
+          "title": "RT dounbug🐞: Re this shit rly testing me rn fr",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/hello_dayana/status/1553904131600891904",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT day (💫,💫) #30DaysOfWeb3\nWooo! Officially taking part in 30 days of web3! I’m excited to take my web3 skills to the next level and challenge myself to build consistently for the next 30 days!! @womenbuildweb3 💗😊🥳",
+          "link": "https://twitter.com/hello_dayana/status/1553904131600891904",
+          "publishedOn": "2022-08-01T00:43:09.000Z",
+          "wordCount": 382,
+          "title": "RT day (💫,💫) #30DaysOfWeb3: Wooo! Officially taking part in 30 days of web3! I’m excited to take my web3 skills to the next level and challenge...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/smakosh/status/1553814070989578240",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Smakosh | smakosh.eth\nAlmost the same,\nWatched @WhiteboardCryp1 & @finematics videos\nFollowed @dabit3 tutorials, articles & was given a @developer_dao NFT by @gregan8 to be a member\nBuilt Mintify (Unsplash to Opensea app) fully open sourced\nWorked at @TheDopeWars and @LinksDAO\ntranqui.eth 🔆: How I went from zero crypto knowledge to joining @ourZORA in ~1 year \n1. Listened to this: \n2. Read this: \n3. Joined @developer_dao\n4. Completed this: \nEngaged genuinely with real ppl/projects along the way ☀️\n https://youtu.be/eim8REOYLzA https://a16z.com/2018/02/10/crypto-readings-resources/ https://tranqui.xyz/posts/100-days-of-code",
+          "link": "https://twitter.com/smakosh/status/1553814070989578240",
+          "publishedOn": "2022-07-31T18:45:17.000Z",
+          "wordCount": 382,
+          "title": "RT Smakosh | smakosh.eth: Almost the same, Watched @WhiteboardCryp1 & @finematics videos Followed @dabit3 tutorials, articles & was given a @developer...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xTranqui/status/1553804502331002881",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tranqui.eth 🔆\nHow I went from zero crypto knowledge to joining @ourZORA in ~1 year \n1. Listened to this: \n2. Read this: \n3. Joined @developer_dao\n4. Completed this: \nEngaged genuinely with real ppl/projects along the way ☀️ https://youtu.be/eim8REOYLzA https://a16z.com/2018/02/10/crypto-readings-resources/ https://tranqui.xyz/posts/100-days-of-code",
+          "link": "https://twitter.com/0xTranqui/status/1553804502331002881",
+          "publishedOn": "2022-07-31T18:07:16.000Z",
+          "wordCount": 382,
+          "title": "RT tranqui.eth 🔆: How I went from zero crypto knowledge to joining @ourZORA in ~1 year 1. Listened to this: 2. Read this: 3. Joined @developer_dao ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kayprasla/status/1553765673872101376",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krinza.eth (🧱, 🚀)\nPublished a guide on how you can build an end-to-end crowdfunding dApp on @0xPolygon using @rainbowdotme 🌈, @wagmi_sh and @ankr ⚒️\nFrom deploying crowdfunding smart contract to coding frontend ↓ https://ankr.hashnode.dev/how-to-build-an-end-to-end-donation-based-crowdfunding-dapp-on-polygon",
+          "link": "https://twitter.com/kayprasla/status/1553765673872101376",
+          "publishedOn": "2022-07-31T15:32:58.000Z",
+          "wordCount": 382,
+          "title": "RT krinza.eth (🧱, 🚀): Published a guide on how you can build an end-to-end crowdfunding dApp on @0xPolygon using @rainbowdotme 🌈, @wagmi_sh a...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/Nazeeh21/status/1553584460162994176",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT nazeeh.eth\nWe’re organising a small @developer_dao meetup in vadodara today, so if you are around then let’s catch up",
@@ -179,11 +239,11 @@
         {
           "id": "https://twitter.com/womenbuildweb3/status/1553065269194412034",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT WBW3 💖🚀\nOur friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶\n- Students who complete the course will be able to claim their Lens handle\n- $20K accelerator grant to support projects built on Lens 🔥\n2 more days to register🆓: https://www.30daysofweb3.xyz",
+          "description": "RT WBW3 #30DaysOfWeb3\nOur friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶\n- Students who complete the course will be able to claim their Lens handle\n- $20K accelerator grant to support projects built on Lens 🔥\n2 more days to register🆓: https://www.30daysofweb3.xyz",
           "link": "https://twitter.com/womenbuildweb3/status/1553065269194412034",
           "publishedOn": "2022-07-29T17:09:49.000Z",
           "wordCount": 382,
-          "title": "RT WBW3 💖🚀: Our friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶 - Students who complete the course wi...",
+          "title": "RT WBW3 #30DaysOfWeb3: Our friends at @LensProtocol have teamed up with us to support #30DaysOfWeb3 builders 🌿🫶 - Students who complete the cour...",
           "imageUrl": null
         },
         {
@@ -207,16 +267,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/camiinthisthang/status/1553045853576654848",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Cami\nIf you’re one of the 728485 companies trying to hire for dev rel, I have 2 amazing candidates who are looking to leave their company. I wanna connect them to the best teams so hmu 💅🏼",
-          "link": "https://twitter.com/camiinthisthang/status/1553045853576654848",
-          "publishedOn": "2022-07-29T15:52:40.000Z",
-          "wordCount": 382,
-          "title": "RT Cami: If you’re one of the 728485 companies trying to hire for dev rel, I have 2 amazing candidates who are looking to leave their company. I wann...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/ddschoolofcode/status/1553024594210131969",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT D_D School Of Code\nIt's almost time👀",
@@ -224,36 +274,6 @@
           "publishedOn": "2022-07-29T14:28:11.000Z",
           "wordCount": 382,
           "title": "RT D_D School Of Code: It's almost time👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/odysseas_eth/status/1553016017856724992",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 𓀣 Odysseas.eth 𓀢\nCreated a lil something help out people who are only starting looking into interop\n- Useful Resources to learn about the space\n- Projects that exist ( + links to job boards)\n- Resources for niche subjects such as cross-chain MEV\nh/t to @pranaymohan for the idea\nlink bellow 👇",
-          "link": "https://twitter.com/odysseas_eth/status/1553016017856724992",
-          "publishedOn": "2022-07-29T13:54:06.000Z",
-          "wordCount": 382,
-          "title": "RT 𓀣 Odysseas.eth 𓀢: Created a lil something help out people who are only starting looking into interop - Useful Resources to learn about the sp...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/notscottmoore/status/1553014093765873665",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽\nweb3 has the potential to revolutionize how we think about philanthropy\nand although they're in their infancy, we're just starting to get a glimpse of the kinds of public goods impact DAOs could help fund\nhuge thanks to @NRaemont for writing this piece! https://www.cnet.com/personal-finance/crypto/the-future-of-philanthropy-could-be-on-the-blockchain/",
-          "link": "https://twitter.com/notscottmoore/status/1553014093765873665",
-          "publishedOn": "2022-07-29T13:46:28.000Z",
-          "wordCount": 382,
-          "title": "RT 𝚂𝚌𝚘𝚝𝚝 𝙼𝚘𝚘𝚛𝚎【ceresstation.eth】 🔴 🗽: web3 has the potential to revolutionize how we think about philanthropy an...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Aayush_gupta_ji/status/1552708713756381184",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Aayush Gupta | aayush.lens 🌿\nHad an amazing meeting with🌱 `Soil` Team🌱. We are working faster and effectively than most tech comp. Believe me Something GREAT is coming.  \n@developer_dao @BluePanda_io @moiz_0309 @milo_io_ @AmoweO @TomHusson @wise_Tyy and other great people I couldn't find twitter handle of",
-          "link": "https://twitter.com/Aayush_gupta_ji/status/1552708713756381184",
-          "publishedOn": "2022-07-28T17:32:59.000Z",
-          "wordCount": 382,
-          "title": "RT Aayush Gupta | aayush.lens 🌿: Had an amazing meeting with🌱 `Soil` Team🌱. We are working faster and effectively than most tech comp. Believ...",
           "imageUrl": null
         }
       ]
