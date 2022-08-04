@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe56adc15-3d57-49fe-8ffb-b0a891ab5f98_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/31-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Turns out holiday deadlines can be ambitious",
-          "link": "https://developerdao.substack.com/p/31-probably-nothing",
-          "publishedOn": "2022-07-05T17:22:39.000Z",
-          "wordCount": null,
-          "title": "#31 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F09892268-4a38-4665-b335-afa19ef9b915_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F09892268-4a38-4665-b335-afa19ef9b915_1100x550.png"
         }
       ]
     },
@@ -92,6 +76,76 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1555033691176312835",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Build a Historical NFT Data Explorer with Zora's SDK\nTutorial by @developer_dao member @dhaiwat10 ⚡️ https://blog.developerdao.com/build-a-historical-nft-data-explorer-with-zoras-sdk",
+          "link": "https://twitter.com/developer_dao/status/1555033691176312835",
+          "publishedOn": "2022-08-04T03:31:37.000Z",
+          "wordCount": 382,
+          "title": "Build a Historical NFT Data Explorer with Zora's SDK Tutorial by @developer_dao member @dhaiwat10 ⚡️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1555024021531439105",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Claimable, Free Mint NFT Smart Contract and UI\nIn depth video tutorial by @developer_dao member @Web3Club ⚡️\nVideo:\n\nCode: https://www.youtube.com/watch?v=5tSKO9WjF7E https://gist.github.com/shobhitic/20a785d2c3421445bcc2fcb177798c2e",
+          "link": "https://twitter.com/developer_dao/status/1555024021531439105",
+          "publishedOn": "2022-08-04T02:53:12.000Z",
+          "wordCount": 382,
+          "title": "Claimable, Free Mint NFT Smart Contract and UI In depth video tutorial by @developer_dao member @Web3Club ⚡️ Video: Code:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1554942585159897088",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "\"Learn Solidity, Web3, and Blockchain Development\" by @developer_dao member \n@BrianHHough🌿\nBy the end of the tutorial, you'll be building your first State Change dApp. https://www.youtube.com/watch?v=il9s98lPGqY&ab_channel=BrianH.Hough%7CTechStackPlaybook",
+          "link": "https://twitter.com/developer_dao/status/1554942585159897088",
+          "publishedOn": "2022-08-03T21:29:36.000Z",
+          "wordCount": 382,
+          "title": "\"Learn Solidity, Web3, and Blockchain Development\" by @developer_dao member @BrianHHough🌿 By the end of the tutorial, you'll be building your first...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kayprasla/status/1554917848409321472",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krinza.eth (🧱, 🚀)\nThe conversations happening rn in @developer_dao developers-voice are so wholesome I can't even.",
+          "link": "https://twitter.com/kayprasla/status/1554917848409321472",
+          "publishedOn": "2022-08-03T19:51:18.000Z",
+          "wordCount": 382,
+          "title": "RT krinza.eth (🧱, 🚀): The conversations happening rn in @developer_dao developers-voice are so wholesome I can't even.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xTranqui/status/1554869677850931201",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tranqui.eth 🔆\nMETABOLISM HACKATHON RESOURCES ☼☽\nSetting up a living thread of tips + resources for everyone participating in the @ourZORA x @ETHGlobal hackathon starting tomorrow 🤖\nIf you've built with @ZORAEngineering before feel free to add below 😁😁",
+          "link": "https://twitter.com/0xTranqui/status/1554869677850931201",
+          "publishedOn": "2022-08-03T16:39:53.000Z",
+          "wordCount": 382,
+          "title": "RT tranqui.eth 🔆: METABOLISM HACKATHON RESOURCES ☼☽ Setting up a living thread of tips + resources for everyone participating in the @ourZORA x @...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/web3paloma/status/1554829604405161989",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Paloma #30DaysofWeb3\nMy Web3con shirt is finally here 🎊.\nThis was literally where my journey into Web3 started, how I got into @developer_dao and met my @womenbuildweb3 people ❤️❤️.",
+          "link": "https://twitter.com/web3paloma/status/1554829604405161989",
+          "publishedOn": "2022-08-03T14:00:39.000Z",
+          "wordCount": 382,
+          "title": "RT Paloma #30DaysofWeb3: My Web3con shirt is finally here 🎊. This was literally where my journey into Web3 started, how I got into @developer_dao a...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/olanetsoft/status/1554766406469787649",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT I D R I S 💙\nWe are 7k strong 🥳 Thanks for connecting. I'm Idris. \nI tweet about:\n✍️ Technical Writing tips\n⭐️ Web3\n🔥 JavaScript tips\n💫Productivity tips and tricks \nBuilding @web3afrika\nI'm planning on using Twitter to share a lot more content that you won't want to miss 🥳",
+          "link": "https://twitter.com/olanetsoft/status/1554766406469787649",
+          "publishedOn": "2022-08-03T09:49:32.000Z",
+          "wordCount": 382,
+          "title": "RT I D R I S 💙: We are 7k strong 🥳 Thanks for connecting. I'm Idris. I tweet about: ✍️ Technical Writing tips ⭐️ Web3 🔥 JavaScript tips ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/LearnerBR/status/1554680723054796802",
           "author": "Developer DAO (🧱, 🚀)",
@@ -115,31 +169,31 @@
         {
           "id": "https://twitter.com/dhaiwat10/status/1554604494163304449",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth 🤠 📍 🇮🇳\nSo glad we're finally doing workshops in the DAO now! h/t to @ropats16 @kempsterrrr @grow_love and everyone else who's been working on this initiative\nHaving workshops on a regular basis is huge for our education-related goals\nDeveloper DAO (🧱, 🚀): Building Decentralized Frontends and Deploying them to @ArweaveTeam presented by @dhaiwat10 on 4th August 2022 at 4:30 PM UTC in developers voice channel.\nEstimated duration of workshop: 60 - 90 mins ⚡️",
+          "description": "RT dhai.eth 🤠 📍 🇮🇩\nSo glad we're finally doing workshops in the DAO now! h/t to @ropats16 @kempsterrrr @grow_love and everyone else who's been working on this initiative\nHaving workshops on a regular basis is huge for our education-related goals\nDeveloper DAO (🧱, 🚀): Building Decentralized Frontends and Deploying them to @ArweaveTeam presented by @dhaiwat10 on 4th August 2022 at 4:30 PM UTC in developers voice channel.\nEstimated duration of workshop: 60 - 90 mins ⚡️",
           "link": "https://twitter.com/dhaiwat10/status/1554604494163304449",
           "publishedOn": "2022-08-02T23:06:09.000Z",
           "wordCount": 382,
-          "title": "RT dhai.eth 🤠 📍 🇮🇳: So glad we're finally doing workshops in the DAO now! h/t to @ropats16 @kempsterrrr @grow_love and everyone else who's...",
+          "title": "RT dhai.eth 🤠 📍 🇮🇩: So glad we're finally doing workshops in the DAO now! h/t to @ropats16 @kempsterrrr @grow_love and everyone else who's...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1554600136331837440",
+          "id": "https://twitter.com/Sir_Damilare/status/1554602235832799232",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "A new edition of the @developer_dao weekly newsletter is out!\nProbably Nothing #35 - probably nothing ✨\nA huge step forward for our organization and community. ☀️ https://developerdao.substack.com/p/35-probably-nothing",
-          "link": "https://twitter.com/developer_dao/status/1554600136331837440",
-          "publishedOn": "2022-08-02T22:48:50.000Z",
+          "description": "RT Dami | Polygon 💜\nRe @developer_dao has got to be the biggest web3 Developer community in the world.",
+          "link": "https://twitter.com/Sir_Damilare/status/1554602235832799232",
+          "publishedOn": "2022-08-02T22:57:10.000Z",
           "wordCount": 382,
-          "title": "A new edition of the @developer_dao weekly newsletter is out! Probably Nothing #35 - probably nothing ✨ A huge step forward for our organization and ...",
+          "title": "RT Dami | Polygon 💜: Re @developer_dao has got to be the biggest web3 Developer community in the world.",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1554599395085074433",
+          "id": "https://twitter.com/OnChainBuilders/status/1554592429105348612",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Building Decentralized Frontends and Deploying them to @ArweaveTeam presented by @dhaiwat10 on 4th August 2022 at 4:30 PM UTC in developers voice channel.\nEstimated duration of workshop: 60 - 90 mins ⚡️",
-          "link": "https://twitter.com/developer_dao/status/1554599395085074433",
-          "publishedOn": "2022-08-02T22:45:53.000Z",
+          "description": "RT OnChain.\nRe 11/ By actively participating in @developer_dao & sharing ideas for his project, Tom has gone from 0 funding and a team of 2 to a team of 25 who’re about to launch an MVP in less than a month.\n All driven by community and purpose.\n Congratulations Tom & team! 💪",
+          "link": "https://twitter.com/OnChainBuilders/status/1554592429105348612",
+          "publishedOn": "2022-08-02T22:18:12.000Z",
           "wordCount": 382,
-          "title": "Building Decentralized Frontends and Deploying them to @ArweaveTeam presented by @dhaiwat10 on 4th August 2022 at 4:30 PM UTC in developers voice chan...",
+          "title": "RT OnChain.: Re 11/ By actively participating in @developer_dao & sharing ideas for his project, Tom has gone from 0 funding and a team of 2 to a team...",
           "imageUrl": null
         },
         {
@@ -153,16 +207,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/ballsyalchemist/status/1554574790656200706",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Life is short, watch Gintama.\nBiweekly chat again here!\nToday, I and @DanielVerilog will be talking with @awleckss from @fuellabs_ to discuss @sway_lang, the language powering the future of modular blockchain!\nSet a reminder for the upcoming Space! FUEL is coming! https://twitter.com/i/spaces/1OdKrBXndlAKX",
-          "link": "https://twitter.com/ballsyalchemist/status/1554574790656200706",
-          "publishedOn": "2022-08-02T21:08:07.000Z",
-          "wordCount": 382,
-          "title": "RT Life is short, watch Gintama.: Biweekly chat again here! Today, I and @DanielVerilog will be talking with @awleckss from @fuellabs_ to discuss @swa...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/pbillingsby_eth/status/1554556845880217603",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT pbillingsby\nDid you know that @ArweaveTeam has their own smart contracts? You can write these contracts in JS, C, Solidity & Rust.\nI’ll be posting more about them in the coming weeks, keep your eyes peeled! Until then you can read more about SmartWeave contracts here https://academy.warp.cc",
@@ -170,6 +214,16 @@
           "publishedOn": "2022-08-02T19:56:48.000Z",
           "wordCount": 382,
           "title": "RT pbillingsby: Did you know that @ArweaveTeam has their own smart contracts? You can write these contracts in JS, C, Solidity & Rust. I’ll be postin...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/LearnerBR/status/1554525858144333824",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Bora Lee 🇰🇷🏋‍♀️\nWhat I've learned and coded through free resources tutorials from the DAOs, @LearnWeb3DAO @developer_dao until now.\nSlides authored by @dabit3 https://vjswiciysv2c4zyfoyq7iy2jjl7sxzkesfiv5ui7qbdvd5zhammq.arweave.net/qmVkCRiVdC5nBXYh9GNJSv8r5USRUV7RH4BHUfcnAxk",
+          "link": "https://twitter.com/LearnerBR/status/1554525858144333824",
+          "publishedOn": "2022-08-02T17:53:40.000Z",
+          "wordCount": 382,
+          "title": "RT Bora Lee 🇰🇷🏋‍♀️: What I've learned and coded through free resources tutorials from the DAOs, @LearnWeb3DAO @developer_dao until now. Sl...",
           "imageUrl": null
         },
         {
@@ -193,56 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1554496403426004993",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @ZORAEngineering @dhaiwat10 🫡",
-          "link": "https://twitter.com/developer_dao/status/1554496403426004993",
-          "publishedOn": "2022-08-02T15:56:38.000Z",
-          "wordCount": 382,
-          "title": "Re @ZORAEngineering @dhaiwat10 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1554493108779626496",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth 🤠 📍 🇮🇳\nwe like @ZORAEngineering 🌜🌞🌛\nmy first tutorial on the @developer_dao blog 🫡 https://blog.developerdao.com/build-a-historical-nft-data-explorer-with-zoras-sdk",
-          "link": "https://twitter.com/dhaiwat10/status/1554493108779626496",
-          "publishedOn": "2022-08-02T15:43:32.000Z",
-          "wordCount": 382,
-          "title": "RT dhai.eth 🤠 📍 🇮🇳: we like @ZORAEngineering 🌜🌞🌛 my first tutorial on the @developer_dao blog 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Web3Dubai/status/1554429490595512322",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Web3Dubai Conf\nThrilled to announce that @dhaiwat10 will be speaking at the conference! Dhaiwat is a prolific devtool builder and web3 educator at @developer_dao as well as a DevRel @ankr! https://www.web3dubai.org/speakers",
-          "link": "https://twitter.com/Web3Dubai/status/1554429490595512322",
-          "publishedOn": "2022-08-02T11:30:45.000Z",
-          "wordCount": 382,
-          "title": "RT Web3Dubai Conf: Thrilled to announce that @dhaiwat10 will be speaking at the conference! Dhaiwat is a prolific devtool builder and web3 educator at...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1554420875063046144",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "gm ✨",
-          "link": "https://twitter.com/developer_dao/status/1554420875063046144",
-          "publishedOn": "2022-08-02T10:56:31.000Z",
-          "wordCount": 382,
-          "title": "gm ✨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1554398420718309376",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @0xcorgis @_buildspace @FarzaTV @dabit3 @narb_s @ser_ando 🫶",
-          "link": "https://twitter.com/developer_dao/status/1554398420718309376",
-          "publishedOn": "2022-08-02T09:27:17.000Z",
-          "wordCount": 382,
-          "title": "Re @0xcorgis @_buildspace @FarzaTV @dabit3 @narb_s @ser_ando 🫶",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/web3yorozuya/status/1554326298851434501",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Jo 🧙🏽‍♀️(💫,💫)\nSmall wins like this make all the difference in my world! 😀 Officially a part of #30DaysOfWeb3 First Cohort! 💃🏽built with a ton of 💛💛💛 by @womenbuildweb3 ✨ \nLet's Learn! 🧵",
@@ -253,23 +257,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/0xcorgis/status/1554261049397768193",
+          "id": "https://twitter.com/Mardeni01/status/1553709316271706113",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0xcorgis\nBuilding and shipping new updates. \nToday a new character skin: \ndeveloper DAO corgis  💻🐶 \nhope you all enjoy ✨ @0xcorgis\ncc @_buildspace \n@FarzaTV \n@developer_dao \n@dabit3  \n@narb_s\n@ser_ando",
-          "link": "https://twitter.com/0xcorgis/status/1554261049397768193",
-          "publishedOn": "2022-08-02T00:21:25.000Z",
+          "description": "RT MardΞni (🧱, 🚀) 📍🇦🇪\nSo there are multiple Blockchain Oracle providers right now, but what does make @PythNetwork special?\nI've just published a short course where you can learn about Pyth, then earn an NFT on Polygon! https://101.xyz/course/cl64xvtly1631209l5tyu0a9ti",
+          "link": "https://twitter.com/Mardeni01/status/1553709316271706113",
+          "publishedOn": "2022-07-31T11:49:02.000Z",
           "wordCount": 382,
-          "title": "RT 0xcorgis: Building and shipping new updates. Today a new character skin: developer DAO corgis 💻🐶 hope you all enjoy ✨ @0xcorgis cc @_buildsp...",
+          "title": "RT MardΞni (🧱, 🚀) 📍🇦🇪: So there are multiple Blockchain Oracle providers right now, but what does make @PythNetwork special? I've just...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/darkkpower/status/1554253875015827457",
+          "id": "https://twitter.com/AlchemyPlatform/status/1553041883902902275",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shestakova.eth\nHello, world! I'm a technical creative in the #web3 space looking for #DevRel or #BizDev ops. I'm based in CDT time zone. My background is in art and education. I have a ton of experience creating tech forward #nfts and epic nft metadata products. HMU",
-          "link": "https://twitter.com/darkkpower/status/1554253875015827457",
-          "publishedOn": "2022-08-01T23:52:55.000Z",
+          "description": "RT Alchemy | The web3 developer platform\n✏️ Build with Alchemy!\nHow do you get all the NFTs minted by a specific address?\nNo need to browse the entire blockchain!\nCall Alchemy's getAssetTransfers() and let us do the work for you ⚡️\nTry it out: https://alchemy.com/sdk",
+          "link": "https://twitter.com/AlchemyPlatform/status/1553041883902902275",
+          "publishedOn": "2022-07-29T15:36:53.000Z",
           "wordCount": 382,
-          "title": "RT shestakova.eth: Hello, world! I'm a technical creative in the #web3 space looking for #DevRel or #BizDev ops. I'm based in CDT time zone. My backgr...",
+          "title": "RT Alchemy | The web3 developer platform: ✏️ Build with Alchemy! How do you get all the NFTs minted by a specific address? No need to browse the ent...",
           "imageUrl": null
         }
       ]
