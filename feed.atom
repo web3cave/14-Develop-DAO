@@ -1,10 +1,237 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-06T06:14:40.902Z</id>
+    <id>urn:2022-08-07T06:13:50.314Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-06T06:14:40.902Z</updated>
+    <updated>2022-08-07T06:13:50.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT 0xcorgis: Learn #web3 terms with @0xcorgis using comics A is for airdrop 🪂🎁 cc @_buildspace @developer_dao]]></title>
+        <id>https://twitter.com/0xcorgis/status/1556000789960675328</id>
+        <link href="https://twitter.com/0xcorgis/status/1556000789960675328"/>
+        <updated>2022-08-06T19:34:32.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xcorgis
+Learn #web3 terms with @0xcorgis using comics 
+A is for airdrop  🪂🎁
+cc @_buildspace 
+@developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT karan | krn.btc🍉: .@developer_dao more like dhaiweloper DAO]]></title>
+        <id>https://twitter.com/kagniea/status/1555981258663944192</id>
+        <link href="https://twitter.com/kagniea/status/1555981258663944192"/>
+        <updated>2022-08-06T18:16:55.000Z</updated>
+        <summary type="html"><![CDATA[RT karan | krn.btc🍉
+.@developer_dao more like dhaiweloper DAO]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth 🤠 📍 🇮🇩: Sneha is one of the few ppl who have contributed so much to D_D without even being a member. She's already set up mult...]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1555961661441261568</id>
+        <link href="https://twitter.com/dhaiwat10/status/1555961661441261568"/>
+        <updated>2022-08-06T16:59:03.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth 🤠 📍 🇮🇩
+Sneha is one of the few ppl who have contributed so much to D_D without even being a member. She's already set up multiple events including a new initiative @DDbuidlIRL. So happy that she's a member now!
+@developer_dao gang show her some love! ❤️
+Sneha Mishra 💜 (🛠️, 🌈 ) 🏴‍☠️: ✨Developer DAO Appreciation Tweet✨
+Thanks to the entire @developer_dao team and @dhaiwat10 for this beaut airdropped to my wallet🙈
+Y'all makin me cry💜🥹
+Super excited for the upcoming initiatives @DDbuidlIRL 🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sneha Mishra 💜 (🛠️, 🌈 ) 🏴‍☠️: ✨Developer DAO Appreciation Tweet✨ Thanks to the entire @developer_dao team and @dhaiwat10 for this...]]></title>
+        <id>https://twitter.com/sneha_bb/status/1555792266932809728</id>
+        <link href="https://twitter.com/sneha_bb/status/1555792266932809728"/>
+        <updated>2022-08-06T05:45:56.000Z</updated>
+        <summary type="html"><![CDATA[RT Sneha Mishra 💜 (🛠️, 🌈 ) 🏴‍☠️
+✨Developer DAO Appreciation Tweet✨
+Thanks to the entire @developer_dao team and @dhaiwat10 for this beaut airdropped to my wallet🙈
+Y'all makin me cry💜🥹
+Super excited for the upcoming initiatives @DDbuidlIRL 🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer DAO 🐐s @camiinthisthang and @Rahatcodes presenting today in Seoul, South Korea at @eth_seoul_ 🇰🇷]]></title>
+        <id>https://twitter.com/developer_dao/status/1555788592592601088</id>
+        <link href="https://twitter.com/developer_dao/status/1555788592592601088"/>
+        <updated>2022-08-06T05:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Developer DAO 🐐s @camiinthisthang and @Rahatcodes presenting today in Seoul, South Korea at @eth_seoul_ 🇰🇷]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 🐘🔗 sam.arweave.dev: Today the Arweave ecosystem is launching 6 new services and protocols which unlock an entirely new angle of the permaweb:...]]></title>
+        <id>https://twitter.com/samecwilliams/status/1555761418494005249</id>
+        <link href="https://twitter.com/samecwilliams/status/1555761418494005249"/>
+        <updated>2022-08-06T03:43:21.000Z</updated>
+        <summary type="html"><![CDATA[RT 🐘🔗 sam.arweave.dev
+Today the Arweave ecosystem is launching 6 new services and protocols which unlock an entirely new angle of the permaweb:
+The web of value.
+WTF is it? Let's jump down the rabbithole 🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Cami @ KBW 🇰🇷: Giving a talk today at eth seoul on building dapps in ~1.5 hours 🤩 We’ll cover: - architecture - defining your tech stack ...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1555719545469382657</id>
+        <link href="https://twitter.com/camiinthisthang/status/1555719545469382657"/>
+        <updated>2022-08-06T00:56:58.000Z</updated>
+        <summary type="html"><![CDATA[RT Cami @ KBW 🇰🇷
+Giving a talk today at eth seoul on building dapps in ~1.5 hours 🤩 
+We’ll cover:
+- architecture
+- defining your tech stack 
+- how all the protocols communicate with each other 
+Livestream it here https://www.youtube.com/watch?v=Q9-5KRmC2O8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @barany6m 🙇‍♂️]]></title>
+        <id>https://twitter.com/developer_dao/status/1555668098014793728</id>
+        <link href="https://twitter.com/developer_dao/status/1555668098014793728"/>
+        <updated>2022-08-05T21:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @barany6m 🙇‍♂️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT davidev.eth (🌿, 👻) 🦇🔊: The future of Web3 is being built at @AaveAave! Come join the product team behind Aave, @LensProtocol and so so ...]]></title>
+        <id>https://twitter.com/davidesilverman/status/1555667087401668608</id>
+        <link href="https://twitter.com/davidesilverman/status/1555667087401668608"/>
+        <updated>2022-08-05T21:28:31.000Z</updated>
+        <summary type="html"><![CDATA[RT davidev.eth (🌿, 👻) 🦇🔊
+The future of Web3 is being built at @AaveAave!
+Come join the product team behind Aave, @LensProtocol and so so much more!
+dejenerate: do you have a vision for the future of the web?
+ https://apply.workable.com/aave/j/70199A2A2D/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: BUIDL IRL in every city LFG]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1555631147660546048</id>
+        <link href="https://twitter.com/kempsterrrr/status/1555631147660546048"/>
+        <updated>2022-08-05T19:05:42.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ
+BUIDL IRL in every city LFG
+dhai.eth 🤠 📍 🇮🇩: More @developer_dao IRL events - be it workshops, meetups, parties or hackathons. Very high on my priority list for the things I want to work on for the DAO]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT arwiki.arweave.dev 🐘: 😍Alright! the Arweave Name System (ArNS) works incredible! our new domain is ready: Thank you @permapages @ar_io_networ...]]></title>
+        <id>https://twitter.com/TheArWiki/status/1555628413959938050</id>
+        <link href="https://twitter.com/TheArWiki/status/1555628413959938050"/>
+        <updated>2022-08-05T18:54:50.000Z</updated>
+        <summary type="html"><![CDATA[RT arwiki.arweave.dev 🐘
+😍Alright! the Arweave Name System (ArNS) works incredible! our new domain is ready: 
+Thank you @permapages @ar_io_network 🥳 The future is here!🔥 #Blockchain #arweave #permaweb #DAPP #dApps https://arwiki.arweave.dev]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Baran: Today I made a sensor-based rotating NFT in React Native]]></title>
+        <id>https://twitter.com/barany6m/status/1555619596895412231</id>
+        <link href="https://twitter.com/barany6m/status/1555619596895412231"/>
+        <updated>2022-08-05T18:19:48.000Z</updated>
+        <summary type="html"><![CDATA[RT Baran
+Today I made a sensor-based rotating NFT in React Native]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 0xReady: 1/ Today I'd like to share an article I wrote - An Introduction to @SwayLang My goal was to provide an introductory article to the languag...]]></title>
+        <id>https://twitter.com/0xReady/status/1555618996405370880</id>
+        <link href="https://twitter.com/0xReady/status/1555618996405370880"/>
+        <updated>2022-08-05T18:17:25.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xReady
+1/ Today I'd like to share an article I wrote - An Introduction to @SwayLang
+My goal was to provide an introductory article to the language that was both extensive and digestible. https://vertical.im/0xReady/sway-programming-an-introduction-0cG5tFSv]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Georgios Konstantopoulos: NEW @paradigm Research (& Engineering)! This time, @a_kirillo and @jneu_net and I teamed up to see if we can bring Narwha...]]></title>
+        <id>https://twitter.com/gakonst/status/1555596326041034752</id>
+        <link href="https://twitter.com/gakonst/status/1555596326041034752"/>
+        <updated>2022-08-05T16:47:20.000Z</updated>
+        <summary type="html"><![CDATA[RT Georgios Konstantopoulos
+NEW @paradigm Research (& Engineering)!
+This time, @a_kirillo and @jneu_net and I teamed up to see if we can bring Narwhal & Bullshark, a novel mempool & consensus algorithm, to the Cosmos ecosystem 🧵 1/18 https://www.paradigm.xyz/2022/07/experiment-narwhal-bullshark-cosmos-stack]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT D_D buidl IRL (🧱,🚀): probably nothing 🏗]]></title>
+        <id>https://twitter.com/DDbuidlIRL/status/1555593624049844224</id>
+        <link href="https://twitter.com/DDbuidlIRL/status/1555593624049844224"/>
+        <updated>2022-08-05T16:36:36.000Z</updated>
+        <summary type="html"><![CDATA[RT D_D buidl IRL (🧱,🚀)
+probably nothing 🏗]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ThePhoenixGuild: We are stoked to announce that we will be setting up a Hacker-House for women in Bengaluru, India in September. 🥳🥳🥳 This ...]]></title>
+        <id>https://twitter.com/PhoenixGuildHQ/status/1555569166673133568</id>
+        <link href="https://twitter.com/PhoenixGuildHQ/status/1555569166673133568"/>
+        <updated>2022-08-05T14:59:25.000Z</updated>
+        <summary type="html"><![CDATA[RT ThePhoenixGuild
+We are stoked to announce that we will be setting up a Hacker-House for women in Bengaluru, India in September. 🥳🥳🥳
+This would be the FIRST web3 female hacker house in India by us 🤩
+Here is a link to the show of interest form: 
+Will we see you ? 💕 https://lu.ma/za2wpk5v]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Paloma #30DaysofWeb3: Rahat love bomb 💜💜💜💜. @Rahatcodes, @schwartzswartz , @womenbuildweb3 thanks for an amazing workshop!!]]></title>
+        <id>https://twitter.com/web3paloma/status/1555327922038259712</id>
+        <link href="https://twitter.com/web3paloma/status/1555327922038259712"/>
+        <updated>2022-08-04T23:00:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Paloma #30DaysofWeb3
+Rahat love bomb 💜💜💜💜. 
+@Rahatcodes, @schwartzswartz , @womenbuildweb3  thanks for an amazing workshop!!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Akord: Special thanks to @nicolasverlhiac for mapping all the projects on Arweave! Great website to refer to if you're looking for an at-a-glance c...]]></title>
+        <id>https://twitter.com/AkordTeam/status/1555143954106130432</id>
+        <link href="https://twitter.com/AkordTeam/status/1555143954106130432"/>
+        <updated>2022-08-04T10:49:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Akord
+Special thanks to @nicolasverlhiac for mapping all the projects on Arweave! Great website to refer to if you're looking for an at-a-glance chart!
+
+#Arweave #Web3 https://list.weavescan.com/about]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#35 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/35-probably-nothing</id>
