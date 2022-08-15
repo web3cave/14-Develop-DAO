@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-14T06:14:21.881Z</id>
+    <id>urn:2022-08-15T06:15:40.243Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-14T06:14:21.881Z</updated>
+    <updated>2022-08-15T06:15:40.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT xNFT Backpack 🎒: An overview of Backpack, xNFTs, and how to build them with @armaniferrante🔵]]></title>
+        <id>https://twitter.com/xNFT_Backpack/status/1558920830628892676</id>
+        <link href="https://twitter.com/xNFT_Backpack/status/1558920830628892676"/>
+        <updated>2022-08-14T20:57:44.000Z</updated>
+        <summary type="html"><![CDATA[RT xNFT Backpack 🎒
+An overview of Backpack, xNFTs, and how to build them  with @armaniferrante🔵 https://youtu.be/g5TkzQRGwS4]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1558885665181401088</id>
+        <link href="https://twitter.com/developer_dao/status/1558885665181401088"/>
+        <updated>2022-08-14T18:37:59.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT shann.lens 🇦🇷ETHLatam🇦🇷: Join me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation o...]]></title>
+        <id>https://twitter.com/shanvasion/status/1558859415633231872</id>
+        <link href="https://twitter.com/shanvasion/status/1558859415633231872"/>
+        <updated>2022-08-14T16:53:41.000Z</updated>
+        <summary type="html"><![CDATA[RT shann.lens 🇦🇷ETHLatam🇦🇷
+Join me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of web3 builders 🇦🇷💫🚀 Register ⬇️
+EmbassyDAO.eth: JUST IN: The last @ethlatam side event will be happening at @EmbassyDAO Node 1 🎉
+⏱️ When? Sunday August 14, 2022 - 18hs
+📍Where? 11 de Septiembre 858, CABA
+We'll learn about what the Web3 community in 🇦🇷 is building while sharing great wine 🍷& beer 🍻
+ https://www.eventbrite.com/e/embassydao-demo-day-ethlatam-side-event-tickets-400969038187]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: this photo is everything 🥹 repping the dao that taught me everything about web3 in my first ever conference talk. this was something s...]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1558813322266480640</id>
+        <link href="https://twitter.com/dhaiwat10/status/1558813322266480640"/>
+        <updated>2022-08-14T13:50:32.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+this photo is everything 🥹
+repping the dao that taught me everything about web3 in my first ever conference talk. this was something straight out of a dream]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Paris @ EthLatam 🇦🇷: he’s a 10 but he doesn’t understand the difference between a protocol and a frontend]]></title>
+        <id>https://twitter.com/parisrouz/status/1558791334684569601</id>
+        <link href="https://twitter.com/parisrouz/status/1558791334684569601"/>
+        <updated>2022-08-14T12:23:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Paris @ EthLatam 🇦🇷
+he’s a 10 but he doesn’t understand the difference between a protocol and a frontend]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT salatti.(eth || lens) 🇮🇹: I've been the owner of a @developer_dao genesis NFT for a while now, but I have not tried to be part of the communi...]]></title>
+        <id>https://twitter.com/DanieleSalatti/status/1558684759164723203</id>
+        <link href="https://twitter.com/DanieleSalatti/status/1558684759164723203"/>
+        <updated>2022-08-14T05:19:40.000Z</updated>
+        <summary type="html"><![CDATA[RT salatti.(eth || lens) 🇮🇹
+I've been the owner of a @developer_dao genesis NFT for a while now, but I have not tried to be part of the community at all.
+This shall change.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Andy Chen: We invest over 800 hours in the year of 2021 and 2020 but still failed to hire one more DevOps engineer on our team... More voices like ...]]></title>
         <id>https://twitter.com/amazingandyyyer/status/1558680428038434818</id>
@@ -120,119 +191,14 @@ RVSP now! 👇 https://www.eventbrite.com/e/baf-hackersphere-tickets-400444639
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: How to build censorship-resistant software - Deploy immutable, permanent front ends on @A...]]></title>
-        <id>https://twitter.com/dabit3/status/1558475500737142784</id>
-        <link href="https://twitter.com/dabit3/status/1558475500737142784"/>
-        <updated>2022-08-13T15:28:09.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-How to build censorship-resistant software
-- Deploy immutable, permanent front ends on @ArweaveTeam 
-- Push your code to @radicle 
-- Build APIs on @graphprotocol network
-- Store files on @ArweaveTeam or IPFS
-- @Livepeer video streams
-And run your own node(s)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT harpaljadeja.eth / .lens 🛳 @Web3Conf India: I hope you are coming to @developer_dao x @CeloOrg @vibesIRL event! @web3conf_india]]></title>
-        <id>https://twitter.com/HarpalJadeja11/status/1558449925767450624</id>
-        <link href="https://twitter.com/HarpalJadeja11/status/1558449925767450624"/>
-        <updated>2022-08-13T13:46:31.000Z</updated>
-        <summary type="html"><![CDATA[RT harpaljadeja.eth / .lens 🛳 @Web3Conf India
-I hope you are coming to @developer_dao x @CeloOrg @vibesIRL event!
-@web3conf_india]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Still blown away whenever I see someone with @developer_dao in their Twitter bio, mention...]]></title>
-        <id>https://twitter.com/dabit3/status/1558440746553942018</id>
-        <link href="https://twitter.com/dabit3/status/1558440746553942018"/>
-        <updated>2022-08-13T13:10:03.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-Still blown away whenever I see someone with @developer_dao in their Twitter bio, mention it in their talk, create DAO a meetup somewhere around the world, or post a pic wearing swag.
-Almost 1 year later & we're stronger than ever 🙇‍♂️❤️
-Thanks to everyone who helped get us here.
-dhai.eth: everytime i see someone mention @developer_dao in their bio in their slides at confs i wanna cry 😭 we went from nothing in september last year to now having talented members repping us around the world. i'm so lucky that i can call D_D home]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nazeeh.eth: Excited for first @vibesIRL in india]]></title>
-        <id>https://twitter.com/nazeeh21/status/1558417056789577728</id>
-        <link href="https://twitter.com/nazeeh21/status/1558417056789577728"/>
-        <updated>2022-08-13T11:35:54.000Z</updated>
-        <summary type="html"><![CDATA[RT nazeeh.eth
-Excited for first @vibesIRL in india]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: 🧱🚀 @developer_dao squad at @web3conf_india 🏝]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1558403390345842688</id>
-        <link href="https://twitter.com/dhaiwat10/status/1558403390345842688"/>
-        <updated>2022-08-13T10:41:36.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-🧱🚀 @developer_dao squad at @web3conf_india 🏝]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT harpaljadeja.eth / .lens 🛳 @Web3Conf India: So many registrations we had to close the form. I hope you filled it. @web3conf_india @developer_dao...]]></title>
-        <id>https://twitter.com/HarpalJadeja11/status/1558374386193006592</id>
-        <link href="https://twitter.com/HarpalJadeja11/status/1558374386193006592"/>
-        <updated>2022-08-13T08:46:21.000Z</updated>
-        <summary type="html"><![CDATA[RT harpaljadeja.eth / .lens 🛳 @Web3Conf India
-So many registrations we had to close the form.
-I hope you filled it.
-@web3conf_india @developer_dao @CeloOrg]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DKH ✍️🦇🔊: Excited to publish my first blog post for @developer_dao 🎉🙌🏽😄 If you’re curious about crypto and blockchain technolo...]]></title>
-        <id>https://twitter.com/danielkhunter/status/1558235826924015618</id>
-        <link href="https://twitter.com/danielkhunter/status/1558235826924015618"/>
-        <updated>2022-08-12T23:35:46.000Z</updated>
-        <summary type="html"><![CDATA[RT DKH ✍️🦇🔊
-Excited to publish my first blog post for @developer_dao 🎉🙌🏽😄
-If you’re curious about crypto and blockchain technology this is a 3 minute intro that is easy to digest without any previous knowledge.
-Developer DAO (🧱, 🚀): A Quick Intro to Crypto✨
-by @developer_dao member @danielkhunter 
-Crypto comes from the Greek word kryptós (κρυπτός), and means "hidden" or "to hide," and graphy comes from the Greek word gráphein (γράφειν) means "to write." 📜
- https://blog.developerdao.com/a-quick-intro-to-crypto]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tom Quirk | aeolian.eth: built something today, probably nothing, maybe something: goal 👉 etherscan, but purpose-built for contract reads/writes...]]></title>
+        <title type="html"><![CDATA[RT Tom Q | aeolian.eth: built something today, probably nothing, maybe something: goal 👉 etherscan, but purpose-built for contract reads/writes.]]></title>
         <id>https://twitter.com/aeolianeth/status/1558097957362483200</id>
         <link href="https://twitter.com/aeolianeth/status/1558097957362483200"/>
         <updated>2022-08-12T14:27:55.000Z</updated>
-        <summary type="html"><![CDATA[RT Tom Quirk | aeolian.eth
+        <summary type="html"><![CDATA[RT Tom Q | aeolian.eth
 built something today, probably nothing, maybe something: 
 goal 👉 etherscan, but purpose-built for contract reads/writes.
 nnnnicholas.eth⛱: who is building the best interface for interacting with arbitrary contracts on evm chains? etherscan is the best so far but i'm sure we can do better.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT lukasschor.eth | Safe: Looking for a Developer Advocate for @gnosisSafe. Anyone has some tips?]]></title>
-        <id>https://twitter.com/SchorLukas/status/1557465408042565632</id>
-        <link href="https://twitter.com/SchorLukas/status/1557465408042565632"/>
-        <updated>2022-08-10T20:34:24.000Z</updated>
-        <summary type="html"><![CDATA[RT lukasschor.eth | Safe
-Looking for a Developer Advocate for @gnosisSafe. Anyone has some tips? https://safe-global.breezy.hr/p/2058b279010f01-developer-advocate-m-f-d]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

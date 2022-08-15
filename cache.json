@@ -77,6 +77,66 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/xNFT_Backpack/status/1558920830628892676",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT xNFT Backpack 🎒\nAn overview of Backpack, xNFTs, and how to build them  with @armaniferrante🔵 https://youtu.be/g5TkzQRGwS4",
+          "link": "https://twitter.com/xNFT_Backpack/status/1558920830628892676",
+          "publishedOn": "2022-08-14T20:57:44.000Z",
+          "wordCount": 383,
+          "title": "RT xNFT Backpack 🎒: An overview of Backpack, xNFTs, and how to build them with @armaniferrante🔵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1558885665181401088",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1558885665181401088",
+          "publishedOn": "2022-08-14T18:37:59.000Z",
+          "wordCount": 383,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/shanvasion/status/1558859415633231872",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT shann.lens 🇦🇷ETHLatam🇦🇷\nJoin me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of web3 builders 🇦🇷💫🚀 Register ⬇️\nEmbassyDAO.eth: JUST IN: The last @ethlatam side event will be happening at @EmbassyDAO Node 1 🎉\n⏱️ When? Sunday August 14, 2022 - 18hs\n📍Where? 11 de Septiembre 858, CABA\nWe'll learn about what the Web3 community in 🇦🇷 is building while sharing great wine 🍷& beer 🍻\n https://www.eventbrite.com/e/embassydao-demo-day-ethlatam-side-event-tickets-400969038187",
+          "link": "https://twitter.com/shanvasion/status/1558859415633231872",
+          "publishedOn": "2022-08-14T16:53:41.000Z",
+          "wordCount": 383,
+          "title": "RT shann.lens 🇦🇷ETHLatam🇦🇷: Join me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation o...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1558813322266480640",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\nthis photo is everything 🥹\nrepping the dao that taught me everything about web3 in my first ever conference talk. this was something straight out of a dream",
+          "link": "https://twitter.com/dhaiwat10/status/1558813322266480640",
+          "publishedOn": "2022-08-14T13:50:32.000Z",
+          "wordCount": 383,
+          "title": "RT dhai.eth: this photo is everything 🥹 repping the dao that taught me everything about web3 in my first ever conference talk. this was something s...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/parisrouz/status/1558791334684569601",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Paris @ EthLatam 🇦🇷\nhe’s a 10 but he doesn’t understand the difference between a protocol and a frontend",
+          "link": "https://twitter.com/parisrouz/status/1558791334684569601",
+          "publishedOn": "2022-08-14T12:23:09.000Z",
+          "wordCount": 383,
+          "title": "RT Paris @ EthLatam 🇦🇷: he’s a 10 but he doesn’t understand the difference between a protocol and a frontend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DanieleSalatti/status/1558684759164723203",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT salatti.(eth || lens) 🇮🇹\nI've been the owner of a @developer_dao genesis NFT for a while now, but I have not tried to be part of the community at all.\nThis shall change.",
+          "link": "https://twitter.com/DanieleSalatti/status/1558684759164723203",
+          "publishedOn": "2022-08-14T05:19:40.000Z",
+          "wordCount": 383,
+          "title": "RT salatti.(eth || lens) 🇮🇹: I've been the owner of a @developer_dao genesis NFT for a while now, but I have not tried to be part of the communi...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/amazingandyyyer/status/1558680428038434818",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Andy Chen\nWe invest over 800 hours in the year of 2021 and 2020 but still failed to hire one more DevOps engineer on our team...\nMore voices like this one may help:\nHow to become a DevOps engineer \n@developer_dao @learnk8s @DevOpsStudy @CloudNativeFdn https://link.medium.com/DT7990AFtsb",
@@ -177,93 +237,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/dabit3/status/1558475500737142784",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nHow to build censorship-resistant software\n- Deploy immutable, permanent front ends on @ArweaveTeam \n- Push your code to @radicle \n- Build APIs on @graphprotocol network\n- Store files on @ArweaveTeam or IPFS\n- @Livepeer video streams\nAnd run your own node(s)",
-          "link": "https://twitter.com/dabit3/status/1558475500737142784",
-          "publishedOn": "2022-08-13T15:28:09.000Z",
-          "wordCount": 383,
-          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: How to build censorship-resistant software - Deploy immutable, permanent front ends on @A...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/HarpalJadeja11/status/1558449925767450624",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT harpaljadeja.eth / .lens 🛳 @Web3Conf India\nI hope you are coming to @developer_dao x @CeloOrg @vibesIRL event!\n@web3conf_india",
-          "link": "https://twitter.com/HarpalJadeja11/status/1558449925767450624",
-          "publishedOn": "2022-08-13T13:46:31.000Z",
-          "wordCount": 383,
-          "title": "RT harpaljadeja.eth / .lens 🛳 @Web3Conf India: I hope you are coming to @developer_dao x @CeloOrg @vibesIRL event! @web3conf_india",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1558440746553942018",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nStill blown away whenever I see someone with @developer_dao in their Twitter bio, mention it in their talk, create DAO a meetup somewhere around the world, or post a pic wearing swag.\nAlmost 1 year later & we're stronger than ever 🙇‍♂️❤️\nThanks to everyone who helped get us here.\ndhai.eth: everytime i see someone mention @developer_dao in their bio in their slides at confs i wanna cry 😭 we went from nothing in september last year to now having talented members repping us around the world. i'm so lucky that i can call D_D home",
-          "link": "https://twitter.com/dabit3/status/1558440746553942018",
-          "publishedOn": "2022-08-13T13:10:03.000Z",
-          "wordCount": 383,
-          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Still blown away whenever I see someone with @developer_dao in their Twitter bio, mention...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nazeeh21/status/1558417056789577728",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nazeeh.eth\nExcited for first @vibesIRL in india",
-          "link": "https://twitter.com/nazeeh21/status/1558417056789577728",
-          "publishedOn": "2022-08-13T11:35:54.000Z",
-          "wordCount": 383,
-          "title": "RT nazeeh.eth: Excited for first @vibesIRL in india",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1558403390345842688",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\n🧱🚀 @developer_dao squad at @web3conf_india 🏝",
-          "link": "https://twitter.com/dhaiwat10/status/1558403390345842688",
-          "publishedOn": "2022-08-13T10:41:36.000Z",
-          "wordCount": 383,
-          "title": "RT dhai.eth: 🧱🚀 @developer_dao squad at @web3conf_india 🏝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/HarpalJadeja11/status/1558374386193006592",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT harpaljadeja.eth / .lens 🛳 @Web3Conf India\nSo many registrations we had to close the form.\nI hope you filled it.\n@web3conf_india @developer_dao @CeloOrg",
-          "link": "https://twitter.com/HarpalJadeja11/status/1558374386193006592",
-          "publishedOn": "2022-08-13T08:46:21.000Z",
-          "wordCount": 383,
-          "title": "RT harpaljadeja.eth / .lens 🛳 @Web3Conf India: So many registrations we had to close the form. I hope you filled it. @web3conf_india @developer_dao...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/danielkhunter/status/1558235826924015618",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DKH ✍️🦇🔊\nExcited to publish my first blog post for @developer_dao 🎉🙌🏽😄\nIf you’re curious about crypto and blockchain technology this is a 3 minute intro that is easy to digest without any previous knowledge.\nDeveloper DAO (🧱, 🚀): A Quick Intro to Crypto✨\nby @developer_dao member @danielkhunter \nCrypto comes from the Greek word kryptós (κρυπτός), and means \"hidden\" or \"to hide,\" and graphy comes from the Greek word gráphein (γράφειν) means \"to write.\" 📜\n https://blog.developerdao.com/a-quick-intro-to-crypto",
-          "link": "https://twitter.com/danielkhunter/status/1558235826924015618",
-          "publishedOn": "2022-08-12T23:35:46.000Z",
-          "wordCount": 383,
-          "title": "RT DKH ✍️🦇🔊: Excited to publish my first blog post for @developer_dao 🎉🙌🏽😄 If you’re curious about crypto and blockchain technolo...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/aeolianeth/status/1558097957362483200",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Tom Quirk | aeolian.eth\nbuilt something today, probably nothing, maybe something: \ngoal 👉 etherscan, but purpose-built for contract reads/writes.\nnnnnicholas.eth⛱: who is building the best interface for interacting with arbitrary contracts on evm chains? etherscan is the best so far but i'm sure we can do better.",
+          "description": "RT Tom Q | aeolian.eth\nbuilt something today, probably nothing, maybe something: \ngoal 👉 etherscan, but purpose-built for contract reads/writes.\nnnnnicholas.eth⛱: who is building the best interface for interacting with arbitrary contracts on evm chains? etherscan is the best so far but i'm sure we can do better.",
           "link": "https://twitter.com/aeolianeth/status/1558097957362483200",
           "publishedOn": "2022-08-12T14:27:55.000Z",
           "wordCount": 383,
-          "title": "RT Tom Quirk | aeolian.eth: built something today, probably nothing, maybe something: goal 👉 etherscan, but purpose-built for contract reads/writes...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SchorLukas/status/1557465408042565632",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT lukasschor.eth | Safe\nLooking for a Developer Advocate for @gnosisSafe. Anyone has some tips? https://safe-global.breezy.hr/p/2058b279010f01-developer-advocate-m-f-d",
-          "link": "https://twitter.com/SchorLukas/status/1557465408042565632",
-          "publishedOn": "2022-08-10T20:34:24.000Z",
-          "wordCount": 383,
-          "title": "RT lukasschor.eth | Safe: Looking for a Developer Advocate for @gnosisSafe. Anyone has some tips?",
+          "title": "RT Tom Q | aeolian.eth: built something today, probably nothing, maybe something: goal 👉 etherscan, but purpose-built for contract reads/writes.",
           "imageUrl": null
         },
         {
