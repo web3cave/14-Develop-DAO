@@ -77,6 +77,66 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1559667840340344835",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @AlchemyPlatform gm",
+          "link": "https://twitter.com/developer_dao/status/1559667840340344835",
+          "publishedOn": "2022-08-16T22:26:05.000Z",
+          "wordCount": 383,
+          "title": "Re @AlchemyPlatform gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/princess_nft/status/1559646200780947458",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT NFTPrincess.eth\n https://twitter.com/i/spaces/1gqxvljYBkgGB",
+          "link": "https://twitter.com/princess_nft/status/1559646200780947458",
+          "publishedOn": "2022-08-16T21:00:05.000Z",
+          "wordCount": 383,
+          "title": "RT NFTPrincess.eth:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ThugDebugger/status/1559617986079637508",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT const {him: i_am} = {him: “justin”}\nConfirmed @RenderATL 23’ speakers:\n@dantley \n@jewelmelanie \n@MinaMarkham \n@jina \n@kvlly \n@6Gems \n@indigitalcolor \n@AishaBlake \n@rachelnabors \n@Sherrell_Dorsey \n@sarah_edo \n@dabit3 \n@GantLaborde \n@seldo \n@whoisSheena \n@marktechson \n@chantastic \n@SpotOnRW \n@bria_sullivan\nconst {him: i_am} = {him: “justin”}: Confirmed @renderATL 22’ speakers:\n@DThompsonDev \n@jamesqquick \n@kentcdodds \n@shaundai \n@bria_sullivan \n@cassidoo \n@jlengstorf \n@ken_wheeler (by demand)\n@saronyitbarek \n@GantLaborde \n@ParissAthena \n@Dayhaysoos \n@cherthedev \n@bdougieYO \n@TejasKumar_ \n@le_debut \n@chantastic",
+          "link": "https://twitter.com/ThugDebugger/status/1559617986079637508",
+          "publishedOn": "2022-08-16T19:07:58.000Z",
+          "wordCount": 383,
+          "title": "RT const {him: i_am} = {him: “justin”}: Confirmed @RenderATL 23’ speakers: @dantley @jewelmelanie @MinaMarkham @jina @kvlly @6Gems @indigitalcolor ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/j_austincain/status/1559563758816485379",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Austin Cain (📜,📜)\nThis morning I joined @developer_dao ; if you work for a company building dev tools, you should too.\nMy rationale:\n- Polygon is a developer platform \n- Our partners enable developers\n- Our users are developers\nHow best to understand the pain points of your users? Become one.",
+          "link": "https://twitter.com/j_austincain/status/1559563758816485379",
+          "publishedOn": "2022-08-16T15:32:30.000Z",
+          "wordCount": 383,
+          "title": "RT Austin Cain (📜,📜): This morning I joined @developer_dao ; if you work for a company building dev tools, you should too. My rationale: - Polyg...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SBF_FTX/status/1559563407925338113",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT SBF\nWe put together a Getting To Know Crypto site! https://gettoknowcrypto.us/",
+          "link": "https://twitter.com/SBF_FTX/status/1559563407925338113",
+          "publishedOn": "2022-08-16T15:31:06.000Z",
+          "wordCount": 383,
+          "title": "RT SBF: We put together a Getting To Know Crypto site!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ropats16/status/1559540456253403136",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nCompanies hiring for remote Dev Rel, slide into DMs!\nHere's the work already put in:\n- Co-Lead, planning, organisation, development and content creation @ddschoolofcode\n- Setup workshops program in @developer_dao and videos are available for all on YT",
+          "link": "https://twitter.com/ropats16/status/1559540456253403136",
+          "publishedOn": "2022-08-16T13:59:54.000Z",
+          "wordCount": 383,
+          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: Companies hiring for remote Dev Rel, slide into DMs! Here's the work already put in: - Co-Lead, planning, organisation,...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/atharva_35/status/1559402864379777024",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Atharva Deshpande | atharva_35.lens\nMandatory swag show off post.\n@web3conf_india @shardeum @NEARProtocol @QuickNode @ETHIndiaco @developer_dao @CeloOrg @fibitpro @WalletConnect @goodghosting @devfolio @devfolio_shop",
@@ -97,13 +157,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/shanvasion/status/1559380280472920065",
+          "id": "https://twitter.com/dabit3/status/1559383783140458497",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shann.lens 🇦🇷ETHLatam🇦🇷\nComing to Bogotá 🇨🇴 and want to continue the \n@ethlatam convo on Web3 Social 🌿🪩❤️✨? \nA special squad (@WaverlyMaven @0xChristina @parisrouz @provenauthority and more) has put together a proposal for a Community Hub @EFDevcon and we'd love ur love!👇 https://forum.devcon.org/t/community-hub-proposal-web3-social/938",
-          "link": "https://twitter.com/shanvasion/status/1559380280472920065",
-          "publishedOn": "2022-08-16T03:23:25.000Z",
+          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nWeb3 Social Hub 🌿🪩\nIf you're planning to be in Bogotá 🇨🇴 for @EFDevcon events and want this to happen, hop into the forum and drop a comment or a like! ❤️\nThank you @shanvasion @Livepeer @AaveAave @LensProtocol @provenauthority @WaverlyMaven + others for spearheading this. 🙏\nshann.lens ▶️ ETHMexico🇲🇽: Coming to Bogotá 🇨🇴 and want to continue the \n@ethlatam convo on Web3 Social 🌿🪩❤️✨? \nA special squad (@WaverlyMaven @0xChristina @parisrouz @provenauthority and more) has put together a proposal for a Community Hub @EFDevcon and we'd love ur love!👇\n https://forum.devcon.org/t/community-hub-proposal-web3-social/938",
+          "link": "https://twitter.com/dabit3/status/1559383783140458497",
+          "publishedOn": "2022-08-16T03:37:20.000Z",
           "wordCount": 383,
-          "title": "RT shann.lens 🇦🇷ETHLatam🇦🇷: Coming to Bogotá 🇨🇴 and want to continue the @ethlatam convo on Web3 Social 🌿🪩❤️✨? A special s...",
+          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Web3 Social Hub 🌿🪩 If you're planning to be in Bogotá 🇨🇴 for @EFDevcon event...",
           "imageUrl": null
         },
         {
@@ -179,21 +239,11 @@
         {
           "id": "https://twitter.com/shanvasion/status/1558859415633231872",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shann.lens 🇦🇷ETHLatam🇦🇷\nJoin me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of web3 builders 🇦🇷💫🚀 Register ⬇️\nEmbassyDAO.eth: JUST IN: The last @ethlatam side event will be happening at @EmbassyDAO Node 1 🎉\n⏱️ When? Sunday August 14, 2022 - 18hs\n📍Where? 11 de Septiembre 858, CABA\nWe'll learn about what the Web3 community in 🇦🇷 is building while sharing great wine 🍷& beer 🍻\n https://www.eventbrite.com/e/embassydao-demo-day-ethlatam-side-event-tickets-400969038187",
+          "description": "RT shann.lens ▶️ ETHMexico🇲🇽\nJoin me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of web3 builders 🇦🇷💫🚀 Register ⬇️\nEmbassyDAO.eth: JUST IN: The last @ethlatam side event will be happening at @EmbassyDAO Node 1 🎉\n⏱️ When? Sunday August 14, 2022 - 18hs\n📍Where? 11 de Septiembre 858, CABA\nWe'll learn about what the Web3 community in 🇦🇷 is building while sharing great wine 🍷& beer 🍻\n https://www.eventbrite.com/e/embassydao-demo-day-ethlatam-side-event-tickets-400969038187",
           "link": "https://twitter.com/shanvasion/status/1558859415633231872",
           "publishedOn": "2022-08-14T16:53:41.000Z",
           "wordCount": 383,
-          "title": "RT shann.lens 🇦🇷ETHLatam🇦🇷: Join me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation o...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1558813322266480640",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\nthis photo is everything 🥹\nrepping the dao that taught me everything about web3 in my first ever conference talk. this was something straight out of a dream",
-          "link": "https://twitter.com/dhaiwat10/status/1558813322266480640",
-          "publishedOn": "2022-08-14T13:50:32.000Z",
-          "wordCount": 383,
-          "title": "RT dhai.eth: this photo is everything 🥹 repping the dao that taught me everything about web3 in my first ever conference talk. this was something s...",
+          "title": "RT shann.lens ▶️ ETHMexico🇲🇽: Join me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of ...",
           "imageUrl": null
         },
         {
@@ -204,36 +254,6 @@
           "publishedOn": "2022-08-14T12:23:09.000Z",
           "wordCount": 383,
           "title": "RT Paris 🔜 EthMexico 🇲🇽: he’s a 10 but he doesn’t understand the difference between a protocol and a frontend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DanieleSalatti/status/1558684759164723203",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT salatti.(eth || lens) 🇮🇹\nI've been the owner of a @developer_dao genesis NFT for a while now, but I have not tried to be part of the community at all.\nThis shall change.",
-          "link": "https://twitter.com/DanieleSalatti/status/1558684759164723203",
-          "publishedOn": "2022-08-14T05:19:40.000Z",
-          "wordCount": 383,
-          "title": "RT salatti.(eth || lens) 🇮🇹: I've been the owner of a @developer_dao genesis NFT for a while now, but I have not tried to be part of the communi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/amazingandyyyer/status/1558680428038434818",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Andy Chen\nWe invest over 800 hours in the year of 2021 and 2020 but still failed to hire one more DevOps engineer on our team...\nMore voices like this one may help:\nHow to become a DevOps engineer \n@developer_dao @learnk8s @DevOpsStudy @CloudNativeFdn https://link.medium.com/DT7990AFtsb",
-          "link": "https://twitter.com/amazingandyyyer/status/1558680428038434818",
-          "publishedOn": "2022-08-14T05:02:27.000Z",
-          "wordCount": 383,
-          "title": "RT Andy Chen: We invest over 800 hours in the year of 2021 and 2020 but still failed to hire one more DevOps engineer on our team... More voices like ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1558670273678757888",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\ndanced our hearts out last night @vibesIRL 🪩",
-          "link": "https://twitter.com/dhaiwat10/status/1558670273678757888",
-          "publishedOn": "2022-08-14T04:22:06.000Z",
-          "wordCount": 383,
-          "title": "RT dhai.eth: danced our hearts out last night @vibesIRL 🪩",
           "imageUrl": null
         },
         {
