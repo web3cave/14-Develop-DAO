@@ -52,22 +52,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd1e7c9e-6e76-4de8-a3d3-f5325229cde2_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/33-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Election results and French connections -> Yes oui can",
-          "link": "https://developerdao.substack.com/p/33-probably-nothing",
-          "publishedOn": "2022-07-19T05:16:56.000Z",
-          "wordCount": null,
-          "title": "#33 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90cf217d-e849-42f8-bc7a-23d7a4b405c5_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90cf217d-e849-42f8-bc7a-23d7a4b405c5_1100x550.png"
         }
       ]
     },
@@ -77,6 +61,56 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/aminiman89/status/1560089863277293568",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Amin\nToday I officially joined @developer_dao! 🎊\nEntered the discord - my god, it is ACTIVE. Cannot wait and see what’s in store.\nAlso, big shout out to @dabit3 for building this community, and to all the awesome devs there who are learning + growing together.\nLETS’ GO!! 🙌🚀",
+          "link": "https://twitter.com/aminiman89/status/1560089863277293568",
+          "publishedOn": "2022-08-18T02:23:03.000Z",
+          "wordCount": 383,
+          "title": "RT Amin: Today I officially joined @developer_dao! 🎊 Entered the discord - my god, it is ACTIVE. Cannot wait and see what’s in store. Also, big sh...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1560053139797073920",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ\nI just voted \"For\" on \"P-18: The Developer DAO Foundation\" \n\n#moment https://snapshot.org/#/devdao.eth/proposal/0x0354fad305c13eae8ba78b2395117b45191465433c20f76efcf3eba4c5600436",
+          "link": "https://twitter.com/kempsterrrr/status/1560053139797073920",
+          "publishedOn": "2022-08-17T23:57:07.000Z",
+          "wordCount": 383,
+          "title": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: I just voted \"For\" on \"P-18: The Developer DAO Foundation\" #moment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ellayayayshen/status/1560036920499003393",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ella in nyc . building a dextension 👀✨ stay tuned\nDAPP #0 SHIPPED.\nREADY TO BUILD.\nSO GRATEFUL ✨ TO @womenbuildweb3 @haegeez @schwartzswartz @AmoweO 💜 for the ALPHA and help and support. #30daysofweb3 SLAPPED.\n@developer_dao for making this all POSSIBLE. this spinoff has taken ROOT. alive and kicking. 😎",
+          "link": "https://twitter.com/ellayayayshen/status/1560036920499003393",
+          "publishedOn": "2022-08-17T22:52:40.000Z",
+          "wordCount": 383,
+          "title": "RT ella in nyc . building a dextension 👀✨ stay tuned: DAPP #0 SHIPPED. READY TO BUILD. SO GRATEFUL ✨ TO @womenbuildweb3 @haegeez @schwartzswartz ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1560007384591990788",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @singhk_uttam Hey, sorry this happened to you, DM us your new uncompromised wallet address and we'd be happy to gift you one.",
+          "link": "https://twitter.com/developer_dao/status/1560007384591990788",
+          "publishedOn": "2022-08-17T20:55:18.000Z",
+          "wordCount": 383,
+          "title": "Re @singhk_uttam Hey, sorry this happened to you, DM us your new uncompromised wallet address and we'd be happy to gift you one.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SuhailKakar/status/1559919226982473728",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Suhail Kakar\nWeb2           Web3 \nAWS S3   →  Arweave \nGodaddy →  ENS\nMedium   →  Sigle\nPaypal     →   Metamask\nSpotify    →   Audius\nUpwork   →   Braintrust\nGoogle    →   Presearch\nTwitter     →   Lenster\nAWS Managed Blockchain  →  Chainstack",
+          "link": "https://twitter.com/SuhailKakar/status/1559919226982473728",
+          "publishedOn": "2022-08-17T15:05:00.000Z",
+          "wordCount": 383,
+          "title": "RT Suhail Kakar: Web2 Web3 AWS S3 → Arweave Godaddy → ENS Medium → Sigle Paypal → Metamask Spotify → Audius Upwork → Braintrust Google → Presea...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1559667840340344835",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @AlchemyPlatform gm",
@@ -84,16 +118,6 @@
           "publishedOn": "2022-08-16T22:26:05.000Z",
           "wordCount": 383,
           "title": "Re @AlchemyPlatform gm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/princess_nft/status/1559646200780947458",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT NFTPrincess.eth\n https://twitter.com/i/spaces/1gqxvljYBkgGB",
-          "link": "https://twitter.com/princess_nft/status/1559646200780947458",
-          "publishedOn": "2022-08-16T21:00:05.000Z",
-          "wordCount": 383,
-          "title": "RT NFTPrincess.eth:",
           "imageUrl": null
         },
         {
@@ -159,7 +183,7 @@
         {
           "id": "https://twitter.com/dabit3/status/1559383783140458497",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nWeb3 Social Hub 🌿🪩\nIf you're planning to be in Bogotá 🇨🇴 for @EFDevcon events and want this to happen, hop into the forum and drop a comment or a like! ❤️\nThank you @shanvasion @Livepeer @AaveAave @LensProtocol @provenauthority @WaverlyMaven + others for spearheading this. 🙏\nshann.lens ▶️ ETHMexico🇲🇽: Coming to Bogotá 🇨🇴 and want to continue the \n@ethlatam convo on Web3 Social 🌿🪩❤️✨? \nA special squad (@WaverlyMaven @0xChristina @parisrouz @provenauthority and more) has put together a proposal for a Community Hub @EFDevcon and we'd love ur love!👇\n https://forum.devcon.org/t/community-hub-proposal-web3-social/938",
+          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nWeb3 Social Hub 🌿🪩\nIf you're planning to be in Bogotá 🇨🇴 for @EFDevcon events and want this to happen, hop into the forum and drop a comment or a like! ❤️\nThank you @shanvasion @Livepeer @AaveAave @LensProtocol @provenauthority @WaverlyMaven + others for spearheading this. 🙏\nshann.lens @ ETHMexico🇲🇽: Coming to Bogotá 🇨🇴 and want to continue the \n@ethlatam convo on Web3 Social 🌿🪩❤️✨? \nA special squad (@WaverlyMaven @0xChristina @parisrouz @provenauthority and more) has put together a proposal for a Community Hub @EFDevcon and we'd love ur love!👇\n https://forum.devcon.org/t/community-hub-proposal-web3-social/938",
           "link": "https://twitter.com/dabit3/status/1559383783140458497",
           "publishedOn": "2022-08-16T03:37:20.000Z",
           "wordCount": 383,
@@ -177,26 +201,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/OrbisClub/status/1559180377679224832",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Orbis, the web3 social protocol\nSo much to build. How do we find the right builders?\n@aleksiloytynoja has the answers! He's the founder of @kleoverse, a proof-of-talent platform with a community of over 16,000 DAO contributors. \nAMA thread now open for your questions https://orbis.club/post/kjzl6cwe1jw1479xv1ykqsuk1ld9gzwyy35oas7chv9tdm3uln4qbca815qaqc0",
-          "link": "https://twitter.com/OrbisClub/status/1559180377679224832",
-          "publishedOn": "2022-08-15T14:09:04.000Z",
-          "wordCount": 383,
-          "title": "RT Orbis, the web3 social protocol: So much to build. How do we find the right builders? @aleksiloytynoja has the answers! He's the founder of @kleove...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/meteorjs/status/1559163059385556993",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Meteor\nWe are calling all WEB3 developers! 👾\nBring your web3 projects to Meteor and have a chance at winning prizes in our hackathon!\nClick here to register: \n#meteorjs #hackathon #javascript #nodejs #web3 #nft\n@dabit3 @developer_dao https://social.meteor.com/meteor-hackathon-2022",
-          "link": "https://twitter.com/meteorjs/status/1559163059385556993",
-          "publishedOn": "2022-08-15T13:00:15.000Z",
-          "wordCount": 383,
-          "title": "RT Meteor: We are calling all WEB3 developers! 👾 Bring your web3 projects to Meteor and have a chance at winning prizes in our hackathon! Click her...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/DAppaDanDev/status/1559104369244741633",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT DappaDan (🧱,🚀)\nRe @dhaiwat10 @ArweaveTeam",
@@ -207,53 +211,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/Aayush_gupta_ji/status/1559014792785842182",
+          "id": "https://twitter.com/Jordan___Rob/status/1558703196545105920",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Aayush Gupta @Web3Conf_India | aayush.lens 🌿\nFinally get some pictures of @developer_dao irl event in Goa. @developer_dao to the moon 🚀🚀",
-          "link": "https://twitter.com/Aayush_gupta_ji/status/1559014792785842182",
-          "publishedOn": "2022-08-15T03:11:06.000Z",
+          "description": "RT NerdWithDopeHair\nThis comes a bit late but I'm officially among the newest members of @developer_dao thanks to @womenbuildweb3 and @dabit3 🥳😁. This comes after trying multiple times to join through scholarships & failing. Everything comes full circle it seems!! A huge boost to my web3 journey!\n\nWBW3 #30DaysOfWeb3: At 9am PST (~7 hours from now), we’ll be awarding @developer_dao NFTs, @surge_women NFTs, and @ensdomains to those participating in #30DaysOfWeb3 🎉🏃‍♀️💨\nJoin the livestream & we’ll give away some prizes to the chat\n https://m.youtube.com/watch?v=fjLAEKJO15k",
+          "link": "https://twitter.com/Jordan___Rob/status/1558703196545105920",
+          "publishedOn": "2022-08-14T06:32:56.000Z",
           "wordCount": 383,
-          "title": "RT Aayush Gupta @Web3Conf_India | aayush.lens 🌿: Finally get some pictures of @developer_dao irl event in Goa. @developer_dao to the moon 🚀🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/xNFT_Backpack/status/1558920830628892676",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT xNFT Backpack 🎒\nAn overview of Backpack, xNFTs, and how to build them  with @armaniferrante🔵 https://youtu.be/g5TkzQRGwS4",
-          "link": "https://twitter.com/xNFT_Backpack/status/1558920830628892676",
-          "publishedOn": "2022-08-14T20:57:44.000Z",
-          "wordCount": 383,
-          "title": "RT xNFT Backpack 🎒: An overview of Backpack, xNFTs, and how to build them with @armaniferrante🔵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1558885665181401088",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1558885665181401088",
-          "publishedOn": "2022-08-14T18:37:59.000Z",
-          "wordCount": 383,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/shanvasion/status/1558859415633231872",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shann.lens ▶️ ETHMexico🇲🇽\nJoin me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of web3 builders 🇦🇷💫🚀 Register ⬇️\nEmbassyDAO.eth: JUST IN: The last @ethlatam side event will be happening at @EmbassyDAO Node 1 🎉\n⏱️ When? Sunday August 14, 2022 - 18hs\n📍Where? 11 de Septiembre 858, CABA\nWe'll learn about what the Web3 community in 🇦🇷 is building while sharing great wine 🍷& beer 🍻\n https://www.eventbrite.com/e/embassydao-demo-day-ethlatam-side-event-tickets-400969038187",
-          "link": "https://twitter.com/shanvasion/status/1558859415633231872",
-          "publishedOn": "2022-08-14T16:53:41.000Z",
-          "wordCount": 383,
-          "title": "RT shann.lens ▶️ ETHMexico🇲🇽: Join me @Livepeer @EmbassyDAO TONIGHT to close out #EthLatam with demos and pitches from the next generation of ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/parisrouz/status/1558791334684569601",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Paris 🔜 EthMexico 🇲🇽\nhe’s a 10 but he doesn’t understand the difference between a protocol and a frontend",
-          "link": "https://twitter.com/parisrouz/status/1558791334684569601",
-          "publishedOn": "2022-08-14T12:23:09.000Z",
-          "wordCount": 383,
-          "title": "RT Paris 🔜 EthMexico 🇲🇽: he’s a 10 but he doesn’t understand the difference between a protocol and a frontend",
+          "title": "RT NerdWithDopeHair: This comes a bit late but I'm officially among the newest members of @developer_dao thanks to @womenbuildweb3 and @dabit3 🥳�...",
           "imageUrl": null
         },
         {
