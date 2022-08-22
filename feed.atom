@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-21T06:14:34.621Z</id>
+    <id>urn:2022-08-22T06:17:35.796Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-21T06:14:34.621Z</updated>
+    <updated>2022-08-22T06:17:35.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @nanditmehra @LighthouseWeb3 @dhaiwat10 @dabit3 all metadata is hard-coded into our contract, this token not rendering is due to a rendering issue ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1561369391840825346</id>
+        <link href="https://twitter.com/developer_dao/status/1561369391840825346"/>
+        <updated>2022-08-21T15:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @nanditmehra @LighthouseWeb3 @dhaiwat10 @dabit3 all metadata is hard-coded into our contract, this token not rendering is due to a rendering issue with svg that is not supported on opensea desktop that affects around 4% of the nfts, but should work on most other nft browsers like metamask mobile]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @dabit3 @dhaiwat10 @kempsterrrr @Erik_Knobl @myz12371 ⚠️ Important ⚠️ Developer DAO’s $CODE token has not yet been launched. Anyone claiming t...]]></title>
         <id>https://twitter.com/developer_dao/status/1561029838139543552</id>
@@ -39,8 +49,7 @@ Hop into the Devcon Forum to like the proposal to ensure our bid for a Web3 Soci
 Gracias amigos y vamos a Colombia!
 nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Web3 Social Hub 🌿🪩
 If you're planning to be in Bogotá 🇨🇴 for @EFDevcon events and want this to happen, hop into the forum and drop a comment or a like! ❤️
-Thank you @shanvasion @Livepeer @AaveAave @LensProtocol @provenauthority @WaverlyMaven + others for spearheading this. 🙏
- https://twitter.com/shanvasion/status/1559380280472920065]]></summary>
+Thank you @shanvasion @Livepeer @AaveAave @LensProtocol @provenauthority @WaverlyMaven + others for spearheading this. 🙏]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -163,11 +172,11 @@ I just voted "For" on "P-18: The Developer DAO Foundation" @developer_dao @Snaps
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT joshcs.eth/lens👾 josh.arweave.dev (🧱,🚀)ᵍᵐ 🦇🔊: I just voted "For" on "P-18: The Developer DAO Foundation"]]></title>
+        <title type="html"><![CDATA[RT joshcs.eth/lens 🔋🧠 AFK (🧱,🚀)ᵍᵐ 🦇🔊: I just voted "For" on "P-18: The Developer DAO Foundation"]]></title>
         <id>https://twitter.com/JoshCStein/status/1560151088967335936</id>
         <link href="https://twitter.com/JoshCStein/status/1560151088967335936"/>
         <updated>2022-08-18T06:26:20.000Z</updated>
-        <summary type="html"><![CDATA[RT joshcs.eth/lens👾 josh.arweave.dev (🧱,🚀)ᵍᵐ 🦇🔊
+        <summary type="html"><![CDATA[RT joshcs.eth/lens 🔋🧠 AFK (🧱,🚀)ᵍᵐ 🦇🔊
 I just voted "For" on "P-18: The Developer DAO Foundation" https://snapshot.org/#/devdao.eth/proposal/0x0354fad305c13eae8ba78b2395117b45191465433c20f76efcf3eba4c5600436]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
@@ -186,20 +195,6 @@ But even looking for code based workshops. 👨🏽‍💻]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Amin: Today I officially joined @developer_dao! 🎊 Entered the discord - my god, it is ACTIVE. Cannot wait and see what’s in store. Also, big sh...]]></title>
-        <id>https://twitter.com/aminiman89/status/1560089863277293568</id>
-        <link href="https://twitter.com/aminiman89/status/1560089863277293568"/>
-        <updated>2022-08-18T02:23:03.000Z</updated>
-        <summary type="html"><![CDATA[RT Amin
-Today I officially joined @developer_dao! 🎊
-Entered the discord - my god, it is ACTIVE. Cannot wait and see what’s in store.
-Also, big shout out to @dabit3 for building this community, and to all the awesome devs there who are learning + growing together.
-LETS’ GO!! 🙌🚀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: I just voted "For" on "P-18: The Developer DAO Foundation" #moment]]></title>
         <id>https://twitter.com/kempsterrrr/status/1560053139797073920</id>
         <link href="https://twitter.com/kempsterrrr/status/1560053139797073920"/>
@@ -208,30 +203,6 @@ LETS’ GO!! 🙌🚀]]></summary>
 I just voted "For" on "P-18: The Developer DAO Foundation" 
 
 #moment https://snapshot.org/#/devdao.eth/proposal/0x0354fad305c13eae8ba78b2395117b45191465433c20f76efcf3eba4c5600436]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ella in nyc . building a dextension 👀✨ stay tuned: DAPP #0 SHIPPED. READY TO BUILD. SO GRATEFUL ✨ TO @womenbuildweb3 @haegeez @schwartzswartz ...]]></title>
-        <id>https://twitter.com/ellayayayshen/status/1560036920499003393</id>
-        <link href="https://twitter.com/ellayayayshen/status/1560036920499003393"/>
-        <updated>2022-08-17T22:52:40.000Z</updated>
-        <summary type="html"><![CDATA[RT ella in nyc . building a dextension 👀✨ stay tuned
-DAPP #0 SHIPPED.
-READY TO BUILD.
-SO GRATEFUL ✨ TO @womenbuildweb3 @haegeez @schwartzswartz @AmoweO 💜 for the ALPHA and help and support. #30daysofweb3 SLAPPED.
-@developer_dao for making this all POSSIBLE. this spinoff has taken ROOT. alive and kicking. 😎]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @singhk_uttam Hey, sorry this happened to you, DM us your new uncompromised wallet address and we'd be happy to gift you one.]]></title>
-        <id>https://twitter.com/developer_dao/status/1560007384591990788</id>
-        <link href="https://twitter.com/developer_dao/status/1560007384591990788"/>
-        <updated>2022-08-17T20:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @singhk_uttam Hey, sorry this happened to you, DM us your new uncompromised wallet address and we'd be happy to gift you one.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
