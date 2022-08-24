@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/probably-nothing-code-special-edition",
+          "author": "wolovim",
+          "description": "Your friendly neighborhood Writers Guild lead here, dropping by to share a few monumental Developer DAO updates and a couple unsolicited opinions. 🤝",
+          "link": "https://developerdao.substack.com/p/probably-nothing-code-special-edition",
+          "publishedOn": "2022-08-24T04:53:49.000Z",
+          "wordCount": null,
+          "title": "Probably Nothing: $CODE Special Edition",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0161dd75-fb8e-420e-aaa9-c5cb39ab32c3_2023x1136.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0161dd75-fb8e-420e-aaa9-c5cb39ab32c3_2023x1136.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/36-probably-nothing",
           "author": "Colin4ward",
           "description": "T-minus 2 weeks",
@@ -61,12 +77,102 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1562216614833127424",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "⚡️ Lazy Mint NFT Tutorial | Smart contract and code by @developer_dao member @Web3Club https://www.youtube.com/watch?v=DmFKqi__YGE&feature=youtu.be",
+          "link": "https://twitter.com/developer_dao/status/1562216614833127424",
+          "publishedOn": "2022-08-23T23:14:00.000Z",
+          "wordCount": 390,
+          "title": "⚡️ Lazy Mint NFT Tutorial | Smart contract and code by @developer_dao member @Web3Club",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1562205724591153152",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "we think you should join us on Thursday 👀\n4:00PM UTC\n5:00PM BST\n9:30PM IST\n12:00PM EST https://twitter.com/i/spaces/1BdxYwZvjvEGX",
+          "link": "https://twitter.com/developer_dao/status/1562205724591153152",
+          "publishedOn": "2022-08-23T22:30:43.000Z",
+          "wordCount": 390,
+          "title": "we think you should join us on Thursday 👀 4:00PM UTC 5:00PM BST 9:30PM IST 12:00PM EST",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1562184151448657920",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Late, pragmatic answer to @moxie 📝\nby @developer_dao member @vorcigernix \nThis is an opinion piece from a very pragmatic, ancient builder. 🌿 https://mirror.xyz/adamsobotka.eth/1tmTNzP9N4Pt_pAPEglWiQa0y0DIEKG7rZmcNpESmbE",
+          "link": "https://twitter.com/developer_dao/status/1562184151448657920",
+          "publishedOn": "2022-08-23T21:05:00.000Z",
+          "wordCount": 390,
+          "title": "Late, pragmatic answer to @moxie 📝 by @developer_dao member @vorcigernix This is an opinion piece from a very pragmatic, ancient builder. 🌿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1562168670553530369",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Create Diamond Contracts In Your Browser Using Remix And Louper \n🎥 by @developer_dao member @what_the_func \nIn this video I show you how to start playing with Diamond proxies in solidity quickly using Remix and Louper. 💎 https://www.youtube.com/watch?v=8p4NhC9sLDA",
+          "link": "https://twitter.com/developer_dao/status/1562168670553530369",
+          "publishedOn": "2022-08-23T20:03:29.000Z",
+          "wordCount": 390,
+          "title": "Create Diamond Contracts In Your Browser Using Remix And Louper 🎥 by @developer_dao member @what_the_func In this video I show you how to start pla...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1562146459155419137",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Rahatcodes @web3con @tonyolendo @codingwithmanny @dhaiwat10 👀",
+          "link": "https://twitter.com/developer_dao/status/1562146459155419137",
+          "publishedOn": "2022-08-23T18:35:13.000Z",
+          "wordCount": 390,
+          "title": "Re @Rahatcodes @web3con @tonyolendo @codingwithmanny @dhaiwat10 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devdaowomen/status/1562130301664518150",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT D_D Women\nJust here ensuring women are leading in Web3 🌈👩‍💻",
+          "link": "https://twitter.com/devdaowomen/status/1562130301664518150",
+          "publishedOn": "2022-08-23T17:31:01.000Z",
+          "wordCount": 390,
+          "title": "RT D_D Women: Just here ensuring women are leading in Web3 🌈👩‍💻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/K41R0N/status/1562122776449884160",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kairon\nGot some $CODE to give for anyone interested in joining @developer_dao \nLooking for someone who's enthusiastic and ready to bring positive vibes to a community I hold in very high regards\nSahra: @lemmynjaria @developer_dao @pbillingsby_eth A couple of ways I am aware of:\n1. Buy a D4R NFT: \n2. Apply for the scholarship for a free D4R NFT:  \n3. Buy 400 $CODE\n4. Someone gifts you D4R NFT or 400 $CODE. Check out @womenbuildweb3 and @codingwithmanny for that.\n https://opensea.io/collection/devs-for-revolution https://developerdao.notion.site/Apply-for-a-Scholarship-08e941bb537549bbb52657c01f6b87fe",
+          "link": "https://twitter.com/K41R0N/status/1562122776449884160",
+          "publishedOn": "2022-08-23T17:01:07.000Z",
+          "wordCount": 390,
+          "title": "RT kairon: Got some $CODE to give for anyone interested in joining @developer_dao Looking for someone who's enthusiastic and ready to bring positive v...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1562070272190062594",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @EFDevcon 1600 utc is 2.5 hours from now 🤔",
+          "link": "https://twitter.com/developer_dao/status/1562070272190062594",
+          "publishedOn": "2022-08-23T13:32:29.000Z",
+          "wordCount": 390,
+          "title": "Re @EFDevcon 1600 utc is 2.5 hours from now 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ibnzUK/status/1561967793095983104",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ibnzUK.eth \nShould I put @developer_dao on my CV ? \nhas anyone done it before? :) I think it is excellent idea, if you know, you know",
+          "link": "https://twitter.com/ibnzUK/status/1561967793095983104",
+          "publishedOn": "2022-08-23T06:45:16.000Z",
+          "wordCount": 390,
+          "title": "RT ibnzUK.eth : Should I put @developer_dao on my CV ? has anyone done it before? :) I think it is excellent idea, if you know, you know",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/thulynnn/status/1561929814570844161",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT casslin.eth\nToday is a day for $CODE! @developer_dao \nCheck urs at  \nQ3 goal: get more involved with @developer_dao ! https://claim.developerdao.com",
           "link": "https://twitter.com/thulynnn/status/1561929814570844161",
           "publishedOn": "2022-08-23T04:14:21.000Z",
-          "wordCount": 383,
+          "wordCount": 390,
           "title": "RT casslin.eth: Today is a day for $CODE! @developer_dao Check urs at Q3 goal: get more involved with @developer_dao !",
           "imageUrl": null
         },
@@ -76,28 +182,8 @@
           "description": "Re @muskan_kalra24 🙌 thank you for all of your support 🙏",
           "link": "https://twitter.com/developer_dao/status/1561929505278771205",
           "publishedOn": "2022-08-23T04:13:07.000Z",
-          "wordCount": 383,
+          "wordCount": 390,
           "title": "Re @muskan_kalra24 🙌 thank you for all of your support 🙏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kyleecodes/status/1561870705075130368",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kylee (she/they)\nBoolish on @developer_dao!!! 👻\nThank u to all contributors who made this airdrop happen, I am beyond confident that $CODE is going places. 🚀",
-          "link": "https://twitter.com/kyleecodes/status/1561870705075130368",
-          "publishedOn": "2022-08-23T00:19:28.000Z",
-          "wordCount": 383,
-          "title": "RT kylee (she/they): Boolish on @developer_dao!!! 👻 Thank u to all contributors who made this airdrop happen, I am beyond confident that $CODE is g...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1561865451474395137",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nHow it started \n\nHow it's going 🙏🌱\n\n\n\n\nDeveloper DAO (🧱, 🚀): From its inception, Developer DAO sought to be a space rooted in people who want to educate, and who want to build.\nAfter months of hard work, our new governance token $CODE has officially launched today 🥳\nblog post: \nthread 👇 🧵\n#CODEdrop\n https://devdao.mirror.xyz/lGRLUA7wXZP2Rs5TxPRDks7Ho4yjSRUFLGNRfxeAz80",
-          "link": "https://twitter.com/dabit3/status/1561865451474395137",
-          "publishedOn": "2022-08-22T23:58:36.000Z",
-          "wordCount": 383,
-          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: How it started How it's going 🙏🌱",
           "imageUrl": null
         },
         {
@@ -106,158 +192,68 @@
           "description": "RT nagma 🥐\nCan't believe this day is here! It's been wild seeing Developer DAO explode to what it has become today. Eternally grateful that I was able to spend that time in the beginning, learn and end up with my current gig because of it🫶 hope to someday contribute again!\nDeveloper DAO (🧱, 🚀): From its inception, Developer DAO sought to be a space rooted in people who want to educate, and who want to build.\nAfter months of hard work, our new governance token $CODE has officially launched today 🥳\nblog post: \nthread 👇 🧵\n#CODEdrop\n https://devdao.mirror.xyz/lGRLUA7wXZP2Rs5TxPRDks7Ho4yjSRUFLGNRfxeAz80",
           "link": "https://twitter.com/notnagma/status/1561850593735581696",
           "publishedOn": "2022-08-22T22:59:33.000Z",
-          "wordCount": 383,
+          "wordCount": 390,
           "title": "RT nagma 🥐: Can't believe this day is here! It's been wild seeing Developer DAO explode to what it has become today. Eternally grateful that I was ...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1561817426987302912",
+          "id": "https://twitter.com/sahra_karakoc/status/1561810427432112128",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @sahra_karakoc @pbillingsby_eth hi and welcome ☀️",
-          "link": "https://twitter.com/developer_dao/status/1561817426987302912",
-          "publishedOn": "2022-08-22T20:47:46.000Z",
-          "wordCount": 383,
-          "title": "Re @sahra_karakoc @pbillingsby_eth hi and welcome ☀️",
+          "description": "RT Sahra\nCrying out of happiness... I just joined @developer_dao and it's on fire 🔥\nThank you so much @pbillingsby_eth for gifting me the membership. I'll make sure to give back to this beautiful community ❤️",
+          "link": "https://twitter.com/sahra_karakoc/status/1561810427432112128",
+          "publishedOn": "2022-08-22T20:19:57.000Z",
+          "wordCount": 390,
+          "title": "RT Sahra: Crying out of happiness... I just joined @developer_dao and it's on fire 🔥 Thank you so much @pbillingsby_eth for gifting me the membersh...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/OrlundoH/status/1561810983718461440",
+          "id": "https://twitter.com/andriishupta/status/1559511175007801345",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Orlundo Hubbard | orlundo.eth\nThat $CODE token dropped today ❤️. Raise your hand if you’ve benefited from the impact of @developer_dao in web3 🙋🏾‍♂️",
-          "link": "https://twitter.com/OrlundoH/status/1561810983718461440",
-          "publishedOn": "2022-08-22T20:22:10.000Z",
-          "wordCount": 383,
-          "title": "RT Orlundo Hubbard | orlundo.eth: That $CODE token dropped today ❤️. Raise your hand if you’ve benefited from the impact of @developer_dao in web3 ...",
+          "description": "RT Andrii 🇺🇦\nCheck out How to Generate Dummy Data in @strapijs \nThis article describes what I did for my very first contribution to @developer_dao's website 🔥\nMore to come 💪\n#nodejs #strapi https://andriishupta.dev/generate-dummy-data-in-strapi",
+          "link": "https://twitter.com/andriishupta/status/1559511175007801345",
+          "publishedOn": "2022-08-16T12:03:33.000Z",
+          "wordCount": 390,
+          "title": "RT Andrii 🇺🇦: Check out How to Generate Dummy Data in @strapijs This article describes what I did for my very first contribution to @developer_d...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1561807167954501634",
+          "id": "https://twitter.com/solana_devs/status/1559306697881145345",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @afoma_orji ❤️❤️❤️",
-          "link": "https://twitter.com/developer_dao/status/1561807167954501634",
-          "publishedOn": "2022-08-22T20:07:00.000Z",
-          "wordCount": 383,
-          "title": "Re @afoma_orji ❤️❤️❤️",
+          "description": "RT Solana Developers\n🚨 Attention Solana Builders! 🚨\nWe've got another brand-new episode of the Changelog hot off the press\nThis week we're talking StackExchange, Token 2022, and MinContextSlot for Account State! https://www.youtube.com/watch?v=pN4S-1xWLOs",
+          "link": "https://twitter.com/solana_devs/status/1559306697881145345",
+          "publishedOn": "2022-08-15T22:31:01.000Z",
+          "wordCount": 390,
+          "title": "RT Solana Developers: 🚨 Attention Solana Builders! 🚨 We've got another brand-new episode of the Changelog hot off the press This week we're talk...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/willhblackburn/status/1561806131206447104",
+          "id": "https://twitter.com/thatguyintech/status/1559243695727095808",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT willblackburn.eth\nThis thread is why @developer_dao is so awesome. Many of the members, including Manny, have been here from the start, put in tons of hours, only to give away memberships!\nManny (🧱,🚀) 📍🇨🇦Vancouver 🔜 🇹🇷 🔜 🇩🇪: With the announcement of $CODE I’m offering a single membership of 400 tokens to someone you’d like to nominate to join @developer_dao by the end of the week. Reply to this thread with nominations.",
-          "link": "https://twitter.com/willhblackburn/status/1561806131206447104",
-          "publishedOn": "2022-08-22T20:02:53.000Z",
-          "wordCount": 383,
-          "title": "RT willblackburn.eth: This thread is why @developer_dao is so awesome. Many of the members, including Manny, have been here from the start, put in ton...",
+          "description": "RT albert | thatguyintech.eth\nVerifying NFT ownership w/ @ethpass \n1. Gate digital and live events with your community NFTs\n2. Add tickets using Apple and Google wallets\n3. 🔥🔥🔥\nMy chat with @_cdro for Building the Next Bull #3 is live!\ncheck it out 👇🏼 https://www.youtube.com/watch?v=LEFvAgE0_CU",
+          "link": "https://twitter.com/thatguyintech/status/1559243695727095808",
+          "publishedOn": "2022-08-15T18:20:41.000Z",
+          "wordCount": 390,
+          "title": "RT albert | thatguyintech.eth: Verifying NFT ownership w/ @ethpass 1. Gate digital and live events with your community NFTs 2. Add tickets using Apple...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/pbillingsby_eth/status/1561792354507493377",
+          "id": "https://twitter.com/ddschoolofcode/status/1558958541192499200",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby\nThe time is now. I’m looking for 2 people who are deserving of becoming  governing members of @developer_dao. If I can’t decide on 2 I’ll throw a wild card in there!\npbillingsby: With my first web3 paycheck I will buy and give a @developer_dao NFT to a deserving community member. With my second paycheck I’ll do the same",
-          "link": "https://twitter.com/pbillingsby_eth/status/1561792354507493377",
-          "publishedOn": "2022-08-22T19:08:08.000Z",
-          "wordCount": 383,
-          "title": "RT pbillingsby: The time is now. I’m looking for 2 people who are deserving of becoming governing members of @developer_dao. If I can’t decide on 2 ...",
+          "description": "RT D_D School Of Code\nHey learners! We're delaying the MVP until mid-September to add more content and polish for the initial version. Please watch this space for updates!",
+          "link": "https://twitter.com/ddschoolofcode/status/1558958541192499200",
+          "publishedOn": "2022-08-14T23:27:34.000Z",
+          "wordCount": 390,
+          "title": "RT D_D School Of Code: Hey learners! We're delaying the MVP until mid-September to add more content and polish for the initial version. Please watch t...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/dhaiwat10/status/1561779400747909121",
+          "id": "https://twitter.com/bitsplaining/status/1558229214385451009",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\nsorry im late to the party tonight but i love @developer_dao so much. i wish i had something more nuanced to say but I'm just very happy and proud of where we are today",
-          "link": "https://twitter.com/dhaiwat10/status/1561779400747909121",
-          "publishedOn": "2022-08-22T18:16:40.000Z",
-          "wordCount": 383,
-          "title": "RT dhai.eth: sorry im late to the party tonight but i love @developer_dao so much. i wish i had something more nuanced to say but I'm just very happy ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/codingwithmanny/status/1561777235320659968",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Manny (🧱,🚀) 📍🇨🇦Vancouver 🔜 🇹🇷 🔜 🇩🇪\nWith the announcement of $CODE I’m offering a single membership of 400 tokens to someone you’d like to nominate to join @developer_dao by the end of the week. Reply to this thread with nominations.",
-          "link": "https://twitter.com/codingwithmanny/status/1561777235320659968",
-          "publishedOn": "2022-08-22T18:08:03.000Z",
-          "wordCount": 383,
-          "title": "RT Manny (🧱,🚀) 📍🇨🇦Vancouver 🔜 🇹🇷 🔜 🇩🇪: With the announcement of $CODE I’m offering a single membership of 400 tokens...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1561770960855891968",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @TheJackForge 🫡",
-          "link": "https://twitter.com/developer_dao/status/1561770960855891968",
-          "publishedOn": "2022-08-22T17:43:08.000Z",
-          "wordCount": 383,
-          "title": "Re @TheJackForge 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1561769666963709952",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Thank you. Thank you. Thank you.",
-          "link": "https://twitter.com/developer_dao/status/1561769666963709952",
-          "publishedOn": "2022-08-22T17:37:59.000Z",
-          "wordCount": 383,
-          "title": "Thank you. Thank you. Thank you.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/BrianHHough/status/1561768992305516553",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Brian H. Hough | brianhuff.eth/lens\nJust claimed my $CODE! 🧑‍💻🥳🎉\n❤️ @developer_dao\n❤️ this amazing community\n❤️ what we're building around the world\n#probablynothing #definitelysomething #developerdao #D_D #codedrop",
-          "link": "https://twitter.com/BrianHHough/status/1561768992305516553",
-          "publishedOn": "2022-08-22T17:35:18.000Z",
-          "wordCount": 383,
-          "title": "RT Brian H. Hough | brianhuff.eth/lens: Just claimed my $CODE! 🧑‍💻🥳🎉 ❤️ @developer_dao ❤️ this amazing community ❤️ what we're buil...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pbillingsby_eth/status/1561768094485385217",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby\nFor the last 10 months @developer_dao  has been my home, my school and my favorite hangout. It’s changed my life, career and given me countless new friends and opportunities. Today is a proud and happy day! Everyone involved should be insanely proud. D_D FOREVER!!!\nDeveloper DAO (🧱, 🚀): From its inception, Developer DAO sought to be a space rooted in people who want to educate, and who want to build.\nAfter months of hard work, our new governance token $CODE has officially launched today 🥳\nblog post: \nthread 👇 🧵\n#CODEdrop\n https://devdao.mirror.xyz/lGRLUA7wXZP2Rs5TxPRDks7Ho4yjSRUFLGNRfxeAz80",
-          "link": "https://twitter.com/pbillingsby_eth/status/1561768094485385217",
-          "publishedOn": "2022-08-22T17:31:44.000Z",
-          "wordCount": 383,
-          "title": "RT pbillingsby: For the last 10 months @developer_dao has been my home, my school and my favorite hangout. It’s changed my life, career and given me ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1561764490794106881",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The only thing we have yet to see in Developer DAO is a Developer DAO wedding. - @tonyolendo\nwen invite?",
-          "link": "https://twitter.com/developer_dao/status/1561764490794106881",
-          "publishedOn": "2022-08-22T17:17:25.000Z",
-          "wordCount": 383,
-          "title": "The only thing we have yet to see in Developer DAO is a Developer DAO wedding. - @tonyolendo wen invite?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1561760374621347840",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1dRKZlapjXbJB",
-          "link": "https://twitter.com/developer_dao/status/1561760374621347840",
-          "publishedOn": "2022-08-22T17:01:04.000Z",
-          "wordCount": 383,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1561757294085423106",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Come hang out and learn more on our Twitter Space at the top of the hour https://twitter.com/i/spaces/1dRKZlapjXbJB",
-          "link": "https://twitter.com/developer_dao/status/1561757294085423106",
-          "publishedOn": "2022-08-22T16:48:49.000Z",
-          "wordCount": 383,
-          "title": "Re Come hang out and learn more on our Twitter Space at the top of the hour",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/uF4No/status/1561746284335226880",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Antonio 👨🏻‍💻 | uf4no.lens\nTutorial alert 🚨\nHow to build a decentralized music marketplace with @ArweaveTeam @BundlrNetwork and @0xPolygon. \nHere are the basics 👇 https://chainstack.com/music-marketplace-arweave-bundlr-and-polygon/",
-          "link": "https://twitter.com/uF4No/status/1561746284335226880",
-          "publishedOn": "2022-08-22T16:05:04.000Z",
-          "wordCount": 383,
-          "title": "RT Antonio 👨🏻‍💻 | uf4no.lens: Tutorial alert 🚨 How to build a decentralized music marketplace with @ArweaveTeam @BundlrNetwork and @0xPol...",
+          "description": "RT faina.eth (😈,😇)🦇🔊\n🚀✨ Layer 2 Landscape #31 ✨🚀\n----------------------------------------\n(1/24) Hello there! This week has been very busy for the #Layer2 #Ethereum ecosystem, as #L222 continues in full swing! Let's goooo! 🧵👇",
+          "link": "https://twitter.com/bitsplaining/status/1558229214385451009",
+          "publishedOn": "2022-08-12T23:09:29.000Z",
+          "wordCount": 390,
+          "title": "RT faina.eth (😈,😇)🦇🔊: 🚀✨ Layer 2 Landscape #31 ✨🚀 ---------------------------------------- (1/24) Hello there! This week has been ...",
           "imageUrl": null
         }
       ]
