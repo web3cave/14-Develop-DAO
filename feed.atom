@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-27T06:14:04.029Z</id>
+    <id>urn:2022-08-28T06:14:12.124Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-27T06:14:04.029Z</updated>
+    <updated>2022-08-28T06:14:12.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT OtterSec: Closed source @Solana programs used to be safe. We’ve changed that. Learn how to hack Solana programs with our open-source #BinaryNinja ...]]></title>
+        <id>https://twitter.com/osec_io/status/1563688394437169152</id>
+        <link href="https://twitter.com/osec_io/status/1563688394437169152"/>
+        <updated>2022-08-28T00:42:19.000Z</updated>
+        <summary type="html"><![CDATA[RT OtterSec
+Closed source @Solana programs used to be safe. We’ve changed that. 
+Learn how to hack Solana programs with our open-source #BinaryNinja plugin 👇 https://osec.io/blog/tutorials/2022-08-27-reverse-engineering-solana/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ahmed Abdelmalek (🧱,🚀) (🛠,🌈) @peterpan.lens🌱: That's how I found out $CODE was launched by @developer_dao Thank you @Earni_fi and @P...]]></title>
+        <id>https://twitter.com/PeterPanYes/status/1563618195893886977</id>
+        <link href="https://twitter.com/PeterPanYes/status/1563618195893886977"/>
+        <updated>2022-08-27T20:03:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Ahmed Abdelmalek (🧱,🚀) (🛠,🌈) @peterpan.lens🌱
+That's how I found out $CODE was launched by @developer_dao 
+Thank you @Earni_fi and @Pyme_team for this useful quest, my fellow dev @mbilalmotiwala 
+How did you find out about yours?
+#DevDAO #DeveloperDAO #CODE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @equious1987 go to your room. you need a timeout 🤨]]></title>
+        <id>https://twitter.com/developer_dao/status/1563556903447597057</id>
+        <link href="https://twitter.com/developer_dao/status/1563556903447597057"/>
+        <updated>2022-08-27T15:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @equious1987 go to your room. you need a timeout 🤨]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[software developers making $200,000.00 per year when they find out the free software they've been using for 10 years is going to start actually asking...]]></title>
+        <id>https://twitter.com/developer_dao/status/1563554365629026308</id>
+        <link href="https://twitter.com/developer_dao/status/1563554365629026308"/>
+        <updated>2022-08-27T15:49:44.000Z</updated>
+        <summary type="html"><![CDATA[software developers making $200,000.00 per year when they find out the free software they've been using for 10 years is going to start actually asking for them to pay for it]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make sure you’re stepping away from your machines, and going out to get some fresh air. And be sure to grab a snack, drink plenty of water, and have ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1563530727136063488</id>
+        <link href="https://twitter.com/developer_dao/status/1563530727136063488"/>
+        <updated>2022-08-27T14:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Make sure you’re stepping away from your machines, and going out to get some fresh air. And be sure to grab a snack, drink plenty of water, and have human interactions outside of tech and web3. These are important and good for you 🙂 Have a good weekend, folks]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Become A Blockchain Developer in 2022 by @developer_dao member @GargEtisha 🛠 In this video Eshita will provide you with a step by step roadm...]]></title>
         <id>https://twitter.com/developer_dao/status/1563332970760605697</id>
@@ -62,87 +118,6 @@ Fe is a statically typed language for the Ethereum Virtual Machine (EVM) inspire
 ✨ gm @developer_dao frens ✨
 We had another great #DevNTell for you today with @thisisprad giving us an overview of his company, @sonr_io 🚀
 The recording is now available for your viewing pleasure on the Developer DAO YouTube channel 🍿📹 https://youtu.be/wKGDr3GrNeA]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tonykipkemboi.eth: Playing around with @developer_dao $CODE data using @AlchemyPlatform's `alchemy_getAssetTransfers` method. I used #python to get...]]></title>
-        <id>https://twitter.com/ynot_kip/status/1563257616817479685</id>
-        <link href="https://twitter.com/ynot_kip/status/1563257616817479685"/>
-        <updated>2022-08-26T20:10:34.000Z</updated>
-        <summary type="html"><![CDATA[RT tonykipkemboi.eth
-Playing around with @developer_dao $CODE data using @AlchemyPlatform's `alchemy_getAssetTransfers` method. 
-I used #python to get the data and manipulate it with #pandas and #numpy. 
-The data should match what's on #Etherscan https://etherscan.io/address/0xbd82Cd2f7C2B8710A879580399CFbfF61c5020B9]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Library of Web3 by @alexdphan]]></title>
-        <id>https://twitter.com/developer_dao/status/1563240418971893760</id>
-        <link href="https://twitter.com/developer_dao/status/1563240418971893760"/>
-        <updated>2022-08-26T19:02:14.000Z</updated>
-        <summary type="html"><![CDATA[Library of Web3 by @alexdphan https://www.alexdphan.com/research/library-of-web3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @cannablitch sending warm energies your way, Canna ❤️]]></title>
-        <id>https://twitter.com/developer_dao/status/1563232646410686467</id>
-        <link href="https://twitter.com/developer_dao/status/1563232646410686467"/>
-        <updated>2022-08-26T18:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @cannablitch sending warm energies your way, Canna ❤️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new POAP, who dis 👀 warm hugs to all of you who joined us for our first Community Town Hall of Season 1 🌞 and shoutout to the team over at @guil...]]></title>
-        <id>https://twitter.com/developer_dao/status/1563232425143988224</id>
-        <link href="https://twitter.com/developer_dao/status/1563232425143988224"/>
-        <updated>2022-08-26T18:30:28.000Z</updated>
-        <summary type="html"><![CDATA[new POAP, who dis 👀
-warm hugs to all of you who joined us for our first Community Town Hall of Season 1 🌞
-and shoutout to the team over at @guildxyz for building out an integration that makes it easier to run POAP drops 🔥
-design by our Head of Community: @boyluan]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @GanatraArpita @paul_can_code Welcome 🎉]]></title>
-        <id>https://twitter.com/developer_dao/status/1563214376257015817</id>
-        <link href="https://twitter.com/developer_dao/status/1563214376257015817"/>
-        <updated>2022-08-26T17:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @GanatraArpita @paul_can_code Welcome 🎉]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Arpita Ganatra #W3CIndia2022: SUPER EXCITED to join @developer_dao 🌈 can't believe my eyes🥹 A big thank you @paul_can_code for giving me this...]]></title>
-        <id>https://twitter.com/GanatraArpita/status/1563213346530525184</id>
-        <link href="https://twitter.com/GanatraArpita/status/1563213346530525184"/>
-        <updated>2022-08-26T17:14:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Arpita Ganatra #W3CIndia2022
-SUPER EXCITED to join @developer_dao 🌈
-can't believe my eyes🥹
-A big thank you @paul_can_code for giving me this opportunity.
-Looking forward to meet and interact with the amazing folks and contributing to the DAO 🚀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: 🤝 @developer_dao community townhall going on rn, join in!]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1563197787197517829</id>
-        <link href="https://twitter.com/dhaiwat10/status/1563197787197517829"/>
-        <updated>2022-08-26T16:12:49.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-🤝 @developer_dao community townhall going on rn, join in!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

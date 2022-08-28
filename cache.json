@@ -61,6 +61,56 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/osec_io/status/1563688394437169152",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT OtterSec\nClosed source @Solana programs used to be safe. We’ve changed that. \nLearn how to hack Solana programs with our open-source #BinaryNinja plugin 👇 https://osec.io/blog/tutorials/2022-08-27-reverse-engineering-solana/",
+          "link": "https://twitter.com/osec_io/status/1563688394437169152",
+          "publishedOn": "2022-08-28T00:42:19.000Z",
+          "wordCount": 390,
+          "title": "RT OtterSec: Closed source @Solana programs used to be safe. We’ve changed that. Learn how to hack Solana programs with our open-source #BinaryNinja ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/PeterPanYes/status/1563618195893886977",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ahmed Abdelmalek (🧱,🚀) (🛠,🌈) @peterpan.lens🌱\nThat's how I found out $CODE was launched by @developer_dao \nThank you @Earni_fi and @Pyme_team for this useful quest, my fellow dev @mbilalmotiwala \nHow did you find out about yours?\n#DevDAO #DeveloperDAO #CODE",
+          "link": "https://twitter.com/PeterPanYes/status/1563618195893886977",
+          "publishedOn": "2022-08-27T20:03:23.000Z",
+          "wordCount": 390,
+          "title": "RT Ahmed Abdelmalek (🧱,🚀) (🛠,🌈) @peterpan.lens🌱: That's how I found out $CODE was launched by @developer_dao Thank you @Earni_fi and @P...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1563556903447597057",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @equious1987 go to your room. you need a timeout 🤨",
+          "link": "https://twitter.com/developer_dao/status/1563556903447597057",
+          "publishedOn": "2022-08-27T15:59:49.000Z",
+          "wordCount": 390,
+          "title": "Re @equious1987 go to your room. you need a timeout 🤨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1563554365629026308",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "software developers making $200,000.00 per year when they find out the free software they've been using for 10 years is going to start actually asking for them to pay for it",
+          "link": "https://twitter.com/developer_dao/status/1563554365629026308",
+          "publishedOn": "2022-08-27T15:49:44.000Z",
+          "wordCount": 390,
+          "title": "software developers making $200,000.00 per year when they find out the free software they've been using for 10 years is going to start actually asking...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1563530727136063488",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Make sure you’re stepping away from your machines, and going out to get some fresh air. And be sure to grab a snack, drink plenty of water, and have human interactions outside of tech and web3. These are important and good for you 🙂 Have a good weekend, folks",
+          "link": "https://twitter.com/developer_dao/status/1563530727136063488",
+          "publishedOn": "2022-08-27T14:15:49.000Z",
+          "wordCount": 390,
+          "title": "Make sure you’re stepping away from your machines, and going out to get some fresh air. And be sure to grab a snack, drink plenty of water, and have ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1563332970760605697",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "How To Become A Blockchain Developer in 2022 by @developer_dao member @GargEtisha 🛠\nIn this video Eshita will provide you with a step by step roadmap to acquire the skills needed to get hired as a blockchain developer. https://www.youtube.com/watch?v=dGtXO0GkI04",
@@ -108,76 +158,6 @@
           "publishedOn": "2022-08-26T22:35:53.000Z",
           "wordCount": 390,
           "title": "RT Narb | narbeh.eth: ✨ gm @developer_dao frens ✨ We had another great #DevNTell for you today with @thisisprad giving us an overview of his company...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ynot_kip/status/1563257616817479685",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tonykipkemboi.eth\nPlaying around with @developer_dao $CODE data using @AlchemyPlatform's `alchemy_getAssetTransfers` method. \nI used #python to get the data and manipulate it with #pandas and #numpy. \nThe data should match what's on #Etherscan https://etherscan.io/address/0xbd82Cd2f7C2B8710A879580399CFbfF61c5020B9",
-          "link": "https://twitter.com/ynot_kip/status/1563257616817479685",
-          "publishedOn": "2022-08-26T20:10:34.000Z",
-          "wordCount": 390,
-          "title": "RT tonykipkemboi.eth: Playing around with @developer_dao $CODE data using @AlchemyPlatform's `alchemy_getAssetTransfers` method. I used #python to get...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1563240418971893760",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Library of Web3 by @alexdphan https://www.alexdphan.com/research/library-of-web3",
-          "link": "https://twitter.com/developer_dao/status/1563240418971893760",
-          "publishedOn": "2022-08-26T19:02:14.000Z",
-          "wordCount": 390,
-          "title": "Library of Web3 by @alexdphan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1563232646410686467",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @cannablitch sending warm energies your way, Canna ❤️",
-          "link": "https://twitter.com/developer_dao/status/1563232646410686467",
-          "publishedOn": "2022-08-26T18:31:21.000Z",
-          "wordCount": 390,
-          "title": "Re @cannablitch sending warm energies your way, Canna ❤️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1563232425143988224",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "new POAP, who dis 👀\nwarm hugs to all of you who joined us for our first Community Town Hall of Season 1 🌞\nand shoutout to the team over at @guildxyz for building out an integration that makes it easier to run POAP drops 🔥\ndesign by our Head of Community: @boyluan",
-          "link": "https://twitter.com/developer_dao/status/1563232425143988224",
-          "publishedOn": "2022-08-26T18:30:28.000Z",
-          "wordCount": 390,
-          "title": "new POAP, who dis 👀 warm hugs to all of you who joined us for our first Community Town Hall of Season 1 🌞 and shoutout to the team over at @guil...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1563214376257015817",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @GanatraArpita @paul_can_code Welcome 🎉",
-          "link": "https://twitter.com/developer_dao/status/1563214376257015817",
-          "publishedOn": "2022-08-26T17:18:45.000Z",
-          "wordCount": 390,
-          "title": "Re @GanatraArpita @paul_can_code Welcome 🎉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GanatraArpita/status/1563213346530525184",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Arpita Ganatra #W3CIndia2022\nSUPER EXCITED to join @developer_dao 🌈\ncan't believe my eyes🥹\nA big thank you @paul_can_code for giving me this opportunity.\nLooking forward to meet and interact with the amazing folks and contributing to the DAO 🚀",
-          "link": "https://twitter.com/GanatraArpita/status/1563213346530525184",
-          "publishedOn": "2022-08-26T17:14:39.000Z",
-          "wordCount": 390,
-          "title": "RT Arpita Ganatra #W3CIndia2022: SUPER EXCITED to join @developer_dao 🌈 can't believe my eyes🥹 A big thank you @paul_can_code for giving me this...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1563197787197517829",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\n🤝 @developer_dao community townhall going on rn, join in!",
-          "link": "https://twitter.com/dhaiwat10/status/1563197787197517829",
-          "publishedOn": "2022-08-26T16:12:49.000Z",
-          "wordCount": 390,
-          "title": "RT dhai.eth: 🤝 @developer_dao community townhall going on rn, join in!",
           "imageUrl": null
         },
         {
