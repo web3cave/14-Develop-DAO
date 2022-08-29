@@ -61,6 +61,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1564075154141061121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Mantia @chrismessina @TimothyBuckSF 🤡",
+          "link": "https://twitter.com/developer_dao/status/1564075154141061121",
+          "publishedOn": "2022-08-29T02:19:10.000Z",
+          "wordCount": 390,
+          "title": "Re @Mantia @chrismessina @TimothyBuckSF 🤡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1563920643564965896",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nthe millionaires left in Silicon Valley paying $5,000 per month to live in a place where they became grossly wealthy profiting from surveillance capitalism, digital colonialism, and exclusive access to high paying jobs are not interested in technology that disrupts the status quo\nNoah Smith 🐇🇺🇦: Anecdotally, from 2017 through 2021 I knew a lot of people in Silicon Valley who were very excited about crypto, and I know very few now.",
+          "link": "https://twitter.com/dabit3/status/1563920643564965896",
+          "publishedOn": "2022-08-28T16:05:12.000Z",
+          "wordCount": 390,
+          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: the millionaires left in Silicon Valley paying $5,000 per month to live in a place where ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/osec_io/status/1563688394437169152",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT OtterSec\nClosed source @Solana programs used to be safe. We’ve changed that. \nLearn how to hack Solana programs with our open-source #BinaryNinja plugin 👇 https://osec.io/blog/tutorials/2022-08-27-reverse-engineering-solana/",

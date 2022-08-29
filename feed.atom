@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-28T06:14:12.124Z</id>
+    <id>urn:2022-08-29T06:42:05.436Z</id>
     <title>web3::cave</title>
-    <updated>2022-08-28T06:14:12.124Z</updated>
+    <updated>2022-08-29T06:42:05.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Mantia @chrismessina @TimothyBuckSF 🤡]]></title>
+        <id>https://twitter.com/developer_dao/status/1564075154141061121</id>
+        <link href="https://twitter.com/developer_dao/status/1564075154141061121"/>
+        <updated>2022-08-29T02:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Re @Mantia @chrismessina @TimothyBuckSF 🤡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: the millionaires left in Silicon Valley paying $5,000 per month to live in a place where ...]]></title>
+        <id>https://twitter.com/dabit3/status/1563920643564965896</id>
+        <link href="https://twitter.com/dabit3/status/1563920643564965896"/>
+        <updated>2022-08-28T16:05:12.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
+the millionaires left in Silicon Valley paying $5,000 per month to live in a place where they became grossly wealthy profiting from surveillance capitalism, digital colonialism, and exclusive access to high paying jobs are not interested in technology that disrupts the status quo
+Noah Smith 🐇🇺🇦: Anecdotally, from 2017 through 2021 I knew a lot of people in Silicon Valley who were very excited about crypto, and I know very few now.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT OtterSec: Closed source @Solana programs used to be safe. We’ve changed that. Learn how to hack Solana programs with our open-source #BinaryNinja ...]]></title>
         <id>https://twitter.com/osec_io/status/1563688394437169152</id>
