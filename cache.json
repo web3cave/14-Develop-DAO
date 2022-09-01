@@ -52,22 +52,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F806401fd-d4cc-4494-a1e7-27ff5698a977_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/35-probably-nothing",
-          "author": "Colin4ward",
-          "description": "It's here! It's finally here!",
-          "link": "https://developerdao.substack.com/p/35-probably-nothing",
-          "publishedOn": "2022-08-02T09:52:58.000Z",
-          "wordCount": null,
-          "title": "#35 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3d0690d9-a580-4759-8079-b3d1e1db19c7_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3d0690d9-a580-4759-8079-b3d1e1db19c7_1100x550.png"
         }
       ]
     },
@@ -76,6 +60,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1565108498710646790",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "The meme contest has now ended. Thank you to everybody who participated!\nThe winners will be announced on 16th September 🎉",
+          "link": "https://twitter.com/developer_dao/status/1565108498710646790",
+          "publishedOn": "2022-08-31T22:45:19.000Z",
+          "wordCount": 390,
+          "title": "The meme contest has now ended. Thank you to everybody who participated! The winners will be announced on 16th September 🎉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Baba_asong/status/1565029750531567617",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Asyong\nRe @developer_dao @CoinviseCo My original spray paint, hope you like it my effort 😉🙏\nMy address\n0xCc11F9E63de2Ce237c67B2D932446EE689FffbEc",
+          "link": "https://twitter.com/Baba_asong/status/1565029750531567617",
+          "publishedOn": "2022-08-31T17:32:24.000Z",
+          "wordCount": 390,
+          "title": "RT Asyong: Re @developer_dao @CoinviseCo My original spray paint, hope you like it my effort 😉🙏 My address 0xCc11F9E63de2Ce237c67B2D932446EE689F...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1565014099263635458",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re \nDeveloper DAO (🧱, 🚀): Rules ℹ️\n\n1. Follow @developer_dao\n2. Retweet the first tweet in this thread\n3. Submit your meme entry by REPLYING to the first tweet in this thread, and include your wallet address or ENS. \nNote: You must complete all three steps in order to be eligible. 1 entry per-person.",
+          "link": "https://twitter.com/developer_dao/status/1565014099263635458",
+          "publishedOn": "2022-08-31T16:30:12.000Z",
+          "wordCount": 390,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1565014095564345347",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Our contest is ending today! So be sure to submit your meme in time, for a chance at winning one of the following prizes 🏆\n1st place = 400 $CODE\n2nd place = 200 $CODE\n3rd place = 100 $CODE\nrunner-up prizes of 50 $CODE tokens each\nSee rules in the tweet below\n\nDeveloper DAO (🧱, 🚀): In celebration of our highly anticipated $CODE token launch, we're kicking off our first-ever MEME CONTEST, powered by @CoinviseCo 🎉 🎉\nHow will it work?\nCreate a meme related the token launch of Developer DAO, and stand a chance of winning $CODE tokens 👀 \nGo go go 🔥 🔥",
+          "link": "https://twitter.com/developer_dao/status/1565014095564345347",
+          "publishedOn": "2022-08-31T16:30:11.000Z",
+          "wordCount": 390,
+          "title": "Our contest is ending today! So be sure to submit your meme in time, for a chance at winning one of the following prizes 🏆 1st place = 400 $CODE 2n...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1564998166684073985",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Create a Random Generated Number on-chain using API3 Tools for Free!\nby @developer_dao member @wc49358 🌱\nAn Intro tutorial on how to send requests for random numbers and use them on Remix. https://blog.developerdao.com/create-a-random-generated-number-on-chain-using-api3-tools-for-free",
+          "link": "https://twitter.com/developer_dao/status/1564998166684073985",
+          "publishedOn": "2022-08-31T15:26:53.000Z",
+          "wordCount": 390,
+          "title": "Create a Random Generated Number on-chain using API3 Tools for Free! by @developer_dao member @wc49358 🌱 An Intro tutorial on how to send requests ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/web3afrika/status/1564952373751173121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Web3 Afrika\nIn anticipation of the kick off of our bootcamp in collaboration with @austingriffith, to onboard more African builders using Speed Run Ethereum as a curriculum, we had a launch event and we would like to specially thank @austingriffith and also, everyone who joined in.",
+          "link": "https://twitter.com/web3afrika/status/1564952373751173121",
+          "publishedOn": "2022-08-31T12:24:55.000Z",
+          "wordCount": 390,
+          "title": "RT Web3 Afrika: In anticipation of the kick off of our bootcamp in collaboration with @austingriffith, to onboard more African builders using Speed Ru...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ButlerMuwo/status/1564926601648824323",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Resident Hacker\nI just joined the @developer_dao  community 🎉🚀🤩 Huge thanks to @dhaiwat10  for sponsoring me & @codingwithmanny for making this happen. I am going to make the most out of this opportunity.",
+          "link": "https://twitter.com/ButlerMuwo/status/1564926601648824323",
+          "publishedOn": "2022-08-31T10:42:31.000Z",
+          "wordCount": 390,
+          "title": "RT Resident Hacker: I just joined the @developer_dao community 🎉🚀🤩 Huge thanks to @dhaiwat10 for sponsoring me & @codingwithmanny for making ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1564921757601079298",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @adiig7 @4gnle Hello, the ENS in your Twitter name shows that no $CODE has been sent to it, but it holds a Genesis NFT.\nYou shared the following wallet address:\n0xFB0adeCa75553f2D8eFC5B51ecd9A00E817BA95C\nthis shows a prior transaction to the first wallet. can you provide more info, please?",
+          "link": "https://twitter.com/developer_dao/status/1564921757601079298",
+          "publishedOn": "2022-08-31T10:23:16.000Z",
+          "wordCount": 390,
+          "title": "Re @adiig7 @4gnle Hello, the ENS in your Twitter name shows that no $CODE has been sent to it, but it holds a Genesis NFT. You shared the following wa...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/reet_batra/status/1564916656702230528",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT reetbatra.eth (🧱, 🚀)\nI got into @developer_dao 🎉\nfinallyyyy! 🙌\nthanks to @codingwithmanny and @PeterPanYes for sponsoring me ❤ \nLooking forward to contribute as a DevRel and polish my Dev skills 🤝🏻",
+          "link": "https://twitter.com/reet_batra/status/1564916656702230528",
+          "publishedOn": "2022-08-31T10:03:00.000Z",
+          "wordCount": 390,
+          "title": "RT reetbatra.eth (🧱, 🚀): I got into @developer_dao 🎉 finallyyyy! 🙌 thanks to @codingwithmanny and @PeterPanYes for sponsoring me ❤ Lookin...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1564895544232787969",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @JofArnold In this particular context, can you clarify what COIN is? Are you referring to the Coinbase stock ticker?",
+          "link": "https://twitter.com/developer_dao/status/1564895544232787969",
+          "publishedOn": "2022-08-31T08:39:06.000Z",
+          "wordCount": 390,
+          "title": "Re @JofArnold In this particular context, can you clarify what COIN is? Are you referring to the Coinbase stock ticker?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1564870164067254273",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Oleanji_sol have you entered our meme contest? 👀\nDeveloper DAO (🧱, 🚀): Our contest is still running until EOD tomorrow, so don't forget to submit your meme for a chance at winning one of the following prizes 🏆\n1st place = 400 $CODE\n2nd place = 200 $CODE\n3rd place = 100 $CODE\nrunner-up prizes of 50 $CODE tokens each\nSee rules in the tweet below",
+          "link": "https://twitter.com/developer_dao/status/1564870164067254273",
+          "publishedOn": "2022-08-31T06:58:15.000Z",
+          "wordCount": 390,
+          "title": "Re @Oleanji_sol have you entered our meme contest? 👀",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/wise_Tyy/status/1564700720619732992",
           "author": "Developer DAO (🧱, 🚀)",
@@ -104,36 +198,6 @@
           "publishedOn": "2022-08-30T19:10:14.000Z",
           "wordCount": 390,
           "title": "RT shestakova.eth: who's praticipating in @ETHGlobal and looking for a designer/creative with basic coding skillz hmu!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1564665948556218370",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Writing for Developer DAO in Season 1 \nby @developer_dao member @K4y1s 🌱\nWith Season 1 and the launch of the $CODE token, we finally have budgets to pay members for their work, which includes writing tasks for the DAO. (🧱, 🚀) https://blog.developerdao.com/writing-for-developer-dao-in-season-1",
-          "link": "https://twitter.com/developer_dao/status/1564665948556218370",
-          "publishedOn": "2022-08-30T17:26:46.000Z",
-          "wordCount": 390,
-          "title": "Writing for Developer DAO in Season 1 by @developer_dao member @K4y1s 🌱 With Season 1 and the launch of the $CODE token, we finally have budgets to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1564664729687187458",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @tchowd_ @kempsterrrr This episode is sponsored by our frens at @epnsproject.",
-          "link": "https://twitter.com/developer_dao/status/1564664729687187458",
-          "publishedOn": "2022-08-30T17:21:56.000Z",
-          "wordCount": 390,
-          "title": "Re @tchowd_ @kempsterrrr This episode is sponsored by our frens at @epnsproject.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1564664396646866947",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Presenting the fourth episode of the \"Humans of D_D\" podcast with \n@tchowd_ / @developer_dao. \nPlugin as @kempsterrrr shares all about the DD foundation and plans for S1. 🚀\n🔗 Full Episode: https://www.youtube.com/watch?v=kJbnN-wu0qM&ab_channel=DeveloperDAO",
-          "link": "https://twitter.com/developer_dao/status/1564664396646866947",
-          "publishedOn": "2022-08-30T17:20:36.000Z",
-          "wordCount": 390,
-          "title": "Presenting the fourth episode of the \"Humans of D_D\" podcast with @tchowd_ / @developer_dao. Plugin as @kempsterrrr shares all about the DD foundation...",
           "imageUrl": null
         },
         {
@@ -167,26 +231,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/Dexterous_Dev/status/1564611062200438819",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Dexterous\nRe @developer_dao @CoinviseCo @developer_dao \n0xe308b0F082700eF443DB94C617c1a08a1A7e0214",
-          "link": "https://twitter.com/Dexterous_Dev/status/1564611062200438819",
-          "publishedOn": "2022-08-30T13:48:40.000Z",
-          "wordCount": 390,
-          "title": "RT Dexterous: Re @developer_dao @CoinviseCo @developer_dao 0xe308b0F082700eF443DB94C617c1a08a1A7e0214",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nnnnicholas/status/1564605175565787139",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nnnnicholas.eth⛱\nNew episode with @davidesilverman of @LensProtocol http://web3galaxybrain.com",
-          "link": "https://twitter.com/nnnnicholas/status/1564605175565787139",
-          "publishedOn": "2022-08-30T13:25:17.000Z",
-          "wordCount": 390,
-          "title": "RT nnnnicholas.eth⛱: New episode with @davidesilverman of @LensProtocol",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/jjohnson5253/status/1564478378807140352",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Jake Johnson\nJust bought some $CODE and joined @developer_dao. 😎 Excited to see what I can learn and contribute!📚\n@DawsonBotsford @jackburrus Thanks for telling me about it!",
@@ -194,86 +238,6 @@
           "publishedOn": "2022-08-30T05:01:26.000Z",
           "wordCount": 390,
           "title": "RT Jake Johnson: Just bought some $CODE and joined @developer_dao. 😎 Excited to see what I can learn and contribute!📚 @DawsonBotsford @jackburru...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/phi_xyz/status/1564402546642366464",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Phi 🏝\nThrilled to announce that Phi has launched on Polygon Mumbai Testnet!🏝\nPhi is the Web3 world created directly from @ensdomains & wallet activities, enabling the easy visualization of on-chain identities.\n\nHere's what you should know regarding Phi demo👇 http://philand.xyz",
-          "link": "https://twitter.com/phi_xyz/status/1564402546642366464",
-          "publishedOn": "2022-08-30T00:00:06.000Z",
-          "wordCount": 390,
-          "title": "RT Phi 🏝: Thrilled to announce that Phi has launched on Polygon Mumbai Testnet!🏝 Phi is the Web3 world created directly from @ensdomains & walle...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/StefLikeCurry/status/1564379361913909248",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Stef(🧱,🚀)\nGot some initial thoughts out about @CelestiaOrg why modular blockchains are an area to watch. https://stefcodes.hashnode.dev/what-is-celestia-why-should-i-care",
-          "link": "https://twitter.com/StefLikeCurry/status/1564379361913909248",
-          "publishedOn": "2022-08-29T22:27:59.000Z",
-          "wordCount": 390,
-          "title": "RT Stef(🧱,🚀): Got some initial thoughts out about @CelestiaOrg why modular blockchains are an area to watch.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/yusuket_/status/1564302540447137792",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Yusuke Tanaka\n📆 This Week in Metaverse #025 📆 \n👉 Hook Protocol launches\n👉 Metaverse Art Week opens in Soho Plaza\n👉 Neopets introduces the Neopets Metaverse Alpha\n👉 Reddit will airdrop free NFT avatars\n👉 Pudgy Penguins Ethereum NFTs Pump 83%\n👉 BendDAO faces liquidity crisis\n🧵↓",
-          "link": "https://twitter.com/yusuket_/status/1564302540447137792",
-          "publishedOn": "2022-08-29T17:22:43.000Z",
-          "wordCount": 390,
-          "title": "RT Yusuke Tanaka: 📆 This Week in Metaverse #025 📆 👉 Hook Protocol launches 👉 Metaverse Art Week opens in Soho Plaza 👉 Neopets introduce...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/klaytn_official/status/1564236526669774848",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Klaytn\n#Klaymakers22 is now live and open for submissions! 🦾\nThe first 200 registered teams to submit their #buidls will receive US$50 worth of AWS credits 🎉 @awscloud @megazonecloud  \nCreate your buidls on @DoraHacks now: http://ow.ly/HNij50Kue80",
-          "link": "https://twitter.com/klaytn_official/status/1564236526669774848",
-          "publishedOn": "2022-08-29T13:00:24.000Z",
-          "wordCount": 390,
-          "title": "RT Klaytn: #Klaymakers22 is now live and open for submissions! 🦾 The first 200 registered teams to submit their #buidls will receive US$50 worth of...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Jtseig/status/1564041603907330048",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT JTS\nIn an interesting twist, @Pfizer Ventures has entered the #DeSci / @VitaDAO chat.\nWhat's DeSci? Who is VitaDAO? And why is this a major event?\n🧵",
-          "link": "https://twitter.com/Jtseig/status/1564041603907330048",
-          "publishedOn": "2022-08-29T00:05:51.000Z",
-          "wordCount": 390,
-          "title": "RT JTS: In an interesting twist, @Pfizer Ventures has entered the #DeSci / @VitaDAO chat. What's DeSci? Who is VitaDAO? And why is this a major event?...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/vorcigernix/status/1563949184453120002",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT adamsobotka.eth\n#TornadoCash TornadoGate can't fade out. There are a lot of articles for blockchain enthusiasts, this is my attempt to translate the issue to a broader audience of a regular software developers. https://mirror.xyz/adamsobotka.eth/HqN8LM5Ri54Au8Pqk6L8VNrFy4UbqXaVhJEyFWF1Q2c",
-          "link": "https://twitter.com/vorcigernix/status/1563949184453120002",
-          "publishedOn": "2022-08-28T17:58:37.000Z",
-          "wordCount": 390,
-          "title": "RT adamsobotka.eth: #TornadoCash TornadoGate can't fade out. There are a lot of articles for blockchain enthusiasts, this is my attempt to translate t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Razor_SiM/status/1563268091899166720",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Raz | 0xraz.eth\nFor the upcoming update of the Potion Protocol, we focused on E2E Testing. We can now run the entire stack on Github Actions  - Ganache, Subgraph, and the Vue App - through Docker and test user actions, including blockchain transactions. 🧵",
-          "link": "https://twitter.com/Razor_SiM/status/1563268091899166720",
-          "publishedOn": "2022-08-26T20:52:11.000Z",
-          "wordCount": 390,
-          "title": "RT Raz | 0xraz.eth: For the upcoming update of the Potion Protocol, we focused on E2E Testing. We can now run the entire stack on Github Actions - Gan...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/maxpetretta/status/1562530214881570817",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT maxpetretta.eth\nEver wonder what Twitter would be like if it was an _actual_ protocol?  If it was rebuilt with the web3 stack?  If yes, you might like my latest side project!\nIntroducing: http://twitt3r.xyz",
-          "link": "https://twitter.com/maxpetretta/status/1562530214881570817",
-          "publishedOn": "2022-08-24T20:00:08.000Z",
-          "wordCount": 390,
-          "title": "RT maxpetretta.eth: Ever wonder what Twitter would be like if it was an _actual_ protocol? If it was rebuilt with the web3 stack? If yes, you might li...",
           "imageUrl": null
         }
       ]
