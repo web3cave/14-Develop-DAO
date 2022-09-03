@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T06:34:44.366Z</id>
+    <id>urn:2022-09-03T06:14:09.130Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T06:34:44.366Z</updated>
+    <updated>2022-09-03T06:14:09.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[D4R]]></title>
+        <id>https://twitter.com/developer_dao/status/1565795476133249025</id>
+        <link href="https://twitter.com/developer_dao/status/1565795476133249025"/>
+        <updated>2022-09-02T20:15:07.000Z</updated>
+        <summary type="html"><![CDATA[D4R]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @camiinthisthang Purrrr]]></title>
+        <id>https://twitter.com/developer_dao/status/1565785070656438272</id>
+        <link href="https://twitter.com/developer_dao/status/1565785070656438272"/>
+        <updated>2022-09-02T19:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @camiinthisthang Purrrr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens We had a wonderful inaugural #DevNTell today to kick things off for Season 1 of @developer_dao 🚀 In this week session, D...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1565766319580258304</id>
+        <link href="https://twitter.com/devntellxyz/status/1565766319580258304"/>
+        <updated>2022-09-02T18:19:15.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+🌈 gm frens
+We had a wonderful inaugural #DevNTell today to kick things off for Season 1 of @developer_dao 🚀
+In this week session, DAO member 0xcorgis (Drew) presented his new endeavour @0xcorgis - Duolingo of web3. 
+Check out the recording below 📹🍿 https://youtu.be/opJWp75xZs0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT meowy-kun.eth🌱meowy.arweave.dev🌿: Today's @devdaowomen call is one of my most favourite one so far. ✨️ @developer_dao]]></title>
+        <id>https://twitter.com/me256ow/status/1565761636991995907</id>
+        <link href="https://twitter.com/me256ow/status/1565761636991995907"/>
+        <updated>2022-09-02T18:00:39.000Z</updated>
+        <summary type="html"><![CDATA[RT meowy-kun.eth🌱meowy.arweave.dev🌿
+Today's @devdaowomen call is one of my most favourite one so far. ✨️ @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 0xthresh.eth 🔮: so excited to finally be able to join a @developer_dao onboarding call and can't wait to contribute 🫡]]></title>
+        <id>https://twitter.com/0xthresh/status/1565741251957497857</id>
+        <link href="https://twitter.com/0xthresh/status/1565741251957497857"/>
+        <updated>2022-09-02T16:39:39.000Z</updated>
+        <summary type="html"><![CDATA[RT 0xthresh.eth 🔮
+so excited to finally be able to join a @developer_dao onboarding call and can't wait to contribute 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 샤론 예빗: Normalising attending @developer_dao Friday developer-voice sessions >>>]]></title>
+        <id>https://twitter.com/SharonJebitok/status/1565727207309426690</id>
+        <link href="https://twitter.com/SharonJebitok/status/1565727207309426690"/>
+        <updated>2022-09-02T15:43:50.000Z</updated>
+        <summary type="html"><![CDATA[RT 샤론 예빗
+Normalising attending @developer_dao   Friday developer-voice sessions >>>]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1565691962639978498</id>
+        <link href="https://twitter.com/developer_dao/status/1565691962639978498"/>
+        <updated>2022-09-02T13:23:47.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT daws.eth: Being a dev in crypto is 100x more fun than web2 🥳 👌 Don't @ me]]></title>
         <id>https://twitter.com/DawsonBotsford/status/1565562788982194176</id>
@@ -89,11 +165,11 @@ If you’re a @developer_dao member in Berlin or Bogota and are willing to help 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Cami: Ways to support women in crypto instead of pandering on Twitter: -Introduce women colleagues in group settings -Interject when men talk over ...]]></title>
+        <title type="html"><![CDATA[RT Cami (🐱, ⛽️): Ways to support women in crypto instead of pandering on Twitter: -Introduce women colleagues in group settings -Interject when m...]]></title>
         <id>https://twitter.com/camiinthisthang/status/1565390838875598848</id>
         <link href="https://twitter.com/camiinthisthang/status/1565390838875598848"/>
         <updated>2022-09-01T17:27:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Cami
+        <summary type="html"><![CDATA[RT Cami (🐱, ⛽️)
 Ways to support women in crypto instead of pandering on Twitter: 
 -Introduce women colleagues in group settings
 -Interject when men talk over us
@@ -125,18 +201,6 @@ A more comprehensive list with more network support can be found here https://
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Working on an updated version of this diagram to include more protocols like @epnsproject...]]></title>
-        <id>https://twitter.com/dabit3/status/1565333858932953098</id>
-        <link href="https://twitter.com/dabit3/status/1565333858932953098"/>
-        <updated>2022-09-01T13:40:49.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-Working on an updated version of this diagram to include more protocols like @epnsproject and @LensProtocol, RPC providers, and services like @FleekHQ 
-Developers - what are some of the protocols, tools, and services you use most often? Non devs, please no shilling.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT AlgoveraAI: We're absolutely thrilled to welcome @wise_Tyy onto our team as Community Manager. Ty has much experience in this role at @developer_da...]]></title>
         <id>https://twitter.com/AlgoveraAI/status/1565319279419031554</id>
         <link href="https://twitter.com/AlgoveraAI/status/1565319279419031554"/>
@@ -151,35 +215,6 @@ Big thanks to @developer_dao & @edenprotocolxyz 🙏]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YES TYYYYYY 👑 Massive congrats @AlgoveraAI aren't you lucky!]]></title>
-        <id>https://twitter.com/developer_dao/status/1565302572965036033</id>
-        <link href="https://twitter.com/developer_dao/status/1565302572965036033"/>
-        <updated>2022-09-01T11:36:29.000Z</updated>
-        <summary type="html"><![CDATA[YES TYYYYYY 👑 Massive congrats 
-@AlgoveraAI aren't you lucky!
-Ty: Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥
-Super excited to decentralize AI by merging data science with web3 and build an epic community 🤝
-Big thanks to @developer_dao & @edenprotocolxyz 🙏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3 Afrika: 🥁🥁🥁🥁🥁 OUR OFFICIAL WEBSITE IS LIVE !!! @isaaczara_ cooked 🧑‍🍳 it, @qudusayo delivered !!! To all our contributor...]]></title>
-        <id>https://twitter.com/web3afrika/status/1565300940382535681</id>
-        <link href="https://twitter.com/web3afrika/status/1565300940382535681"/>
-        <updated>2022-09-01T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3 Afrika
-🥁🥁🥁🥁🥁
-OUR OFFICIAL WEBSITE IS LIVE !!!
-@isaaczara_ cooked 🧑‍🍳 it, @qudusayo delivered !!!
-To all our contributors, moderators, and members, we sincerely appreciate all your effort thus far.
-We can't wait to share what is coming next!!! 🥳 https://web3afrika.com/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Ty: Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥 Super excited to decentralize AI by merging data science with web3 and...]]></title>
         <id>https://twitter.com/wise_Tyy/status/1565290851340804098</id>
         <link href="https://twitter.com/wise_Tyy/status/1565290851340804098"/>
@@ -188,58 +223,6 @@ We can't wait to share what is coming next!!! 🥳 https://web3afrika.com/]]><
 Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥
 Super excited to decentralize AI by merging data science with web3 and build an epic community 🤝
 Big thanks to @developer_dao & @edenprotocolxyz 🙏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attention #solidity devs! @klaytn_official's flagship #Klaymakers22 hackathon is now live! 🦾 5 tracks, 6 sponsor bounties, and a total of over US$1...]]></title>
-        <id>https://twitter.com/developer_dao/status/1565285249403305986</id>
-        <link href="https://twitter.com/developer_dao/status/1565285249403305986"/>
-        <updated>2022-09-01T10:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Attention #solidity devs! @klaytn_official's flagship #Klaymakers22 hackathon is now live! 🦾
-5 tracks, 6 sponsor bounties, and a total of over US$1M in prizes, grants and incubation opportunities to be won 🎉
-Submit on @DoraHacks now: https://dorahacks.io/hackathon/klaymakers22/detail]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The meme contest has now ended. Thank you to everybody who participated! The winners will be announced on 16th September 🎉]]></title>
-        <id>https://twitter.com/developer_dao/status/1565108498710646790</id>
-        <link href="https://twitter.com/developer_dao/status/1565108498710646790"/>
-        <updated>2022-08-31T22:45:19.000Z</updated>
-        <summary type="html"><![CDATA[The meme contest has now ended. Thank you to everybody who participated!
-The winners will be announced on 16th September 🎉]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Asyong: Re @developer_dao @CoinviseCo My original spray paint, hope you like it my effort 😉🙏 My address 0xCc11F9E63de2Ce237c67B2D932446EE689F...]]></title>
-        <id>https://twitter.com/Baba_asong/status/1565029750531567617</id>
-        <link href="https://twitter.com/Baba_asong/status/1565029750531567617"/>
-        <updated>2022-08-31T17:32:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Asyong
-Re @developer_dao @CoinviseCo My original spray paint, hope you like it my effort 😉🙏
-My address
-0xCc11F9E63de2Ce237c67B2D932446EE689FffbEc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/developer_dao/status/1565014099263635458</id>
-        <link href="https://twitter.com/developer_dao/status/1565014099263635458"/>
-        <updated>2022-08-31T16:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 
-Developer DAO (🧱, 🚀): Rules ℹ️
-
-1. Follow @developer_dao
-2. Retweet the first tweet in this thread
-3. Submit your meme entry by REPLYING to the first tweet in this thread, and include your wallet address or ENS. 
-Note: You must complete all three steps in order to be eligible. 1 entry per-person.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
