@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-03T06:14:09.130Z</id>
+    <id>urn:2022-09-04T06:13:52.752Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-03T06:14:09.130Z</updated>
+    <updated>2022-09-04T06:13:52.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -201,6 +201,18 @@ A more comprehensive list with more network support can be found here https://
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Working on an updated version of this diagram to include more protocols like @epnsproject...]]></title>
+        <id>https://twitter.com/dabit3/status/1565333858932953098</id>
+        <link href="https://twitter.com/dabit3/status/1565333858932953098"/>
+        <updated>2022-09-01T13:40:49.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
+Working on an updated version of this diagram to include more protocols like @epnsproject and @LensProtocol, RPC providers, and services like @FleekHQ 
+Developers - what are some of the protocols, tools, and services you use most often? Non devs, please no shilling.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT AlgoveraAI: We're absolutely thrilled to welcome @wise_Tyy onto our team as Community Manager. Ty has much experience in this role at @developer_da...]]></title>
         <id>https://twitter.com/AlgoveraAI/status/1565319279419031554</id>
         <link href="https://twitter.com/AlgoveraAI/status/1565319279419031554"/>
@@ -210,6 +222,21 @@ We're absolutely thrilled to welcome @wise_Tyy onto our team as Community Manage
 Ty: Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥
 Super excited to decentralize AI by merging data science with web3 and build an epic community 🤝
 Big thanks to @developer_dao & @edenprotocolxyz 🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Web3 Afrika: 🥁🥁🥁🥁🥁 OUR OFFICIAL WEBSITE IS LIVE !!! @isaaczara_ cooked 🧑‍🍳 it, @qudusayo delivered !!! To all our contributor...]]></title>
+        <id>https://twitter.com/web3afrika/status/1565300940382535681</id>
+        <link href="https://twitter.com/web3afrika/status/1565300940382535681"/>
+        <updated>2022-09-01T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3 Afrika
+🥁🥁🥁🥁🥁
+OUR OFFICIAL WEBSITE IS LIVE !!!
+@isaaczara_ cooked 🧑‍🍳 it, @qudusayo delivered !!!
+To all our contributors, moderators, and members, we sincerely appreciate all your effort thus far.
+We can't wait to share what is coming next!!! 🥳 https://web3afrika.com/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
