@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-04T06:13:52.752Z</id>
+    <id>urn:2022-09-05T06:41:27.687Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-04T06:13:52.752Z</updated>
+    <updated>2022-09-05T06:41:27.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Development with Foundry ☀️ In this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry inc...]]></title>
+        <id>https://twitter.com/developer_dao/status/1566426716909850625</id>
+        <link href="https://twitter.com/developer_dao/status/1566426716909850625"/>
+        <updated>2022-09-04T14:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Smart Contract Development with Foundry ☀️
+In this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry including an overview of the CLIs and libraries that make up Foundry, what they do, and how to install them. https://www.youtube.com/watch?v=uelA2U9TbgM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D4R]]></title>
         <id>https://twitter.com/developer_dao/status/1565795476133249025</id>
@@ -129,11 +140,11 @@ Interacting with Contracts with wagmi w/ https://youtu.be/M4VzKFR-C3Y]]></summ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT ella miami . building a dextension 👀✨ stay tuned: INSANE. JUST BUILT MY FIRST DAPP ON @LensProtocol WITH @womenbuildweb3 IN OUR #30DAYSOFWEB3. ...]]></title>
+        <title type="html"><![CDATA[RT ella porto . building a dextension 👀✨ stay tuned: INSANE. JUST BUILT MY FIRST DAPP ON @LensProtocol WITH @womenbuildweb3 IN OUR #30DAYSOFWEB3. ...]]></title>
         <id>https://twitter.com/ellayayayshen/status/1565472116593627139</id>
         <link href="https://twitter.com/ellayayayshen/status/1565472116593627139"/>
         <updated>2022-09-01T22:50:12.000Z</updated>
-        <summary type="html"><![CDATA[RT ella miami . building a dextension 👀✨ stay tuned
+        <summary type="html"><![CDATA[RT ella porto . building a dextension 👀✨ stay tuned
 INSANE.
 JUST BUILT MY FIRST DAPP ON @LensProtocol WITH @womenbuildweb3 IN OUR #30DAYSOFWEB3. LENS I'M COMING TO BUILD FOR YOU.
 @donosonaumczuk hey there lensfren. 🌿
@@ -201,18 +212,6 @@ A more comprehensive list with more network support can be found here https://
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: Working on an updated version of this diagram to include more protocols like @epnsproject...]]></title>
-        <id>https://twitter.com/dabit3/status/1565333858932953098</id>
-        <link href="https://twitter.com/dabit3/status/1565333858932953098"/>
-        <updated>2022-09-01T13:40:49.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-Working on an updated version of this diagram to include more protocols like @epnsproject and @LensProtocol, RPC providers, and services like @FleekHQ 
-Developers - what are some of the protocols, tools, and services you use most often? Non devs, please no shilling.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT AlgoveraAI: We're absolutely thrilled to welcome @wise_Tyy onto our team as Community Manager. Ty has much experience in this role at @developer_da...]]></title>
         <id>https://twitter.com/AlgoveraAI/status/1565319279419031554</id>
         <link href="https://twitter.com/AlgoveraAI/status/1565319279419031554"/>
@@ -220,34 +219,6 @@ Developers - what are some of the protocols, tools, and services you use most of
         <summary type="html"><![CDATA[RT AlgoveraAI
 We're absolutely thrilled to welcome @wise_Tyy onto our team as Community Manager. Ty has much experience in this role at @developer_dao & @edenprotocolxyz. We love the way that he thinks about onboarding & engaging community members. So excited to see what we can build together!
 Ty: Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥
-Super excited to decentralize AI by merging data science with web3 and build an epic community 🤝
-Big thanks to @developer_dao & @edenprotocolxyz 🙏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3 Afrika: 🥁🥁🥁🥁🥁 OUR OFFICIAL WEBSITE IS LIVE !!! @isaaczara_ cooked 🧑‍🍳 it, @qudusayo delivered !!! To all our contributor...]]></title>
-        <id>https://twitter.com/web3afrika/status/1565300940382535681</id>
-        <link href="https://twitter.com/web3afrika/status/1565300940382535681"/>
-        <updated>2022-09-01T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3 Afrika
-🥁🥁🥁🥁🥁
-OUR OFFICIAL WEBSITE IS LIVE !!!
-@isaaczara_ cooked 🧑‍🍳 it, @qudusayo delivered !!!
-To all our contributors, moderators, and members, we sincerely appreciate all your effort thus far.
-We can't wait to share what is coming next!!! 🥳 https://web3afrika.com/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ty: Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥 Super excited to decentralize AI by merging data science with web3 and...]]></title>
-        <id>https://twitter.com/wise_Tyy/status/1565290851340804098</id>
-        <link href="https://twitter.com/wise_Tyy/status/1565290851340804098"/>
-        <updated>2022-09-01T10:49:55.000Z</updated>
-        <summary type="html"><![CDATA[RT Ty
-Happy to share that I've joined @AlgoveraAI as a Community Manager! 🔥
 Super excited to decentralize AI by merging data science with web3 and build an epic community 🤝
 Big thanks to @developer_dao & @edenprotocolxyz 🙏]]></summary>
         <author>
