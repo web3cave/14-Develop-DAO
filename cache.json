@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/38-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Discord guard is on the way...",
+          "link": "https://developerdao.substack.com/p/38-probably-nothing",
+          "publishedOn": "2022-09-06T11:28:47.000Z",
+          "wordCount": null,
+          "title": "#38 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c78a5b-2402-4d88-9da3-f13cee2095ef_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c78a5b-2402-4d88-9da3-f13cee2095ef_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/37-probably-nothing",
           "author": "Colin4ward",
           "description": "CODE szn? Meme Szn!",
@@ -60,6 +76,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1567197460774404097",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\nAny @developer_dao members coming to Delhi this week? Drop a 👋, will add to a gc",
+          "link": "https://twitter.com/dhaiwat10/status/1567197460774404097",
+          "publishedOn": "2022-09-06T17:06:06.000Z",
+          "wordCount": 390,
+          "title": "RT dhai.eth: Any @developer_dao members coming to Delhi this week? Drop a 👋, will add to a gc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/fuellabs_/status/1567190771618705408",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Fuel Labs\nToday, we're proud to announce $80M of support led by @BlockchainCap and @StratosXYZ!\nFuel is the fastest Modular Execution Layer delivering the highest flexible throughput with maximum security guarantees for the Ethereum ecosystem. https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/",
+          "link": "https://twitter.com/fuellabs_/status/1567190771618705408",
+          "publishedOn": "2022-09-06T16:39:31.000Z",
+          "wordCount": 390,
+          "title": "RT Fuel Labs: Today, we're proud to announce $80M of support led by @BlockchainCap and @StratosXYZ! Fuel is the fastest Modular Execution Layer delive...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Web3Dubai/status/1567165672488144897",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Web3Dubai Conf\nTickets are now up! Our dev conf+hackathon+workshops event features:\n@dabit3 (@CelestiaOrg+@developer_dao) @IvanOnTech (@MoralisWeb3) \n@sarangparikh22 (@SushiSwap) \n@Mudit__Gupta (CISO @0xPolygon) \n@camiinthisthang, @fuellabs_ \n@AlexPipushev @GtonCapital https://www.web3dubai.org/#tickets",
+          "link": "https://twitter.com/Web3Dubai/status/1567165672488144897",
+          "publishedOn": "2022-09-06T14:59:47.000Z",
+          "wordCount": 390,
+          "title": "RT Web3Dubai Conf: Tickets are now up! Our dev conf+hackathon+workshops event features: @dabit3 (@CelestiaOrg+@developer_dao) @IvanOnTech (@MoralisWeb...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/theceosahab/status/1567118703363510273",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT theceosahab.eth | #W3Bian\nnice meeting with @dhaiwat10, such a humble and genius guy 🙌\nThanks for the merch 🙌",
+          "link": "https://twitter.com/theceosahab/status/1567118703363510273",
+          "publishedOn": "2022-09-06T11:53:09.000Z",
+          "wordCount": 390,
+          "title": "RT theceosahab.eth | #W3Bian: nice meeting with @dhaiwat10, such a humble and genius guy 🙌 Thanks for the merch 🙌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1566893795245191168",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\nthis is why @developer_dao is awesome:\n@web3con\n@vibesIRL \n@web3afrika \n@womenbuildweb3 \n@devdaowomen \n@devntellxyz\n@DDbuidlIRL \ni'm probably missing one or two 👏",
+          "link": "https://twitter.com/dhaiwat10/status/1566893795245191168",
+          "publishedOn": "2022-09-05T20:59:26.000Z",
+          "wordCount": 390,
+          "title": "RT dhai.eth: this is why @developer_dao is awesome: @web3con @vibesIRL @web3afrika @womenbuildweb3 @devdaowomen @devntellxyz @DDbuidlIRL i'm probably ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1566893179974164482",
           "author": "Developer DAO (🧱, 🚀)",
@@ -161,13 +227,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1566788796858892290",
+          "id": "https://twitter.com/betashop/status/1566739973386260480",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "ERC20 Permit Tutorial by @developer_dao member @Web3Club 📚\nAllow users to approve token transfers without spending gas (EIP 2612) ⛽️ https://www.youtube.com/watch?v=lFKcga4Y6Ys",
-          "link": "https://twitter.com/developer_dao/status/1566788796858892290",
-          "publishedOn": "2022-09-05T14:02:13.000Z",
+          "description": "RT Jason Goldberg | Airstack\nName a junior full stack dev in India who wants to break into web3 in the comments below\nIf I hire them you get 3ETH from me",
+          "link": "https://twitter.com/betashop/status/1566739973386260480",
+          "publishedOn": "2022-09-05T10:48:12.000Z",
           "wordCount": 390,
-          "title": "ERC20 Permit Tutorial by @developer_dao member @Web3Club 📚 Allow users to approve token transfers without spending gas (EIP 2612) ⛽️",
+          "title": "RT Jason Goldberg | Airstack: Name a junior full stack dev in India who wants to break into web3 in the comments below If I hire them you get 3ETH fro...",
           "imageUrl": null
         },
         {
@@ -181,16 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1566426716909850625",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Smart Contract Development with Foundry ☀️\nIn this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry including an overview of the CLIs and libraries that make up Foundry, what they do, and how to install them. https://www.youtube.com/watch?v=uelA2U9TbgM",
-          "link": "https://twitter.com/developer_dao/status/1566426716909850625",
-          "publishedOn": "2022-09-04T14:03:26.000Z",
-          "wordCount": 390,
-          "title": "Smart Contract Development with Foundry ☀️ In this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry inc...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/sahra_karakoc/status/1565827275630600194",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Sahra\nLet me try to explain what that tweet means, and then answer it (the answer is no btw). Just a couple of concepts and we are done:",
@@ -198,46 +254,6 @@
           "publishedOn": "2022-09-02T22:21:28.000Z",
           "wordCount": 390,
           "title": "RT Sahra: Let me try to explain what that tweet means, and then answer it (the answer is no btw). Just a couple of concepts and we are done:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1565795476133249025",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "D4R",
-          "link": "https://twitter.com/developer_dao/status/1565795476133249025",
-          "publishedOn": "2022-09-02T20:15:07.000Z",
-          "wordCount": 390,
-          "title": "D4R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1565785070656438272",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @camiinthisthang Purrrr",
-          "link": "https://twitter.com/developer_dao/status/1565785070656438272",
-          "publishedOn": "2022-09-02T19:33:46.000Z",
-          "wordCount": 390,
-          "title": "Re @camiinthisthang Purrrr",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1565766319580258304",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🌈 gm frens\nWe had a wonderful inaugural #DevNTell today to kick things off for Season 1 of @developer_dao 🚀\nIn this week session, DAO member 0xcorgis (Drew) presented his new endeavour @0xcorgis - Duolingo of web3. \nCheck out the recording below 📹🍿 https://youtu.be/opJWp75xZs0",
-          "link": "https://twitter.com/devntellxyz/status/1565766319580258304",
-          "publishedOn": "2022-09-02T18:19:15.000Z",
-          "wordCount": 390,
-          "title": "RT DevNTell: 🌈 gm frens We had a wonderful inaugural #DevNTell today to kick things off for Season 1 of @developer_dao 🚀 In this week session, D...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xthresh/status/1565741251957497857",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0xthresh.eth 🔮\nso excited to finally be able to join a @developer_dao onboarding call and can't wait to contribute 🫡",
-          "link": "https://twitter.com/0xthresh/status/1565741251957497857",
-          "publishedOn": "2022-09-02T16:39:39.000Z",
-          "wordCount": 390,
-          "title": "RT 0xthresh.eth 🔮: so excited to finally be able to join a @developer_dao onboarding call and can't wait to contribute 🫡",
           "imageUrl": null
         },
         {

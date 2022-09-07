@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T06:54:44.401Z</id>
+    <id>urn:2022-09-07T06:52:30.942Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-06T06:54:44.401Z</updated>
+    <updated>2022-09-07T06:52:30.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: Any @developer_dao members coming to Delhi this week? Drop a 👋, will add to a gc]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1567197460774404097</id>
+        <link href="https://twitter.com/dhaiwat10/status/1567197460774404097"/>
+        <updated>2022-09-06T17:06:06.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+Any @developer_dao members coming to Delhi this week? Drop a 👋, will add to a gc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Fuel Labs: Today, we're proud to announce $80M of support led by @BlockchainCap and @StratosXYZ! Fuel is the fastest Modular Execution Layer delive...]]></title>
+        <id>https://twitter.com/fuellabs_/status/1567190771618705408</id>
+        <link href="https://twitter.com/fuellabs_/status/1567190771618705408"/>
+        <updated>2022-09-06T16:39:31.000Z</updated>
+        <summary type="html"><![CDATA[RT Fuel Labs
+Today, we're proud to announce $80M of support led by @BlockchainCap and @StratosXYZ!
+Fuel is the fastest Modular Execution Layer delivering the highest flexible throughput with maximum security guarantees for the Ethereum ecosystem. https://fuel-labs.ghost.io/fuel-labs-announces-80-million-of-support-for-the-fastest-modular-execution-layer/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Web3Dubai Conf: Tickets are now up! Our dev conf+hackathon+workshops event features: @dabit3 (@CelestiaOrg+@developer_dao) @IvanOnTech (@MoralisWeb...]]></title>
+        <id>https://twitter.com/Web3Dubai/status/1567165672488144897</id>
+        <link href="https://twitter.com/Web3Dubai/status/1567165672488144897"/>
+        <updated>2022-09-06T14:59:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3Dubai Conf
+Tickets are now up! Our dev conf+hackathon+workshops event features:
+@dabit3 (@CelestiaOrg+@developer_dao) @IvanOnTech (@MoralisWeb3) 
+@sarangparikh22 (@SushiSwap) 
+@Mudit__Gupta (CISO @0xPolygon) 
+@camiinthisthang, @fuellabs_ 
+@AlexPipushev @GtonCapital https://www.web3dubai.org/#tickets]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT theceosahab.eth | #W3Bian: nice meeting with @dhaiwat10, such a humble and genius guy 🙌 Thanks for the merch 🙌]]></title>
+        <id>https://twitter.com/theceosahab/status/1567118703363510273</id>
+        <link href="https://twitter.com/theceosahab/status/1567118703363510273"/>
+        <updated>2022-09-06T11:53:09.000Z</updated>
+        <summary type="html"><![CDATA[RT theceosahab.eth | #W3Bian
+nice meeting with @dhaiwat10, such a humble and genius guy 🙌
+Thanks for the merch 🙌]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#38 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/38-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/38-probably-nothing"/>
+        <updated>2022-09-06T11:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Discord guard is on the way...]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: this is why @developer_dao is awesome: @web3con @vibesIRL @web3afrika @womenbuildweb3 @devdaowomen @devntellxyz @DDbuidlIRL i'm probably ...]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1566893795245191168</id>
+        <link href="https://twitter.com/dhaiwat10/status/1566893795245191168"/>
+        <updated>2022-09-05T20:59:26.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+this is why @developer_dao is awesome:
+@web3con
+@vibesIRL 
+@web3afrika 
+@womenbuildweb3 
+@devdaowomen 
+@devntellxyz
+@DDbuidlIRL 
+i'm probably missing one or two 👏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a FullStack Dapp using Next JS, Tailwind CSS and The graph. (Part 1) by @developer_dao member @Oleanji_sol]]></title>
         <id>https://twitter.com/developer_dao/status/1566893179974164482</id>
@@ -119,12 +199,13 @@ Your application for a Developer DAO scholarship has been accepted 🎉 https:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ERC20 Permit Tutorial by @developer_dao member @Web3Club 📚 Allow users to approve token transfers without spending gas (EIP 2612) ⛽️]]></title>
-        <id>https://twitter.com/developer_dao/status/1566788796858892290</id>
-        <link href="https://twitter.com/developer_dao/status/1566788796858892290"/>
-        <updated>2022-09-05T14:02:13.000Z</updated>
-        <summary type="html"><![CDATA[ERC20 Permit Tutorial by @developer_dao member @Web3Club 📚
-Allow users to approve token transfers without spending gas (EIP 2612) ⛽️ https://www.youtube.com/watch?v=lFKcga4Y6Ys]]></summary>
+        <title type="html"><![CDATA[RT Jason Goldberg | Airstack: Name a junior full stack dev in India who wants to break into web3 in the comments below If I hire them you get 3ETH fro...]]></title>
+        <id>https://twitter.com/betashop/status/1566739973386260480</id>
+        <link href="https://twitter.com/betashop/status/1566739973386260480"/>
+        <updated>2022-09-05T10:48:12.000Z</updated>
+        <summary type="html"><![CDATA[RT Jason Goldberg | Airstack
+Name a junior full stack dev in India who wants to break into web3 in the comments below
+If I hire them you get 3ETH from me]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -141,68 +222,12 @@ light mode is actually fatherless behavior]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smart Contract Development with Foundry ☀️ In this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry inc...]]></title>
-        <id>https://twitter.com/developer_dao/status/1566426716909850625</id>
-        <link href="https://twitter.com/developer_dao/status/1566426716909850625"/>
-        <updated>2022-09-04T14:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Smart Contract Development with Foundry ☀️
-In this video you'll learn how to build, test, and deploy smart contracts with Solidity using Foundry including an overview of the CLIs and libraries that make up Foundry, what they do, and how to install them. https://www.youtube.com/watch?v=uelA2U9TbgM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Sahra: Let me try to explain what that tweet means, and then answer it (the answer is no btw). Just a couple of concepts and we are done:]]></title>
         <id>https://twitter.com/sahra_karakoc/status/1565827275630600194</id>
         <link href="https://twitter.com/sahra_karakoc/status/1565827275630600194"/>
         <updated>2022-09-02T22:21:28.000Z</updated>
         <summary type="html"><![CDATA[RT Sahra
 Let me try to explain what that tweet means, and then answer it (the answer is no btw). Just a couple of concepts and we are done:]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D4R]]></title>
-        <id>https://twitter.com/developer_dao/status/1565795476133249025</id>
-        <link href="https://twitter.com/developer_dao/status/1565795476133249025"/>
-        <updated>2022-09-02T20:15:07.000Z</updated>
-        <summary type="html"><![CDATA[D4R]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @camiinthisthang Purrrr]]></title>
-        <id>https://twitter.com/developer_dao/status/1565785070656438272</id>
-        <link href="https://twitter.com/developer_dao/status/1565785070656438272"/>
-        <updated>2022-09-02T19:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @camiinthisthang Purrrr]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens We had a wonderful inaugural #DevNTell today to kick things off for Season 1 of @developer_dao 🚀 In this week session, D...]]></title>
-        <id>https://twitter.com/devntellxyz/status/1565766319580258304</id>
-        <link href="https://twitter.com/devntellxyz/status/1565766319580258304"/>
-        <updated>2022-09-02T18:19:15.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-🌈 gm frens
-We had a wonderful inaugural #DevNTell today to kick things off for Season 1 of @developer_dao 🚀
-In this week session, DAO member 0xcorgis (Drew) presented his new endeavour @0xcorgis - Duolingo of web3. 
-Check out the recording below 📹🍿 https://youtu.be/opJWp75xZs0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 0xthresh.eth 🔮: so excited to finally be able to join a @developer_dao onboarding call and can't wait to contribute 🫡]]></title>
-        <id>https://twitter.com/0xthresh/status/1565741251957497857</id>
-        <link href="https://twitter.com/0xthresh/status/1565741251957497857"/>
-        <updated>2022-09-02T16:39:39.000Z</updated>
-        <summary type="html"><![CDATA[RT 0xthresh.eth 🔮
-so excited to finally be able to join a @developer_dao onboarding call and can't wait to contribute 🫡]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
