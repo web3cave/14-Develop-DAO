@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-08T06:39:56.857Z</id>
+    <id>urn:2022-09-09T06:29:38.186Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-08T06:39:56.857Z</updated>
+    <updated>2022-09-09T06:29:38.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @OrwellNGoode]]></title>
+        <id>https://twitter.com/developer_dao/status/1567943323649806338</id>
+        <link href="https://twitter.com/developer_dao/status/1567943323649806338"/>
+        <updated>2022-09-08T18:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @OrwellNGoode]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Cami (🐱, ⛽️): Yooo @fuellabs_ just shipped testnet 🎉 I wrote a suite of content to help developers understand Fuel, the fastest modular exe...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1567933693230194689</id>
+        <link href="https://twitter.com/camiinthisthang/status/1567933693230194689"/>
+        <updated>2022-09-08T17:51:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Cami (🐱, ⛽️)
+Yooo @fuellabs_ just shipped testnet 🎉 I wrote a suite of content to help developers understand Fuel, the fastest modular execution layer 👇
+- Challenges with monolithic
+- How Fuel enables scaling
+- A step-by-step tutorial for building a dapp on Fuel https://mirror.xyz/camiinthisthang.eth/WsXmoZkrkY-w4w05nzyFrfP4n4AWM4qhmsyawqKFNTM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @SharonJebitok @Victorebukaezea Hi there, to provide some clarity on this: Developer DAO did this as a one-off courtesy for a small number of membe...]]></title>
+        <id>https://twitter.com/developer_dao/status/1567914443513675776</id>
+        <link href="https://twitter.com/developer_dao/status/1567914443513675776"/>
+        <updated>2022-09-08T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @SharonJebitok @Victorebukaezea Hi there, to provide some clarity on this:
+Developer DAO did this as a one-off courtesy for a small number of members who were eligible for the initial token launch. But this is not an ongoing service that we are able to provide, unfortunately.
+We caution all to be careful 🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kayprasla did someone say S1 partnerships? 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1567888475227127809</id>
+        <link href="https://twitter.com/developer_dao/status/1567888475227127809"/>
+        <updated>2022-09-08T14:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @kayprasla did someone say S1 partnerships? 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT tonyolendo.eth: Hey @developer_dao gang, @biconomy is sponsoring a D_D Dinner in Berlin next week. If you want to have dinner with your D_D frens, ...]]></title>
+        <id>https://twitter.com/tonyolendo/status/1567887077093556224</id>
+        <link href="https://twitter.com/tonyolendo/status/1567887077093556224"/>
+        <updated>2022-09-08T14:46:23.000Z</updated>
+        <summary type="html"><![CDATA[RT tonyolendo.eth
+Hey @developer_dao gang, @biconomy is sponsoring a D_D Dinner in Berlin next week. If you want to have dinner with your D_D frens, reserve a spot. Limited spaces available. Also you have to hold either a D4R NFT or $400 $CODE to register https://lu.ma/1ccnvron]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Orwell & Goode:]]></title>
+        <id>https://twitter.com/OrwellNGoode/status/1567856094311075842</id>
+        <link href="https://twitter.com/OrwellNGoode/status/1567856094311075842"/>
+        <updated>2022-09-08T12:43:16.000Z</updated>
+        <summary type="html"><![CDATA[RT Orwell & Goode]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT deepakk.eth | Building @accelchain: Finally a member of the @developer_dao . Can’t wait to build some epic shit along with this community 🔥]]></title>
+        <id>https://twitter.com/0xdeepak_sol/status/1567788606726733824</id>
+        <link href="https://twitter.com/0xdeepak_sol/status/1567788606726733824"/>
+        <updated>2022-09-08T08:15:06.000Z</updated>
+        <summary type="html"><![CDATA[RT deepakk.eth | Building @accelchain
+Finally a member of the @developer_dao . Can’t wait to build some epic shit along with this community 🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT defigirlxo: Any web3 technical writers looking for gigs? Dm]]></title>
         <id>https://twitter.com/defigirlxoxo/status/1567668637884104705</id>
@@ -12,6 +90,20 @@
         <updated>2022-09-08T00:18:23.000Z</updated>
         <summary type="html"><![CDATA[RT defigirlxo
 Any web3 technical writers looking for gigs? Dm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT The Milk Road: Today is YC demo day. There were 227 total companies. We looked through all of them to find the web3 companies. Here they are 👇]]></title>
+        <id>https://twitter.com/MilkRoadDaily/status/1567650515755978753</id>
+        <link href="https://twitter.com/MilkRoadDaily/status/1567650515755978753"/>
+        <updated>2022-09-07T23:06:23.000Z</updated>
+        <summary type="html"><![CDATA[RT The Milk Road
+Today is YC demo day.
+There were 227 total companies.
+We looked through all of them to find the web3 companies.
+Here they are 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -115,100 +207,14 @@ Fuel is the fastest Modular Execution Layer delivering the highest flexible thro
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @mikleens folks in the DAO can join the "developers-voice" channel to ask questions on the 🎙 or in the chat there]]></title>
-        <id>https://twitter.com/developer_dao/status/1567544170511736832</id>
-        <link href="https://twitter.com/developer_dao/status/1567544170511736832"/>
-        <updated>2022-09-07T16:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @mikleens folks in the DAO can join the "developers-voice" channel to ask questions on the 🎙 or in the chat there]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't forget about our upcoming workshop with @mikleens in 30 mins 😎 For folks outside the DAO, you can watch the live stream on YouTube and ask qu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1567542678358835200</id>
-        <link href="https://twitter.com/developer_dao/status/1567542678358835200"/>
-        <updated>2022-09-07T15:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Don't forget about our upcoming workshop with @mikleens in 30 mins 😎
-For folks outside the DAO, you can watch the live stream on YouTube and ask questions in the comments 🤝
-Developer DAO (🧱, 🚀): Incoming D_D Workshop with the brilliant @mikleens 👑
-Extending the Capabilities of MetaMask with MetaMask Snaps 📸
-Wed @ 4:30pm UTC Live on our YouTube or in Discord
-👉
- https://youtu.be/7J5NBJRABu0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm buildooors 🧱🚀]]></title>
-        <id>https://twitter.com/developer_dao/status/1567489349369090052</id>
-        <link href="https://twitter.com/developer_dao/status/1567489349369090052"/>
-        <updated>2022-09-07T12:25:58.000Z</updated>
-        <summary type="html"><![CDATA[gm buildooors 🧱🚀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Aayush Gupta | aayush.lens 🌿: Boom!! 🤯 My Blog on "How To Migrate Dapp from Rinkeby to Mumbai" using @ankr RPC Node Provider gets featured in...]]></title>
-        <id>https://twitter.com/Aayush_gupta_ji/status/1567463102379364352</id>
-        <link href="https://twitter.com/Aayush_gupta_ji/status/1567463102379364352"/>
-        <updated>2022-09-07T10:41:40.000Z</updated>
-        <summary type="html"><![CDATA[RT Aayush Gupta | aayush.lens 🌿
-Boom!! 🤯 My Blog on "How To Migrate Dapp from Rinkeby to Mumbai" using @ankr RPC Node Provider gets featured in the @developer_dao Blog. Super Happy and excited.
-Thank You @K4y1s]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT D_D Women: Salary Negotiation Templates for Three Different Scenarios🧵:]]></title>
-        <id>https://twitter.com/devdaowomen/status/1567425928531148802</id>
-        <link href="https://twitter.com/devdaowomen/status/1567425928531148802"/>
-        <updated>2022-09-07T08:13:57.000Z</updated>
-        <summary type="html"><![CDATA[RT D_D Women
-Salary Negotiation Templates for Three Different Scenarios🧵:]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Gabriela Sabate: Had tons of fun translating the last chapters of the incredible @womenbuildweb3's #30DaysOfWeb3 curriculum, falling in love with @...]]></title>
-        <id>https://twitter.com/gsabate/status/1567402005018152961</id>
-        <link href="https://twitter.com/gsabate/status/1567402005018152961"/>
-        <updated>2022-09-07T06:38:53.000Z</updated>
-        <summary type="html"><![CDATA[RT Gabriela Sabate
-Had tons of fun translating the last chapters of the incredible @womenbuildweb3's #30DaysOfWeb3 curriculum, falling in love with @LensProtocol in the process!
-I'm enjoying every sec in this team (OG, after @developer_dao's @web3con) 🔥🔥🔥
-#socialmedia]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: Any @developer_dao members coming to Delhi this week? Drop a 👋, will add to a gc]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1567197460774404097</id>
-        <link href="https://twitter.com/dhaiwat10/status/1567197460774404097"/>
-        <updated>2022-09-06T17:06:06.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-Any @developer_dao members coming to Delhi this week? Drop a 👋, will add to a gc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3Dubai Conf: Tickets are now up! Our dev conf+hackathon+workshops event features: @dabit3 (@CelestiaOrg+@developer_dao) @IvanOnTech (@MoralisWeb...]]></title>
-        <id>https://twitter.com/Web3Dubai/status/1567165672488144897</id>
-        <link href="https://twitter.com/Web3Dubai/status/1567165672488144897"/>
-        <updated>2022-09-06T14:59:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3Dubai Conf
-Tickets are now up! Our dev conf+hackathon+workshops event features:
-@dabit3 (@CelestiaOrg+@developer_dao) @IvanOnTech (@MoralisWeb3) 
-@sarangparikh22 (@SushiSwap) 
-@Mudit__Gupta (CISO @0xPolygon) 
-@camiinthisthang, @fuellabs_ 
-@AlexPipushev @GtonCapital https://www.web3dubai.org/#tickets]]></summary>
+        <title type="html"><![CDATA[RT bluepanda-io.eth ( 💻, 🚀 ): First time experience with web3 was with @impact_theory, they were building an NFT marketplace. After that I went ...]]></title>
+        <id>https://twitter.com/BluePanda_io/status/1567351463113793536</id>
+        <link href="https://twitter.com/BluePanda_io/status/1567351463113793536"/>
+        <updated>2022-09-07T03:18:03.000Z</updated>
+        <summary type="html"><![CDATA[RT bluepanda-io.eth ( 💻, 🚀 )
+First time experience with web3 was with @impact_theory,  they were building an NFT marketplace. After that I went really deep into Solidity but it really blew up with me joining @developer_dao 
+What is your story @miral182000 and @moiz_0309 
+#HumansOfEden - @edenprotocolxyz]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -221,25 +227,6 @@ Tickets are now up! Our dev conf+hackathon+workshops event features:
         <summary type="html"><![CDATA[Discord guard is on the way...]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: this is why @developer_dao is awesome: @web3con @vibesIRL @web3afrika @womenbuildweb3 @devdaowomen @devntellxyz @DDbuidlIRL i'm probably ...]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1566893795245191168</id>
-        <link href="https://twitter.com/dhaiwat10/status/1566893795245191168"/>
-        <updated>2022-09-05T20:59:26.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-this is why @developer_dao is awesome:
-@web3con
-@vibesIRL 
-@web3afrika 
-@womenbuildweb3 
-@devdaowomen 
-@devntellxyz
-@DDbuidlIRL 
-i'm probably missing one or two 👏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
