@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T06:20:01.041Z</id>
+    <id>urn:2022-09-11T06:17:03.185Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-10T06:20:01.041Z</updated>
+    <updated>2022-09-11T06:17:03.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT stani.lens (🌿,👻): Raising for @gitcoin GR15? Pro-tip: share on @lensterxyz for visibility 🌸]]></title>
+        <id>https://twitter.com/StaniKulechov/status/1568684151787900928</id>
+        <link href="https://twitter.com/StaniKulechov/status/1568684151787900928"/>
+        <updated>2022-09-10T19:33:41.000Z</updated>
+        <summary type="html"><![CDATA[RT stani.lens (🌿,👻)
+Raising for @gitcoin GR15? Pro-tip: share on @lensterxyz for visibility 🌸]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I just published a new tutorial and codebase teaching how to build full stack apps with @...]]></title>
+        <id>https://twitter.com/dabit3/status/1568680315538792448</id>
+        <link href="https://twitter.com/dabit3/status/1568680315538792448"/>
+        <updated>2022-09-10T19:18:26.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
+I just published a new tutorial and codebase teaching how to build full stack apps with @nextjs, @ArweaveTeam, & @warp_contracts 
+Building Full Stack Permanent Applications with Arweave, Smartweave, & Next.js ⚡️
+Tutorial
+
+Codebase https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg https://github.com/dabit3/full-stack-warp-arweave]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today is a great day to donate to @gitcoin grants 🌱]]></title>
+        <id>https://twitter.com/developer_dao/status/1568599916255105025</id>
+        <link href="https://twitter.com/developer_dao/status/1568599916255105025"/>
+        <updated>2022-09-10T13:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Today is a great day to donate to @gitcoin grants 🌱 https://gitcoin.co/grants/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT deepakk.eth | Building @accelchain: I just funded 1 grants on @gitcoin to @edenprotocolxyz being built by some of the amazing folks at @developer_d...]]></title>
+        <id>https://twitter.com/0xdeepak_sol/status/1568578225189847042</id>
+        <link href="https://twitter.com/0xdeepak_sol/status/1568578225189847042"/>
+        <updated>2022-09-10T12:32:46.000Z</updated>
+        <summary type="html"><![CDATA[RT deepakk.eth | Building @accelchain
+I just funded 1 grants on @gitcoin to @edenprotocolxyz being built by some of the amazing folks at @developer_dao . Do check it out , I'm super bullish on this project 🚀🚀🚀🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nassarhayat @kempsterrrr @Colin4ward @kayprasla @dhaiwat10 We appreciate you and them legends 👑🙏]]></title>
+        <id>https://twitter.com/developer_dao/status/1568557229804224512</id>
+        <link href="https://twitter.com/developer_dao/status/1568557229804224512"/>
+        <updated>2022-09-10T11:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @nassarhayat @kempsterrrr @Colin4ward @kayprasla @dhaiwat10 We appreciate you and them legends 👑🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nassar: As I explore how I may be able to best contribute to @developer_dao again I feel ❤️ for this community of builders. Admire all those that...]]></title>
+        <id>https://twitter.com/nassarhayat/status/1568552866335399936</id>
+        <link href="https://twitter.com/nassarhayat/status/1568552866335399936"/>
+        <updated>2022-09-10T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[RT nassar
+As I explore how I may be able to best contribute to @developer_dao again I feel ❤️ for this community of builders. Admire all those that have persistently contributed (many without the rest of us even knowing). Special mentions to @kempsterrrr @Colin4ward @kayprasla @dhaiwat10]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT shrutipanjwani.eth (⚒, 🇮🇳): building mode on 🚀🛠️ @hackerhouses 🔥]]></title>
+        <id>https://twitter.com/_shrutipanjwani/status/1568492888010661888</id>
+        <link href="https://twitter.com/_shrutipanjwani/status/1568492888010661888"/>
+        <updated>2022-09-10T06:53:40.000Z</updated>
+        <summary type="html"><![CDATA[RT shrutipanjwani.eth (⚒, 🇮🇳)
+building mode on 🚀🛠️ @hackerhouses 🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Dmitrii: Just joined @developer_dao! 🥳 Big thanks to @JoshCStein! Trying to digest everything now. I'm in a sort of analysis paralysis lol #web3...]]></title>
+        <id>https://twitter.com/kolob0kk/status/1568432587579838465</id>
+        <link href="https://twitter.com/kolob0kk/status/1568432587579838465"/>
+        <updated>2022-09-10T02:54:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Dmitrii
+Just joined @developer_dao! 🥳 Big thanks to @JoshCStein! Trying to digest everything now. I'm in a sort of analysis paralysis lol #web3 #product #D_D]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @theSamPadilla @VitalikButerin @drakefjustin @ethereum 🔥🔥🔥]]></title>
         <id>https://twitter.com/developer_dao/status/1568367607190880259</id>
@@ -133,132 +223,6 @@ lucemans.eth: 🛠️ ENS Identity in your dApps
 🕒 NOW!!!
 🔗
  https://www.youtube.com/watch?v=26JAdqjcrDI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1568249059877560327</id>
-        <link href="https://twitter.com/developer_dao/status/1568249059877560327"/>
-        <updated>2022-09-09T14:44:47.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ped.eth: hell yeah and u gotta do is]]></title>
-        <id>https://twitter.com/peduarte/status/1568216899653345280</id>
-        <link href="https://twitter.com/peduarte/status/1568216899653345280"/>
-        <updated>2022-09-09T12:36:59.000Z</updated>
-        <summary type="html"><![CDATA[RT ped.eth
-hell yeah and u gotta do is
-
-imhiring.eth: ✨ you asked and we listened! ✨
-RainbowKit shipped support for "Compact Mode" which offers a more minimal UI w/ less educational content for all you dapps out there with pro/advanced users
-
-LEFT: modalSize="wide" (default)
-RIGHT: modalSize="compact"
-
- https://www.rainbowkit.com/docs/modal-sizes]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT dhai.eth: On this day 1 year ago, I saw one of @dabit3's tweets and decided to join @developer_dao because the NFT was free to claim. Little did I ...]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1568216325469908992</id>
-        <link href="https://twitter.com/dhaiwat10/status/1568216325469908992"/>
-        <updated>2022-09-09T12:34:42.000Z</updated>
-        <summary type="html"><![CDATA[RT dhai.eth
-On this day 1 year ago, I saw one of @dabit3's tweets and decided to join @developer_dao because the NFT was free to claim. Little did I know..
-Me and D_D have grown together so much over this last year. I went from knowing nothing about web3 to building things I'm proud of ❤️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Solana Developers: 1/ New Solana Bytes just dropped! Learn about accounts on Solana and how they are structured]]></title>
-        <id>https://twitter.com/solana_devs/status/1568060677750755328</id>
-        <link href="https://twitter.com/solana_devs/status/1568060677750755328"/>
-        <updated>2022-09-09T02:16:13.000Z</updated>
-        <summary type="html"><![CDATA[RT Solana Developers
-1/ New Solana Bytes just dropped!
-Learn about accounts on Solana and how they are structured https://www.youtube.com/watch?v=0_j0rQ9Bvks]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT schelling point ✨: Heading to #Devcon? 🇨🇴 Join us October 10 for #SchellingPoint and experience collective thriving in action. We're hosting...]]></title>
-        <id>https://twitter.com/schellingpoint_/status/1567943857651712001</id>
-        <link href="https://twitter.com/schellingpoint_/status/1567943857651712001"/>
-        <updated>2022-09-08T18:32:01.000Z</updated>
-        <summary type="html"><![CDATA[RT schelling point ✨
-Heading to #Devcon? 🇨🇴
-Join us October 10 for #SchellingPoint and experience collective thriving in action. 
-We're hosting a full day of unconference talks, art, wellness activations and more. 
-🎟 -> 
-#Web3 #Regen #GreenPill https://schellingpoint.gitcoin.co/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @OrwellNGoode]]></title>
-        <id>https://twitter.com/developer_dao/status/1567943323649806338</id>
-        <link href="https://twitter.com/developer_dao/status/1567943323649806338"/>
-        <updated>2022-09-08T18:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @OrwellNGoode]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Cami (🐱, ⛽️): Yooo @fuellabs_ just shipped testnet 🎉 I wrote a suite of content to help developers understand Fuel, the fastest modular exe...]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1567933693230194689</id>
-        <link href="https://twitter.com/camiinthisthang/status/1567933693230194689"/>
-        <updated>2022-09-08T17:51:37.000Z</updated>
-        <summary type="html"><![CDATA[RT Cami (🐱, ⛽️)
-Yooo @fuellabs_ just shipped testnet 🎉 I wrote a suite of content to help developers understand Fuel, the fastest modular execution layer 👇
-- Challenges with monolithic
-- How Fuel enables scaling
-- A step-by-step tutorial for building a dapp on Fuel https://mirror.xyz/camiinthisthang.eth/WsXmoZkrkY-w4w05nzyFrfP4n4AWM4qhmsyawqKFNTM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Orwell & Goode:]]></title>
-        <id>https://twitter.com/OrwellNGoode/status/1567856094311075842</id>
-        <link href="https://twitter.com/OrwellNGoode/status/1567856094311075842"/>
-        <updated>2022-09-08T12:43:16.000Z</updated>
-        <summary type="html"><![CDATA[RT Orwell & Goode]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT deepakk.eth | Building @accelchain: Finally a member of the @developer_dao . Can’t wait to build some epic shit along with this community 🔥]]></title>
-        <id>https://twitter.com/0xdeepak_sol/status/1567788606726733824</id>
-        <link href="https://twitter.com/0xdeepak_sol/status/1567788606726733824"/>
-        <updated>2022-09-08T08:15:06.000Z</updated>
-        <summary type="html"><![CDATA[RT deepakk.eth | Building @accelchain
-Finally a member of the @developer_dao . Can’t wait to build some epic shit along with this community 🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Milk Road: Today is YC demo day. There were 227 total companies. We looked through all of them to find the web3 companies. Here they are 👇]]></title>
-        <id>https://twitter.com/MilkRoadDaily/status/1567650515755978753</id>
-        <link href="https://twitter.com/MilkRoadDaily/status/1567650515755978753"/>
-        <updated>2022-09-07T23:06:23.000Z</updated>
-        <summary type="html"><![CDATA[RT The Milk Road
-Today is YC demo day.
-There were 227 total companies.
-We looked through all of them to find the web3 companies.
-Here they are 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

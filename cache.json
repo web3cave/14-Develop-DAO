@@ -61,6 +61,86 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/StaniKulechov/status/1568684151787900928",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT stani.lens (🌿,👻)\nRaising for @gitcoin GR15? Pro-tip: share on @lensterxyz for visibility 🌸",
+          "link": "https://twitter.com/StaniKulechov/status/1568684151787900928",
+          "publishedOn": "2022-09-10T19:33:41.000Z",
+          "wordCount": 390,
+          "title": "RT stani.lens (🌿,👻): Raising for @gitcoin GR15? Pro-tip: share on @lensterxyz for visibility 🌸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1568680315538792448",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nI just published a new tutorial and codebase teaching how to build full stack apps with @nextjs, @ArweaveTeam, & @warp_contracts \nBuilding Full Stack Permanent Applications with Arweave, Smartweave, & Next.js ⚡️\nTutorial\n\nCodebase https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg https://github.com/dabit3/full-stack-warp-arweave",
+          "link": "https://twitter.com/dabit3/status/1568680315538792448",
+          "publishedOn": "2022-09-10T19:18:26.000Z",
+          "wordCount": 390,
+          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I just published a new tutorial and codebase teaching how to build full stack apps with @...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1568599916255105025",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Today is a great day to donate to @gitcoin grants 🌱 https://gitcoin.co/grants/",
+          "link": "https://twitter.com/developer_dao/status/1568599916255105025",
+          "publishedOn": "2022-09-10T13:58:57.000Z",
+          "wordCount": 390,
+          "title": "Today is a great day to donate to @gitcoin grants 🌱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xdeepak_sol/status/1568578225189847042",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT deepakk.eth | Building @accelchain\nI just funded 1 grants on @gitcoin to @edenprotocolxyz being built by some of the amazing folks at @developer_dao . Do check it out , I'm super bullish on this project 🚀🚀🚀🚀",
+          "link": "https://twitter.com/0xdeepak_sol/status/1568578225189847042",
+          "publishedOn": "2022-09-10T12:32:46.000Z",
+          "wordCount": 390,
+          "title": "RT deepakk.eth | Building @accelchain: I just funded 1 grants on @gitcoin to @edenprotocolxyz being built by some of the amazing folks at @developer_d...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1568557229804224512",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @nassarhayat @kempsterrrr @Colin4ward @kayprasla @dhaiwat10 We appreciate you and them legends 👑🙏",
+          "link": "https://twitter.com/developer_dao/status/1568557229804224512",
+          "publishedOn": "2022-09-10T11:09:20.000Z",
+          "wordCount": 390,
+          "title": "Re @nassarhayat @kempsterrrr @Colin4ward @kayprasla @dhaiwat10 We appreciate you and them legends 👑🙏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/nassarhayat/status/1568552866335399936",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nassar\nAs I explore how I may be able to best contribute to @developer_dao again I feel ❤️ for this community of builders. Admire all those that have persistently contributed (many without the rest of us even knowing). Special mentions to @kempsterrrr @Colin4ward @kayprasla @dhaiwat10",
+          "link": "https://twitter.com/nassarhayat/status/1568552866335399936",
+          "publishedOn": "2022-09-10T10:52:00.000Z",
+          "wordCount": 390,
+          "title": "RT nassar: As I explore how I may be able to best contribute to @developer_dao again I feel ❤️ for this community of builders. Admire all those that...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/_shrutipanjwani/status/1568492888010661888",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT shrutipanjwani.eth (⚒, 🇮🇳)\nbuilding mode on 🚀🛠️ @hackerhouses 🔥",
+          "link": "https://twitter.com/_shrutipanjwani/status/1568492888010661888",
+          "publishedOn": "2022-09-10T06:53:40.000Z",
+          "wordCount": 390,
+          "title": "RT shrutipanjwani.eth (⚒, 🇮🇳): building mode on 🚀🛠️ @hackerhouses 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kolob0kk/status/1568432587579838465",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Dmitrii\nJust joined @developer_dao! 🥳 Big thanks to @JoshCStein! Trying to digest everything now. I'm in a sort of analysis paralysis lol #web3 #product #D_D",
+          "link": "https://twitter.com/kolob0kk/status/1568432587579838465",
+          "publishedOn": "2022-09-10T02:54:03.000Z",
+          "wordCount": 390,
+          "title": "RT Dmitrii: Just joined @developer_dao! 🥳 Big thanks to @JoshCStein! Trying to digest everything now. I'm in a sort of analysis paralysis lol #web3...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1568367607190880259",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @theSamPadilla @VitalikButerin @drakefjustin @ethereum 🔥🔥🔥",
@@ -158,106 +238,6 @@
           "publishedOn": "2022-09-09T16:58:10.000Z",
           "wordCount": 390,
           "title": "RT lucemans.eth: ENS Workshop Recording is live!! 🛠️ ENS Identity in your dApps 🌍 @ETHGlobal 📌 @ensdomains See link ⬇️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1568249059877560327",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1568249059877560327",
-          "publishedOn": "2022-09-09T14:44:47.000Z",
-          "wordCount": 390,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/peduarte/status/1568216899653345280",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ped.eth\nhell yeah and u gotta do is\n\nimhiring.eth: ✨ you asked and we listened! ✨\nRainbowKit shipped support for \"Compact Mode\" which offers a more minimal UI w/ less educational content for all you dapps out there with pro/advanced users\n\nLEFT: modalSize=\"wide\" (default)\nRIGHT: modalSize=\"compact\"\n\n https://www.rainbowkit.com/docs/modal-sizes",
-          "link": "https://twitter.com/peduarte/status/1568216899653345280",
-          "publishedOn": "2022-09-09T12:36:59.000Z",
-          "wordCount": 390,
-          "title": "RT ped.eth: hell yeah and u gotta do is",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1568216325469908992",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth\nOn this day 1 year ago, I saw one of @dabit3's tweets and decided to join @developer_dao because the NFT was free to claim. Little did I know..\nMe and D_D have grown together so much over this last year. I went from knowing nothing about web3 to building things I'm proud of ❤️",
-          "link": "https://twitter.com/dhaiwat10/status/1568216325469908992",
-          "publishedOn": "2022-09-09T12:34:42.000Z",
-          "wordCount": 390,
-          "title": "RT dhai.eth: On this day 1 year ago, I saw one of @dabit3's tweets and decided to join @developer_dao because the NFT was free to claim. Little did I ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/solana_devs/status/1568060677750755328",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Solana Developers\n1/ New Solana Bytes just dropped!\nLearn about accounts on Solana and how they are structured https://www.youtube.com/watch?v=0_j0rQ9Bvks",
-          "link": "https://twitter.com/solana_devs/status/1568060677750755328",
-          "publishedOn": "2022-09-09T02:16:13.000Z",
-          "wordCount": 390,
-          "title": "RT Solana Developers: 1/ New Solana Bytes just dropped! Learn about accounts on Solana and how they are structured",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/schellingpoint_/status/1567943857651712001",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT schelling point ✨\nHeading to #Devcon? 🇨🇴\nJoin us October 10 for #SchellingPoint and experience collective thriving in action. \nWe're hosting a full day of unconference talks, art, wellness activations and more. \n🎟 -> \n#Web3 #Regen #GreenPill https://schellingpoint.gitcoin.co/",
-          "link": "https://twitter.com/schellingpoint_/status/1567943857651712001",
-          "publishedOn": "2022-09-08T18:32:01.000Z",
-          "wordCount": 390,
-          "title": "RT schelling point ✨: Heading to #Devcon? 🇨🇴 Join us October 10 for #SchellingPoint and experience collective thriving in action. We're hosting...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1567943323649806338",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @OrwellNGoode",
-          "link": "https://twitter.com/developer_dao/status/1567943323649806338",
-          "publishedOn": "2022-09-08T18:29:53.000Z",
-          "wordCount": 390,
-          "title": "Re @OrwellNGoode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/camiinthisthang/status/1567933693230194689",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Cami (🐱, ⛽️)\nYooo @fuellabs_ just shipped testnet 🎉 I wrote a suite of content to help developers understand Fuel, the fastest modular execution layer 👇\n- Challenges with monolithic\n- How Fuel enables scaling\n- A step-by-step tutorial for building a dapp on Fuel https://mirror.xyz/camiinthisthang.eth/WsXmoZkrkY-w4w05nzyFrfP4n4AWM4qhmsyawqKFNTM",
-          "link": "https://twitter.com/camiinthisthang/status/1567933693230194689",
-          "publishedOn": "2022-09-08T17:51:37.000Z",
-          "wordCount": 390,
-          "title": "RT Cami (🐱, ⛽️): Yooo @fuellabs_ just shipped testnet 🎉 I wrote a suite of content to help developers understand Fuel, the fastest modular exe...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OrwellNGoode/status/1567856094311075842",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Orwell & Goode",
-          "link": "https://twitter.com/OrwellNGoode/status/1567856094311075842",
-          "publishedOn": "2022-09-08T12:43:16.000Z",
-          "wordCount": 390,
-          "title": "RT Orwell & Goode:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xdeepak_sol/status/1567788606726733824",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT deepakk.eth | Building @accelchain\nFinally a member of the @developer_dao . Can’t wait to build some epic shit along with this community 🔥",
-          "link": "https://twitter.com/0xdeepak_sol/status/1567788606726733824",
-          "publishedOn": "2022-09-08T08:15:06.000Z",
-          "wordCount": 390,
-          "title": "RT deepakk.eth | Building @accelchain: Finally a member of the @developer_dao . Can’t wait to build some epic shit along with this community 🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MilkRoadDaily/status/1567650515755978753",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT The Milk Road\nToday is YC demo day.\nThere were 227 total companies.\nWe looked through all of them to find the web3 companies.\nHere they are 👇",
-          "link": "https://twitter.com/MilkRoadDaily/status/1567650515755978753",
-          "publishedOn": "2022-09-07T23:06:23.000Z",
-          "wordCount": 390,
-          "title": "RT The Milk Road: Today is YC demo day. There were 227 total companies. We looked through all of them to find the web3 companies. Here they are 👇",
           "imageUrl": null
         }
       ]
