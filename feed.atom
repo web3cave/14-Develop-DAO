@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-11T06:17:03.185Z</id>
+    <id>urn:2022-09-12T06:51:15.216Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-11T06:17:03.185Z</updated>
+    <updated>2022-09-12T06:51:15.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Colin Forward: The ROI of partnering with @developer_dao vs hiring a recruiter is multiple X, as long as you participate.]]></title>
+        <id>https://twitter.com/Colin4ward/status/1569157358592446464</id>
+        <link href="https://twitter.com/Colin4ward/status/1569157358592446464"/>
+        <updated>2022-09-12T02:54:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Colin Forward
+The ROI of partnering with @developer_dao vs hiring a recruiter is multiple X, as long as you participate.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Erik Knobl: Eden Protocol is an awesome project from @developer_dao! Please help us support this great team by donating to their Gitcoin Grant.]]></title>
+        <id>https://twitter.com/Erik_Knobl/status/1569042412940718081</id>
+        <link href="https://twitter.com/Erik_Knobl/status/1569042412940718081"/>
+        <updated>2022-09-11T19:17:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Erik Knobl
+Eden Protocol is an awesome project from @developer_dao! Please help us support this great team by donating to their Gitcoin Grant.
+eden: We, as Eden protocol, are proud to be a part of Gitcoin R15!🌱Check out our proposal and support us!💯Every dollar counts in Quadratic Funding🤪
+@edenprotocolxyz 
+TL;DR 
+Consider donating❤️
+ https://youtu.be/LHqpZ1_fCtw https://gitcoin.co/grants/7285/eden-protocol]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MOHΔMΞD SΔDIQ: Dynamic @rainbowdotme]]></title>
+        <id>https://twitter.com/sadiq_moo/status/1569041248467525633</id>
+        <link href="https://twitter.com/sadiq_moo/status/1569041248467525633"/>
+        <updated>2022-09-11T19:12:39.000Z</updated>
+        <summary type="html"><![CDATA[RT MOHΔMΞD SΔDIQ
+Dynamic @rainbowdotme]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Axiomatic Aardvark 🦀 (PΞtko): 📢 I'm giving away my @developer_dao membership NFT for free to a lucky intern/junior dev, if you're interested...]]></title>
+        <id>https://twitter.com/AxiomaticArdvrk/status/1568916784472031234</id>
+        <link href="https://twitter.com/AxiomaticArdvrk/status/1568916784472031234"/>
+        <updated>2022-09-11T10:58:05.000Z</updated>
+        <summary type="html"><![CDATA[RT Axiomatic Aardvark 🦀 (PΞtko)
+📢 I'm giving away my @developer_dao membership NFT for free to a lucky intern/junior dev, if you're interested just link your Github account in the comments👇 the winner will be announced tomorrow]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT stani.lens (🌿,👻): Raising for @gitcoin GR15? Pro-tip: share on @lensterxyz for visibility 🌸]]></title>
         <id>https://twitter.com/StaniKulechov/status/1568684151787900928</id>
@@ -161,34 +210,6 @@ underestimated value in smaller, more specialized confs ✨]]></summary>
         <summary type="html"><![CDATA[RT Sam Padilla
 Hey @VitalikButerin @drakefjustin & other @ethereum folks, go google "the merge" for a fun little surprise & appreciation.
 Everyone is so excited for what is coming and appreciative of the work that has been going into this for years.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dhaiwat10 @codingwithmanny @kempsterrrr @wolovim @Erik_Knobl @grow_love A derivative of this is already in the works within the Community Guild �...]]></title>
-        <id>https://twitter.com/developer_dao/status/1568314324606763019</id>
-        <link href="https://twitter.com/developer_dao/status/1568314324606763019"/>
-        <updated>2022-09-09T19:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Re @dhaiwat10 @codingwithmanny @kempsterrrr @wolovim @Erik_Knobl @grow_love A derivative of this is already in the works within the Community Guild 🤫
-cc: @myz12371 @boyluan @CryptoPowerGals @wise_Tyy]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT States DAO: We’re excited to announce our partnership with @developer_dao & a celebratory GIVEAWAY! 🚀 💰Prize: 500 $USDC ($300, $150, & $50 -...]]></title>
-        <id>https://twitter.com/StatesDao/status/1568305833422774272</id>
-        <link href="https://twitter.com/StatesDao/status/1568305833422774272"/>
-        <updated>2022-09-09T18:30:23.000Z</updated>
-        <summary type="html"><![CDATA[RT States DAO
-We’re excited to announce our partnership with @developer_dao & a celebratory GIVEAWAY! 🚀
-💰Prize: 500 $USDC ($300, $150, & $50 - 3 winners total)
-To enter:
-1. Follow @StatesDao & @developer_dao 🙏
-2. Like and Retweet this tweet 👍
-3. Tag a friend 🤝
-⏰Ends in 48 hours!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
