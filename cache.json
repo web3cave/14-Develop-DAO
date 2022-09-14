@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/39-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Dev-N-Tell to the Moon 🌕",
+          "link": "https://developerdao.substack.com/p/39-probably-nothing",
+          "publishedOn": "2022-09-13T15:46:00.000Z",
+          "wordCount": null,
+          "title": "#39 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa122f913-52ce-4816-b390-41845f988893_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa122f913-52ce-4816-b390-41845f988893_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/38-probably-nothing",
           "author": "Colin4ward",
           "description": "Discord guard is on the way...",
@@ -60,6 +76,86 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1569830547039440897",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Our next workshops from D_D OG @0xTranqui \n0 (dev wise) to dev @ourZORA in a few months whilst living the dream in Buenos Aires🫡\nCombining Zora with Composable Registries to Reimagine Content Distribution\nWed 14th @ 4:30pm UTC.\nJoin us on YT https://www.youtube.com/watch?v=KE9IX3LYB3g",
+          "link": "https://twitter.com/developer_dao/status/1569830547039440897",
+          "publishedOn": "2022-09-13T23:29:03.000Z",
+          "wordCount": 390,
+          "title": "Our next workshops from D_D OG @0xTranqui 0 (dev wise) to dev @ourZORA in a few months whilst living the dream in Buenos Aires🫡 Combining Zora with...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1569781490824749059",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re In future rounds, Developer DAO aspires to contribute in more meaningful ways as we help build the future together with our friends at @gitcoin \nConsider donating what you can and/or helping to spread the message. #publicgoods\n🫡 to all builders, everywhere",
+          "link": "https://twitter.com/developer_dao/status/1569781490824749059",
+          "publishedOn": "2022-09-13T20:14:07.000Z",
+          "wordCount": 390,
+          "title": "Re In future rounds, Developer DAO aspires to contribute in more meaningful ways as we help build the future together with our friends at @gitcoin Con...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1569781488576512000",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re If you're new to @gitcoin grants or need a refresher, it's based on Quadratic funding, which means every donation (no matter how small) makes a big difference - https://wtfisqf.com/",
+          "link": "https://twitter.com/developer_dao/status/1569781488576512000",
+          "publishedOn": "2022-09-13T20:14:06.000Z",
+          "wordCount": 390,
+          "title": "Re If you're new to @gitcoin grants or need a refresher, it's based on Quadratic funding, which means every donation (no matter how small) makes a big...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1569781483996332032",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re and @getP3RKS is unlocking new ways for DAOs to reward their top contributors 🫂\nHelping DAOs attract and retain the folks needed to build the future. \nOperatoooors assemble 👉\nP3RKS: ✨ P3RKS is live on @gitcoin GR15 ✨\n\nWe believe DAOs are the future of work. To make that dream a reality, DAOs need more ways to reward their top contributors and compete for talent.\nP3RKS seeks to make that possible 📜\n https://gitcoin.co/grants/7734/p3rks-rewards-for-dao-contributors",
+          "link": "https://twitter.com/developer_dao/status/1569781483996332032",
+          "publishedOn": "2022-09-13T20:14:05.000Z",
+          "wordCount": 390,
+          "title": "Re and @getP3RKS is unlocking new ways for DAOs to reward their top contributors 🫂 Helping DAOs attract and retain the folks needed to build the fu...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1569781481077080064",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @edenprotocolxyz is creating the talent coordination protocol for DAOs and they're already making 🌊s in our community. \nAfter all, it's all about coordination -\neden: We at @edenprotocolxyz just shipped our first application for @gitcoin grant round 15!✨\nEden is solving a problem of talent coordination in DAOs, creating matches between people & opportunities using AI.🤩\nLearn more & consider donating❤️\n#gr15 #gitcoin\n https://gitcoin.co/grants/7285/eden-protocol",
+          "link": "https://twitter.com/developer_dao/status/1569781481077080064",
+          "publishedOn": "2022-09-13T20:14:04.000Z",
+          "wordCount": 390,
+          "title": "Re @edenprotocolxyz is creating the talent coordination protocol for DAOs and they're already making 🌊s in our community. After all, it's all about...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1569781478958981121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @womenbuildweb3 is already changing lives, no seriously...\nJust check out the latest update🤯 \nAn amazing team creating the rails for women/nb folks to accelerate their education and impact in web3.\nCami (🐱, ⛽️): The @womenbuildweb3 grant is live for GR15 🎉\nSince GR14 we’ve shippped the most up-to-date course on building dapps:\n- 2000+ students \n- 40+ hours of live support\n- free\nNext we’re deploying $130K to projects led by women/nb engineers\nContribute here:\n https://gitcoin.co/grants/6100/women-build-web3-developer-accelerator",
+          "link": "https://twitter.com/developer_dao/status/1569781478958981121",
+          "publishedOn": "2022-09-13T20:14:04.000Z",
+          "wordCount": 390,
+          "title": "Re @womenbuildweb3 is already changing lives, no seriously... Just check out the latest update🤯 An amazing team creating the rails for women/nb fol...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1569781477222617090",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "D_D is here for #GR15 🤝\n@gitcoin were important early believers in D_D and we're delighted to be more involved in this round with applications from 3 projects born out of our community ❤️\n@womenbuildweb3 \n@edenprotocolxyz \n@getP3RKS \nMore details in 📜 👇",
+          "link": "https://twitter.com/developer_dao/status/1569781477222617090",
+          "publishedOn": "2022-09-13T20:14:03.000Z",
+          "wordCount": 390,
+          "title": "D_D is here for #GR15 🤝 @gitcoin were important early believers in D_D and we're delighted to be more involved in this round with applications from...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/CryptoNomads_gm/status/1569655632466219008",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Crypto Nomads Club (✈️, 👯)\nWe added a new tab for all side events that will take place during @EFDevcon\n📅 October 11-14\n📍 Bogota, Colombia 🇨🇴 \nDM us if you're organizing one! \nMore events here http://shorturl.at/gDRT5",
+          "link": "https://twitter.com/CryptoNomads_gm/status/1569655632466219008",
+          "publishedOn": "2022-09-13T11:54:00.000Z",
+          "wordCount": 390,
+          "title": "RT Crypto Nomads Club (✈️, 👯): We added a new tab for all side events that will take place during @EFDevcon 📅 October 11-14 📍 Bogota, Colom...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DDbuidlIRL/status/1569389506947858433",
           "author": "Developer DAO (🧱, 🚀)",
@@ -178,86 +274,6 @@
           "publishedOn": "2022-09-10T19:18:26.000Z",
           "wordCount": 390,
           "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: I just published a new tutorial and codebase teaching how to build full stack apps with @...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1568599916255105025",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Today is a great day to donate to @gitcoin grants 🌱 https://gitcoin.co/grants/",
-          "link": "https://twitter.com/developer_dao/status/1568599916255105025",
-          "publishedOn": "2022-09-10T13:58:57.000Z",
-          "wordCount": 390,
-          "title": "Today is a great day to donate to @gitcoin grants 🌱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xdeepak_sol/status/1568578225189847042",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT deepakk.eth | Building @accelchain\nI just funded 1 grants on @gitcoin to @edenprotocolxyz being built by some of the amazing folks at @developer_dao . Do check it out , I'm super bullish on this project 🚀🚀🚀🚀",
-          "link": "https://twitter.com/0xdeepak_sol/status/1568578225189847042",
-          "publishedOn": "2022-09-10T12:32:46.000Z",
-          "wordCount": 390,
-          "title": "RT deepakk.eth | Building @accelchain: I just funded 1 grants on @gitcoin to @edenprotocolxyz being built by some of the amazing folks at @developer_d...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1568557229804224512",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @nassarhayat @kempsterrrr @Colin4ward @kayprasla @dhaiwat10 We appreciate you and them legends 👑🙏",
-          "link": "https://twitter.com/developer_dao/status/1568557229804224512",
-          "publishedOn": "2022-09-10T11:09:20.000Z",
-          "wordCount": 390,
-          "title": "Re @nassarhayat @kempsterrrr @Colin4ward @kayprasla @dhaiwat10 We appreciate you and them legends 👑🙏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nassarhayat/status/1568552866335399936",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nassar\nAs I explore how I may be able to best contribute to @developer_dao again I feel ❤️ for this community of builders. Admire all those that have persistently contributed (many without the rest of us even knowing). Special mentions to @kempsterrrr @Colin4ward @kayprasla @dhaiwat10",
-          "link": "https://twitter.com/nassarhayat/status/1568552866335399936",
-          "publishedOn": "2022-09-10T10:52:00.000Z",
-          "wordCount": 390,
-          "title": "RT nassar: As I explore how I may be able to best contribute to @developer_dao again I feel ❤️ for this community of builders. Admire all those that...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/_shrutipanjwani/status/1568492888010661888",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shrutipanjwani.eth (⚒, 🇮🇳)\nbuilding mode on 🚀🛠️ @hackerhouses 🔥",
-          "link": "https://twitter.com/_shrutipanjwani/status/1568492888010661888",
-          "publishedOn": "2022-09-10T06:53:40.000Z",
-          "wordCount": 390,
-          "title": "RT shrutipanjwani.eth (⚒, 🇮🇳): building mode on 🚀🛠️ @hackerhouses 🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kolob0kk/status/1568432587579838465",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Dmitrii\nJust joined @developer_dao! 🥳 Big thanks to @JoshCStein! Trying to digest everything now. I'm in a sort of analysis paralysis lol #web3 #product #D_D",
-          "link": "https://twitter.com/kolob0kk/status/1568432587579838465",
-          "publishedOn": "2022-09-10T02:54:03.000Z",
-          "wordCount": 390,
-          "title": "RT Dmitrii: Just joined @developer_dao! 🥳 Big thanks to @JoshCStein! Trying to digest everything now. I'm in a sort of analysis paralysis lol #web3...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1568367607190880259",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @theSamPadilla @VitalikButerin @drakefjustin @ethereum 🔥🔥🔥",
-          "link": "https://twitter.com/developer_dao/status/1568367607190880259",
-          "publishedOn": "2022-09-09T22:35:51.000Z",
-          "wordCount": 390,
-          "title": "Re @theSamPadilla @VitalikButerin @drakefjustin @ethereum 🔥🔥🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pvermont/status/1568359683299377152",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Patrick (GR15 DEI)\nSo many @developer_dao members following @gitcoin! Go world changers!",
-          "link": "https://twitter.com/pvermont/status/1568359683299377152",
-          "publishedOn": "2022-09-09T22:04:21.000Z",
-          "wordCount": 390,
-          "title": "RT Patrick (GR15 DEI): So many @developer_dao members following @gitcoin! Go world changers!",
           "imageUrl": null
         }
       ]
