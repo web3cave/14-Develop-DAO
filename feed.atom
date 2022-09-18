@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-17T06:16:14.832Z</id>
+    <id>urn:2022-09-18T06:17:19.555Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-17T06:16:14.832Z</updated>
+    <updated>2022-09-18T06:17:19.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT the bundloooord: Calling everyone in @developer_dao. We (@BundlrNetwork) are hiring junior and senior Node.js and Rust developers (separately). Let...]]></title>
+        <id>https://twitter.com/josh_benaron/status/1571056435735461888</id>
+        <link href="https://twitter.com/josh_benaron/status/1571056435735461888"/>
+        <updated>2022-09-17T08:40:17.000Z</updated>
+        <summary type="html"><![CDATA[RT the bundloooord
+Calling everyone in @developer_dao. We (@BundlrNetwork) are hiring junior and senior Node.js and Rust developers (separately). Let me know if you're interested 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Season 1 partner Infura @infura_io, have some BIG news today 🥳]]></title>
         <id>https://twitter.com/developer_dao/status/1570857867695263745</id>
@@ -195,48 +206,6 @@ Thanks, @kempsterrrr @kayprasla for this🫡]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1570306847672004610</id>
-        <link href="https://twitter.com/developer_dao/status/1570306847672004610"/>
-        <updated>2022-09-15T07:01:42.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's finally happened. We have merged!]]></title>
-        <id>https://twitter.com/developer_dao/status/1570303031207694338</id>
-        <link href="https://twitter.com/developer_dao/status/1570303031207694338"/>
-        <updated>2022-09-15T06:46:32.000Z</updated>
-        <summary type="html"><![CDATA[It's finally happened. We have merged!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tighten your seatbelts 🐼🐼🐼]]></title>
-        <id>https://twitter.com/developer_dao/status/1570293037661843457</id>
-        <link href="https://twitter.com/developer_dao/status/1570293037661843457"/>
-        <updated>2022-09-15T06:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Tighten your seatbelts 🐼🐼🐼]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT joshcs.eth/lens (🧱,🚀)ᵍᵐ 🦇🔊: I just deployed my first contract on @ethereum mainnet & you can mint your "probably nothing" NFT edition...]]></title>
-        <id>https://twitter.com/JoshCStein/status/1570273932300918785</id>
-        <link href="https://twitter.com/JoshCStein/status/1570273932300918785"/>
-        <updated>2022-09-15T04:50:54.000Z</updated>
-        <summary type="html"><![CDATA[RT joshcs.eth/lens (🧱,🚀)ᵍᵐ 🦇🔊
-I just deployed my first contract on @ethereum mainnet & you can mint your "probably nothing" NFT edition for free at 
-unlimited mint (1 per address) & art by me for @developer_dao's @vibesIRL
- gm & happy merge 😎 http://probablynothing.ink]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT tranqui.eth 🔆: felt so good tapping back in with the @developer_dao fam this morning 😁😁 had a great time catching up + hacking away with @...]]></title>
         <id>https://twitter.com/0xTranqui/status/1570270225840607232</id>
         <link href="https://twitter.com/0xTranqui/status/1570270225840607232"/>
@@ -277,6 +246,19 @@ link to video below: https://www.youtube.com/watch?v=KE9IX3LYB3g&ab_channel=De
         <summary type="html"><![CDATA[CODE szn? Meme Szn!]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sachin | Biconomy.io | sachint.eth: Hey builders, looking for a web3 native kickass front end dev for a full time position at @biconomy DM me or se...]]></title>
+        <id>https://twitter.com/schin_tomar/status/1564503069202726913</id>
+        <link href="https://twitter.com/schin_tomar/status/1564503069202726913"/>
+        <updated>2022-08-30T06:39:33.000Z</updated>
+        <summary type="html"><![CDATA[RT Sachin | Biconomy.io | sachint.eth
+Hey builders, looking for a web3 native kickass front end dev for a full time position at @biconomy 
+ DM me or send your proof of work at  
+If your work can talk, that’s enough to apply. https://careers.biconomy.io/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>

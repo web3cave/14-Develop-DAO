@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/josh_benaron/status/1571056435735461888",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT the bundloooord\nCalling everyone in @developer_dao. We (@BundlrNetwork) are hiring junior and senior Node.js and Rust developers (separately). Let me know if you're interested 🫡",
+          "link": "https://twitter.com/josh_benaron/status/1571056435735461888",
+          "publishedOn": "2022-09-17T08:40:17.000Z",
+          "wordCount": 390,
+          "title": "RT the bundloooord: Calling everyone in @developer_dao. We (@BundlrNetwork) are hiring junior and senior Node.js and Rust developers (separately). Let...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1570857867695263745",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Our Season 1 partner Infura @infura_io, have some BIG news today 🥳\nInfura @ ETHB3RLIN: 1/x\nWe are proud and excited to announce Infura’s plans to launch a new decentralized infrastructure network. 🥳",
@@ -227,46 +237,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1570306847672004610",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1570306847672004610",
-          "publishedOn": "2022-09-15T07:01:42.000Z",
-          "wordCount": 390,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1570303031207694338",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "It's finally happened. We have merged!",
-          "link": "https://twitter.com/developer_dao/status/1570303031207694338",
-          "publishedOn": "2022-09-15T06:46:32.000Z",
-          "wordCount": 390,
-          "title": "It's finally happened. We have merged!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1570293037661843457",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Tighten your seatbelts 🐼🐼🐼",
-          "link": "https://twitter.com/developer_dao/status/1570293037661843457",
-          "publishedOn": "2022-09-15T06:06:49.000Z",
-          "wordCount": 390,
-          "title": "Tighten your seatbelts 🐼🐼🐼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/JoshCStein/status/1570273932300918785",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT joshcs.eth/lens (🧱,🚀)ᵍᵐ 🦇🔊\nI just deployed my first contract on @ethereum mainnet & you can mint your \"probably nothing\" NFT edition for free at \nunlimited mint (1 per address) & art by me for @developer_dao's @vibesIRL\n gm & happy merge 😎 http://probablynothing.ink",
-          "link": "https://twitter.com/JoshCStein/status/1570273932300918785",
-          "publishedOn": "2022-09-15T04:50:54.000Z",
-          "wordCount": 390,
-          "title": "RT joshcs.eth/lens (🧱,🚀)ᵍᵐ 🦇🔊: I just deployed my first contract on @ethereum mainnet & you can mint your \"probably nothing\" NFT edition...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/0xTranqui/status/1570270225840607232",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT tranqui.eth 🔆\nfelt so good tapping back in with the @developer_dao fam this morning 😁😁\nhad a great time catching up + hacking away with @kempsterrrr. thx sm for having me !!\nlink to video below: https://www.youtube.com/watch?v=KE9IX3LYB3g&ab_channel=DeveloperDAO",
@@ -274,6 +244,16 @@
           "publishedOn": "2022-09-15T04:36:10.000Z",
           "wordCount": 390,
           "title": "RT tranqui.eth 🔆: felt so good tapping back in with the @developer_dao fam this morning 😁😁 had a great time catching up + hacking away with @...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/schin_tomar/status/1564503069202726913",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Sachin | Biconomy.io | sachint.eth\nHey builders, looking for a web3 native kickass front end dev for a full time position at @biconomy \n DM me or send your proof of work at  \nIf your work can talk, that’s enough to apply. https://careers.biconomy.io/",
+          "link": "https://twitter.com/schin_tomar/status/1564503069202726913",
+          "publishedOn": "2022-08-30T06:39:33.000Z",
+          "wordCount": 390,
+          "title": "RT Sachin | Biconomy.io | sachint.eth: Hey builders, looking for a web3 native kickass front end dev for a full time position at @biconomy DM me or se...",
           "imageUrl": null
         }
       ]
