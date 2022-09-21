@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/40-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Merged so hard",
+          "link": "https://developerdao.substack.com/p/40-probably-nothing",
+          "publishedOn": "2022-09-20T13:52:16.000Z",
+          "wordCount": null,
+          "title": "#40 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee5e741f-cae8-473d-a793-ae31e303a9a0_1600x800.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee5e741f-cae8-473d-a793-ae31e303a9a0_1600x800.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/39-probably-nothing",
           "author": "Colin4ward",
           "description": "Dev-N-Tell to the Moon 🌕",
@@ -76,6 +92,76 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/dabit3/status/1572375724819890178",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢\nSo proud and blown away this initiative - Developer DAO Academy is a free & open source learning platform built for the community, by the community.\n14 amazing free lessons\nBy incredible builders @brianfive @pbillingsby_eth @grow_love @7i7o @GeorgeMac510 @ropats16 + others 🙏\nD_D Academy: Since the inception of @developer_dao, education has always been a primary focus. \nWe are proud to announce the first iteration of D_D Academy, a free & open source learning platform built for the community, by the community. \nWe're just getting started!\n http://academy.developerdao.com",
+          "link": "https://twitter.com/dabit3/status/1572375724819890178",
+          "publishedOn": "2022-09-21T00:02:40.000Z",
+          "wordCount": 390,
+          "title": "RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: So proud and blown away this initiative - Developer DAO Academy is a free & open source l...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/theekrystallee/status/1572336605553369089",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krystal //\\\\ theekrystallee.eth\nthere’s KNOT a lot of work happening just vibes ✨",
+          "link": "https://twitter.com/theekrystallee/status/1572336605553369089",
+          "publishedOn": "2022-09-20T21:27:14.000Z",
+          "wordCount": 390,
+          "title": "RT krystal //\\\\ theekrystallee.eth: there’s KNOT a lot of work happening just vibes ✨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devdao_academy/status/1572311220484702210",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT D_D Academy\nSince the inception of @developer_dao, education has always been a primary focus. \nWe are proud to announce the first iteration of D_D Academy, a free & open source learning platform built for the community, by the community. \nWe're just getting started! http://academy.developerdao.com",
+          "link": "https://twitter.com/devdao_academy/status/1572311220484702210",
+          "publishedOn": "2022-09-20T19:46:21.000Z",
+          "wordCount": 390,
+          "title": "RT D_D Academy: Since the inception of @developer_dao, education has always been a primary focus. We are proud to announce the first iteration of D_D ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1572293724780253184",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Question: what are some good web3 platforms for hosting public tasks, quests, contests etc?\nReply below with some recommendations, please ⇩",
+          "link": "https://twitter.com/developer_dao/status/1572293724780253184",
+          "publishedOn": "2022-09-20T18:36:50.000Z",
+          "wordCount": 390,
+          "title": "Question: what are some good web3 platforms for hosting public tasks, quests, contests etc? Reply below with some recommendations, please ⇩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/chaserchapman/status/1572244326075494401",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Chase Chapman\nThere is so much long-form writing in crypto\nBut as someone who has always struggled with reading, it's really hard to keep up\nSo I'm starting a podcast where you can *listen* to the top articles in web3",
+          "link": "https://twitter.com/chaserchapman/status/1572244326075494401",
+          "publishedOn": "2022-09-20T15:20:32.000Z",
+          "wordCount": 390,
+          "title": "RT Chase Chapman: There is so much long-form writing in crypto But as someone who has always struggled with reading, it's really hard to keep up So I'...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1572222573206970368",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Expect some alpha from @devdao_academy soon 👀",
+          "link": "https://twitter.com/developer_dao/status/1572222573206970368",
+          "publishedOn": "2022-09-20T13:54:06.000Z",
+          "wordCount": 390,
+          "title": "Expect some alpha from @devdao_academy soon 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/peduarte/status/1572138100834566144",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ped.eth\nfirst post on @lensterxyz \nfollow me 🫶 \nwho should I follow? https://lenster.xyz/u/peduarte.lens",
+          "link": "https://twitter.com/peduarte/status/1572138100834566144",
+          "publishedOn": "2022-09-20T08:18:26.000Z",
+          "wordCount": 390,
+          "title": "RT ped.eth: first post on @lensterxyz follow me 🫶 who should I follow?",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1572007696945287169",
           "author": "Developer DAO (🧱, 🚀)",
@@ -157,76 +243,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/BuidlersTribe/status/1571506156425867265",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Buidlers Tribe\nBuidlers Party with @developer_dao friends",
-          "link": "https://twitter.com/BuidlersTribe/status/1571506156425867265",
-          "publishedOn": "2022-09-18T14:27:19.000Z",
-          "wordCount": 390,
-          "title": "RT Buidlers Tribe: Buidlers Party with @developer_dao friends",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/codingwithmanny/status/1571443764337512449",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Manny (🧱,🚀) 📍🇹🇷 🔜 🇵🇹 EthLisbon+WebSummit\nCongrats to @DianaTechBakery and @GigaHierz from @_HerDAO on joining @developer_dao Love getting more people part of this community!",
-          "link": "https://twitter.com/codingwithmanny/status/1571443764337512449",
-          "publishedOn": "2022-09-18T10:19:24.000Z",
-          "wordCount": 390,
-          "title": "RT Manny (🧱,🚀) 📍🇹🇷 🔜 🇵🇹 EthLisbon+WebSummit: Congrats to @DianaTechBakery and @GigaHierz from @_HerDAO on joining @developer_d...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/iam_preethi/status/1571178055288201217",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Preethi Kasireddy\nJoin @DeFi_Dad, @dabit3 and myself on Monday for a deep dive on the Merge\nYou’ll walk away with a solid technical and philosophical understanding of the Merge and why it’s a big deal https://twitter.com/i/spaces/1lDxLndzwykGm",
-          "link": "https://twitter.com/iam_preethi/status/1571178055288201217",
-          "publishedOn": "2022-09-17T16:43:34.000Z",
-          "wordCount": 390,
-          "title": "RT Preethi Kasireddy: Join @DeFi_Dad, @dabit3 and myself on Monday for a deep dive on the Merge You’ll walk away with a solid technical and philosoph...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/yash___garg/status/1571142615407677440",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT yashgarg.x/.lens💜 | #NFTDay\nThe upcoming workshops from @developer_dao are goin to be 🤌💜\nAnd all of them will be #OpenSource on Youtube, so make to subscribe the channel.",
-          "link": "https://twitter.com/yash___garg/status/1571142615407677440",
-          "publishedOn": "2022-09-17T14:22:44.000Z",
-          "wordCount": 390,
-          "title": "RT yashgarg.x/.lens💜 | #NFTDay: The upcoming workshops from @developer_dao are goin to be 🤌💜 And all of them will be #OpenSource on Youtube, ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/claudialuciaaaa/status/1571059564514279425",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Claudia Alban\n🥰 Here is my design for #DevconWomenLeaders✨ \n@blu3dao \n@_HerDAO \n@metagals_ \n@crypto_mujeres \n@TalentProtocol \n@Technolatinas \n@ApeFramework \n@0xPolygon \n@surge_women",
-          "link": "https://twitter.com/claudialuciaaaa/status/1571059564514279425",
-          "publishedOn": "2022-09-17T08:52:43.000Z",
-          "wordCount": 390,
-          "title": "RT Claudia Alban: 🥰 Here is my design for #DevconWomenLeaders✨ @blu3dao @_HerDAO @metagals_ @crypto_mujeres @TalentProtocol @Technolatinas @ApeFra...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/josh_benaron/status/1571056435735461888",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT the bundloooord\nCalling everyone in @developer_dao. We (@BundlrNetwork) are hiring junior and senior Node.js and Rust developers (separately). Let me know if you're interested 🫡",
-          "link": "https://twitter.com/josh_benaron/status/1571056435735461888",
-          "publishedOn": "2022-09-17T08:40:17.000Z",
-          "wordCount": 390,
-          "title": "RT the bundloooord: Calling everyone in @developer_dao. We (@BundlrNetwork) are hiring junior and senior Node.js and Rust developers (separately). Let...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1570857867695263745",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Our Season 1 partner Infura @infura_io, have some BIG news today 🥳\nInfura: 1/x\nWe are proud and excited to announce Infura’s plans to launch a new decentralized infrastructure network. 🥳",
-          "link": "https://twitter.com/developer_dao/status/1570857867695263745",
-          "publishedOn": "2022-09-16T19:31:15.000Z",
-          "wordCount": 390,
-          "title": "Our Season 1 partner Infura @infura_io, have some BIG news today 🥳",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/dynamic_xyz/status/1569733664606670851",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Dynamic\nIn honor of @Apple's iPhone 14 Pro announcement, we're proud to preview the Dynamic Dynamic Island 😂😂😂",
@@ -254,26 +270,6 @@
           "publishedOn": "2022-09-12T15:00:28.000Z",
           "wordCount": 390,
           "title": "RT WINTΞR 💙💛: It's alive! Solidity code, running in the browser, with access to the page content.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Protocol_Review/status/1567542352125771776",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Protocol Review\nRe We did a deep dive into the @sudoswap protocol and wrote our most thorough review yet! Read it on @viamirror 👇 (2/3) https://review.mirror.xyz/NGBj1apNQOWY981Zf04gHH08v7YQLRoOn8DS4wPsoME",
-          "link": "https://twitter.com/Protocol_Review/status/1567542352125771776",
-          "publishedOn": "2022-09-07T15:56:34.000Z",
-          "wordCount": 390,
-          "title": "RT Protocol Review: Re We did a deep dive into the @sudoswap protocol and wrote our most thorough review yet! Read it on @viamirror 👇 (2/3)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/schin_tomar/status/1564503069202726913",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Sachin | Biconomy.io | sachint.eth\nHey builders, looking for a web3 native kickass front end dev for a full time position at @biconomy \n DM me or send your proof of work at  \nIf your work can talk, that’s enough to apply. https://careers.biconomy.io/",
-          "link": "https://twitter.com/schin_tomar/status/1564503069202726913",
-          "publishedOn": "2022-08-30T06:39:33.000Z",
-          "wordCount": 390,
-          "title": "RT Sachin | Biconomy.io | sachint.eth: Hey builders, looking for a web3 native kickass front end dev for a full time position at @biconomy DM me or se...",
           "imageUrl": null
         }
       ]
