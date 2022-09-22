@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T06:49:23.948Z</id>
+    <id>urn:2022-09-22T06:45:18.899Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-21T06:49:23.948Z</updated>
+    <updated>2022-09-22T06:45:18.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: So proud and blown away this initiative - Developer DAO Academy is a free & open source l...]]></title>
-        <id>https://twitter.com/dabit3/status/1572375724819890178</id>
-        <link href="https://twitter.com/dabit3/status/1572375724819890178"/>
-        <updated>2022-09-21T00:02:40.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢
-So proud and blown away this initiative - Developer DAO Academy is a free & open source learning platform built for the community, by the community.
+        <title type="html"><![CDATA[RT Orbis, the web3 social protocol: New to building web3 socials via Orbis? We've released a simple @viamirror guide to three important @ceramicnetwor...]]></title>
+        <id>https://twitter.com/OrbisClub/status/1572541446703677444</id>
+        <link href="https://twitter.com/OrbisClub/status/1572541446703677444"/>
+        <updated>2022-09-21T11:01:11.000Z</updated>
+        <summary type="html"><![CDATA[RT Orbis, the web3 social protocol
+New to building web3 socials via Orbis?
+We've released a simple @viamirror guide to three important @ceramicnetwork data concepts:
+SCHEMA
+DATA OBJECT
+STREAM
+You can dive in via the link in the comments.
+Congrats @adamjmdawson for a great read!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big love to mom ☺️ ❤️]]></title>
+        <id>https://twitter.com/developer_dao/status/1572526626063417345</id>
+        <link href="https://twitter.com/developer_dao/status/1572526626063417345"/>
+        <updated>2022-09-21T10:02:18.000Z</updated>
+        <summary type="html"><![CDATA[Big love to mom ☺️ ❤️
+Ishan Pathak#EthGlobal: When you don't get your size ,so your mom snatches the swag
+Cute
+(PS:- She doesn't even know what a DAO is)
+@developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huge shoutout to @me256ow as well, who’s on the founding team — and who worked on @devdao_academy throughout Season 0 and at the start of Season 1 ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1572489513389228032</id>
+        <link href="https://twitter.com/developer_dao/status/1572489513389228032"/>
+        <updated>2022-09-21T07:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Huge shoutout to @me256ow as well, who’s on the founding team — and who worked on @devdao_academy throughout Season 0 and at the start of Season 1 🙌
+nader (🧱, 🚀) | nader.arweave.dev | nader.lens 🧢: So proud and blown away this initiative - Developer DAO Academy is a free & open source learning platform built for the community, by the community.
 14 amazing free lessons
 By incredible builders @brianfive @pbillingsby_eth @grow_love @7i7o @GeorgeMac510 @ropats16 + others 🙏
-D_D Academy: Since the inception of @developer_dao, education has always been a primary focus. 
-We are proud to announce the first iteration of D_D Academy, a free & open source learning platform built for the community, by the community. 
-We're just getting started!
- http://academy.developerdao.com]]></summary>
+ https://twitter.com/devdao_academy/status/1572311220484702210]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -42,6 +70,20 @@ there’s KNOT a lot of work happening just vibes ✨]]></summary>
 Since the inception of @developer_dao, education has always been a primary focus. 
 We are proud to announce the first iteration of D_D Academy, a free & open source learning platform built for the community, by the community. 
 We're just getting started! http://academy.developerdao.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Oasis Foundation: Join us for the first presentation of Confidential EVM ParaTime -- Sapphire. Oasis Engineers will walk you through building the f...]]></title>
+        <id>https://twitter.com/OasisProtocol/status/1572304753379676163</id>
+        <link href="https://twitter.com/OasisProtocol/status/1572304753379676163"/>
+        <updated>2022-09-20T19:20:39.000Z</updated>
+        <summary type="html"><![CDATA[RT Oasis Foundation
+Join us for the first presentation of Confidential EVM ParaTime -- Sapphire. Oasis Engineers will walk you through building the first confidential dApp in Solidity!
+📅 Sept 22, 2022 at 1PM EST 
+📍 
+💰 $500 in ROSE to be won for best live tweet http://bit.ly/3SjS7UJ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -200,17 +242,6 @@ Fe is a statically typed language for the Ethereum Virtual Machine (EVM) inspire
         <updated>2022-09-18T22:22:29.000Z</updated>
         <summary type="html"><![CDATA[Build and Deploy a Smart Contract on the Avalanche Network 🔺
 by @developer_dao member @olanetsoft 📝 https://blog.idrisolubisi.com/build-and-deploy-smart-contract-on-the-avalanche-network]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Dynamic: In honor of @Apple's iPhone 14 Pro announcement, we're proud to preview the Dynamic Dynamic Island 😂😂😂]]></title>
-        <id>https://twitter.com/dynamic_xyz/status/1569733664606670851</id>
-        <link href="https://twitter.com/dynamic_xyz/status/1569733664606670851"/>
-        <updated>2022-09-13T17:04:04.000Z</updated>
-        <summary type="html"><![CDATA[RT Dynamic
-In honor of @Apple's iPhone 14 Pro announcement, we're proud to preview the Dynamic Dynamic Island 😂😂😂]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
