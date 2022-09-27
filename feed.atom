@@ -1,10 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-26T06:45:45.293Z</id>
+    <id>urn:2022-09-27T06:44:58.415Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-26T06:45:45.293Z</updated>
+    <updated>2022-09-27T06:44:58.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Billyjitsu: Reminder. I'll be cohosting with Dev Dao discussing privacy through Oasis Protocol and the ongoing hackathon happening.]]></title>
+        <id>https://twitter.com/wc49358/status/1574505710456430592</id>
+        <link href="https://twitter.com/wc49358/status/1574505710456430592"/>
+        <updated>2022-09-26T21:06:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Billyjitsu
+Reminder. I'll be cohosting with Dev Dao discussing privacy through  Oasis Protocol and the ongoing hackathon happening.
+Developer DAO (🧱, 🚀): Tune in tomorrow to get started building it confidential 👀 
+@developer_dao 🤝 @OasisProtocol 
+🐦: 8AM PT / 11AM ET
+ https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @farhajmayan @_buildspace probably nothing]]></title>
+        <id>https://twitter.com/developer_dao/status/1574469615761367040</id>
+        <link href="https://twitter.com/developer_dao/status/1574469615761367040"/>
+        <updated>2022-09-26T18:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @farhajmayan @_buildspace probably nothing]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Accelchain: Re For example: @developer_dao is a DAO whose affiliation is mainly taken by developers in the web3 space. How to get into the DAO? Get...]]></title>
+        <id>https://twitter.com/Accelchain/status/1574454907696185344</id>
+        <link href="https://twitter.com/Accelchain/status/1574454907696185344"/>
+        <updated>2022-09-26T17:44:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Accelchain
+Re For example:
+@developer_dao is a DAO whose affiliation is mainly taken by developers in the web3 space. 
+How to get into the DAO?
+Get the governance token of the DAO. In this case the governance token of Developer Dao is $code. 
+Voila, you can now take part in their projects.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tune in tomorrow to get started building it confidential 👀 @developer_dao 🤝 @OasisProtocol 🐦: 8AM PT / 11AM ET]]></title>
+        <id>https://twitter.com/developer_dao/status/1574448633667280898</id>
+        <link href="https://twitter.com/developer_dao/status/1574448633667280898"/>
+        <updated>2022-09-26T17:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Tune in tomorrow to get started building it confidential 👀 
+@developer_dao 🤝 @OasisProtocol 
+🐦: 8AM PT / 11AM ET https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ϗ (🧱, 🚀): Re @dabit3 Check out the DevRel team @developer_dao Fantastic potential hires there!]]></title>
+        <id>https://twitter.com/K4y1s/status/1574378753450512385</id>
+        <link href="https://twitter.com/K4y1s/status/1574378753450512385"/>
+        <updated>2022-09-26T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Ϗ (🧱, 🚀)
+Re @dabit3 Check out the DevRel team @developer_dao 
+Fantastic potential hires there!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re If you’d like to buidl with Biconomy, book a time to speak with @thecryptobaddie here:]]></title>
+        <id>https://twitter.com/developer_dao/status/1574355183810871296</id>
+        <link href="https://twitter.com/developer_dao/status/1574355183810871296"/>
+        <updated>2022-09-26T11:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Re If you’d like to buidl with Biconomy, book a time to speak with @thecryptobaddie here: https://calendly.com/divyasubramaniam-biconomy/chat-with-divya]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re and if you're up to it, join their community: Telegram: Discord:]]></title>
+        <id>https://twitter.com/developer_dao/status/1574355182150111232</id>
+        <link href="https://twitter.com/developer_dao/status/1574355182150111232"/>
+        <updated>2022-09-26T11:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Re and if you're up to it, join their community:
+Telegram: 
+Discord: https://t.me/biconomy https://discord.gg/pxTnRqyq]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re If you're a Web3 developer, you should totally know more about Biconomy. Here are some useful links: Medium: Docs: Github]]></title>
+        <id>https://twitter.com/developer_dao/status/1574355180107182080</id>
+        <link href="https://twitter.com/developer_dao/status/1574355180107182080"/>
+        <updated>2022-09-26T11:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Re If you're a Web3 developer, you should totally know more about Biconomy. Here are some useful links:
+Medium: 
+Docs: 
+Github https://medium.com/biconomy https://docs.biconomy.io/ https://github.com/bcnmy]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re They have worked with the likes of Decentraland, Sandbox, Aave, Axelar, dydx and more!]]></title>
+        <id>https://twitter.com/developer_dao/status/1574355178052009986</id>
+        <link href="https://twitter.com/developer_dao/status/1574355178052009986"/>
+        <updated>2022-09-26T11:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Re They have worked with the likes of Decentraland, Sandbox, Aave, Axelar, dydx and more!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Biconomy is a multichain relayer protocol founded by @AraBalaghi @@aniket_jindal08 @schin_tomar. Their mission is to improve the user onboarding an...]]></title>
+        <id>https://twitter.com/developer_dao/status/1574355176449777664</id>
+        <link href="https://twitter.com/developer_dao/status/1574355176449777664"/>
+        <updated>2022-09-26T11:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Re Biconomy is a multichain relayer protocol founded by @AraBalaghi @@aniket_jindal08 @schin_tomar. Their mission is to improve the user onboarding and transaction experience on dapps by making them as intuitive and easy to use as web2 products.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last week we hosted a dinner alongside @biconomy in Berlin for our frenz. Food was great and even more awesome conversations!]]></title>
+        <id>https://twitter.com/developer_dao/status/1574355173631148032</id>
+        <link href="https://twitter.com/developer_dao/status/1574355173631148032"/>
+        <updated>2022-09-26T11:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Last week we hosted a dinner alongside @biconomy in Berlin for our frenz. Food was great and even more awesome conversations!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial Decided to pu...]]></title>
+        <id>https://twitter.com/dabit3/status/1574197266423988224</id>
+        <link href="https://twitter.com/dabit3/status/1574197266423988224"/>
+        <updated>2022-09-26T00:40:50.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial
+Decided to put together a basic example using a @biconomy relayer + ERC2771Context Meta Transactions
+Ended up being pretty simple, open sourced it here: https://github.com/dabit3/gasless-transactions-example]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @nonstack @K4y1s @parcelHQ love this helping frens out🫂]]></title>
         <id>https://twitter.com/developer_dao/status/1573306298963488768</id>
@@ -72,177 +214,28 @@ Featured jobs this week 👇 📜 https://developerdao.pallet.com/jobs]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re]]></title>
-        <id>https://twitter.com/developer_dao/status/1573266351887613952</id>
-        <link href="https://twitter.com/developer_dao/status/1573266351887613952"/>
-        <updated>2022-09-23T11:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Re  https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
+        <title type="html"><![CDATA[RT Web3 Conference EU: Web3 Conference EU is the Must Attend Web3 Conference solely dedicated to Developers 🥳 👉 Call for Papers and Early Bird T...]]></title>
+        <id>https://twitter.com/web3_conference/status/1572573927209312258</id>
+        <link href="https://twitter.com/web3_conference/status/1572573927209312258"/>
+        <updated>2022-09-21T13:10:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3 Conference EU
+Web3 Conference EU is the Must Attend Web3 Conference solely dedicated to Developers 🥳
+👉 Call for Papers and Early Bird Tickets now available via 
+🗓️ 2 December 2022
+🏠 Amsterdam
+1️⃣5️⃣ Web3 Professionals ready to educate you! 
+#web3conferenceEU #web3 https://web3conference.eu]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👀 What’s better than building in web3? 🌱 Winning big for building its missing foundations. 🛠️ Learn what you can build on @OasisProtocol Sa...]]></title>
-        <id>https://twitter.com/developer_dao/status/1573264498575785985</id>
-        <link href="https://twitter.com/developer_dao/status/1573264498575785985"/>
-        <updated>2022-09-23T10:54:20.000Z</updated>
-        <summary type="html"><![CDATA[👀 What’s better than building in web3?
-🌱 Winning big for building its missing foundations. 
-🛠️ Learn what you can build on @OasisProtocol Sapphire - Industry's first confidential EVM.
-Set Reminder: https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you’re an existing member of Developer DAO, and you are able to translate a few sentences from English to Chinese, please send us a DM on Twitter ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1573055156216012801</id>
-        <link href="https://twitter.com/developer_dao/status/1573055156216012801"/>
-        <updated>2022-09-22T21:02:29.000Z</updated>
-        <summary type="html"><![CDATA[If you’re an existing member of Developer DAO, and you are able to translate a few sentences from English to Chinese, please send us a DM on Twitter with your discord handle.
-Thank you 🙂]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re learn more about in this 📜 from @gordo_design who is helping drive the initiative @ D_D 🤝 shout out to all involved @Erik_Knobl @0xJulo @mulf...]]></title>
-        <id>https://twitter.com/developer_dao/status/1573008187472891907</id>
-        <link href="https://twitter.com/developer_dao/status/1573008187472891907"/>
-        <updated>2022-09-22T17:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Re learn more about in this 📜 from @gordo_design who is helping drive the initiative @ D_D 🤝
-
-shout out to all involved @Erik_Knobl @0xJulo @mulford_dev @jahabeebs @0xSardius @BowTiedHeron
-Gordo: During the last months, we've been working on a new concept to take even further what @developer_dao could offer to the ecosystem.
-Introducing:
-🚀 𝗗_𝗗 𝗔𝗴𝗲𝗻𝗰𝘆 🚀
-@d_d_agency_web3
-If you need services or a partner to design, develop, or lead a new web3 product:
-🧵in ⬇️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second initiative launch of the week 👀 Introducing @d_d_agency_web3 - "a collective venture builder focused on investing our time into pushing forw...]]></title>
-        <id>https://twitter.com/developer_dao/status/1573008185610346502</id>
-        <link href="https://twitter.com/developer_dao/status/1573008185610346502"/>
-        <updated>2022-09-22T17:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Second initiative launch of the week 👀
-Introducing @d_d_agency_web3 - "a collective venture builder focused on investing our time into pushing forward web3 products and services" 
-👇
-D_D Agency: During the last months, we've been working on a new concept to take even further what @developer_dao could offer to the ecosystem.
-🚀 𝗗_𝗗 𝗔𝗴𝗲𝗻𝗰𝘆 🚀
-If you need services or a partner to design, develop, or lead a new web3 product, reach out!
- https://agency.developerdao.com]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you're concerned with DApp privacy, you should check out this article by our sponsor @OasisProtocol 🏗 Build a Confidential DApp in Solidity on S...]]></title>
-        <id>https://twitter.com/developer_dao/status/1572969030084071426</id>
-        <link href="https://twitter.com/developer_dao/status/1572969030084071426"/>
-        <updated>2022-09-22T15:20:15.000Z</updated>
-        <summary type="html"><![CDATA[If you're concerned with DApp privacy, you should check out this article by our sponsor @OasisProtocol 🏗 
-Build a Confidential DApp in Solidity on Sapphire https://blog.developerdao.com/build-a-confidential-dapp-in-solidity-on-sapphire]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @bornverse indeed we are 🤝]]></title>
-        <id>https://twitter.com/developer_dao/status/1572933021241573376</id>
-        <link href="https://twitter.com/developer_dao/status/1572933021241573376"/>
-        <updated>2022-09-22T12:57:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @bornverse indeed we are 🤝]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Here is another, notice the slightly different usernames they're using but same branding. Please also report this channel to @TwitterSupport]]></title>
-        <id>https://twitter.com/developer_dao/status/1572932701627228161</id>
-        <link href="https://twitter.com/developer_dao/status/1572932701627228161"/>
-        <updated>2022-09-22T12:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Re Here is another, notice the slightly different usernames they're using but same branding.
-Please also report this channel to @TwitterSupport]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Here is an example, please do not engage with this account and report them to Twitter]]></title>
-        <id>https://twitter.com/developer_dao/status/1572931780134551554</id>
-        <link href="https://twitter.com/developer_dao/status/1572931780134551554"/>
-        <updated>2022-09-22T12:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Re Here is an example, please do not engage with this account and report them to Twitter]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you come across accounts promoting anything else please make sure you report them to help keep everyone safe ❤️]]></title>
-        <id>https://twitter.com/developer_dao/status/1572930504508186624</id>
-        <link href="https://twitter.com/developer_dao/status/1572930504508186624"/>
-        <updated>2022-09-22T12:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Re If you come across accounts promoting anything else please make sure you report them to help keep everyone safe ❤️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 SCAM ALERT 🚨 We're seeing some fake D_D Twitter accounts pop up with a scam claim link in their bio. They're RT'ing and interacting with commu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1572929644042588164</id>
-        <link href="https://twitter.com/developer_dao/status/1572929644042588164"/>
-        <updated>2022-09-22T12:43:45.000Z</updated>
-        <summary type="html"><![CDATA[🚨 SCAM ALERT 🚨
-We're seeing some fake D_D Twitter accounts pop up with a scam claim link in their bio. They're RT'ing and interacting with community posts.
-Please ensure you're only trusting officially channels:
-@developer_dao http://developerdao.com http://claim.developerdao.com]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[we love to see it, @Web3Dubai you're in for a treat go 👑 @nazeeh21 🫡]]></title>
-        <id>https://twitter.com/developer_dao/status/1572896882380386304</id>
-        <link href="https://twitter.com/developer_dao/status/1572896882380386304"/>
-        <updated>2022-09-22T10:33:34.000Z</updated>
-        <summary type="html"><![CDATA[we love to see it, @Web3Dubai you're in for a treat
-go 👑 @nazeeh21 🫡
-Naz: I'm super excited to share that I'll be giving a lightning talk session at @Web3Dubai  this November about the @LensProtocol subgraph. If you are around then, do join us there]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Orbis, the web3 social protocol: New to building web3 socials via Orbis? We've released a simple @viamirror guide to three important @ceramicnetwor...]]></title>
-        <id>https://twitter.com/OrbisClub/status/1572541446703677444</id>
-        <link href="https://twitter.com/OrbisClub/status/1572541446703677444"/>
-        <updated>2022-09-21T11:01:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Orbis, the web3 social protocol
-New to building web3 socials via Orbis?
-We've released a simple @viamirror guide to three important @ceramicnetwork data concepts:
-SCHEMA
-DATA OBJECT
-STREAM
-You can dive in via the link in the comments.
-Congrats @adamjmdawson for a great read!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Oasis Foundation: Join us for the first presentation of Confidential EVM ParaTime -- Sapphire. Oasis Engineers will walk you through building the f...]]></title>
-        <id>https://twitter.com/OasisProtocol/status/1572304753379676163</id>
-        <link href="https://twitter.com/OasisProtocol/status/1572304753379676163"/>
-        <updated>2022-09-20T19:20:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Oasis Foundation
-Join us for the first presentation of Confidential EVM ParaTime -- Sapphire. Oasis Engineers will walk you through building the first confidential dApp in Solidity!
-📅 Sept 22, 2022 at 1PM EST 
-📍 
-💰 $500 in ROSE to be won for best live tweet http://bit.ly/3SjS7UJ]]></summary>
+        <title type="html"><![CDATA[RT davidryan: In which I deep dive into @rabbithole_gg @developer_dao and @_buildspace to understand... how are newcomers to #web3 learning? What's wo...]]></title>
+        <id>https://twitter.com/hellodavidryan/status/1572285713004888066</id>
+        <link href="https://twitter.com/hellodavidryan/status/1572285713004888066"/>
+        <updated>2022-09-20T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[RT davidryan
+In which I deep dive into @rabbithole_gg @developer_dao and @_buildspace to understand... how are newcomers to #web3 learning? What's working well (and not so well) in onboarding? What do product teams need to know? 🤔 https://www.productinthree.com/three-looks-at-web3-training-products/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
