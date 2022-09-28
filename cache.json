@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/41-probably-nothing",
+          "author": "Sylvia R",
+          "description": "🚀 Szn",
+          "link": "https://developerdao.substack.com/p/41-probably-nothing",
+          "publishedOn": "2022-09-27T15:39:00.000Z",
+          "wordCount": null,
+          "title": "#41 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6352f6a2-10ee-4421-863d-6ae8b71e6389_1600x800.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6352f6a2-10ee-4421-863d-6ae8b71e6389_1600x800.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/40-probably-nothing",
           "author": "Colin4ward",
           "description": "Merged so hard",
@@ -77,6 +93,46 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/theekrystallee/status/1574915832592814080",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krystal //\\\\ theekrystallee.eth\nmy technical blog for @developer_dao just went live 🤓\nlearn how to build a full stack allowlist dApp for your nft collection on @0xPolygon using @HardhatHQ @AlchemyPlatform @vercel 🛠️💻 https://blog.developerdao.com/build-a-full-stack-nft-allowlist-dapp",
+          "link": "https://twitter.com/theekrystallee/status/1574915832592814080",
+          "publishedOn": "2022-09-28T00:16:09.000Z",
+          "wordCount": 390,
+          "title": "RT krystal //\\\\ theekrystallee.eth: my technical blog for @developer_dao just went live 🤓 learn how to build a full stack allowlist dApp for your n...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/willfullhodl/status/1574797701513879555",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Will Wendt\nThanks @developer_dao for hosting a great Twitter space. It was great to share some of the unique things  we are doing @OasisProtocol to push the web3 space forward and here some of your ideas about how privacy can be used in web 3\nDeveloper DAO (🧱, 🚀): Tune in tomorrow to get started building it confidential 👀 \n@developer_dao 🤝 @OasisProtocol \n🐦: 8AM PT / 11AM ET\n https://twitter.com/i/spaces/1yoKMZNeAyWGQ",
+          "link": "https://twitter.com/willfullhodl/status/1574797701513879555",
+          "publishedOn": "2022-09-27T16:26:45.000Z",
+          "wordCount": 390,
+          "title": "RT Will Wendt: Thanks @developer_dao for hosting a great Twitter space. It was great to share some of the unique things we are doing @OasisProtocol to...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1574786967451176960",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Finally the news is out 💫 Keep pushing notifications!\nPush Protocol | Previously EPNS: Dear EPNS community, friends, & builders 🔔\nToday we have an exciting announcement. EPNS is rebranding to Push Protocol!\nThe announcement is the first step towards a multi-chain communication future —  allowing Push Protocol to be the communication platform of web3.\n(1/10)",
+          "link": "https://twitter.com/developer_dao/status/1574786967451176960",
+          "publishedOn": "2022-09-27T15:44:05.000Z",
+          "wordCount": 390,
+          "title": "Finally the news is out 💫 Keep pushing notifications!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1574774772399046657",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "https://twitter.com/i/spaces/1yoKMZNeAyWGQ",
+          "link": "https://twitter.com/developer_dao/status/1574774772399046657",
+          "publishedOn": "2022-09-27T14:55:38.000Z",
+          "wordCount": 390,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wc49358/status/1574505710456430592",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Billyjitsu\nReminder. I'll be cohosting with Dev Dao discussing privacy through  Oasis Protocol and the ongoing hackathon happening.\nDeveloper DAO (🧱, 🚀): Tune in tomorrow to get started building it confidential 👀 \n@developer_dao 🤝 @OasisProtocol \n🐦: 8AM PT / 11AM ET\n https://twitter.com/i/spaces/1yoKMZNeAyWGQ",
@@ -114,6 +170,16 @@
           "publishedOn": "2022-09-26T17:19:40.000Z",
           "wordCount": 390,
           "title": "Tune in tomorrow to get started building it confidential 👀 @developer_dao 🤝 @OasisProtocol 🐦: 8AM PT / 11AM ET",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/GeryPollak/status/1574379993064521729",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Gery_P (🍦, 🧞‍♂️) 🔜 SF 🇺🇸\nAmazing people + great conversations + taaaasty food! Thank you @developer_dao & @biconomy for a great dinner 🤩\nDeveloper DAO (🧱, 🚀): Last week we hosted a dinner alongside @biconomy in Berlin for our frenz. Food was great and even more awesome conversations!",
+          "link": "https://twitter.com/GeryPollak/status/1574379993064521729",
+          "publishedOn": "2022-09-26T12:46:55.000Z",
+          "wordCount": 390,
+          "title": "RT Gery_P (🍦, 🧞‍♂️) 🔜 SF 🇺🇸: Amazing people + great conversations + taaaasty food! Thank you @developer_dao & @biconomy for a great ...",
           "imageUrl": null
         },
         {
@@ -189,71 +255,21 @@
         {
           "id": "https://twitter.com/dabit3/status/1574197266423988224",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nWanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial\nDecided to put together a basic example using a @biconomy relayer + ERC2771Context Meta Transactions\nEnded up being pretty simple, open sourced it here: https://github.com/dabit3/gasless-transactions-example",
+          "description": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev\nWanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial\nDecided to put together a basic example using a @biconomy relayer + ERC2771Context Meta Transactions\nEnded up being pretty simple, open sourced it here: https://github.com/dabit3/gasless-transactions-example",
           "link": "https://twitter.com/dabit3/status/1574197266423988224",
           "publishedOn": "2022-09-26T00:40:50.000Z",
           "wordCount": 390,
-          "title": "RT nader (🧱, 🚀) | nader.lens: Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial Decided to pu...",
+          "title": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tu...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1573306298963488768",
+          "id": "https://twitter.com/Thenfh_/status/1574099285045542919",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @nonstack @K4y1s @parcelHQ love this helping frens out🫂",
-          "link": "https://twitter.com/developer_dao/status/1573306298963488768",
-          "publishedOn": "2022-09-23T13:40:26.000Z",
+          "description": "RT TheNonFungibleHuman🪄\nThis week in @web3afrika , the activity i enjoyed the most was the games and quiz event, very competitive and fun 😊. I look forward to a Web3 hangout in Web3 afrika and also connecting with more people. My journey in Web3 has been memorable, fun, and engaging. Thanks web3afrika",
+          "link": "https://twitter.com/Thenfh_/status/1574099285045542919",
+          "publishedOn": "2022-09-25T18:11:29.000Z",
           "wordCount": 390,
-          "title": "Re @nonstack @K4y1s @parcelHQ love this helping frens out🫂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1573284123787071488",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re If you’re looking for jobs with some of the best teams on some of the most exciting projects in #web3, be sure to sign-up - http://developerdao.pallet.com/jobs",
-          "link": "https://twitter.com/developer_dao/status/1573284123787071488",
-          "publishedOn": "2022-09-23T12:12:19.000Z",
-          "wordCount": 390,
-          "title": "Re If you’re looking for jobs with some of the best teams on some of the most exciting projects in #web3, be sure to sign-up -",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1573284121723412482",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @parcelHQ Treasury Management simplified for DAOs\n👩‍🎨 Senior Product Designer: https://developerdao.pallet.com/jobs/4aa38ef9-7809-4280-b14d-427674b5b5b6",
-          "link": "https://twitter.com/developer_dao/status/1573284121723412482",
-          "publishedOn": "2022-09-23T12:12:19.000Z",
-          "wordCount": 390,
-          "title": "Re @parcelHQ Treasury Management simplified for DAOs 👩‍🎨 Senior Product Designer:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1573284120091922433",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @epnsproject #BUIDLing World's First Decentralized Notification Protocol\n📈 Business Development Manager: https://developerdao.pallet.com/jobs/639f168e-5007-4214-b486-564d9871b3bf",
-          "link": "https://twitter.com/developer_dao/status/1573284120091922433",
-          "publishedOn": "2022-09-23T12:12:19.000Z",
-          "wordCount": 390,
-          "title": "Re @epnsproject #BUIDLing World's First Decentralized Notification Protocol 📈 Business Development Manager:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1573284118389002240",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @hedera Hashgraph is a public distributed ledger for building decentralized applications.\n🥑 Developer Advocate (US, APAC, Europe): https://developerdao.pallet.com/jobs/acb26bee-6705-468e-909e-df82758d23ed",
-          "link": "https://twitter.com/developer_dao/status/1573284118389002240",
-          "publishedOn": "2022-09-23T12:12:18.000Z",
-          "wordCount": 390,
-          "title": "Re @hedera Hashgraph is a public distributed ledger for building decentralized applications. 🥑 Developer Advocate (US, APAC, Europe):",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1573284116367376386",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚀 D_D Jobs of the Week 🚀\nCheck out the D_D Job Board for the latest #web3 jobs from our partners.\n\nFeatured jobs this week 👇 📜 https://developerdao.pallet.com/jobs",
-          "link": "https://twitter.com/developer_dao/status/1573284116367376386",
-          "publishedOn": "2022-09-23T12:12:18.000Z",
-          "wordCount": 390,
-          "title": "🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 jobs from our partners. Featured jobs this week 👇 📜",
+          "title": "RT TheNonFungibleHuman🪄: This week in @web3afrika , the activity i enjoyed the most was the games and quiz event, very competitive and fun 😊. I ...",
           "imageUrl": null
         },
         {

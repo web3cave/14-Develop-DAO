@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T06:44:58.415Z</id>
+    <id>urn:2022-09-28T06:48:05.548Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T06:44:58.415Z</updated>
+    <updated>2022-09-28T06:48:05.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT krystal //\\ theekrystallee.eth: my technical blog for @developer_dao just went live 🤓 learn how to build a full stack allowlist dApp for your n...]]></title>
+        <id>https://twitter.com/theekrystallee/status/1574915832592814080</id>
+        <link href="https://twitter.com/theekrystallee/status/1574915832592814080"/>
+        <updated>2022-09-28T00:16:09.000Z</updated>
+        <summary type="html"><![CDATA[RT krystal //\\ theekrystallee.eth
+my technical blog for @developer_dao just went live 🤓
+learn how to build a full stack allowlist dApp for your nft collection on @0xPolygon using @HardhatHQ @AlchemyPlatform @vercel 🛠️💻 https://blog.developerdao.com/build-a-full-stack-nft-allowlist-dapp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Will Wendt: Thanks @developer_dao for hosting a great Twitter space. It was great to share some of the unique things we are doing @OasisProtocol to...]]></title>
+        <id>https://twitter.com/willfullhodl/status/1574797701513879555</id>
+        <link href="https://twitter.com/willfullhodl/status/1574797701513879555"/>
+        <updated>2022-09-27T16:26:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Will Wendt
+Thanks @developer_dao for hosting a great Twitter space. It was great to share some of the unique things  we are doing @OasisProtocol to push the web3 space forward and here some of your ideas about how privacy can be used in web 3
+Developer DAO (🧱, 🚀): Tune in tomorrow to get started building it confidential 👀 
+@developer_dao 🤝 @OasisProtocol 
+🐦: 8AM PT / 11AM ET
+ https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally the news is out 💫 Keep pushing notifications!]]></title>
+        <id>https://twitter.com/developer_dao/status/1574786967451176960</id>
+        <link href="https://twitter.com/developer_dao/status/1574786967451176960"/>
+        <updated>2022-09-27T15:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Finally the news is out 💫 Keep pushing notifications!
+Push Protocol | Previously EPNS: Dear EPNS community, friends, & builders 🔔
+Today we have an exciting announcement. EPNS is rebranding to Push Protocol!
+The announcement is the first step towards a multi-chain communication future —  allowing Push Protocol to be the communication platform of web3.
+(1/10)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#41 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/41-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/41-probably-nothing"/>
+        <updated>2022-09-27T15:39:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Szn]]></summary>
+        <author>
+            <name>Sylvia R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1574774772399046657</id>
+        <link href="https://twitter.com/developer_dao/status/1574774772399046657"/>
+        <updated>2022-09-27T14:55:38.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Billyjitsu: Reminder. I'll be cohosting with Dev Dao discussing privacy through Oasis Protocol and the ongoing hackathon happening.]]></title>
         <id>https://twitter.com/wc49358/status/1574505710456430592</id>
@@ -53,6 +114,18 @@ Voila, you can now take part in their projects.]]></summary>
         <summary type="html"><![CDATA[Tune in tomorrow to get started building it confidential 👀 
 @developer_dao 🤝 @OasisProtocol 
 🐦: 8AM PT / 11AM ET https://twitter.com/i/spaces/1yoKMZNeAyWGQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Gery_P (🍦, 🧞‍♂️) 🔜 SF 🇺🇸: Amazing people + great conversations + taaaasty food! Thank you @developer_dao & @biconomy for a great ...]]></title>
+        <id>https://twitter.com/GeryPollak/status/1574379993064521729</id>
+        <link href="https://twitter.com/GeryPollak/status/1574379993064521729"/>
+        <updated>2022-09-26T12:46:55.000Z</updated>
+        <summary type="html"><![CDATA[RT Gery_P (🍦, 🧞‍♂️) 🔜 SF 🇺🇸
+Amazing people + great conversations + taaaasty food! Thank you @developer_dao & @biconomy for a great dinner 🤩
+Developer DAO (🧱, 🚀): Last week we hosted a dinner alongside @biconomy in Berlin for our frenz. Food was great and even more awesome conversations!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -135,11 +208,11 @@ Github https://medium.com/biconomy https://docs.biconomy.io/ https://githu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial Decided to pu...]]></title>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tu...]]></title>
         <id>https://twitter.com/dabit3/status/1574197266423988224</id>
         <link href="https://twitter.com/dabit3/status/1574197266423988224"/>
         <updated>2022-09-26T00:40:50.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev
 Wanted to learn how to implement gasless transactions, only found broken docs & a 50 minute tutorial
 Decided to put together a basic example using a @biconomy relayer + ERC2771Context Meta Transactions
 Ended up being pretty simple, open sourced it here: https://github.com/dabit3/gasless-transactions-example]]></summary>
@@ -148,67 +221,12 @@ Ended up being pretty simple, open sourced it here: https://github.com/dabit3/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @nonstack @K4y1s @parcelHQ love this helping frens out🫂]]></title>
-        <id>https://twitter.com/developer_dao/status/1573306298963488768</id>
-        <link href="https://twitter.com/developer_dao/status/1573306298963488768"/>
-        <updated>2022-09-23T13:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @nonstack @K4y1s @parcelHQ love this helping frens out🫂]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you’re looking for jobs with some of the best teams on some of the most exciting projects in #web3, be sure to sign-up -]]></title>
-        <id>https://twitter.com/developer_dao/status/1573284123787071488</id>
-        <link href="https://twitter.com/developer_dao/status/1573284123787071488"/>
-        <updated>2022-09-23T12:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Re If you’re looking for jobs with some of the best teams on some of the most exciting projects in #web3, be sure to sign-up - http://developerdao.pallet.com/jobs]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @parcelHQ Treasury Management simplified for DAOs 👩‍🎨 Senior Product Designer:]]></title>
-        <id>https://twitter.com/developer_dao/status/1573284121723412482</id>
-        <link href="https://twitter.com/developer_dao/status/1573284121723412482"/>
-        <updated>2022-09-23T12:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @parcelHQ Treasury Management simplified for DAOs
-👩‍🎨 Senior Product Designer: https://developerdao.pallet.com/jobs/4aa38ef9-7809-4280-b14d-427674b5b5b6]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @epnsproject #BUIDLing World's First Decentralized Notification Protocol 📈 Business Development Manager:]]></title>
-        <id>https://twitter.com/developer_dao/status/1573284120091922433</id>
-        <link href="https://twitter.com/developer_dao/status/1573284120091922433"/>
-        <updated>2022-09-23T12:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Re @epnsproject #BUIDLing World's First Decentralized Notification Protocol
-📈 Business Development Manager: https://developerdao.pallet.com/jobs/639f168e-5007-4214-b486-564d9871b3bf]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @hedera Hashgraph is a public distributed ledger for building decentralized applications. 🥑 Developer Advocate (US, APAC, Europe):]]></title>
-        <id>https://twitter.com/developer_dao/status/1573284118389002240</id>
-        <link href="https://twitter.com/developer_dao/status/1573284118389002240"/>
-        <updated>2022-09-23T12:12:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @hedera Hashgraph is a public distributed ledger for building decentralized applications.
-🥑 Developer Advocate (US, APAC, Europe): https://developerdao.pallet.com/jobs/acb26bee-6705-468e-909e-df82758d23ed]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 jobs from our partners. Featured jobs this week 👇 📜]]></title>
-        <id>https://twitter.com/developer_dao/status/1573284116367376386</id>
-        <link href="https://twitter.com/developer_dao/status/1573284116367376386"/>
-        <updated>2022-09-23T12:12:18.000Z</updated>
-        <summary type="html"><![CDATA[🚀 D_D Jobs of the Week 🚀
-Check out the D_D Job Board for the latest #web3 jobs from our partners.
-
-Featured jobs this week 👇 📜 https://developerdao.pallet.com/jobs]]></summary>
+        <title type="html"><![CDATA[RT TheNonFungibleHuman🪄: This week in @web3afrika , the activity i enjoyed the most was the games and quiz event, very competitive and fun 😊. I ...]]></title>
+        <id>https://twitter.com/Thenfh_/status/1574099285045542919</id>
+        <link href="https://twitter.com/Thenfh_/status/1574099285045542919"/>
+        <updated>2022-09-25T18:11:29.000Z</updated>
+        <summary type="html"><![CDATA[RT TheNonFungibleHuman🪄
+This week in @web3afrika , the activity i enjoyed the most was the games and quiz event, very competitive and fun 😊. I look forward to a Web3 hangout in Web3 afrika and also connecting with more people. My journey in Web3 has been memorable, fun, and engaging. Thanks web3afrika]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
