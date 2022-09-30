@@ -77,12 +77,122 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1575682511392321536",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Developer DAO Joke Race has now moved on to the voting stage 🃏\nThat's right, ALL @developer_dao NFT holders have been airdropped voting tokens.\nUse your voting power to select the next 3 community members. This is not a joke 🃏🃏🃏 we're being serious. https://www.jokedao.io/contest/polygon/0xd5Fe5f308A7F937CECB8A152eb5D19C6aC37a6aB",
+          "link": "https://twitter.com/developer_dao/status/1575682511392321536",
+          "publishedOn": "2022-09-30T03:02:40.000Z",
+          "wordCount": 395,
+          "title": "Developer DAO Joke Race has now moved on to the voting stage 🃏 That's right, ALL @developer_dao NFT holders have been airdropped voting tokens. Use...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1575654567353556992",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Developer DAO 🤝 @infura_io dinner in NYC for #SmartCon2022",
+          "link": "https://twitter.com/developer_dao/status/1575654567353556992",
+          "publishedOn": "2022-09-30T01:11:37.000Z",
+          "wordCount": 395,
+          "title": "Developer DAO 🤝 @infura_io dinner in NYC for #SmartCon2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/EthereumFilm/status/1575557453621604352",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ethereum: The Infinite Garden\nSome screenshots from our Ethereum documentary filming in Berlin and Denver for the merge!",
+          "link": "https://twitter.com/EthereumFilm/status/1575557453621604352",
+          "publishedOn": "2022-09-29T18:45:44.000Z",
+          "wordCount": 395,
+          "title": "RT Ethereum: The Infinite Garden: Some screenshots from our Ethereum documentary filming in Berlin and Denver for the merge!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1575551985193025543",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "A very simple smart contract for your NFT collection\nby @developer_dao member @vinchbat ☀️ https://blog.0x3.studio/a-very-simple-smart-contract-for-your-nft-collection/",
+          "link": "https://twitter.com/developer_dao/status/1575551985193025543",
+          "publishedOn": "2022-09-29T18:24:00.000Z",
+          "wordCount": 395,
+          "title": "A very simple smart contract for your NFT collection by @developer_dao member @vinchbat ☀️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/jokedao_/status/1575543510086094850",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT jokedao (🃏,🃏)\nare we allowed to flex and then pretend we were just joking?\nbecause this has turned into a milestone week for us.\n@developer_dao, @layer3xyz, and @MakerDAO all announced contests with us.\nand today @banklessDAO joins them. https://forum.bankless.community/t/banklessdao-ft-jokedao-contest-to-define-priorities/4385",
+          "link": "https://twitter.com/jokedao_/status/1575543510086094850",
+          "publishedOn": "2022-09-29T17:50:19.000Z",
+          "wordCount": 395,
+          "title": "RT jokedao (🃏,🃏): are we allowed to flex and then pretend we were just joking? because this has turned into a milestone week for us. @developer_...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1575521741773881344",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "How to create a Rentable NFT Smart Contract (ERC 4907 Tutorial) 🛠\n🎥 by @developer_dao member @Web3Club ✨ https://www.youtube.com/watch?v=t1ZB0-UwWB0",
+          "link": "https://twitter.com/developer_dao/status/1575521741773881344",
+          "publishedOn": "2022-09-29T16:23:49.000Z",
+          "wordCount": 395,
+          "title": "How to create a Rentable NFT Smart Contract (ERC 4907 Tutorial) 🛠 🎥 by @developer_dao member @Web3Club ✨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1575512657934811136",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev\nI created a short video introduction / overview of @ArweaveTeam \nAt 100 seconds, am trying to find the right balance of technical depth to make it approachable by both developers and non-developers.\nfollow me on @tiktok_us if you’re there https://www.tiktok.com/t/ZTRmfNmaM/",
+          "link": "https://twitter.com/dabit3/status/1575512657934811136",
+          "publishedOn": "2022-09-29T15:47:43.000Z",
+          "wordCount": 395,
+          "title": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: I created a short video introduction / overview of @ArweaveTeam At 100 seconds, am trying to f...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1575489429400997888",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Shippoooooors @devdao_academy 🫡\nA new lesson is out! Lesson 5: Connecting to a front end\nEducation is a public good.\n@wagmi_sh @rainbowdotme\nD_D Academy: New Lesson Out! 🧱🚀\nLearn how to build a simple UI that connects to and interacts with your Tier-based NFT smart contract! 🌈🪝\n https://academy.developerdao.com/lessons/projects/5",
+          "link": "https://twitter.com/developer_dao/status/1575489429400997888",
+          "publishedOn": "2022-09-29T14:15:25.000Z",
+          "wordCount": 395,
+          "title": "Shippoooooors @devdao_academy 🫡 A new lesson is out! Lesson 5: Connecting to a front end Education is a public good. @wagmi_sh @rainbowdotme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/alysiatech/status/1575465448187072512",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Alysia 👩‍💻📍🇹🇹 🔜 ETHBogotá 🇨🇴\nREMINDER: Don’t be afraid to ask for help!🚨I was speaking with @theekrystallee & she spoke so highly of @womenbuildweb3 & how much they helped her with building in web3!  Here are some other communities:\n@_buildspace \n@blu3dao \n@developer_dao \n@futureproofso \n@dacadeOrg",
+          "link": "https://twitter.com/alysiatech/status/1575465448187072512",
+          "publishedOn": "2022-09-29T12:40:08.000Z",
+          "wordCount": 395,
+          "title": "RT Alysia 👩‍💻📍🇹🇹 🔜 ETHBogotá 🇨🇴: REMINDER: Don’t be afraid to ask for help!🚨I was speaking with @theekrystallee & she sp...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1575431972649836549",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "9 hours left 🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏\nDeveloper DAO (🧱, 🚀): Developer DAO's first @jokedao_ contest is now underway! 🃏🃏🃏\nWant to join Developer DAO for free - Pitch yourself here:\n\nDAO members will then use their airdropped tokens to vote on the three winners. ✨\nRT for reach. This isn't a joke.\n https://www.jokedao.io/contest/polygon/0xd5Fe5f308A7F937CECB8A152eb5D19C6aC37a6aB",
+          "link": "https://twitter.com/developer_dao/status/1575431972649836549",
+          "publishedOn": "2022-09-29T10:27:07.000Z",
+          "wordCount": 395,
+          "title": "9 hours left 🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/nazeeh21/status/1575415076672409602",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Naz\nAll the folks from @developer_dao at token2049 conf, lets meet at the main stage at 5.30",
+          "link": "https://twitter.com/nazeeh21/status/1575415076672409602",
+          "publishedOn": "2022-09-29T09:19:58.000Z",
+          "wordCount": 395,
+          "title": "RT Naz: All the folks from @developer_dao at token2049 conf, lets meet at the main stage at 5.30",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/9001sabella/status/1575305708186505217",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT isabella\nNot too long ago, I was in the Philippines scrolling Reddit 8-12 hours/day trying to learn. I finally met @Psycheout86 of @AxieInfinity! + @protocollabs @nansen_ai @ASvanevik with @CryptoMan_Ram @routerprotocol @prashant_xyz @developer_dao at @Token2049 🤍💫",
           "link": "https://twitter.com/9001sabella/status/1575305708186505217",
           "publishedOn": "2022-09-29T02:05:23.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "RT isabella: Not too long ago, I was in the Philippines scrolling Reddit 8-12 hours/day trying to learn. I finally met @Psycheout86 of @AxieInfinity! ...",
           "imageUrl": null
         },
@@ -92,7 +202,7 @@
           "description": "RT Guild\nGood chance to join Developer DAO for free..\nJokeDAO is actually serious, and it is a new form of collective decision-making that you should try out!\nAll you have to do is to write an application to Developer DAO and participate in the contest.\nDeveloper DAO (🧱, 🚀): Developer DAO's first @jokedao_ contest is now underway! 🃏🃏🃏\nWant to join Developer DAO for free - Pitch yourself here:\n\nDAO members will then use their airdropped tokens to vote on the three winners. ✨\nRT for reach. This isn't a joke.\n https://www.jokedao.io/contest/polygon/0xd5Fe5f308A7F937CECB8A152eb5D19C6aC37a6aB",
           "link": "https://twitter.com/guildxyz/status/1575257609430605825",
           "publishedOn": "2022-09-28T22:54:15.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "RT Guild: Good chance to join Developer DAO for free.. JokeDAO is actually serious, and it is a new form of collective decision-making that you should...",
           "imageUrl": null
         },
@@ -102,7 +212,7 @@
           "description": "RT Stef(🧱,🚀)\nTBH I was excited to tell jokes. But, this is really an opportunity to join the DAO by pitching yourself. \nThis includes what you think needs to improve in the web3 ecosystem and possible solutions \nGo for it! 🚀\nDeveloper DAO (🧱, 🚀): Developer DAO's first @jokedao_ contest is now underway! 🃏🃏🃏\nWant to join Developer DAO for free - Pitch yourself here:\n\nDAO members will then use their airdropped tokens to vote on the three winners. ✨\nRT for reach. This isn't a joke.\n https://www.jokedao.io/contest/polygon/0xd5Fe5f308A7F937CECB8A152eb5D19C6aC37a6aB",
           "link": "https://twitter.com/StefLikeCurry/status/1575212054385872897",
           "publishedOn": "2022-09-28T19:53:14.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "RT Stef(🧱,🚀): TBH I was excited to tell jokes. But, this is really an opportunity to join the DAO by pitching yourself. This includes what you t...",
           "imageUrl": null
         },
@@ -112,7 +222,7 @@
           "description": "Developer DAO's first @jokedao_ contest is now underway! 🃏🃏🃏\nWant to join Developer DAO for free - Pitch yourself here:\n\nDAO members will then use their airdropped tokens to vote on the three winners. ✨\nRT for reach. This isn't a joke. https://www.jokedao.io/contest/polygon/0xd5Fe5f308A7F937CECB8A152eb5D19C6aC37a6aB",
           "link": "https://twitter.com/developer_dao/status/1575205746069114880",
           "publishedOn": "2022-09-28T19:28:10.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "Developer DAO's first @jokedao_ contest is now underway! 🃏🃏🃏 Want to join Developer DAO for free - Pitch yourself here: DAO members will then...",
           "imageUrl": null
         },
@@ -122,38 +232,28 @@
           "description": "RT cami ᵍᵐ\nGiving a talk next week in front of the GraphQL/Apollo community to showcase how GraphQL is being used in blockchain development to build fully decentralized applications with @graphprotocol 😍\nApollo: In this #GraphQLSummit session: @camiinthisthang will explain how GraphQL is used in the #web3 technology stack to build APIs that make #blockchain data easily accessible to developers. Register here:\n https://bit.ly/3Bl5e13",
           "link": "https://twitter.com/camiinthisthang/status/1575192803822698496",
           "publishedOn": "2022-09-28T18:36:44.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "RT cami ᵍᵐ: Giving a talk next week in front of the GraphQL/Apollo community to showcase how GraphQL is being used in blockchain development to buil...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/sergio_2098/status/1575192273696231426",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Sergio 🔺️ | #DevconIstanbul 🛸\nFinally I'm a @developer_dao member anymore! It was the one of my goals related to Web3. Nice to achieve that! @dabit3",
-          "link": "https://twitter.com/sergio_2098/status/1575192273696231426",
-          "publishedOn": "2022-09-28T18:34:38.000Z",
-          "wordCount": 390,
-          "title": "RT Sergio 🔺️ | #DevconIstanbul 🛸: Finally I'm a @developer_dao member anymore! It was the one of my goals related to Web3. Nice to achieve that...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/david_karstens/status/1575183104439771136",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 🐘🔗david.arweave.dev\nIn case you missed Sam's speech regarding \"Neutrality and the new paper\" at Arweave Singapore, here it is! \n\nAlso, shoutout to @everVisionHQ for putting on an amazingly smooth & info packed event 🙌!\n@ArweaveTeam #permaweb https://www.youtube.com/watch?v=_GfBqnnsODQ&t=1911s",
-          "link": "https://twitter.com/david_karstens/status/1575183104439771136",
-          "publishedOn": "2022-09-28T17:58:12.000Z",
-          "wordCount": 390,
-          "title": "RT 🐘🔗david.arweave.dev: In case you missed Sam's speech regarding \"Neutrality and the new paper\" at Arweave Singapore, here it is! Also, shoutou...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/kagniea/status/1575181784085835777",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT karan | krn.btc🍉\nthis one's @apoorvlathey appreciation tweet, homie has been shipping some crazy stuff lately 🔥 check his work!\n@dhaiwat10 @a_moonboy @namanmanchanda2 and @0xSarthak fall in a similar category for me (hackathon OGs), dev frens whom I look forward to🫡",
+          "description": "RT karan | krn.btc 🦇🔊🍉\nthis one's @apoorvlathey appreciation tweet, homie has been shipping some crazy stuff lately 🔥 check his work!\n@dhaiwat10 @a_moonboy @namanmanchanda2 and @0xSarthak fall in a similar category for me (hackathon OGs), dev frens whom I look forward to🫡",
           "link": "https://twitter.com/kagniea/status/1575181784085835777",
           "publishedOn": "2022-09-28T17:52:57.000Z",
-          "wordCount": 390,
-          "title": "RT karan | krn.btc🍉: this one's @apoorvlathey appreciation tweet, homie has been shipping some crazy stuff lately 🔥 check his work! @dhaiwat10 @...",
+          "wordCount": 395,
+          "title": "RT karan | krn.btc 🦇🔊🍉: this one's @apoorvlathey appreciation tweet, homie has been shipping some crazy stuff lately 🔥 check his work! @dh...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/FleekHQ/status/1575176155648651264",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Fleek\nICYMI: We've flocked to a Discord server of our own.\nHop into the new Fleek server to Network (hint, hint) with our team and community! We have some exciting announcements coming in Q4 this year...\n⚡ You won't want to miss it ⚡\nPsychedelic: 👋 Friendly reminder \nThe @FleekHQ community has outgrown its previous channel in the Psychedelic discord.\nLooking to make the move? Join their new Discord below ⚡️\n https://discord.gg/fleekxyz",
+          "link": "https://twitter.com/FleekHQ/status/1575176155648651264",
+          "publishedOn": "2022-09-28T17:30:35.000Z",
+          "wordCount": 395,
+          "title": "RT Fleek: ICYMI: We've flocked to a Discord server of our own. Hop into the new Fleek server to Network (hint, hint) with our team and community! We h...",
           "imageUrl": null
         },
         {
@@ -162,18 +262,8 @@
           "description": "RT Ξwoki (🤖,💚)\nhow will DAOs impact the future of collective action/organization?",
           "link": "https://twitter.com/owocki/status/1575173545407094785",
           "publishedOn": "2022-09-28T17:20:13.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "RT Ξwoki (🤖,💚): how will DAOs impact the future of collective action/organization?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devdao_academy/status/1575160510513053696",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT D_D Academy\ngm frens!✨\nWe just had a crazy MVP thanks to your support but we’re not resting. It’s the build market after all! We want to hear what you’d like to see here.\nDrop a comment👇 on the web3 concepts you’d like to learn and what features would make that learning process smoother.",
-          "link": "https://twitter.com/devdao_academy/status/1575160510513053696",
-          "publishedOn": "2022-09-28T16:28:25.000Z",
-          "wordCount": 390,
-          "title": "RT D_D Academy: gm frens!✨ We just had a crazy MVP thanks to your support but we’re not resting. It’s the build market after all! We want to hear w...",
           "imageUrl": null
         },
         {
@@ -182,98 +272,8 @@
           "description": "RT a16z crypto\n10 Incredible resources for all-things ZK Proofs. 🧵",
           "link": "https://twitter.com/a16zcrypto/status/1575124707187347457",
           "publishedOn": "2022-09-28T14:06:09.000Z",
-          "wordCount": 390,
+          "wordCount": 395,
           "title": "RT a16z crypto: 10 Incredible resources for all-things ZK Proofs. 🧵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/K4y1s/status/1575083374204850176",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ϗ (🧱, 🚀)\nThe @developer_dao DevRel team is hitting it out of the park! 🚀\nAs chief editor of the DAO blog, I'd consider everyone a fantastic hire, especially when I look at most of the content in that space, written by devs that don't have the time to hone their writing skills...",
-          "link": "https://twitter.com/K4y1s/status/1575083374204850176",
-          "publishedOn": "2022-09-28T11:21:54.000Z",
-          "wordCount": 390,
-          "title": "RT Ϗ (🧱, 🚀): The @developer_dao DevRel team is hitting it out of the park! 🚀 As chief editor of the DAO blog, I'd consider everyone a fantas...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/naomiHauret/status/1575033588072214535",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Naomi Hauret\nJoined @developer_dao thanks to @dabit3, started to work with @jokedao_ @seanmc_eth & @divine_economy to build V2 front-end  thanks to Developer DAO... and now Developer DAO is trying out JokeDAO.\nFull circle ✨😎\nnader (🧱, 🚀) | nader.lens | nader.arweave.dev: Is jokedao the most serious project in web3?\n https://twitter.com/i/broadcasts/1lPKqBNOyPdGb",
-          "link": "https://twitter.com/naomiHauret/status/1575033588072214535",
-          "publishedOn": "2022-09-28T08:04:04.000Z",
-          "wordCount": 390,
-          "title": "RT Naomi Hauret: Joined @developer_dao thanks to @dabit3, started to work with @jokedao_ @seanmc_eth & @divine_economy to build V2 front-end thanks to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/manangouhari/status/1574980757839548416",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT manan\nthis is a @developer_dao appreciation tweet.\nfirst real web3 dev onboarding initiative I've gained genuine respect for after @austingriffith\nI'm not actively involved with DD, but I see the kind of impact they've got on the new devs entering the space <3",
-          "link": "https://twitter.com/manangouhari/status/1574980757839548416",
-          "publishedOn": "2022-09-28T04:34:09.000Z",
-          "wordCount": 390,
-          "title": "RT manan: this is a @developer_dao appreciation tweet. first real web3 dev onboarding initiative I've gained genuine respect for after @austingriffith...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/9001sabella/status/1574926318470209541",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT isabella\nWhat a night & an even better walk. More than anything, it sunk in: @Tantelii spoke at the Natl Gallery of Singapore, @kayprasla @dhaiwat10 @nazeeh21 at @Web3Dubai in Nov but also @prashant_xyz at Infracon Bogota next month. \nProud of this @developer_dao circle right here :)",
-          "link": "https://twitter.com/9001sabella/status/1574926318470209541",
-          "publishedOn": "2022-09-28T00:57:49.000Z",
-          "wordCount": 390,
-          "title": "RT isabella: What a night & an even better walk. More than anything, it sunk in: @Tantelii spoke at the Natl Gallery of Singapore, @kayprasla @dhaiwat...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/theekrystallee/status/1574915832592814080",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT krystal //\\\\ theekrystallee.eth\nmy technical blog for @developer_dao just went live 🤓\nlearn how to build a full stack allowlist dApp for your nft collection on @0xPolygon using @HardhatHQ @AlchemyPlatform @vercel 🛠️💻 https://blog.developerdao.com/build-a-full-stack-nft-allowlist-dapp",
-          "link": "https://twitter.com/theekrystallee/status/1574915832592814080",
-          "publishedOn": "2022-09-28T00:16:09.000Z",
-          "wordCount": 390,
-          "title": "RT krystal //\\\\ theekrystallee.eth: my technical blog for @developer_dao just went live 🤓 learn how to build a full stack allowlist dApp for your n...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/willfullhodl/status/1574797701513879555",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Will Wendt\nThanks @developer_dao for hosting a great Twitter space. It was great to share some of the unique things  we are doing @OasisProtocol to push the web3 space forward and here some of your ideas about how privacy can be used in web 3\nDeveloper DAO (🧱, 🚀): Tune in tomorrow to get started building it confidential 👀 \n@developer_dao 🤝 @OasisProtocol \n🐦: 8AM PT / 11AM ET\n https://twitter.com/i/spaces/1yoKMZNeAyWGQ",
-          "link": "https://twitter.com/willfullhodl/status/1574797701513879555",
-          "publishedOn": "2022-09-27T16:26:45.000Z",
-          "wordCount": 390,
-          "title": "RT Will Wendt: Thanks @developer_dao for hosting a great Twitter space. It was great to share some of the unique things we are doing @OasisProtocol to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1574786967451176960",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Finally the news is out 💫 Keep pushing notifications!\nPush Protocol | Previously EPNS: Dear EPNS community, friends, & builders 🔔\nToday we have an exciting announcement. EPNS is rebranding to Push Protocol!\nThe announcement is the first step towards a multi-chain communication future —  allowing Push Protocol to be the communication platform of web3.\n(1/10)",
-          "link": "https://twitter.com/developer_dao/status/1574786967451176960",
-          "publishedOn": "2022-09-27T15:44:05.000Z",
-          "wordCount": 390,
-          "title": "Finally the news is out 💫 Keep pushing notifications!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GeryPollak/status/1574379993064521729",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Gery_P (🍦, 🧞‍♂️) 🔜 SF 🇺🇸\nAmazing people + great conversations + taaaasty food! Thank you @developer_dao & @biconomy for a great dinner 🤩\nDeveloper DAO (🧱, 🚀): Last week we hosted a dinner alongside @biconomy in Berlin for our frenz. Food was great and even more awesome conversations!",
-          "link": "https://twitter.com/GeryPollak/status/1574379993064521729",
-          "publishedOn": "2022-09-26T12:46:55.000Z",
-          "wordCount": 390,
-          "title": "RT Gery_P (🍦, 🧞‍♂️) 🔜 SF 🇺🇸: Amazing people + great conversations + taaaasty food! Thank you @developer_dao & @biconomy for a great ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Thenfh_/status/1574099285045542919",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT TheNonFungibleHuman🪄\nThis week in @web3afrika , the activity i enjoyed the most was the games and quiz event, very competitive and fun 😊. I look forward to a Web3 hangout in Web3 afrika and also connecting with more people. My journey in Web3 has been memorable, fun, and engaging. Thanks web3afrika",
-          "link": "https://twitter.com/Thenfh_/status/1574099285045542919",
-          "publishedOn": "2022-09-25T18:11:29.000Z",
-          "wordCount": 390,
-          "title": "RT TheNonFungibleHuman🪄: This week in @web3afrika , the activity i enjoyed the most was the games and quiz event, very competitive and fun 😊. I ...",
           "imageUrl": null
         }
       ]
