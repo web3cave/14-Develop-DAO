@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/edatweets_/status/1576601989986689024",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Eda\nI've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. \n- Intro to Rollups, StarkNet & the @StarkWareLtd ecosystem\n- How to write smart contracts in Cairo & deploy to StarkNet👇 https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo",
+          "link": "https://twitter.com/edatweets_/status/1576601989986689024",
+          "publishedOn": "2022-10-02T15:56:20.000Z",
+          "wordCount": 395,
+          "title": "RT Eda: I've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. - Intro to R...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1576585546809294849",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ\n#Solana folks, what is the best Multi-sig solution?\nDoing a bit of research for @developer_dao",
+          "link": "https://twitter.com/kempsterrrr/status/1576585546809294849",
+          "publishedOn": "2022-10-02T14:51:00.000Z",
+          "wordCount": 395,
+          "title": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: #Solana folks, what is the best Multi-sig solution? Doing a bit of research for @developer_dao",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/crypdoughdoteth/status/1576380429979959296",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴\nA few brief announcements:\n- v0.1 of my freelance agency website will be up tomorrow\n- I am launching a public goods / social impact DeFi protocol (~EOY)\n- Public workshop with @developer_dao (Nov. 2) - \"The EVM: From Compilation to Runtime\"\nThank you for the love, gang gang!",
@@ -244,26 +264,6 @@
           "publishedOn": "2022-09-29T15:47:43.000Z",
           "wordCount": 395,
           "title": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: I created a short video introduction / overview of @ArweaveTeam At 100 seconds, am trying to f...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1575489429400997888",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Shippoooooors @devdao_academy 🫡\nA new lesson is out! Lesson 5: Connecting to a front end\nEducation is a public good.\n@wagmi_sh @rainbowdotme\nD_D Academy: New Lesson Out! 🧱🚀\nLearn how to build a simple UI that connects to and interacts with your Tier-based NFT smart contract! 🌈🪝\n https://academy.developerdao.com/lessons/projects/5",
-          "link": "https://twitter.com/developer_dao/status/1575489429400997888",
-          "publishedOn": "2022-09-29T14:15:25.000Z",
-          "wordCount": 395,
-          "title": "Shippoooooors @devdao_academy 🫡 A new lesson is out! Lesson 5: Connecting to a front end Education is a public good. @wagmi_sh @rainbowdotme",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/alysiatech/status/1575465448187072512",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Alysia 👩‍💻📍🇹🇹 🔜 ETHBogotá 🇨🇴\nREMINDER: Don’t be afraid to ask for help!🚨I was speaking with @theekrystallee & she spoke so highly of @womenbuildweb3 & how much they helped her with building in web3!  Here are some other communities:\n@_buildspace \n@blu3dao \n@developer_dao \n@futureproofso \n@dacadeOrg",
-          "link": "https://twitter.com/alysiatech/status/1575465448187072512",
-          "publishedOn": "2022-09-29T12:40:08.000Z",
-          "wordCount": 395,
-          "title": "RT Alysia 👩‍💻📍🇹🇹 🔜 ETHBogotá 🇨🇴: REMINDER: Don’t be afraid to ask for help!🚨I was speaking with @theekrystallee & she sp...",
           "imageUrl": null
         },
         {

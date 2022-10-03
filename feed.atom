@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-02T06:23:19.826Z</id>
+    <id>urn:2022-10-03T06:26:11.135Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-02T06:23:19.826Z</updated>
+    <updated>2022-10-03T06:26:11.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Eda: I've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. - Intro to R...]]></title>
+        <id>https://twitter.com/edatweets_/status/1576601989986689024</id>
+        <link href="https://twitter.com/edatweets_/status/1576601989986689024"/>
+        <updated>2022-10-02T15:56:20.000Z</updated>
+        <summary type="html"><![CDATA[RT Eda
+I've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. 
+- Intro to Rollups, StarkNet & the @StarkWareLtd ecosystem
+- How to write smart contracts in Cairo & deploy to StarkNet👇 https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: #Solana folks, what is the best Multi-sig solution? Doing a bit of research for @developer_dao]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1576585546809294849</id>
+        <link href="https://twitter.com/kempsterrrr/status/1576585546809294849"/>
+        <updated>2022-10-02T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ
+#Solana folks, what is the best Multi-sig solution?
+Doing a bit of research for @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴: A few brief announcements: - v0.1 of my freelance agency website will be up tomorrow - I am launching a pu...]]></title>
         <id>https://twitter.com/crypdoughdoteth/status/1576380429979959296</id>
@@ -208,38 +233,6 @@ PS: @windingtree will be a thing for Devcon! Do check it out]]></summary>
 I created a short video introduction / overview of @ArweaveTeam 
 At 100 seconds, am trying to find the right balance of technical depth to make it approachable by both developers and non-developers.
 follow me on @tiktok_us if you’re there https://www.tiktok.com/t/ZTRmfNmaM/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shippoooooors @devdao_academy 🫡 A new lesson is out! Lesson 5: Connecting to a front end Education is a public good. @wagmi_sh @rainbowdotme]]></title>
-        <id>https://twitter.com/developer_dao/status/1575489429400997888</id>
-        <link href="https://twitter.com/developer_dao/status/1575489429400997888"/>
-        <updated>2022-09-29T14:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Shippoooooors @devdao_academy 🫡
-A new lesson is out! Lesson 5: Connecting to a front end
-Education is a public good.
-@wagmi_sh @rainbowdotme
-D_D Academy: New Lesson Out! 🧱🚀
-Learn how to build a simple UI that connects to and interacts with your Tier-based NFT smart contract! 🌈🪝
- https://academy.developerdao.com/lessons/projects/5]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alysia 👩‍💻📍🇹🇹 🔜 ETHBogotá 🇨🇴: REMINDER: Don’t be afraid to ask for help!🚨I was speaking with @theekrystallee & she sp...]]></title>
-        <id>https://twitter.com/alysiatech/status/1575465448187072512</id>
-        <link href="https://twitter.com/alysiatech/status/1575465448187072512"/>
-        <updated>2022-09-29T12:40:08.000Z</updated>
-        <summary type="html"><![CDATA[RT Alysia 👩‍💻📍🇹🇹 🔜 ETHBogotá 🇨🇴
-REMINDER: Don’t be afraid to ask for help!🚨I was speaking with @theekrystallee & she spoke so highly of @womenbuildweb3 & how much they helped her with building in web3!  Here are some other communities:
-@_buildspace 
-@blu3dao 
-@developer_dao 
-@futureproofso 
-@dacadeOrg]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
