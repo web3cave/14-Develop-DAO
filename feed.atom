@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T06:25:39.055Z</id>
+    <id>urn:2022-10-05T06:31:03.678Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-04T06:25:39.055Z</updated>
+    <updated>2022-10-05T06:31:03.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @nazeeh21 dropping some Vyper wisdom very soon 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1577389546223771648</id>
+        <link href="https://twitter.com/developer_dao/status/1577389546223771648"/>
+        <updated>2022-10-04T20:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @nazeeh21 dropping some Vyper wisdom very soon 👀
+Naz | nazeeh.lens | nazeeh.eth: I'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 October. Don't forget to jam in for that session. Thanks @ropats16 and @kempsterrrr for helping in putting this up]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dabit3 @velvet_shark @LensProtocol @yash___garg Expect much more quality workshops like this content from members and partners in the coming weeks...]]></title>
+        <id>https://twitter.com/developer_dao/status/1577388852947390486</id>
+        <link href="https://twitter.com/developer_dao/status/1577388852947390486"/>
+        <updated>2022-10-04T20:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @dabit3 @velvet_shark @LensProtocol @yash___garg Expect much more quality workshops like this content from members and partners in the coming weeks and months...
+🚨 Subscribe to our TY to get notified https://youtube.com/developer-dao?sub_confirmation=1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't miss @dabit3 and @velvet_shark dropping knowledge this week with live workshops on our YouTube 🧠 @dabit3 on @LensProtocol tomorrow @ 4:30pm U...]]></title>
+        <id>https://twitter.com/developer_dao/status/1577387829008732170</id>
+        <link href="https://twitter.com/developer_dao/status/1577387829008732170"/>
+        <updated>2022-10-04T19:58:59.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss @dabit3 and @velvet_shark dropping knowledge this week with live workshops on our YouTube 🧠
+@dabit3 on @LensProtocol tomorrow @ 4:30pm UTC
+@velvet_shark on on-chain SVG NFTs on Friday @ 4:30PM UTC.
+Hosted by the fabulous @yash___garg 🫂
+Details/links in 📜 below..
+Developer DAO (🧱, 🚀): It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube!
+First up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂
+Tune in Wednesday @ 4:30pm UTC 👉
+ https://youtu.be/ESu4uSYEi50]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#42 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/42-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/42-probably-nothing"/>
+        <updated>2022-10-04T12:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Is it DevCon yet]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Naz | nazeeh.lens | nazeeh.eth: I'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 ...]]></title>
+        <id>https://twitter.com/nazeeh21/status/1577195338003537920</id>
+        <link href="https://twitter.com/nazeeh21/status/1577195338003537920"/>
+        <updated>2022-10-04T07:14:06.000Z</updated>
+        <summary type="html"><![CDATA[RT Naz | nazeeh.lens | nazeeh.eth
+I'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 October. Don't forget to jam in for that session. Thanks @ropats16 and @kempsterrrr for helping in putting this up]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Receive between $2K - $30K to build out your ideas via the @womenbuildweb3 accelerator program 🔥 The program takes place online, so anyone in the w...]]></title>
         <id>https://twitter.com/developer_dao/status/1577141765307797504</id>
@@ -16,7 +77,7 @@ Applications still open for a short time. Kicks off on Oct 13th! 🛠
 WBW3 - BUIDL Accelerator: GM buildoooors, we’re very excited to announce that the application for our accelerator program is NOW LIVE! 🚀
 We’re giving out no strings attached grants of $2K - $30K to support innovative engineering projects ✨🧵
 More details and application:
- https://www.womenbuildweb3.com/accelerator https://twitter.com/encodeclub/status/1574792333400281088]]></summary>
+ https://www.womenbuildweb3.com/accelerator]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -205,53 +266,6 @@ If they think it’s a good fit States DAO might even write your first investmen
         <summary type="html"><![CDATA[Re Fortunately our friend’s at @StatesDao just launched a brand new accelerator program to help
 Their goal is to provide amazing resources that Web3 teams might not be able to access on their own 
 States Launch helps entrepreneurs turn their Web3 projects into thriving businesses]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”We’re going to pass on the investment but thanks for your time” *ends zoom meeting* It’s the 16th time you’ve heard that in the last two weeks. ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1576196673117659137</id>
-        <link href="https://twitter.com/developer_dao/status/1576196673117659137"/>
-        <updated>2022-10-01T13:05:45.000Z</updated>
-        <summary type="html"><![CDATA[”We’re going to pass on the investment but thanks for your time”
-*ends zoom meeting*
-It’s the 16th time you’ve heard that in the last two weeks. 
-We get it. 
-Raising money, getting grants, and taking your product to market can be tough these days 
-But it doesn’t have to be…]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to everybody who joined us for our 2nd Community Town Hall of Season 1 🌞 shoutout to the @guildxyz team for the improvements made to their P...]]></title>
-        <id>https://twitter.com/developer_dao/status/1575939327636303875</id>
-        <link href="https://twitter.com/developer_dao/status/1575939327636303875"/>
-        <updated>2022-09-30T20:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to everybody who joined us for our 2nd Community Town Hall of Season 1 🌞
-shoutout to the @guildxyz team for the improvements made to their POAP integration. best team in web3 ! ✨
-design: @boyluan]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👀 @kempsterrrr]]></title>
-        <id>https://twitter.com/developer_dao/status/1575888986396041217</id>
-        <link href="https://twitter.com/developer_dao/status/1575888986396041217"/>
-        <updated>2022-09-30T16:43:07.000Z</updated>
-        <summary type="html"><![CDATA[👀 @kempsterrrr]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nileshrathoree @me256ow @DaeshawnBallard @thatguyintech @dabit3 If you can share your thoughts and ideas in the forum post you created, then the c...]]></title>
-        <id>https://twitter.com/developer_dao/status/1575785006940573696</id>
-        <link href="https://twitter.com/developer_dao/status/1575785006940573696"/>
-        <updated>2022-09-30T09:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Re @nileshrathoree @me256ow @DaeshawnBallard @thatguyintech @dabit3 If you can share your thoughts and ideas in the forum post you created, then the community can discuss this further 🙂 I’ll loop in some key stakeholders, too]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
