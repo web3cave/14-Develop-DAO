@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-05T06:31:03.678Z</id>
+    <id>urn:2022-10-06T06:22:05.953Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-05T06:31:03.678Z</updated>
+    <updated>2022-10-06T06:22:05.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Big thanks to @dabit3 for presenting the workshop today on @LensProtocol ❤️ If you missed it, watch back here - ✨ This Friday @ 4:30pm UTC, join @v...]]></title>
+        <id>https://twitter.com/developer_dao/status/1577746646934470675</id>
+        <link href="https://twitter.com/developer_dao/status/1577746646934470675"/>
+        <updated>2022-10-05T19:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Big thanks to @dabit3 for presenting the workshop today on @LensProtocol ❤️
+If you missed it, watch back here - 
+✨ This Friday @ 4:30pm UTC, join @velvet_shark to learn about on-chain SVGs - https://youtu.be/ESu4uSYEi50 https://youtu.be/Hfga2UjupVU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT juliettech: amazing workshop on how to build social platforms on @LensProtocol by @dabit3 ❤️‍🔥 @developer_dao always providing so much value ...]]></title>
+        <id>https://twitter.com/_juliettech/status/1577716385135955969</id>
+        <link href="https://twitter.com/_juliettech/status/1577716385135955969"/>
+        <updated>2022-10-05T17:44:33.000Z</updated>
+        <summary type="html"><![CDATA[RT juliettech
+amazing workshop on how to build social platforms on @LensProtocol by @dabit3 ❤️‍🔥
+@developer_dao always providing so much value to the community! thank you for organizing.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dabit3 @LensProtocol It's kicking off with @dabit3 and @yash___garg]]></title>
+        <id>https://twitter.com/developer_dao/status/1577701043705679872</id>
+        <link href="https://twitter.com/developer_dao/status/1577701043705679872"/>
+        <updated>2022-10-05T16:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @dabit3 @LensProtocol It's kicking off with @dabit3 and @yash___garg]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.@dabit3 is live now on our YouTube giving a workshop on the @LensProtocol Come join, follow along and ask questions 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1577699499119624193</id>
+        <link href="https://twitter.com/developer_dao/status/1577699499119624193"/>
+        <updated>2022-10-05T16:37:27.000Z</updated>
+        <summary type="html"><![CDATA[.@dabit3 is live now on our YouTube giving a workshop on the @LensProtocol 
+Come join, follow along and ask questions 🫡
+Developer DAO (🧱, 🚀): It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube!
+First up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂
+Tune in Wednesday @ 4:30pm UTC 👉
+ https://youtu.be/ESu4uSYEi50]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1577683154286043136</id>
+        <link href="https://twitter.com/developer_dao/status/1577683154286043136"/>
+        <updated>2022-10-05T15:32:30.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Naz | nazeeh.lens | nazeeh.eth: So happy to see such kind of appreciation from your mentees. Tysm, @matthew_6! I really appreciate it. @developer_d...]]></title>
+        <id>https://twitter.com/nazeeh21/status/1577607813223833603</id>
+        <link href="https://twitter.com/nazeeh21/status/1577607813223833603"/>
+        <updated>2022-10-05T10:33:07.000Z</updated>
+        <summary type="html"><![CDATA[RT Naz | nazeeh.lens | nazeeh.eth
+So happy to see such kind of appreciation from your mentees. Tysm, @matthew_6! I really appreciate it.
+@developer_dao is my family ❤️ 🥹]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @nazeeh21 dropping some Vyper wisdom very soon 👀]]></title>
         <id>https://twitter.com/developer_dao/status/1577389546223771648</id>
@@ -46,6 +116,30 @@ Tune in Wednesday @ 4:30pm UTC 👉
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT Paloma: I talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and eve...]]></title>
+        <id>https://twitter.com/web3paloma/status/1577339195164704768</id>
+        <link href="https://twitter.com/web3paloma/status/1577339195164704768"/>
+        <updated>2022-10-04T16:45:44.000Z</updated>
+        <summary type="html"><![CDATA[RT Paloma
+I talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and everyone else I vibe with in @womenbuildweb3 and @developer_dao
+Tobi Shiyanbola: We all have that one friend we met on Twitter that we instantly clicked with but still haven’t met in person. Tag them.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀) 📍🇦🇪: Introducing the first @GraphSocial1 web3 meetup in Dubai! 👇🧵]]></title>
+        <id>https://twitter.com/Mardeni01/status/1577290718544027648</id>
+        <link href="https://twitter.com/Mardeni01/status/1577290718544027648"/>
+        <updated>2022-10-04T13:33:06.000Z</updated>
+        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀) 📍🇦🇪
+Introducing the first @GraphSocial1 web3 meetup in Dubai!
+👇🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[#42 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/42-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/42-probably-nothing"/>
@@ -53,6 +147,20 @@ Tune in Wednesday @ 4:30pm UTC 👉
         <summary type="html"><![CDATA[Is it DevCon yet]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Yorgos Saslis: Hey there tweeps, So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin t...]]></title>
+        <id>https://twitter.com/gsaslis/status/1577222373727576065</id>
+        <link href="https://twitter.com/gsaslis/status/1577222373727576065"/>
+        <updated>2022-10-04T09:01:31.000Z</updated>
+        <summary type="html"><![CDATA[RT Yorgos Saslis
+Hey there tweeps, 
+So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin time.
+We have some early prototypes we'd like some help validating! 
+So: are you a VS Code user w/ 20min to spare? 👇 https://research.typeform.com/to/cjE4J0rc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -77,7 +185,7 @@ Applications still open for a short time. Kicks off on Oct 13th! 🛠
 WBW3 - BUIDL Accelerator: GM buildoooors, we’re very excited to announce that the application for our accelerator program is NOW LIVE! 🚀
 We’re giving out no strings attached grants of $2K - $30K to support innovative engineering projects ✨🧵
 More details and application:
- https://www.womenbuildweb3.com/accelerator]]></summary>
+ https://www.womenbuildweb3.com/accelerator https://twitter.com/encodeclub/status/1574792333400281088]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -153,124 +261,6 @@ Don't miss these they're set to be excellent sessions with two awseomse educator
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Then we have @velvet_shark walking us through how to create & deploy a 100% on-chain SVG NFT 😎 💅 Tune in on Friday @ 4:30pm UTC 👉 Don't mi...]]></title>
-        <id>https://twitter.com/developer_dao/status/1576929838761267200</id>
-        <link href="https://twitter.com/developer_dao/status/1576929838761267200"/>
-        <updated>2022-10-03T13:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Re Then we have @velvet_shark walking us through how to create & deploy a 100% on-chain SVG NFT 😎 💅
-Tune in on Friday @ 4:30pm UTC 👉
-Don't miss these they're set to be excellent sessions with two awseomse educators from the D_D Community. https://youtu.be/Hfga2UjupVU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube! First up, we have @dabit3 showing us how to bu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1576929836463185920</id>
-        <link href="https://twitter.com/developer_dao/status/1576929836463185920"/>
-        <updated>2022-10-03T13:39:05.000Z</updated>
-        <summary type="html"><![CDATA[It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube!
-First up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂
-Tune in Wednesday @ 4:30pm UTC 👉 https://youtu.be/ESu4uSYEi50]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Eda: I've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. - Intro to R...]]></title>
-        <id>https://twitter.com/edatweets_/status/1576601989986689024</id>
-        <link href="https://twitter.com/edatweets_/status/1576601989986689024"/>
-        <updated>2022-10-02T15:56:20.000Z</updated>
-        <summary type="html"><![CDATA[RT Eda
-I've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. 
-- Intro to Rollups, StarkNet & the @StarkWareLtd ecosystem
-- How to write smart contracts in Cairo & deploy to StarkNet👇 https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: #Solana folks, what is the best Multi-sig solution? Doing a bit of research for @developer_dao]]></title>
-        <id>https://twitter.com/kempsterrrr/status/1576585546809294849</id>
-        <link href="https://twitter.com/kempsterrrr/status/1576585546809294849"/>
-        <updated>2022-10-02T14:51:00.000Z</updated>
-        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ
-#Solana folks, what is the best Multi-sig solution?
-Doing a bit of research for @developer_dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴: A few brief announcements: - v0.1 of my freelance agency website will be up tomorrow - I am launching a pu...]]></title>
-        <id>https://twitter.com/crypdoughdoteth/status/1576380429979959296</id>
-        <link href="https://twitter.com/crypdoughdoteth/status/1576380429979959296"/>
-        <updated>2022-10-02T01:15:56.000Z</updated>
-        <summary type="html"><![CDATA[RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴
-A few brief announcements:
-- v0.1 of my freelance agency website will be up tomorrow
-- I am launching a public goods / social impact DeFi protocol (~EOY)
-- Public workshop with @developer_dao (Nov. 2) - "The EVM: From Compilation to Runtime"
-Thank you for the love, gang gang!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Polygon Developers: Catch thought leaders in space with Polygon at Bogota 🔥 @AaveAave @Uniswap @LidoFinance @lemonapp_ar @pushprotocol @Livepeer...]]></title>
-        <id>https://twitter.com/0xPolygonDevs/status/1576306923963445248</id>
-        <link href="https://twitter.com/0xPolygonDevs/status/1576306923963445248"/>
-        <updated>2022-10-01T20:23:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Polygon Developers
-Catch thought leaders in space with Polygon at Bogota 🔥
-@AaveAave @Uniswap @LidoFinance @lemonapp_ar @pushprotocol  @Livepeer  @LensProtocol @Superfluid_HQ @QiDaoProtocol @developer_dao @decentraland @ElectricCoinCo 
-👉 Oct 10
-Grab your free tickets 👇🏿 http://ow.ly/2c8v50KYv2m]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re So what are you waiting for? Take your project to the next level by applying for States Launch today: And learn more about how States DAO helps dev...]]></title>
-        <id>https://twitter.com/developer_dao/status/1576196681217249291</id>
-        <link href="https://twitter.com/developer_dao/status/1576196681217249291"/>
-        <updated>2022-10-01T13:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Re So what are you waiting for? 
-Take your project to the next level by applying for States Launch today: 
-And learn more about how States DAO helps developers and entrepreneurs in Web3 here: https://statesdao.club/fellowship/launch https://discord.gg/nfxm96uE]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The 12-week accelerator programs includes: -Top-tier Mentorship -Exclusive networking events -Investment and grant opportunities -Business training...]]></title>
-        <id>https://twitter.com/developer_dao/status/1576196678758957056</id>
-        <link href="https://twitter.com/developer_dao/status/1576196678758957056"/>
-        <updated>2022-10-01T13:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Re The 12-week accelerator programs includes: 
--Top-tier Mentorship 
--Exclusive networking events
--Investment and grant opportunities 
--Business training session 
--And more
-If they think it’s a good fit States DAO might even write your first investment check]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Fortunately our friend’s at @StatesDao just launched a brand new accelerator program to help Their goal is to provide amazing resources that Web3 ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1576196676444119040</id>
-        <link href="https://twitter.com/developer_dao/status/1576196676444119040"/>
-        <updated>2022-10-01T13:05:46.000Z</updated>
-        <summary type="html"><![CDATA[Re Fortunately our friend’s at @StatesDao just launched a brand new accelerator program to help
-Their goal is to provide amazing resources that Web3 teams might not be able to access on their own 
-States Launch helps entrepreneurs turn their Web3 projects into thriving businesses]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is jokedao the most serious project in web3?]]></title>
         <id>https://www.youtube.com/watch?v=YI4RPJuK7WY</id>
         <link href="https://www.youtube.com/watch?v=YI4RPJuK7WY"/>
@@ -305,16 +295,6 @@ States Launch helps entrepreneurs turn their Web3 projects into thriving busines
         <link href="https://developerdao.substack.com/p/39-probably-nothing"/>
         <updated>2022-09-13T15:46:00.000Z</updated>
         <summary type="html"><![CDATA[Dev-N-Tell to the Moon 🌕]]></summary>
-        <author>
-            <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#38 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/38-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/38-probably-nothing"/>
-        <updated>2022-09-06T11:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Discord guard is on the way...]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>

@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa122f913-52ce-4816-b390-41845f988893_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/38-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Discord guard is on the way...",
-          "link": "https://developerdao.substack.com/p/38-probably-nothing",
-          "publishedOn": "2022-09-06T11:28:47.000Z",
-          "wordCount": null,
-          "title": "#38 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c78a5b-2402-4d88-9da3-f13cee2095ef_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3c78a5b-2402-4d88-9da3-f13cee2095ef_1100x550.png"
         }
       ]
     },
@@ -92,6 +76,66 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1577746646934470675",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Big thanks to @dabit3 for presenting the workshop today on @LensProtocol ❤️\nIf you missed it, watch back here - \n✨ This Friday @ 4:30pm UTC, join @velvet_shark to learn about on-chain SVGs - https://youtu.be/ESu4uSYEi50 https://youtu.be/Hfga2UjupVU",
+          "link": "https://twitter.com/developer_dao/status/1577746646934470675",
+          "publishedOn": "2022-10-05T19:44:48.000Z",
+          "wordCount": 399,
+          "title": "Big thanks to @dabit3 for presenting the workshop today on @LensProtocol ❤️ If you missed it, watch back here - ✨ This Friday @ 4:30pm UTC, join @v...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/_juliettech/status/1577716385135955969",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT juliettech\namazing workshop on how to build social platforms on @LensProtocol by @dabit3 ❤️‍🔥\n@developer_dao always providing so much value to the community! thank you for organizing.",
+          "link": "https://twitter.com/_juliettech/status/1577716385135955969",
+          "publishedOn": "2022-10-05T17:44:33.000Z",
+          "wordCount": 399,
+          "title": "RT juliettech: amazing workshop on how to build social platforms on @LensProtocol by @dabit3 ❤️‍🔥 @developer_dao always providing so much value ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1577701043705679872",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @dabit3 @LensProtocol It's kicking off with @dabit3 and @yash___garg",
+          "link": "https://twitter.com/developer_dao/status/1577701043705679872",
+          "publishedOn": "2022-10-05T16:43:35.000Z",
+          "wordCount": 399,
+          "title": "Re @dabit3 @LensProtocol It's kicking off with @dabit3 and @yash___garg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1577699499119624193",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": ".@dabit3 is live now on our YouTube giving a workshop on the @LensProtocol \nCome join, follow along and ask questions 🫡\nDeveloper DAO (🧱, 🚀): It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube!\nFirst up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂\nTune in Wednesday @ 4:30pm UTC 👉\n https://youtu.be/ESu4uSYEi50",
+          "link": "https://twitter.com/developer_dao/status/1577699499119624193",
+          "publishedOn": "2022-10-05T16:37:27.000Z",
+          "wordCount": 399,
+          "title": ".@dabit3 is live now on our YouTube giving a workshop on the @LensProtocol Come join, follow along and ask questions 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1577683154286043136",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1577683154286043136",
+          "publishedOn": "2022-10-05T15:32:30.000Z",
+          "wordCount": 399,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/nazeeh21/status/1577607813223833603",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Naz | nazeeh.lens | nazeeh.eth\nSo happy to see such kind of appreciation from your mentees. Tysm, @matthew_6! I really appreciate it.\n@developer_dao is my family ❤️ 🥹",
+          "link": "https://twitter.com/nazeeh21/status/1577607813223833603",
+          "publishedOn": "2022-10-05T10:33:07.000Z",
+          "wordCount": 399,
+          "title": "RT Naz | nazeeh.lens | nazeeh.eth: So happy to see such kind of appreciation from your mentees. Tysm, @matthew_6! I really appreciate it. @developer_d...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1577389546223771648",
           "author": "Developer DAO (🧱, 🚀)",
@@ -123,6 +167,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/web3paloma/status/1577339195164704768",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Paloma\nI talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and everyone else I vibe with in @womenbuildweb3 and @developer_dao\nTobi Shiyanbola: We all have that one friend we met on Twitter that we instantly clicked with but still haven’t met in person. Tag them.",
+          "link": "https://twitter.com/web3paloma/status/1577339195164704768",
+          "publishedOn": "2022-10-04T16:45:44.000Z",
+          "wordCount": 399,
+          "title": "RT Paloma: I talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and eve...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Mardeni01/status/1577290718544027648",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT MardΞni (🧱, 🚀) 📍🇦🇪\nIntroducing the first @GraphSocial1 web3 meetup in Dubai!\n👇🧵",
+          "link": "https://twitter.com/Mardeni01/status/1577290718544027648",
+          "publishedOn": "2022-10-04T13:33:06.000Z",
+          "wordCount": 399,
+          "title": "RT MardΞni (🧱, 🚀) 📍🇦🇪: Introducing the first @GraphSocial1 web3 meetup in Dubai! 👇🧵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/gsaslis/status/1577222373727576065",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Yorgos Saslis\nHey there tweeps, \nSo, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin time.\nWe have some early prototypes we'd like some help validating! \nSo: are you a VS Code user w/ 20min to spare? 👇 https://research.typeform.com/to/cjE4J0rc",
+          "link": "https://twitter.com/gsaslis/status/1577222373727576065",
+          "publishedOn": "2022-10-04T09:01:31.000Z",
+          "wordCount": 399,
+          "title": "RT Yorgos Saslis: Hey there tweeps, So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin t...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/nazeeh21/status/1577195338003537920",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Naz | nazeeh.lens | nazeeh.eth\nI'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 October. Don't forget to jam in for that session. Thanks @ropats16 and @kempsterrrr for helping in putting this up",
@@ -135,7 +209,7 @@
         {
           "id": "https://twitter.com/developer_dao/status/1577141765307797504",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Receive between $2K - $30K to build out your ideas via the @womenbuildweb3 accelerator program 🔥\nThe program takes place online, so anyone in the world can participate.\nApplications still open for a short time. Kicks off on Oct 13th! 🛠\nWBW3 - BUIDL Accelerator: GM buildoooors, we’re very excited to announce that the application for our accelerator program is NOW LIVE! 🚀\nWe’re giving out no strings attached grants of $2K - $30K to support innovative engineering projects ✨🧵\nMore details and application:\n https://www.womenbuildweb3.com/accelerator",
+          "description": "Receive between $2K - $30K to build out your ideas via the @womenbuildweb3 accelerator program 🔥\nThe program takes place online, so anyone in the world can participate.\nApplications still open for a short time. Kicks off on Oct 13th! 🛠\nWBW3 - BUIDL Accelerator: GM buildoooors, we’re very excited to announce that the application for our accelerator program is NOW LIVE! 🚀\nWe’re giving out no strings attached grants of $2K - $30K to support innovative engineering projects ✨🧵\nMore details and application:\n https://www.womenbuildweb3.com/accelerator https://twitter.com/encodeclub/status/1574792333400281088",
           "link": "https://twitter.com/developer_dao/status/1577141765307797504",
           "publishedOn": "2022-10-04T03:41:13.000Z",
           "wordCount": 399,
@@ -200,96 +274,6 @@
           "publishedOn": "2022-10-03T13:39:06.000Z",
           "wordCount": 399,
           "title": "Re Both sessions will be hosted by the awesome @yash___garg 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1576929838761267200",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Then we have @velvet_shark walking us through how to create & deploy a 100% on-chain SVG NFT 😎 💅\nTune in on Friday @ 4:30pm UTC 👉\nDon't miss these they're set to be excellent sessions with two awseomse educators from the D_D Community. https://youtu.be/Hfga2UjupVU",
-          "link": "https://twitter.com/developer_dao/status/1576929838761267200",
-          "publishedOn": "2022-10-03T13:39:06.000Z",
-          "wordCount": 399,
-          "title": "Re Then we have @velvet_shark walking us through how to create & deploy a 100% on-chain SVG NFT 😎 💅 Tune in on Friday @ 4:30pm UTC 👉 Don't mi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1576929836463185920",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube!\nFirst up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂\nTune in Wednesday @ 4:30pm UTC 👉 https://youtu.be/ESu4uSYEi50",
-          "link": "https://twitter.com/developer_dao/status/1576929836463185920",
-          "publishedOn": "2022-10-03T13:39:05.000Z",
-          "wordCount": 399,
-          "title": "It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube! First up, we have @dabit3 showing us how to bu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/edatweets_/status/1576601989986689024",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Eda\nI've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. \n- Intro to Rollups, StarkNet & the @StarkWareLtd ecosystem\n- How to write smart contracts in Cairo & deploy to StarkNet👇 https://eda.hashnode.dev/developers-guide-to-starknet-and-cairo",
-          "link": "https://twitter.com/edatweets_/status/1576601989986689024",
-          "publishedOn": "2022-10-02T15:56:20.000Z",
-          "wordCount": 399,
-          "title": "RT Eda: I've been looking into different L2 scaling solutions on Ethereum & to put together an intro guide for developers about StarkNet. - Intro to R...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kempsterrrr/status/1576585546809294849",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ\n#Solana folks, what is the best Multi-sig solution?\nDoing a bit of research for @developer_dao",
-          "link": "https://twitter.com/kempsterrrr/status/1576585546809294849",
-          "publishedOn": "2022-10-02T14:51:00.000Z",
-          "wordCount": 399,
-          "title": "RT kempsterrrr.eth / lens | (🧱, 🚀) ᵍᵐ: #Solana folks, what is the best Multi-sig solution? Doing a bit of research for @developer_dao",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/crypdoughdoteth/status/1576380429979959296",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴\nA few brief announcements:\n- v0.1 of my freelance agency website will be up tomorrow\n- I am launching a public goods / social impact DeFi protocol (~EOY)\n- Public workshop with @developer_dao (Nov. 2) - \"The EVM: From Compilation to Runtime\"\nThank you for the love, gang gang!",
-          "link": "https://twitter.com/crypdoughdoteth/status/1576380429979959296",
-          "publishedOn": "2022-10-02T01:15:56.000Z",
-          "wordCount": 399,
-          "title": "RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴: A few brief announcements: - v0.1 of my freelance agency website will be up tomorrow - I am launching a pu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xPolygonDevs/status/1576306923963445248",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Polygon Developers\nCatch thought leaders in space with Polygon at Bogota 🔥\n@AaveAave @Uniswap @LidoFinance @lemonapp_ar @pushprotocol  @Livepeer  @LensProtocol @Superfluid_HQ @QiDaoProtocol @developer_dao @decentraland @ElectricCoinCo \n👉 Oct 10\nGrab your free tickets 👇🏿 http://ow.ly/2c8v50KYv2m",
-          "link": "https://twitter.com/0xPolygonDevs/status/1576306923963445248",
-          "publishedOn": "2022-10-01T20:23:51.000Z",
-          "wordCount": 399,
-          "title": "RT Polygon Developers: Catch thought leaders in space with Polygon at Bogota 🔥 @AaveAave @Uniswap @LidoFinance @lemonapp_ar @pushprotocol @Livepeer...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1576196681217249291",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re So what are you waiting for? \nTake your project to the next level by applying for States Launch today: \nAnd learn more about how States DAO helps developers and entrepreneurs in Web3 here: https://statesdao.club/fellowship/launch https://discord.gg/nfxm96uE",
-          "link": "https://twitter.com/developer_dao/status/1576196681217249291",
-          "publishedOn": "2022-10-01T13:05:47.000Z",
-          "wordCount": 399,
-          "title": "Re So what are you waiting for? Take your project to the next level by applying for States Launch today: And learn more about how States DAO helps dev...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1576196678758957056",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re The 12-week accelerator programs includes: \n-Top-tier Mentorship \n-Exclusive networking events\n-Investment and grant opportunities \n-Business training session \n-And more\nIf they think it’s a good fit States DAO might even write your first investment check",
-          "link": "https://twitter.com/developer_dao/status/1576196678758957056",
-          "publishedOn": "2022-10-01T13:05:47.000Z",
-          "wordCount": 399,
-          "title": "Re The 12-week accelerator programs includes: -Top-tier Mentorship -Exclusive networking events -Investment and grant opportunities -Business training...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1576196676444119040",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Fortunately our friend’s at @StatesDao just launched a brand new accelerator program to help\nTheir goal is to provide amazing resources that Web3 teams might not be able to access on their own \nStates Launch helps entrepreneurs turn their Web3 projects into thriving businesses",
-          "link": "https://twitter.com/developer_dao/status/1576196676444119040",
-          "publishedOn": "2022-10-01T13:05:46.000Z",
-          "wordCount": 399,
-          "title": "Re Fortunately our friend’s at @StatesDao just launched a brand new accelerator program to help Their goal is to provide amazing resources that Web3 ...",
           "imageUrl": null
         }
       ]
