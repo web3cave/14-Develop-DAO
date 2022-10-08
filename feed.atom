@@ -1,19 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-07T06:24:22.977Z</id>
+    <id>urn:2022-10-08T06:18:40.638Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-07T06:24:22.977Z</updated>
+    <updated>2022-10-08T06:18:40.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Graph Social: Are you in Dubai? Join our next web3 meetup where you can learn how to break into the web3 space and meet with like-minded people! It...]]></title>
-        <id>https://twitter.com/GraphSocial1/status/1578143075838611457</id>
-        <link href="https://twitter.com/GraphSocial1/status/1578143075838611457"/>
-        <updated>2022-10-06T22:00:04.000Z</updated>
-        <summary type="html"><![CDATA[RT Graph Social
-Are you in Dubai?
-Join our next web3 meetup where you can learn how to break into the web3 space and meet with like-minded people!
-It is an invite-only event so make sure to register here👇 https://lu.ma/GraphSocialDubai]]></summary>
+        <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao ...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1578535646540357634</id>
+        <link href="https://twitter.com/devntellxyz/status/1578535646540357634"/>
+        <updated>2022-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+GM frens!  If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-edge-wallet]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT machzΞro.x: My Yoda is back after 2 weeks at the body shop, and I had to add more web3 flair. @chainlink @developer_dao]]></title>
+        <id>https://twitter.com/0xmachzero/status/1578501646174208000</id>
+        <link href="https://twitter.com/0xmachzero/status/1578501646174208000"/>
+        <updated>2022-10-07T21:44:54.000Z</updated>
+        <summary type="html"><![CDATA[RT machzΞro.x
+My Yoda is back after 2 weeks at the body shop, and I had to add more web3 flair. @chainlink @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: We are about to start our workshop at @ETHGlobal / ETH Bogota on building and testing smart co...]]></title>
+        <id>https://twitter.com/dabit3/status/1578491048036536320</id>
+        <link href="https://twitter.com/dabit3/status/1578491048036536320"/>
+        <updated>2022-10-07T21:02:47.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev
+We are about to start our workshop at @ETHGlobal / ETH Bogota on building and testing smart contracts with Foundry along with @camiinthisthang 
+You can find the workshop materials and slides open sourced here https://github.com/dabit3/foundry-workshop]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens 🌈 We had an awesome showing today at the @developer_dao #DevNTell where DAO member @rjrs2k gave us an overview of @EdgeW...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1578478771166154752</id>
+        <link href="https://twitter.com/devntellxyz/status/1578478771166154752"/>
+        <updated>2022-10-07T20:14:00.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+🌈 gm frens 🌈
+We had an awesome showing today at the 
+@developer_dao #DevNTell where DAO member @rjrs2k  gave us an overview of @EdgeWallet 💰
+If you missed all the action today, you can now watch the recording on the DAOs YouTube channel 📹🍿: https://www.youtube.com/watch?v=y9N6TRi4Z2s]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanks to @velvet_shark for presenting today's awesome🤩 workshop on SVG NFT on-chain. If you missed it, watch back here - ✨ On 12th Oct, we will b...]]></title>
+        <id>https://twitter.com/developer_dao/status/1578447446203863040</id>
+        <link href="https://twitter.com/developer_dao/status/1578447446203863040"/>
+        <updated>2022-10-07T18:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to @velvet_shark for presenting today's awesome🤩 workshop on SVG NFT on-chain.
+If you missed it, watch back here - 
+✨ On 12th Oct, we will be having @nazeeh21 presenting *Writing, testing and deploying Vyper contract using Foundry* https://www.youtube.com/watch?v=Hfga2UjupVU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're now live on YouTube with @velvet_shark 🫡 Come and learn "How to Create and Deploy 100% on-chain SVG NFTs" Hosted by @yash___garg]]></title>
+        <id>https://twitter.com/developer_dao/status/1578423078479986695</id>
+        <link href="https://twitter.com/developer_dao/status/1578423078479986695"/>
+        <updated>2022-10-07T16:32:42.000Z</updated>
+        <summary type="html"><![CDATA[We're now live on YouTube with @velvet_shark 🫡
+Come and learn "How to Create and Deploy 100% on-chain SVG NFTs"
+Hosted by @yash___garg https://www.youtube.com/watch?v=Hfga2UjupVU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT yashgarg.x/.lens (🧱,🚀): All set for building an on-chain NFT w/ @velvet_shark and @developer_dao]]></title>
+        <id>https://twitter.com/yash___garg/status/1578415139753107456</id>
+        <link href="https://twitter.com/yash___garg/status/1578415139753107456"/>
+        <updated>2022-10-07T16:01:09.000Z</updated>
+        <summary type="html"><![CDATA[RT yashgarg.x/.lens (🧱,🚀)
+All set for building an on-chain NFT w/ @velvet_shark and @developer_dao https://youtu.be/Hfga2UjupVU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who's hacking at @hackonchain in Berlin 👀 Winners get a D_D NFT which grants membership to our DAO and endless possibilities to build web3 with fri...]]></title>
+        <id>https://twitter.com/developer_dao/status/1578397967274459136</id>
+        <link href="https://twitter.com/developer_dao/status/1578397967274459136"/>
+        <updated>2022-10-07T14:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Who's hacking at @hackonchain in Berlin 👀
+Winners get a D_D NFT which grants membership to our DAO and endless possibilities to build web3 with friends 🫂
+LGTM - Excited to see what teams ship
+🫡
+HackOnChain: Meet one of our partners - @developer_dao! 🤝
+Developer Dao is the largest community of builders in Web 3 on the planet🔥
+Winners of the hackathon will get NFT Devs for Revolution, which gives access to the D_D community
+👇
+ https://opensea.io/collection/devs-for-revolution]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Buidlers Tribe: #buidlers of Pune! @developer_dao x @BuidlersTribe is hosting a meetup on the 8th of October! 🤝 If you'd like to have great conv...]]></title>
+        <id>https://twitter.com/BuidlersTribe/status/1578268466439917568</id>
+        <link href="https://twitter.com/BuidlersTribe/status/1578268466439917568"/>
+        <updated>2022-10-07T06:18:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Buidlers Tribe
+#buidlers of Pune!
+@developer_dao x @BuidlersTribe is hosting a meetup on
+the 8th of October!
+🤝 If you'd like to have great conversations and 🔥merch, register with the link in the tweet below 👇 
+@cricinshots @web3inpune]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -27,19 +130,6 @@ It is an invite-only event so make sure to register here👇 https://lu.ma/Gra
 Learn how to build an on-chain SVG NFT from @velvet_shark 🔥 in our next workshop here =>
 
 Hosted by @yash___garg https://www.youtube.com/watch?v=Hfga2UjupVU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT cami ᵍᵐ: Thank you to everyone who attended my Sway (@SwayLang) workshop with @minorityprogram this morning 🫡 The repo with the code, along wi...]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1578073283630493696</id>
-        <link href="https://twitter.com/camiinthisthang/status/1578073283630493696"/>
-        <updated>2022-10-06T17:22:44.000Z</updated>
-        <summary type="html"><![CDATA[RT cami ᵍᵐ
-Thank you to everyone who attended my Sway (@SwayLang) workshop with @minorityprogram this morning 🫡
-The repo with the code, along with a step-by-step workshop on how to build a web3 version of eventbrite on @fuellabs_  👉 
-Video recording coming soon! https://github.com/camiinthisthang/learnsway-web3rsvp]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -144,46 +234,6 @@ So happy to see such kind of appreciation from your mentees. Tysm, @matthew_6! I
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @nazeeh21 dropping some Vyper wisdom very soon 👀]]></title>
-        <id>https://twitter.com/developer_dao/status/1577389546223771648</id>
-        <link href="https://twitter.com/developer_dao/status/1577389546223771648"/>
-        <updated>2022-10-04T20:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @nazeeh21 dropping some Vyper wisdom very soon 👀
-Naz | nazeeh.lens | nazeeh.eth: I'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 October. Don't forget to jam in for that session. Thanks @ropats16 and @kempsterrrr for helping in putting this up]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @dabit3 @velvet_shark @LensProtocol @yash___garg Expect much more quality workshops like this content from members and partners in the coming weeks...]]></title>
-        <id>https://twitter.com/developer_dao/status/1577388852947390486</id>
-        <link href="https://twitter.com/developer_dao/status/1577388852947390486"/>
-        <updated>2022-10-04T20:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @dabit3 @velvet_shark @LensProtocol @yash___garg Expect much more quality workshops like this content from members and partners in the coming weeks and months...
-🚨 Subscribe to our TY to get notified https://youtube.com/developer-dao?sub_confirmation=1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't miss @dabit3 and @velvet_shark dropping knowledge this week with live workshops on our YouTube 🧠 @dabit3 on @LensProtocol tomorrow @ 4:30pm U...]]></title>
-        <id>https://twitter.com/developer_dao/status/1577387829008732170</id>
-        <link href="https://twitter.com/developer_dao/status/1577387829008732170"/>
-        <updated>2022-10-04T19:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Don't miss @dabit3 and @velvet_shark dropping knowledge this week with live workshops on our YouTube 🧠
-@dabit3 on @LensProtocol tomorrow @ 4:30pm UTC
-@velvet_shark on on-chain SVG NFTs on Friday @ 4:30PM UTC.
-Hosted by the fabulous @yash___garg 🫂
-Details/links in 📜 below..
-Developer DAO (🧱, 🚀): It's a good week for you learners 🧠❤️ out there, with two workshops live streaming to our YouTube!
-First up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂
-Tune in Wednesday @ 4:30pm UTC 👉
- https://youtu.be/ESu4uSYEi50]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Paloma: I talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and eve...]]></title>
         <id>https://twitter.com/web3paloma/status/1577339195164704768</id>
         <link href="https://twitter.com/web3paloma/status/1577339195164704768"/>
@@ -191,18 +241,6 @@ Tune in Wednesday @ 4:30pm UTC 👉
         <summary type="html"><![CDATA[RT Paloma
 I talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and everyone else I vibe with in @womenbuildweb3 and @developer_dao
 Tobi Shiyanbola: We all have that one friend we met on Twitter that we instantly clicked with but still haven’t met in person. Tag them.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT MardΞni (🧱, 🚀) 📍🇦🇪: Introducing the first @GraphSocial1 web3 meetup in Dubai! 👇🧵]]></title>
-        <id>https://twitter.com/Mardeni01/status/1577290718544027648</id>
-        <link href="https://twitter.com/Mardeni01/status/1577290718544027648"/>
-        <updated>2022-10-04T13:33:06.000Z</updated>
-        <summary type="html"><![CDATA[RT MardΞni (🧱, 🚀) 📍🇦🇪
-Introducing the first @GraphSocial1 web3 meetup in Dubai!
-👇🧵]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -227,44 +265,6 @@ Hey there tweeps,
 So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin time.
 We have some early prototypes we'd like some help validating! 
 So: are you a VS Code user w/ 20min to spare? 👇 https://research.typeform.com/to/cjE4J0rc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Naz | nazeeh.lens | nazeeh.eth: I'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 ...]]></title>
-        <id>https://twitter.com/nazeeh21/status/1577195338003537920</id>
-        <link href="https://twitter.com/nazeeh21/status/1577195338003537920"/>
-        <updated>2022-10-04T07:14:06.000Z</updated>
-        <summary type="html"><![CDATA[RT Naz | nazeeh.lens | nazeeh.eth
-I'll be giving a workshop on *Writing, testing and deploying Vyper contract using Foundry* in @developer_dao on 12 October. Don't forget to jam in for that session. Thanks @ropats16 and @kempsterrrr for helping in putting this up]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Receive between $2K - $30K to build out your ideas via the @womenbuildweb3 accelerator program 🔥 The program takes place online, so anyone in the w...]]></title>
-        <id>https://twitter.com/developer_dao/status/1577141765307797504</id>
-        <link href="https://twitter.com/developer_dao/status/1577141765307797504"/>
-        <updated>2022-10-04T03:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Receive between $2K - $30K to build out your ideas via the @womenbuildweb3 accelerator program 🔥
-The program takes place online, so anyone in the world can participate.
-Applications still open for a short time. Kicks off on Oct 13th! 🛠
-WBW3 - BUIDL Accelerator: GM buildoooors, we’re very excited to announce that the application for our accelerator program is NOW LIVE! 🚀
-We’re giving out no strings attached grants of $2K - $30K to support innovative engineering projects ✨🧵
-More details and application:
- https://www.womenbuildweb3.com/accelerator https://twitter.com/encodeclub/status/1574792333400281088]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DappaDan ✍️: Re @kempsterrrr @Colin4ward @camiinthisthang @dabit3 @Rahatcodes @developer_dao is just a cartel of friends taking over Web3 and I l...]]></title>
-        <id>https://twitter.com/DAppaDanDev/status/1577033693532606465</id>
-        <link href="https://twitter.com/DAppaDanDev/status/1577033693532606465"/>
-        <updated>2022-10-03T20:31:47.000Z</updated>
-        <summary type="html"><![CDATA[RT DappaDan ✍️
-Re @kempsterrrr @Colin4ward @camiinthisthang @dabit3 @Rahatcodes @developer_dao is just a cartel of friends taking over Web3 and I love it!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
