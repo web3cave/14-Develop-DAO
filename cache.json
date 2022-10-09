@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/tonyolendo/status/1578716054771335168",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tonyolendo.eth @ Bogota\nGiving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web3 Github project for consideration.",
+          "link": "https://twitter.com/tonyolendo/status/1578716054771335168",
+          "publishedOn": "2022-10-08T11:56:53.000Z",
+          "wordCount": 399,
+          "title": "RT tonyolendo.eth @ Bogota: Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/devntellxyz/status/1578535646540357634",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT DevNTell\nGM frens!  If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-edge-wallet",
@@ -264,16 +274,6 @@
           "publishedOn": "2022-10-04T16:45:44.000Z",
           "wordCount": 399,
           "title": "RT Paloma: I talk for hours with @myweb3journey and @_finessevanes also @NoDegreeDotCom but we met on LinkedIn lol. Hope to meet you guys soon and eve...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gsaslis/status/1577222373727576065",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Yorgos Saslis\nHey there tweeps, \nSo, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin time.\nWe have some early prototypes we'd like some help validating! \nSo: are you a VS Code user w/ 20min to spare? 👇 https://research.typeform.com/to/cjE4J0rc",
-          "link": "https://twitter.com/gsaslis/status/1577222373727576065",
-          "publishedOn": "2022-10-04T09:01:31.000Z",
-          "wordCount": 399,
-          "title": "RT Yorgos Saslis: Hey there tweeps, So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin t...",
           "imageUrl": null
         }
       ]

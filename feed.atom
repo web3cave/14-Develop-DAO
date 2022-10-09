@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-08T06:18:40.638Z</id>
+    <id>urn:2022-10-09T06:20:02.848Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-08T06:18:40.638Z</updated>
+    <updated>2022-10-09T06:20:02.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT tonyolendo.eth @ Bogota: Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web...]]></title>
+        <id>https://twitter.com/tonyolendo/status/1578716054771335168</id>
+        <link href="https://twitter.com/tonyolendo/status/1578716054771335168"/>
+        <updated>2022-10-08T11:56:53.000Z</updated>
+        <summary type="html"><![CDATA[RT tonyolendo.eth @ Bogota
+Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web3 Github project for consideration.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao ...]]></title>
         <id>https://twitter.com/devntellxyz/status/1578535646540357634</id>
@@ -253,20 +264,6 @@ Tobi Shiyanbola: We all have that one friend we met on Twitter that we instant
         <summary type="html"><![CDATA[Is it DevCon yet]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Yorgos Saslis: Hey there tweeps, So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin t...]]></title>
-        <id>https://twitter.com/gsaslis/status/1577222373727576065</id>
-        <link href="https://twitter.com/gsaslis/status/1577222373727576065"/>
-        <updated>2022-10-04T09:01:31.000Z</updated>
-        <summary type="html"><![CDATA[RT Yorgos Saslis
-Hey there tweeps, 
-So, I've been part of a team working on IDE plugins for @radicle (think: p2p github) and it's now #vscode plugin time.
-We have some early prototypes we'd like some help validating! 
-So: are you a VS Code user w/ 20min to spare? 👇 https://research.typeform.com/to/cjE4J0rc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
