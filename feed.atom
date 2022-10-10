@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-09T06:20:02.848Z</id>
+    <id>urn:2022-10-10T06:41:35.221Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-09T06:20:02.848Z</updated>
+    <updated>2022-10-10T06:41:35.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Let’s get together at the Bogota IRL D_D meetup sponsored by @CoinbaseCloud Friday 14th October 19:00 🔥 Come meet the DAO members IRL and have a m...]]></title>
+        <id>https://twitter.com/developer_dao/status/1579238525446520832</id>
+        <link href="https://twitter.com/developer_dao/status/1579238525446520832"/>
+        <updated>2022-10-09T22:32:59.000Z</updated>
+        <summary type="html"><![CDATA[Let’s get together at the Bogota IRL D_D meetup sponsored by @CoinbaseCloud Friday 14th October 19:00 🔥
+Come meet the DAO members IRL and have a memorable night together! 🎉 https://lu.ma/D_D-Bog]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT tonyolendo.eth @ Bogota: Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web...]]></title>
         <id>https://twitter.com/tonyolendo/status/1578716054771335168</id>
@@ -219,15 +230,6 @@ Developer DAO (🧱, 🚀): It's a good week for you learners 🧠❤️ out t
 First up, we have @dabit3 showing us how to build a social media app on @LensProtocol 🫂
 Tune in Wednesday @ 4:30pm UTC 👉
  https://youtu.be/ESu4uSYEi50]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1577683154286043136</id>
-        <link href="https://twitter.com/developer_dao/status/1577683154286043136"/>
-        <updated>2022-10-05T15:32:30.000Z</updated>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
