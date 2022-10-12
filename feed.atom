@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T06:38:48.717Z</id>
+    <id>urn:2022-10-12T06:27:06.622Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T06:38:48.717Z</updated>
+    <updated>2022-10-12T06:27:06.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re Decentralizing Infura — @egalano and @timmmmyers]]></title>
+        <id>https://twitter.com/developer_dao/status/1579995392888143873</id>
+        <link href="https://twitter.com/developer_dao/status/1579995392888143873"/>
+        <updated>2022-10-12T00:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Re Decentralizing Infura — @egalano and @timmmmyers https://app.devcon.org/schedule/d3mcft]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Future of Smart Contract Security Audits: REKT or WAGMI? (Panel) — @ChandrakanaNaN @GNSPS @jalex206 @maurelian_ @ethzed]]></title>
+        <id>https://twitter.com/developer_dao/status/1579995390098956288</id>
+        <link href="https://twitter.com/developer_dao/status/1579995390098956288"/>
+        <updated>2022-10-12T00:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Re Future of Smart Contract Security Audits: REKT or WAGMI? (Panel) — @ChandrakanaNaN @GNSPS @jalex206 @maurelian_ @ethzed https://app.devcon.org/schedule/jyem97]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Build a DApp on Optimism: How to Conquer L2 Bridging (Truffle, Infura) — @_emjlin]]></title>
+        <id>https://twitter.com/developer_dao/status/1579995387448152064</id>
+        <link href="https://twitter.com/developer_dao/status/1579995387448152064"/>
+        <updated>2022-10-12T00:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Re Build a DApp on Optimism: How to Conquer L2 Bridging (Truffle, Infura) — @_emjlin https://app.devcon.org/schedule/frayeb]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For those of you who are attending Devcon (@EFDevcon) — our Season 1 Partner, Infura @infura_io, have some great talks that you might wish to check o...]]></title>
+        <id>https://twitter.com/developer_dao/status/1579995384373342208</id>
+        <link href="https://twitter.com/developer_dao/status/1579995384373342208"/>
+        <updated>2022-10-12T00:40:29.000Z</updated>
+        <summary type="html"><![CDATA[For those of you who are attending Devcon (@EFDevcon) — our Season 1 Partner, Infura @infura_io, have some great talks that you might wish to check out. See below:
+1/4 🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT D_D Agency: As we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of discip...]]></title>
+        <id>https://twitter.com/d_d_agency_web3/status/1579908593868247042</id>
+        <link href="https://twitter.com/d_d_agency_web3/status/1579908593868247042"/>
+        <updated>2022-10-11T18:55:36.000Z</updated>
+        <summary type="html"><![CDATA[RT D_D Agency
+As we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of disciplines.
+If you’re a proficient Solidity developer and are interested in working on some great projects — apply below: https://bit.ly/3yzKW3f]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our next workshop🤩 is on Writing, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻 Hosted by awesome @ropats16 🫡 W...]]></title>
+        <id>https://twitter.com/developer_dao/status/1579900426648178688</id>
+        <link href="https://twitter.com/developer_dao/status/1579900426648178688"/>
+        <updated>2022-10-11T18:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Our next workshop🤩 is on 
+Writing, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻
+Hosted by awesome @ropats16 🫡
+Watch it here => https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Livepeer: 🚨 TOMORROW The Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach...]]></title>
+        <id>https://twitter.com/Livepeer/status/1579894650185584642</id>
+        <link href="https://twitter.com/Livepeer/status/1579894650185584642"/>
+        <updated>2022-10-11T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[RT Livepeer
+🚨 TOMORROW
+The Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach mass adoption and create a better online experience for all 🚀
+📆 October 12th (9am - 6pm COT)
+📍 Teatro Cadiz
+🔗 https://lu.ma/Web3AppSummitDevcon]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens: 🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see...]]></title>
+        <id>https://twitter.com/BrianHHough/status/1579848639891271682</id>
+        <link href="https://twitter.com/BrianHHough/status/1579848639891271682"/>
+        <updated>2022-10-11T14:57:22.000Z</updated>
+        <summary type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens
+🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see you at my talk! 🤩🙌🎉
+🔗 RSVP to my DevChat "Become a full-stack developer: Migrating a company from GCP to AWS" here: 
+#reinvent #aws #reinvent22 https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions/COM309]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#43 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/43-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/43-probably-nothing"/>
+        <updated>2022-10-11T12:52:06.000Z</updated>
+        <summary type="html"><![CDATA[ArepaDAO wen?]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Started from the bottom…]]></title>
         <id>https://twitter.com/developer_dao/status/1579658467937513472</id>
@@ -62,18 +166,6 @@ Currently in private beta w/ @developer_dao 👀]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT cami ᵍᵐ @ Devcon: So immensely proud of @developer_dao A year ago we were strangers on the internet & we’ve built one of the most impactful, wel...]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1579580662646190080</id>
-        <link href="https://twitter.com/camiinthisthang/status/1579580662646190080"/>
-        <updated>2022-10-10T21:12:31.000Z</updated>
-        <summary type="html"><![CDATA[RT cami ᵍᵐ @ Devcon
-So immensely proud of @developer_dao
-A year ago we were strangers on the internet & we’ve built one of the most impactful, welcoming developer communities. Insanely lucky to call these ppl my brothers & sisters 4L @dabit3 @Rahatcodes @Colin4ward @kempsterrrr 🤞🏼❤️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT turja.eth 🕺 bogotá: anyone heard of @developer_dao? just the first “freshman class” talking about one of the best developer focused communiti...]]></title>
         <id>https://twitter.com/tchowd_/status/1579575737111412736</id>
         <link href="https://twitter.com/tchowd_/status/1579575737111412736"/>
@@ -112,26 +204,14 @@ Love it 🫡]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT rahat.eth @ Polygon Connect: Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! I'll be hosting a pan...]]></title>
+        <title type="html"><![CDATA[RT rahat.eth @ Devcon: Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! I'll be hosting a panel with @...]]></title>
         <id>https://twitter.com/Rahatcodes/status/1579533361399615488</id>
         <link href="https://twitter.com/Rahatcodes/status/1579533361399615488"/>
         <updated>2022-10-10T18:04:34.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth @ Polygon Connect
+        <summary type="html"><![CDATA[RT rahat.eth @ Devcon
 Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! 
 I'll be hosting a panel with @dabit3, @camiinthisthang, @kempsterrrr, and @Colin4ward!
 Don't miss it - will take place at 2:45 pm GMT - 5!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT schelling point ✨: “Check out @_HerDAO, @She__Fi, @BoysClubCrypto, @womenbuildweb3...they’ve been doing a lot to get women into technical web3 r...]]></title>
-        <id>https://twitter.com/schellingpoint_/status/1579515358116880385</id>
-        <link href="https://twitter.com/schellingpoint_/status/1579515358116880385"/>
-        <updated>2022-10-10T16:53:02.000Z</updated>
-        <summary type="html"><![CDATA[RT schelling point ✨
-“Check out @_HerDAO, @She__Fi, @BoysClubCrypto, @womenbuildweb3...they’ve been doing a lot to get women into technical web3 roles.” 
--@camiinthisthang on the #SchellingPoint Main Stage talking building inclusive developer communities & teams.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -179,77 +259,6 @@ Come meet the DAO members IRL and have a memorable night together! 🎉 https:
         <updated>2022-10-08T11:56:53.000Z</updated>
         <summary type="html"><![CDATA[RT tonyolendo.eth @ Bogota
 Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web3 Github project for consideration.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao ...]]></title>
-        <id>https://twitter.com/devntellxyz/status/1578535646540357634</id>
-        <link href="https://twitter.com/devntellxyz/status/1578535646540357634"/>
-        <updated>2022-10-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-GM frens!  If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-edge-wallet]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT machzΞro.x: My Yoda is back after 2 weeks at the body shop, and I had to add more web3 flair. @chainlink @developer_dao]]></title>
-        <id>https://twitter.com/0xmachzero/status/1578501646174208000</id>
-        <link href="https://twitter.com/0xmachzero/status/1578501646174208000"/>
-        <updated>2022-10-07T21:44:54.000Z</updated>
-        <summary type="html"><![CDATA[RT machzΞro.x
-My Yoda is back after 2 weeks at the body shop, and I had to add more web3 flair. @chainlink @developer_dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: We are about to start our workshop at @ETHGlobal / ETH Bogota on building and testing smart co...]]></title>
-        <id>https://twitter.com/dabit3/status/1578491048036536320</id>
-        <link href="https://twitter.com/dabit3/status/1578491048036536320"/>
-        <updated>2022-10-07T21:02:47.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev
-We are about to start our workshop at @ETHGlobal / ETH Bogota on building and testing smart contracts with Foundry along with @camiinthisthang 
-You can find the workshop materials and slides open sourced here https://github.com/dabit3/foundry-workshop]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens 🌈 We had an awesome showing today at the @developer_dao #DevNTell where DAO member @rjrs2k gave us an overview of @EdgeW...]]></title>
-        <id>https://twitter.com/devntellxyz/status/1578478771166154752</id>
-        <link href="https://twitter.com/devntellxyz/status/1578478771166154752"/>
-        <updated>2022-10-07T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-🌈 gm frens 🌈
-We had an awesome showing today at the 
-@developer_dao #DevNTell where DAO member @rjrs2k  gave us an overview of @EdgeWallet 💰
-If you missed all the action today, you can now watch the recording on the DAOs YouTube channel 📹🍿: https://www.youtube.com/watch?v=y9N6TRi4Z2s]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to @velvet_shark for presenting today's awesome🤩 workshop on SVG NFT on-chain. If you missed it, watch back here - ✨ On 12th Oct, we will b...]]></title>
-        <id>https://twitter.com/developer_dao/status/1578447446203863040</id>
-        <link href="https://twitter.com/developer_dao/status/1578447446203863040"/>
-        <updated>2022-10-07T18:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to @velvet_shark for presenting today's awesome🤩 workshop on SVG NFT on-chain.
-If you missed it, watch back here - 
-✨ On 12th Oct, we will be having @nazeeh21 presenting *Writing, testing and deploying Vyper contract using Foundry* https://www.youtube.com/watch?v=Hfga2UjupVU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT yashgarg.x/.lens (🧱,🚀): All set for building an on-chain NFT w/ @velvet_shark and @developer_dao]]></title>
-        <id>https://twitter.com/yash___garg/status/1578415139753107456</id>
-        <link href="https://twitter.com/yash___garg/status/1578415139753107456"/>
-        <updated>2022-10-07T16:01:09.000Z</updated>
-        <summary type="html"><![CDATA[RT yashgarg.x/.lens (🧱,🚀)
-All set for building an on-chain NFT w/ @velvet_shark and @developer_dao https://youtu.be/Hfga2UjupVU]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

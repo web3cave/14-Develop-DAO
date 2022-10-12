@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/43-probably-nothing",
+          "author": "Colin4ward",
+          "description": "ArepaDAO wen?",
+          "link": "https://developerdao.substack.com/p/43-probably-nothing",
+          "publishedOn": "2022-10-11T12:52:06.000Z",
+          "wordCount": null,
+          "title": "#43 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F34adbda2-7c56-468d-ab7e-31ae3b2833b5_1600x800.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F34adbda2-7c56-468d-ab7e-31ae3b2833b5_1600x800.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/42-probably-nothing",
           "author": "Colin4ward",
           "description": "Is it DevCon yet",
@@ -77,6 +93,86 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1579995392888143873",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re Decentralizing Infura — @egalano and @timmmmyers https://app.devcon.org/schedule/d3mcft",
+          "link": "https://twitter.com/developer_dao/status/1579995392888143873",
+          "publishedOn": "2022-10-12T00:40:31.000Z",
+          "wordCount": 399,
+          "title": "Re Decentralizing Infura — @egalano and @timmmmyers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1579995390098956288",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re Future of Smart Contract Security Audits: REKT or WAGMI? (Panel) — @ChandrakanaNaN @GNSPS @jalex206 @maurelian_ @ethzed https://app.devcon.org/schedule/jyem97",
+          "link": "https://twitter.com/developer_dao/status/1579995390098956288",
+          "publishedOn": "2022-10-12T00:40:30.000Z",
+          "wordCount": 399,
+          "title": "Re Future of Smart Contract Security Audits: REKT or WAGMI? (Panel) — @ChandrakanaNaN @GNSPS @jalex206 @maurelian_ @ethzed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1579995387448152064",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re Build a DApp on Optimism: How to Conquer L2 Bridging (Truffle, Infura) — @_emjlin https://app.devcon.org/schedule/frayeb",
+          "link": "https://twitter.com/developer_dao/status/1579995387448152064",
+          "publishedOn": "2022-10-12T00:40:29.000Z",
+          "wordCount": 399,
+          "title": "Re Build a DApp on Optimism: How to Conquer L2 Bridging (Truffle, Infura) — @_emjlin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1579995384373342208",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "For those of you who are attending Devcon (@EFDevcon) — our Season 1 Partner, Infura @infura_io, have some great talks that you might wish to check out. See below:\n1/4 🧵",
+          "link": "https://twitter.com/developer_dao/status/1579995384373342208",
+          "publishedOn": "2022-10-12T00:40:29.000Z",
+          "wordCount": 399,
+          "title": "For those of you who are attending Devcon (@EFDevcon) — our Season 1 Partner, Infura @infura_io, have some great talks that you might wish to check o...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/d_d_agency_web3/status/1579908593868247042",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT D_D Agency\nAs we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of disciplines.\nIf you’re a proficient Solidity developer and are interested in working on some great projects — apply below: https://bit.ly/3yzKW3f",
+          "link": "https://twitter.com/d_d_agency_web3/status/1579908593868247042",
+          "publishedOn": "2022-10-11T18:55:36.000Z",
+          "wordCount": 399,
+          "title": "RT D_D Agency: As we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of discip...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1579900426648178688",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Our next workshop🤩 is on \nWriting, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻\nHosted by awesome @ropats16 🫡\nWatch it here => https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0",
+          "link": "https://twitter.com/developer_dao/status/1579900426648178688",
+          "publishedOn": "2022-10-11T18:23:09.000Z",
+          "wordCount": 399,
+          "title": "Our next workshop🤩 is on Writing, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻 Hosted by awesome @ropats16 🫡 W...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Livepeer/status/1579894650185584642",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Livepeer\n🚨 TOMORROW\nThe Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach mass adoption and create a better online experience for all 🚀\n📆 October 12th (9am - 6pm COT)\n📍 Teatro Cadiz\n🔗 https://lu.ma/Web3AppSummitDevcon",
+          "link": "https://twitter.com/Livepeer/status/1579894650185584642",
+          "publishedOn": "2022-10-11T18:00:12.000Z",
+          "wordCount": 399,
+          "title": "RT Livepeer: 🚨 TOMORROW The Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BrianHHough/status/1579848639891271682",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Brian H. Hough | brianhuff.eth/lens\n🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see you at my talk! 🤩🙌🎉\n🔗 RSVP to my DevChat \"Become a full-stack developer: Migrating a company from GCP to AWS\" here: \n#reinvent #aws #reinvent22 https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions/COM309",
+          "link": "https://twitter.com/BrianHHough/status/1579848639891271682",
+          "publishedOn": "2022-10-11T14:57:22.000Z",
+          "wordCount": 399,
+          "title": "RT Brian H. Hough | brianhuff.eth/lens: 🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1579658467937513472",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Started from the bottom…",
@@ -117,16 +213,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/camiinthisthang/status/1579580662646190080",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT cami ᵍᵐ @ Devcon\nSo immensely proud of @developer_dao\nA year ago we were strangers on the internet & we’ve built one of the most impactful, welcoming developer communities. Insanely lucky to call these ppl my brothers & sisters 4L @dabit3 @Rahatcodes @Colin4ward @kempsterrrr 🤞🏼❤️",
-          "link": "https://twitter.com/camiinthisthang/status/1579580662646190080",
-          "publishedOn": "2022-10-10T21:12:31.000Z",
-          "wordCount": 399,
-          "title": "RT cami ᵍᵐ @ Devcon: So immensely proud of @developer_dao A year ago we were strangers on the internet & we’ve built one of the most impactful, wel...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/tchowd_/status/1579575737111412736",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT turja.eth 🕺 bogotá\nanyone heard of @developer_dao?\njust the first “freshman class” talking about one of the best developer focused communities \n@Colin4ward @dabit3 @camiinthisthang @kempsterrrr @Rahatcodes",
@@ -159,21 +245,11 @@
         {
           "id": "https://twitter.com/Rahatcodes/status/1579533361399615488",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT rahat.eth @ Polygon Connect\nFolks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! \nI'll be hosting a panel with @dabit3, @camiinthisthang, @kempsterrrr, and @Colin4ward!\nDon't miss it - will take place at 2:45 pm GMT - 5!",
+          "description": "RT rahat.eth @ Devcon\nFolks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! \nI'll be hosting a panel with @dabit3, @camiinthisthang, @kempsterrrr, and @Colin4ward!\nDon't miss it - will take place at 2:45 pm GMT - 5!",
           "link": "https://twitter.com/Rahatcodes/status/1579533361399615488",
           "publishedOn": "2022-10-10T18:04:34.000Z",
           "wordCount": 399,
-          "title": "RT rahat.eth @ Polygon Connect: Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! I'll be hosting a pan...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/schellingpoint_/status/1579515358116880385",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT schelling point ✨\n“Check out @_HerDAO, @She__Fi, @BoysClubCrypto, @womenbuildweb3...they’ve been doing a lot to get women into technical web3 roles.” \n-@camiinthisthang on the #SchellingPoint Main Stage talking building inclusive developer communities & teams.",
-          "link": "https://twitter.com/schellingpoint_/status/1579515358116880385",
-          "publishedOn": "2022-10-10T16:53:02.000Z",
-          "wordCount": 399,
-          "title": "RT schelling point ✨: “Check out @_HerDAO, @She__Fi, @BoysClubCrypto, @womenbuildweb3...they’ve been doing a lot to get women into technical web3 r...",
+          "title": "RT rahat.eth @ Devcon: Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! I'll be hosting a panel with @...",
           "imageUrl": null
         },
         {
@@ -214,66 +290,6 @@
           "publishedOn": "2022-10-08T11:56:53.000Z",
           "wordCount": 399,
           "title": "RT tonyolendo.eth @ Bogota: Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1578535646540357634",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\nGM frens!  If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-edge-wallet",
-          "link": "https://twitter.com/devntellxyz/status/1578535646540357634",
-          "publishedOn": "2022-10-08T00:00:00.000Z",
-          "wordCount": 399,
-          "title": "RT DevNTell: GM frens! If you missed all the action this week from #DevNTell with @rjrs2k, you can now read all about it in the latest @developer_dao ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xmachzero/status/1578501646174208000",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT machzΞro.x\nMy Yoda is back after 2 weeks at the body shop, and I had to add more web3 flair. @chainlink @developer_dao",
-          "link": "https://twitter.com/0xmachzero/status/1578501646174208000",
-          "publishedOn": "2022-10-07T21:44:54.000Z",
-          "wordCount": 399,
-          "title": "RT machzΞro.x: My Yoda is back after 2 weeks at the body shop, and I had to add more web3 flair. @chainlink @developer_dao",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1578491048036536320",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev\nWe are about to start our workshop at @ETHGlobal / ETH Bogota on building and testing smart contracts with Foundry along with @camiinthisthang \nYou can find the workshop materials and slides open sourced here https://github.com/dabit3/foundry-workshop",
-          "link": "https://twitter.com/dabit3/status/1578491048036536320",
-          "publishedOn": "2022-10-07T21:02:47.000Z",
-          "wordCount": 399,
-          "title": "RT nader (🧱, 🚀) | nader.lens | nader.arweave.dev: We are about to start our workshop at @ETHGlobal / ETH Bogota on building and testing smart co...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1578478771166154752",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe had an awesome showing today at the \n@developer_dao #DevNTell where DAO member @rjrs2k  gave us an overview of @EdgeWallet 💰\nIf you missed all the action today, you can now watch the recording on the DAOs YouTube channel 📹🍿: https://www.youtube.com/watch?v=y9N6TRi4Z2s",
-          "link": "https://twitter.com/devntellxyz/status/1578478771166154752",
-          "publishedOn": "2022-10-07T20:14:00.000Z",
-          "wordCount": 399,
-          "title": "RT DevNTell: 🌈 gm frens 🌈 We had an awesome showing today at the @developer_dao #DevNTell where DAO member @rjrs2k gave us an overview of @EdgeW...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1578447446203863040",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Thanks to @velvet_shark for presenting today's awesome🤩 workshop on SVG NFT on-chain.\nIf you missed it, watch back here - \n✨ On 12th Oct, we will be having @nazeeh21 presenting *Writing, testing and deploying Vyper contract using Foundry* https://www.youtube.com/watch?v=Hfga2UjupVU",
-          "link": "https://twitter.com/developer_dao/status/1578447446203863040",
-          "publishedOn": "2022-10-07T18:09:31.000Z",
-          "wordCount": 399,
-          "title": "Thanks to @velvet_shark for presenting today's awesome🤩 workshop on SVG NFT on-chain. If you missed it, watch back here - ✨ On 12th Oct, we will b...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/yash___garg/status/1578415139753107456",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT yashgarg.x/.lens (🧱,🚀)\nAll set for building an on-chain NFT w/ @velvet_shark and @developer_dao https://youtu.be/Hfga2UjupVU",
-          "link": "https://twitter.com/yash___garg/status/1578415139753107456",
-          "publishedOn": "2022-10-07T16:01:09.000Z",
-          "wordCount": 399,
-          "title": "RT yashgarg.x/.lens (🧱,🚀): All set for building an on-chain NFT w/ @velvet_shark and @developer_dao",
           "imageUrl": null
         }
       ]
