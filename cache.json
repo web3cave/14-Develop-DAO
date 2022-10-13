@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee5e741f-cae8-473d-a793-ae31e303a9a0_1600x800.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/39-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Dev-N-Tell to the Moon 🌕",
-          "link": "https://developerdao.substack.com/p/39-probably-nothing",
-          "publishedOn": "2022-09-13T15:46:00.000Z",
-          "wordCount": null,
-          "title": "#39 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa122f913-52ce-4816-b390-41845f988893_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa122f913-52ce-4816-b390-41845f988893_1100x550.png"
         }
       ]
     },
@@ -92,6 +76,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1580342441068331008",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "\"Intro to Gun - A P2P Decentralized Database\" by @KenTheRogers ⚡️\n👀 Learn how to building an MVP for a social media app called Remington that allows users to post messages to a feed visible to everyone. https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database",
+          "link": "https://twitter.com/developer_dao/status/1580342441068331008",
+          "publishedOn": "2022-10-12T23:39:33.000Z",
+          "wordCount": 399,
+          "title": "\"Intro to Gun - A P2P Decentralized Database\" by @KenTheRogers ⚡️ 👀 Learn how to building an MVP for a social media app called Remington that all...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Blockspace_cc/status/1580312155567497217",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Blockspace\nRe [2] Developer DAO | D_D \n@developer_dao \nOur favorite DAO for devs of all skills (web2/web3) and regions to meet & collab on web3 projects. \n🔒You have to own their Dev NFT (Ξ0.1) in your wallet to join the discord server. https://www.developerdao.com/",
+          "link": "https://twitter.com/Blockspace_cc/status/1580312155567497217",
+          "publishedOn": "2022-10-12T21:39:13.000Z",
+          "wordCount": 399,
+          "title": "RT Blockspace: Re [2] Developer DAO | D_D @developer_dao Our favorite DAO for devs of all skills (web2/web3) and regions to meet & collab on web3 proj...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1580303358635937792",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth / lens | in 🇨🇴 ᵍᵐ\n.@wolovim stepping up to share the plittle know http://web3.py",
+          "link": "https://twitter.com/kempsterrrr/status/1580303358635937792",
+          "publishedOn": "2022-10-12T21:04:15.000Z",
+          "wordCount": 399,
+          "title": "RT kempsterrrr.eth / lens | in 🇨🇴 ᵍᵐ: .@wolovim stepping up to share the plittle know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pbillingsby_eth/status/1580258934278848512",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby\nArweave smart contracts enable developers to build anything from token/asset exchanges, blogging platforms to social dApps.\nThere are countless ways to innovate in the ecosystem using the current suite of tools the Arweave community have created.\nLets explore smart contracts 👇",
+          "link": "https://twitter.com/pbillingsby_eth/status/1580258934278848512",
+          "publishedOn": "2022-10-12T18:07:44.000Z",
+          "wordCount": 399,
+          "title": "RT pbillingsby: Arweave smart contracts enable developers to build anything from token/asset exchanges, blogging platforms to social dApps. There are ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ETHIstanbul/status/1580247983949766657",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ETHIstanbul #DevconIstanbul ⛓\nEda @edatweets_ rocks⚡️ as always @EFDevcon 🤩",
+          "link": "https://twitter.com/ETHIstanbul/status/1580247983949766657",
+          "publishedOn": "2022-10-12T17:24:13.000Z",
+          "wordCount": 399,
+          "title": "RT ETHIstanbul #DevconIstanbul ⛓: Eda @edatweets_ rocks⚡️ as always @EFDevcon 🤩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/mohit_thakkar_/status/1580246511069589505",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT mohitthakkar.eth/.sol\nAwesome workshop by @nazeeh21 and @ropats",
+          "link": "https://twitter.com/mohit_thakkar_/status/1580246511069589505",
+          "publishedOn": "2022-10-12T17:18:22.000Z",
+          "wordCount": 399,
+          "title": "RT mohitthakkar.eth/.sol: Awesome workshop by @nazeeh21 and @ropats",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dhaiwat10/status/1580237414878294016",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT dhai.eth\nthe man the myth the legend @nazeeh21 dropping knowledge on @developer_dao youtube rn, join in https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0",
+          "link": "https://twitter.com/dhaiwat10/status/1580237414878294016",
+          "publishedOn": "2022-10-12T16:42:13.000Z",
+          "wordCount": 399,
+          "title": "RT dhai.eth: the man the myth the legend @nazeeh21 dropping knowledge on @developer_dao youtube rn, join in",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1580211881611927554",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We just crossed 80k frens on Twitter 🤯\nSending love to everyone who made the last year possible: members, contributors, partners and learners.\nYou're all amazing 🫡\nWe're still early and just getting started.\nLFG",
+          "link": "https://twitter.com/developer_dao/status/1580211881611927554",
+          "publishedOn": "2022-10-12T15:00:46.000Z",
+          "wordCount": 399,
+          "title": "We just crossed 80k frens on Twitter 🤯 Sending love to everyone who made the last year possible: members, contributors, partners and learners. You'...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1580201623338438658",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Wanna get into ZK-rollups with #StarkNet, but don't know where to start? Look no further, because \n@olanetsoft got you covered! 😎 https://blog.developerdao.com/getting-started-on-starknet-with-infura",
+          "link": "https://twitter.com/developer_dao/status/1580201623338438658",
+          "publishedOn": "2022-10-12T14:20:00.000Z",
+          "wordCount": 399,
+          "title": "Wanna get into ZK-rollups with #StarkNet, but don't know where to start? Look no further, because @olanetsoft got you covered! 😎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1580166397937623040",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Learn about Vyper and Foundry🛠 in the upcoming workshop by @nazeeh21🔥\nHosted by OG @ropats16 🔥\nWatch it here at 4:30 pm UTC => https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0",
+          "link": "https://twitter.com/developer_dao/status/1580166397937623040",
+          "publishedOn": "2022-10-12T12:00:01.000Z",
+          "wordCount": 399,
+          "title": "Learn about Vyper and Foundry🛠 in the upcoming workshop by @nazeeh21🔥 Hosted by OG @ropats16 🔥 Watch it here at 4:30 pm UTC =>",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/hashnode/status/1580085357428625408",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Hashnode\nIn this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳\n~ By @theekrystallee https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react?source=tw1022",
+          "link": "https://twitter.com/hashnode/status/1580085357428625408",
+          "publishedOn": "2022-10-12T06:38:00.000Z",
+          "wordCount": 399,
+          "title": "RT Hashnode: In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳 ~ By @theekry...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1579995392888143873",
           "author": "Developer DAO (🧱, 🚀)",
@@ -163,133 +257,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/BrianHHough/status/1579848639891271682",
+          "id": "https://twitter.com/flaviocopes/status/1579853011408461824",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Brian H. Hough | brianhuff.eth/lens\n🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see you at my talk! 🤩🙌🎉\n🔗 RSVP to my DevChat \"Become a full-stack developer: Migrating a company from GCP to AWS\" here: \n#reinvent #aws #reinvent22 https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions/COM309",
-          "link": "https://twitter.com/BrianHHough/status/1579848639891271682",
-          "publishedOn": "2022-10-11T14:57:22.000Z",
+          "description": "RT flavio",
+          "link": "https://twitter.com/flaviocopes/status/1579853011408461824",
+          "publishedOn": "2022-10-11T15:14:44.000Z",
           "wordCount": 399,
-          "title": "RT Brian H. Hough | brianhuff.eth/lens: 🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see...",
+          "title": "RT flavio:",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1579658467937513472",
+          "id": "https://twitter.com/pushprotocol/status/1579593231628611584",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Started from the bottom…",
-          "link": "https://twitter.com/developer_dao/status/1579658467937513472",
-          "publishedOn": "2022-10-11T02:21:42.000Z",
+          "description": "RT Push Protocol | Previously EPNS\nToday, Push Protocol is excited to launch Push Chat! 🔔🔔\nThe Push Chat alpha brings web3-native secure, wallet-to-wallet messaging to everyday users.\nWhat’s Push Chat? What’s the alpha? How do I join?\nLet’s dive in 👇\n(1/8)",
+          "link": "https://twitter.com/pushprotocol/status/1579593231628611584",
+          "publishedOn": "2022-10-10T22:02:28.000Z",
           "wordCount": 399,
-          "title": "Started from the bottom…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1579618233866686464",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Sign ups for the Developer DAO 🤝 @CoinbaseCloud event are now open for everyone in Bogota 🇨🇴 for \n@EFDevcon\n@schellingpoint_\n@0xPolygon Connect \n@ETHGlobal ETH Bogota\n@ethlatam \nWe'll have a DJ, food & drinks. Pick from 6 dynamic spaces at the venue 🪩 https://lu.ma/D_D-Bog",
-          "link": "https://twitter.com/developer_dao/status/1579618233866686464",
-          "publishedOn": "2022-10-10T23:41:49.000Z",
-          "wordCount": 399,
-          "title": "Sign ups for the Developer DAO 🤝 @CoinbaseCloud event are now open for everyone in Bogota 🇨🇴 for @EFDevcon @schellingpoint_ @0xPolygon Connec...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pushprotocol/status/1579593477616455680",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Push Protocol | Previously EPNS\nRe Push Chat is a wallet-to-wallet communication protocol. It allows anyone with a wallet or an ENS to chat with others directly through \nToday, Push Chat supports:\n📝 Texts\n📸 Images\n🎬 GIFs\n🔜 and more coming soon!\n(2/8) http://app.push.org",
-          "link": "https://twitter.com/pushprotocol/status/1579593477616455680",
-          "publishedOn": "2022-10-10T22:03:27.000Z",
-          "wordCount": 399,
-          "title": "RT Push Protocol | Previously EPNS: Re Push Chat is a wallet-to-wallet communication protocol. It allows anyone with a wallet or an ENS to chat with o...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xAnubhav/status/1579588265522638848",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT anubhav.eth ᵍᵐ\nhere's a sneak peek of what's next @parcelHQ \nTrack multiple @safe and budgets between them, optionally integrated with @SnapshotLabs results ⚡️\nCurrently in private beta w/ @developer_dao 👀",
-          "link": "https://twitter.com/0xAnubhav/status/1579588265522638848",
-          "publishedOn": "2022-10-10T21:42:44.000Z",
-          "wordCount": 399,
-          "title": "RT anubhav.eth ᵍᵐ: here's a sneak peek of what's next @parcelHQ Track multiple @safe and budgets between them, optionally integrated with @SnapshotL...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tchowd_/status/1579575737111412736",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT turja.eth 🕺 bogotá\nanyone heard of @developer_dao?\njust the first “freshman class” talking about one of the best developer focused communities \n@Colin4ward @dabit3 @camiinthisthang @kempsterrrr @Rahatcodes",
-          "link": "https://twitter.com/tchowd_/status/1579575737111412736",
-          "publishedOn": "2022-10-10T20:52:57.000Z",
-          "wordCount": 399,
-          "title": "RT turja.eth 🕺 bogotá: anyone heard of @developer_dao? just the first “freshman class” talking about one of the best developer focused communiti...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/NFTMerchant/status/1579571342260961281",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nftmerchant.lens @devcon 🇨🇴\nAmazing panel discussing all things @developer_dao at #PolygonConnect  \n@Rahatcodes @camiinthisthang @dabit3 @kempsterrrr @Colin4ward",
-          "link": "https://twitter.com/NFTMerchant/status/1579571342260961281",
-          "publishedOn": "2022-10-10T20:35:29.000Z",
-          "wordCount": 399,
-          "title": "RT nftmerchant.lens @devcon 🇨🇴: Amazing panel discussing all things @developer_dao at #PolygonConnect @Rahatcodes @camiinthisthang @dabit3 @kemp...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/olanetsoft/status/1579541826469777411",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT I D R I S 💙\nAnytime someone asks about my background/in-depth intro.\nI am always proud to add \"A member of @developer_dao and also a Writer's Guild contributor.\"\nLove it 🫡",
-          "link": "https://twitter.com/olanetsoft/status/1579541826469777411",
-          "publishedOn": "2022-10-10T18:38:12.000Z",
-          "wordCount": 399,
-          "title": "RT I D R I S 💙: Anytime someone asks about my background/in-depth intro. I am always proud to add \"A member of @developer_dao and also a Writer's G...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Rahatcodes/status/1579533361399615488",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT rahat.eth @ Devcon\nFolks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! \nI'll be hosting a panel with @dabit3, @camiinthisthang, @kempsterrrr, and @Colin4ward!\nDon't miss it - will take place at 2:45 pm GMT - 5!",
-          "link": "https://twitter.com/Rahatcodes/status/1579533361399615488",
-          "publishedOn": "2022-10-10T18:04:34.000Z",
-          "wordCount": 399,
-          "title": "RT rahat.eth @ Devcon: Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! I'll be hosting a panel with @...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/schellingpoint_/status/1579510323241177088",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT schelling point ✨\n“The biggest challenge [with attracting devs] is bootstrapping your brand's original momentum and getting that initial community off the ground.” \n-@dabit3 of @developer_dao",
-          "link": "https://twitter.com/schellingpoint_/status/1579510323241177088",
-          "publishedOn": "2022-10-10T16:33:01.000Z",
-          "wordCount": 399,
-          "title": "RT schelling point ✨: “The biggest challenge [with attracting devs] is bootstrapping your brand's original momentum and getting that initial communi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/theekrystallee/status/1579477803153883136",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT krystal \\n theekrystallee.eth\ngm, learn how to build an nft viewer dApp using \n@ankr.js with me 🛠️\n🏆 @developer_dao https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react",
-          "link": "https://twitter.com/theekrystallee/status/1579477803153883136",
-          "publishedOn": "2022-10-10T14:23:48.000Z",
-          "wordCount": 399,
-          "title": "RT krystal \\n theekrystallee.eth: gm, learn how to build an nft viewer dApp using @ankr.js with me 🛠️ 🏆 @developer_dao",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1579238525446520832",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Let’s get together at the Bogota IRL D_D meetup sponsored by @CoinbaseCloud Friday 14th October 19:00 🔥\nCome meet the DAO members IRL and have a memorable night together! 🎉 https://lu.ma/D_D-Bog",
-          "link": "https://twitter.com/developer_dao/status/1579238525446520832",
-          "publishedOn": "2022-10-09T22:32:59.000Z",
-          "wordCount": 399,
-          "title": "Let’s get together at the Bogota IRL D_D meetup sponsored by @CoinbaseCloud Friday 14th October 19:00 🔥 Come meet the DAO members IRL and have a m...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tonyolendo/status/1578716054771335168",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tonyolendo.eth @ Bogota\nGiving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web3 Github project for consideration.",
-          "link": "https://twitter.com/tonyolendo/status/1578716054771335168",
-          "publishedOn": "2022-10-08T11:56:53.000Z",
-          "wordCount": 399,
-          "title": "RT tonyolendo.eth @ Bogota: Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web...",
+          "title": "RT Push Protocol | Previously EPNS: Today, Push Protocol is excited to launch Push Chat! 🔔🔔 The Push Chat alpha brings web3-native secure, walle...",
           "imageUrl": null
         }
       ]

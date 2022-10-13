@@ -1,10 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-12T06:27:06.622Z</id>
+    <id>urn:2022-10-13T06:38:07.951Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-12T06:27:06.622Z</updated>
+    <updated>2022-10-13T06:38:07.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Intro to Gun - A P2P Decentralized Database" by @KenTheRogers ⚡️ 👀 Learn how to building an MVP for a social media app called Remington that all...]]></title>
+        <id>https://twitter.com/developer_dao/status/1580342441068331008</id>
+        <link href="https://twitter.com/developer_dao/status/1580342441068331008"/>
+        <updated>2022-10-12T23:39:33.000Z</updated>
+        <summary type="html"><![CDATA["Intro to Gun - A P2P Decentralized Database" by @KenTheRogers ⚡️
+👀 Learn how to building an MVP for a social media app called Remington that allows users to post messages to a feed visible to everyone. https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Blockspace: Re [2] Developer DAO | D_D @developer_dao Our favorite DAO for devs of all skills (web2/web3) and regions to meet & collab on web3 proj...]]></title>
+        <id>https://twitter.com/Blockspace_cc/status/1580312155567497217</id>
+        <link href="https://twitter.com/Blockspace_cc/status/1580312155567497217"/>
+        <updated>2022-10-12T21:39:13.000Z</updated>
+        <summary type="html"><![CDATA[RT Blockspace
+Re [2] Developer DAO | D_D 
+@developer_dao 
+Our favorite DAO for devs of all skills (web2/web3) and regions to meet & collab on web3 projects. 
+🔒You have to own their Dev NFT (Ξ0.1) in your wallet to join the discord server. https://www.developerdao.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | in 🇨🇴 ᵍᵐ: .@wolovim stepping up to share the plittle know]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1580303358635937792</id>
+        <link href="https://twitter.com/kempsterrrr/status/1580303358635937792"/>
+        <updated>2022-10-12T21:04:15.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | in 🇨🇴 ᵍᵐ
+.@wolovim stepping up to share the plittle know http://web3.py]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby: Arweave smart contracts enable developers to build anything from token/asset exchanges, blogging platforms to social dApps. There are ...]]></title>
+        <id>https://twitter.com/pbillingsby_eth/status/1580258934278848512</id>
+        <link href="https://twitter.com/pbillingsby_eth/status/1580258934278848512"/>
+        <updated>2022-10-12T18:07:44.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby
+Arweave smart contracts enable developers to build anything from token/asset exchanges, blogging platforms to social dApps.
+There are countless ways to innovate in the ecosystem using the current suite of tools the Arweave community have created.
+Lets explore smart contracts 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ETHIstanbul #DevconIstanbul ⛓: Eda @edatweets_ rocks⚡️ as always @EFDevcon 🤩]]></title>
+        <id>https://twitter.com/ETHIstanbul/status/1580247983949766657</id>
+        <link href="https://twitter.com/ETHIstanbul/status/1580247983949766657"/>
+        <updated>2022-10-12T17:24:13.000Z</updated>
+        <summary type="html"><![CDATA[RT ETHIstanbul #DevconIstanbul ⛓
+Eda @edatweets_ rocks⚡️ as always @EFDevcon 🤩]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT mohitthakkar.eth/.sol: Awesome workshop by @nazeeh21 and @ropats]]></title>
+        <id>https://twitter.com/mohit_thakkar_/status/1580246511069589505</id>
+        <link href="https://twitter.com/mohit_thakkar_/status/1580246511069589505"/>
+        <updated>2022-10-12T17:18:22.000Z</updated>
+        <summary type="html"><![CDATA[RT mohitthakkar.eth/.sol
+Awesome workshop by @nazeeh21 and @ropats]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT dhai.eth: the man the myth the legend @nazeeh21 dropping knowledge on @developer_dao youtube rn, join in]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1580237414878294016</id>
+        <link href="https://twitter.com/dhaiwat10/status/1580237414878294016"/>
+        <updated>2022-10-12T16:42:13.000Z</updated>
+        <summary type="html"><![CDATA[RT dhai.eth
+the man the myth the legend @nazeeh21 dropping knowledge on @developer_dao youtube rn, join in https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We just crossed 80k frens on Twitter 🤯 Sending love to everyone who made the last year possible: members, contributors, partners and learners. You'...]]></title>
+        <id>https://twitter.com/developer_dao/status/1580211881611927554</id>
+        <link href="https://twitter.com/developer_dao/status/1580211881611927554"/>
+        <updated>2022-10-12T15:00:46.000Z</updated>
+        <summary type="html"><![CDATA[We just crossed 80k frens on Twitter 🤯
+Sending love to everyone who made the last year possible: members, contributors, partners and learners.
+You're all amazing 🫡
+We're still early and just getting started.
+LFG]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna get into ZK-rollups with #StarkNet, but don't know where to start? Look no further, because @olanetsoft got you covered! 😎]]></title>
+        <id>https://twitter.com/developer_dao/status/1580201623338438658</id>
+        <link href="https://twitter.com/developer_dao/status/1580201623338438658"/>
+        <updated>2022-10-12T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Wanna get into ZK-rollups with #StarkNet, but don't know where to start? Look no further, because 
+@olanetsoft got you covered! 😎 https://blog.developerdao.com/getting-started-on-starknet-with-infura]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn about Vyper and Foundry🛠 in the upcoming workshop by @nazeeh21🔥 Hosted by OG @ropats16 🔥 Watch it here at 4:30 pm UTC =>]]></title>
+        <id>https://twitter.com/developer_dao/status/1580166397937623040</id>
+        <link href="https://twitter.com/developer_dao/status/1580166397937623040"/>
+        <updated>2022-10-12T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn about Vyper and Foundry🛠 in the upcoming workshop by @nazeeh21🔥
+Hosted by OG @ropats16 🔥
+Watch it here at 4:30 pm UTC => https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Hashnode: In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳 ~ By @theekry...]]></title>
+        <id>https://twitter.com/hashnode/status/1580085357428625408</id>
+        <link href="https://twitter.com/hashnode/status/1580085357428625408"/>
+        <updated>2022-10-12T06:38:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Hashnode
+In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳
+~ By @theekrystallee https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react?source=tw1022]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Decentralizing Infura — @egalano and @timmmmyers]]></title>
         <id>https://twitter.com/developer_dao/status/1579995392888143873</id>
@@ -87,14 +218,11 @@ The Web3 App Summit will bring together web3 leaders, builders, and creators to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens: 🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see...]]></title>
-        <id>https://twitter.com/BrianHHough/status/1579848639891271682</id>
-        <link href="https://twitter.com/BrianHHough/status/1579848639891271682"/>
-        <updated>2022-10-11T14:57:22.000Z</updated>
-        <summary type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens
-🗓 Reserved seating for @awscloud AWS re:Invent 2022 opens TODAY Oct. 11 @ 10am PT / 1pm ET. I'd love to see you at my talk! 🤩🙌🎉
-🔗 RSVP to my DevChat "Become a full-stack developer: Migrating a company from GCP to AWS" here: 
-#reinvent #aws #reinvent22 https://portal.awsevents.com/events/reinvent2022/dashboard/event/sessions/COM309]]></summary>
+        <title type="html"><![CDATA[RT flavio:]]></title>
+        <id>https://twitter.com/flaviocopes/status/1579853011408461824</id>
+        <link href="https://twitter.com/flaviocopes/status/1579853011408461824"/>
+        <updated>2022-10-11T15:14:44.000Z</updated>
+        <summary type="html"><![CDATA[RT flavio]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -110,155 +238,16 @@ The Web3 App Summit will bring together web3 leaders, builders, and creators to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Started from the bottom…]]></title>
-        <id>https://twitter.com/developer_dao/status/1579658467937513472</id>
-        <link href="https://twitter.com/developer_dao/status/1579658467937513472"/>
-        <updated>2022-10-11T02:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Started from the bottom…]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign ups for the Developer DAO 🤝 @CoinbaseCloud event are now open for everyone in Bogota 🇨🇴 for @EFDevcon @schellingpoint_ @0xPolygon Connec...]]></title>
-        <id>https://twitter.com/developer_dao/status/1579618233866686464</id>
-        <link href="https://twitter.com/developer_dao/status/1579618233866686464"/>
-        <updated>2022-10-10T23:41:49.000Z</updated>
-        <summary type="html"><![CDATA[Sign ups for the Developer DAO 🤝 @CoinbaseCloud event are now open for everyone in Bogota 🇨🇴 for 
-@EFDevcon
-@schellingpoint_
-@0xPolygon Connect 
-@ETHGlobal ETH Bogota
-@ethlatam 
-We'll have a DJ, food & drinks. Pick from 6 dynamic spaces at the venue 🪩 https://lu.ma/D_D-Bog]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Push Protocol | Previously EPNS: Re Push Chat is a wallet-to-wallet communication protocol. It allows anyone with a wallet or an ENS to chat with o...]]></title>
-        <id>https://twitter.com/pushprotocol/status/1579593477616455680</id>
-        <link href="https://twitter.com/pushprotocol/status/1579593477616455680"/>
-        <updated>2022-10-10T22:03:27.000Z</updated>
+        <title type="html"><![CDATA[RT Push Protocol | Previously EPNS: Today, Push Protocol is excited to launch Push Chat! 🔔🔔 The Push Chat alpha brings web3-native secure, walle...]]></title>
+        <id>https://twitter.com/pushprotocol/status/1579593231628611584</id>
+        <link href="https://twitter.com/pushprotocol/status/1579593231628611584"/>
+        <updated>2022-10-10T22:02:28.000Z</updated>
         <summary type="html"><![CDATA[RT Push Protocol | Previously EPNS
-Re Push Chat is a wallet-to-wallet communication protocol. It allows anyone with a wallet or an ENS to chat with others directly through 
-Today, Push Chat supports:
-📝 Texts
-📸 Images
-🎬 GIFs
-🔜 and more coming soon!
-(2/8) http://app.push.org]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT anubhav.eth ᵍᵐ: here's a sneak peek of what's next @parcelHQ Track multiple @safe and budgets between them, optionally integrated with @SnapshotL...]]></title>
-        <id>https://twitter.com/0xAnubhav/status/1579588265522638848</id>
-        <link href="https://twitter.com/0xAnubhav/status/1579588265522638848"/>
-        <updated>2022-10-10T21:42:44.000Z</updated>
-        <summary type="html"><![CDATA[RT anubhav.eth ᵍᵐ
-here's a sneak peek of what's next @parcelHQ 
-Track multiple @safe and budgets between them, optionally integrated with @SnapshotLabs results ⚡️
-Currently in private beta w/ @developer_dao 👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT turja.eth 🕺 bogotá: anyone heard of @developer_dao? just the first “freshman class” talking about one of the best developer focused communiti...]]></title>
-        <id>https://twitter.com/tchowd_/status/1579575737111412736</id>
-        <link href="https://twitter.com/tchowd_/status/1579575737111412736"/>
-        <updated>2022-10-10T20:52:57.000Z</updated>
-        <summary type="html"><![CDATA[RT turja.eth 🕺 bogotá
-anyone heard of @developer_dao?
-just the first “freshman class” talking about one of the best developer focused communities 
-@Colin4ward @dabit3 @camiinthisthang @kempsterrrr @Rahatcodes]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nftmerchant.lens @devcon 🇨🇴: Amazing panel discussing all things @developer_dao at #PolygonConnect @Rahatcodes @camiinthisthang @dabit3 @kemp...]]></title>
-        <id>https://twitter.com/NFTMerchant/status/1579571342260961281</id>
-        <link href="https://twitter.com/NFTMerchant/status/1579571342260961281"/>
-        <updated>2022-10-10T20:35:29.000Z</updated>
-        <summary type="html"><![CDATA[RT nftmerchant.lens @devcon 🇨🇴
-Amazing panel discussing all things @developer_dao at #PolygonConnect  
-@Rahatcodes @camiinthisthang @dabit3 @kempsterrrr @Colin4ward]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT I D R I S 💙: Anytime someone asks about my background/in-depth intro. I am always proud to add "A member of @developer_dao and also a Writer's G...]]></title>
-        <id>https://twitter.com/olanetsoft/status/1579541826469777411</id>
-        <link href="https://twitter.com/olanetsoft/status/1579541826469777411"/>
-        <updated>2022-10-10T18:38:12.000Z</updated>
-        <summary type="html"><![CDATA[RT I D R I S 💙
-Anytime someone asks about my background/in-depth intro.
-I am always proud to add "A member of @developer_dao and also a Writer's Guild contributor."
-Love it 🫡]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rahat.eth @ Devcon: Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! I'll be hosting a panel with @...]]></title>
-        <id>https://twitter.com/Rahatcodes/status/1579533361399615488</id>
-        <link href="https://twitter.com/Rahatcodes/status/1579533361399615488"/>
-        <updated>2022-10-10T18:04:34.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth @ Devcon
-Folks in Bogota don't miss out on this awesome panel with @developer_dao during Polygon Connect! 
-I'll be hosting a panel with @dabit3, @camiinthisthang, @kempsterrrr, and @Colin4ward!
-Don't miss it - will take place at 2:45 pm GMT - 5!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT schelling point ✨: “The biggest challenge [with attracting devs] is bootstrapping your brand's original momentum and getting that initial communi...]]></title>
-        <id>https://twitter.com/schellingpoint_/status/1579510323241177088</id>
-        <link href="https://twitter.com/schellingpoint_/status/1579510323241177088"/>
-        <updated>2022-10-10T16:33:01.000Z</updated>
-        <summary type="html"><![CDATA[RT schelling point ✨
-“The biggest challenge [with attracting devs] is bootstrapping your brand's original momentum and getting that initial community off the ground.” 
--@dabit3 of @developer_dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT krystal \n theekrystallee.eth: gm, learn how to build an nft viewer dApp using @ankr.js with me 🛠️ 🏆 @developer_dao]]></title>
-        <id>https://twitter.com/theekrystallee/status/1579477803153883136</id>
-        <link href="https://twitter.com/theekrystallee/status/1579477803153883136"/>
-        <updated>2022-10-10T14:23:48.000Z</updated>
-        <summary type="html"><![CDATA[RT krystal \n theekrystallee.eth
-gm, learn how to build an nft viewer dApp using 
-@ankr.js with me 🛠️
-🏆 @developer_dao https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s get together at the Bogota IRL D_D meetup sponsored by @CoinbaseCloud Friday 14th October 19:00 🔥 Come meet the DAO members IRL and have a m...]]></title>
-        <id>https://twitter.com/developer_dao/status/1579238525446520832</id>
-        <link href="https://twitter.com/developer_dao/status/1579238525446520832"/>
-        <updated>2022-10-09T22:32:59.000Z</updated>
-        <summary type="html"><![CDATA[Let’s get together at the Bogota IRL D_D meetup sponsored by @CoinbaseCloud Friday 14th October 19:00 🔥
-Come meet the DAO members IRL and have a memorable night together! 🎉 https://lu.ma/D_D-Bog]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth @ Bogota: Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web...]]></title>
-        <id>https://twitter.com/tonyolendo/status/1578716054771335168</id>
-        <link href="https://twitter.com/tonyolendo/status/1578716054771335168"/>
-        <updated>2022-10-08T11:56:53.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth @ Bogota
-Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or the Caribbean, reply with a link to your Web3 Github project for consideration.]]></summary>
+Today, Push Protocol is excited to launch Push Chat! 🔔🔔
+The Push Chat alpha brings web3-native secure, wallet-to-wallet messaging to everyday users.
+What’s Push Chat? What’s the alpha? How do I join?
+Let’s dive in 👇
+(1/8)]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -298,16 +287,6 @@ Giving away 5 memberships to @developer_dao. If you're from Africa, LATAM, or th
         <link href="https://developerdao.substack.com/p/40-probably-nothing"/>
         <updated>2022-09-20T13:52:16.000Z</updated>
         <summary type="html"><![CDATA[Merged so hard]]></summary>
-        <author>
-            <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#39 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/39-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/39-probably-nothing"/>
-        <updated>2022-09-13T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Dev-N-Tell to the Moon 🌕]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>
