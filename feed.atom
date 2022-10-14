@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T06:38:07.951Z</id>
+    <id>urn:2022-10-14T06:44:21.251Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T06:38:07.951Z</updated>
+    <updated>2022-10-14T06:44:21.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Alchemy | The web3 developer platform: Over the last 3 months, we researched 100+ web3 companies and protocols. What we learned will change your pe...]]></title>
+        <id>https://twitter.com/AlchemyPlatform/status/1580609745584463873</id>
+        <link href="https://twitter.com/AlchemyPlatform/status/1580609745584463873"/>
+        <updated>2022-10-13T17:21:44.000Z</updated>
+        <summary type="html"><![CDATA[RT Alchemy | The web3 developer platform
+Over the last 3 months, we researched 100+ web3 companies and protocols.
+What we learned will change your perspective on the bear market.
+Here’s what you need to know.
+The complete report on the state of web3 development in Q3 2022 🧵👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interested in the learning more about the @LensProtocol ? 🌿 Watch back @dabit3's D_D workshop where he builds a simple social media app.]]></title>
+        <id>https://twitter.com/developer_dao/status/1580581630036557825</id>
+        <link href="https://twitter.com/developer_dao/status/1580581630036557825"/>
+        <updated>2022-10-13T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Interested in the learning more about the @LensProtocol ? 🌿
+Watch back @dabit3's D_D workshop where he builds a simple social media app. https://youtu.be/ESu4uSYEi50]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀]]></title>
+        <id>https://twitter.com/developer_dao/status/1580564010931453956</id>
+        <link href="https://twitter.com/developer_dao/status/1580564010931453956"/>
+        <updated>2022-10-13T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀 https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["Intro to Gun - A P2P Decentralized Database" by @KenTheRogers ⚡️ 👀 Learn how to building an MVP for a social media app called Remington that all...]]></title>
         <id>https://twitter.com/developer_dao/status/1580342441068331008</id>
@@ -173,46 +208,6 @@ In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScr
         <updated>2022-10-12T00:40:29.000Z</updated>
         <summary type="html"><![CDATA[For those of you who are attending Devcon (@EFDevcon) — our Season 1 Partner, Infura @infura_io, have some great talks that you might wish to check out. See below:
 1/4 🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT D_D Agency: As we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of discip...]]></title>
-        <id>https://twitter.com/d_d_agency_web3/status/1579908593868247042</id>
-        <link href="https://twitter.com/d_d_agency_web3/status/1579908593868247042"/>
-        <updated>2022-10-11T18:55:36.000Z</updated>
-        <summary type="html"><![CDATA[RT D_D Agency
-As we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of disciplines.
-If you’re a proficient Solidity developer and are interested in working on some great projects — apply below: https://bit.ly/3yzKW3f]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our next workshop🤩 is on Writing, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻 Hosted by awesome @ropats16 🫡 W...]]></title>
-        <id>https://twitter.com/developer_dao/status/1579900426648178688</id>
-        <link href="https://twitter.com/developer_dao/status/1579900426648178688"/>
-        <updated>2022-10-11T18:23:09.000Z</updated>
-        <summary type="html"><![CDATA[Our next workshop🤩 is on 
-Writing, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻
-Hosted by awesome @ropats16 🫡
-Watch it here => https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Livepeer: 🚨 TOMORROW The Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach...]]></title>
-        <id>https://twitter.com/Livepeer/status/1579894650185584642</id>
-        <link href="https://twitter.com/Livepeer/status/1579894650185584642"/>
-        <updated>2022-10-11T18:00:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Livepeer
-🚨 TOMORROW
-The Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach mass adoption and create a better online experience for all 🚀
-📆 October 12th (9am - 6pm COT)
-📍 Teatro Cadiz
-🔗 https://lu.ma/Web3AppSummitDevcon]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

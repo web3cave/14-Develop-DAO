@@ -77,6 +77,36 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/AlchemyPlatform/status/1580609745584463873",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Alchemy | The web3 developer platform\nOver the last 3 months, we researched 100+ web3 companies and protocols.\nWhat we learned will change your perspective on the bear market.\nHere’s what you need to know.\nThe complete report on the state of web3 development in Q3 2022 🧵👇",
+          "link": "https://twitter.com/AlchemyPlatform/status/1580609745584463873",
+          "publishedOn": "2022-10-13T17:21:44.000Z",
+          "wordCount": 399,
+          "title": "RT Alchemy | The web3 developer platform: Over the last 3 months, we researched 100+ web3 companies and protocols. What we learned will change your pe...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1580581630036557825",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Interested in the learning more about the @LensProtocol ? 🌿\nWatch back @dabit3's D_D workshop where he builds a simple social media app. https://youtu.be/ESu4uSYEi50",
+          "link": "https://twitter.com/developer_dao/status/1580581630036557825",
+          "publishedOn": "2022-10-13T15:30:01.000Z",
+          "wordCount": 399,
+          "title": "Interested in the learning more about the @LensProtocol ? 🌿 Watch back @dabit3's D_D workshop where he builds a simple social media app.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1580564010931453956",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀 https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react",
+          "link": "https://twitter.com/developer_dao/status/1580564010931453956",
+          "publishedOn": "2022-10-13T14:20:00.000Z",
+          "wordCount": 399,
+          "title": "Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1580342441068331008",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "\"Intro to Gun - A P2P Decentralized Database\" by @KenTheRogers ⚡️\n👀 Learn how to building an MVP for a social media app called Remington that allows users to post messages to a feed visible to everyone. https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database",
@@ -224,36 +254,6 @@
           "publishedOn": "2022-10-12T00:40:29.000Z",
           "wordCount": 399,
           "title": "For those of you who are attending Devcon (@EFDevcon) — our Season 1 Partner, Infura @infura_io, have some great talks that you might wish to check o...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/d_d_agency_web3/status/1579908593868247042",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT D_D Agency\nAs we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of disciplines.\nIf you’re a proficient Solidity developer and are interested in working on some great projects — apply below: https://bit.ly/3yzKW3f",
-          "link": "https://twitter.com/d_d_agency_web3/status/1579908593868247042",
-          "publishedOn": "2022-10-11T18:55:36.000Z",
-          "wordCount": 399,
-          "title": "RT D_D Agency: As we engage in discussions with prospective clients, we continue the process of building out the Agency team across an array of discip...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1579900426648178688",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Our next workshop🤩 is on \nWriting, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻\nHosted by awesome @ropats16 🫡\nWatch it here => https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0",
-          "link": "https://twitter.com/developer_dao/status/1579900426648178688",
-          "publishedOn": "2022-10-11T18:23:09.000Z",
-          "wordCount": 399,
-          "title": "Our next workshop🤩 is on Writing, testing and deploying Vyper contract using Foundry🛠 with @nazeeh21 🙌🏻 Hosted by awesome @ropats16 🫡 W...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Livepeer/status/1579894650185584642",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Livepeer\n🚨 TOMORROW\nThe Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach mass adoption and create a better online experience for all 🚀\n📆 October 12th (9am - 6pm COT)\n📍 Teatro Cadiz\n🔗 https://lu.ma/Web3AppSummitDevcon",
-          "link": "https://twitter.com/Livepeer/status/1579894650185584642",
-          "publishedOn": "2022-10-11T18:00:12.000Z",
-          "wordCount": 399,
-          "title": "RT Livepeer: 🚨 TOMORROW The Web3 App Summit will bring together web3 leaders, builders, and creators to discuss how the decentralized web can reach...",
           "imageUrl": null
         },
         {
