@@ -77,6 +77,56 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/marioralves/status/1581405727390060545",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT supermari0x.eth @ Devcon 🇨🇴\nRe 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible!\nAlso liked @developer_dao’s meetup very much and I see a lot of potential there 🪩🕺🏻💃",
+          "link": "https://twitter.com/marioralves/status/1581405727390060545",
+          "publishedOn": "2022-10-15T22:04:41.000Z",
+          "wordCount": 399,
+          "title": "RT supermari0x.eth @ Devcon 🇨🇴: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also liked @...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/edatweets_/status/1581278065849929728",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Eda @ Bogotá 🇨🇴\nMy favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. \nWhat are some protocols/products that I should be looking into & write developer guides on?",
+          "link": "https://twitter.com/edatweets_/status/1581278065849929728",
+          "publishedOn": "2022-10-15T13:37:24.000Z",
+          "wordCount": 399,
+          "title": "RT Eda @ Bogotá 🇨🇴: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/AlexNi245/status/1581187390873296896",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Alex245\nGreat to see @dabit3 at @vibesIRL after an amazing @EFDevcon",
+          "link": "https://twitter.com/AlexNi245/status/1581187390873296896",
+          "publishedOn": "2022-10-15T07:37:05.000Z",
+          "wordCount": 399,
+          "title": "RT Alex245: Great to see @dabit3 at @vibesIRL after an amazing @EFDevcon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/diegoalzate00/status/1581103284835692545",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT diegoalzate.eth\nSurreal to see so many inspiring people in Colombia, thanks @dabit3 for introducing me to web3",
+          "link": "https://twitter.com/diegoalzate00/status/1581103284835692545",
+          "publishedOn": "2022-10-15T02:02:53.000Z",
+          "wordCount": 399,
+          "title": "RT diegoalzate.eth: Surreal to see so many inspiring people in Colombia, thanks @dabit3 for introducing me to web3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devntellxyz/status/1581072368725884929",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\nGM frens!  If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in the latest @developer_dao\nblog entry: https://blog.developerdao.com/devntell-peeranha",
+          "link": "https://twitter.com/devntellxyz/status/1581072368725884929",
+          "publishedOn": "2022-10-15T00:00:02.000Z",
+          "wordCount": 399,
+          "title": "RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in t...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1581044387983032320",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @CoinbaseCloud @vibesIRL to confirm... that's two pickups at each location, first at 6pm and second at ~6:30pm.\nCome see Developers dance 💃",
@@ -207,26 +257,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1580581630036557825",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Interested in the learning more about the @LensProtocol ? 🌿\nWatch back @dabit3's D_D workshop where he builds a simple social media app. https://youtu.be/ESu4uSYEi50",
-          "link": "https://twitter.com/developer_dao/status/1580581630036557825",
-          "publishedOn": "2022-10-13T15:30:01.000Z",
-          "wordCount": 399,
-          "title": "Interested in the learning more about the @LensProtocol ? 🌿 Watch back @dabit3's D_D workshop where he builds a simple social media app.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1580564010931453956",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀 https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react",
-          "link": "https://twitter.com/developer_dao/status/1580564010931453956",
-          "publishedOn": "2022-10-13T14:20:00.000Z",
-          "wordCount": 399,
-          "title": "Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/chaserchapman/status/1580557657538428929",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Chase Chapman\n2 huge barriers to crypto adoption:\n1) crypto people act like assholes in bull markets\n2) the tech is complicated\n\"have fun staying poor\" doesn't exactly motivate people to explore the space\nif we fixed #1, people would probs be a lot more willing to learn",
@@ -237,43 +267,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1580342441068331008",
+          "id": "https://twitter.com/womenbuildweb3/status/1580195880619364352",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "\"Intro to Gun - A P2P Decentralized Database\" by @KenTheRogers ⚡️\n👀 Learn how to building an MVP for a social media app called Remington that allows users to post messages to a feed visible to everyone. https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database",
-          "link": "https://twitter.com/developer_dao/status/1580342441068331008",
-          "publishedOn": "2022-10-12T23:39:33.000Z",
+          "description": "RT WBW3 - BUIDL Accelerator\nGM Buildooorss ✨\nWe have good news this morning. All our grads from #30daysofweb3 have officially been allow listed by @LensProtocol to claim a lens handle 🚀\nTo claim yours, visit https://lens. xyz\nand click claim handle!! \nShare your cool new lens profile in the replies too",
+          "link": "https://twitter.com/womenbuildweb3/status/1580195880619364352",
+          "publishedOn": "2022-10-12T13:57:11.000Z",
           "wordCount": 399,
-          "title": "\"Intro to Gun - A P2P Decentralized Database\" by @KenTheRogers ⚡️ 👀 Learn how to building an MVP for a social media app called Remington that all...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ETHIstanbul/status/1580247983949766657",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ETHIstanbul #DevconIstanbul ⛓\nEda @edatweets_ rocks⚡️ as always @EFDevcon 🤩",
-          "link": "https://twitter.com/ETHIstanbul/status/1580247983949766657",
-          "publishedOn": "2022-10-12T17:24:13.000Z",
-          "wordCount": 399,
-          "title": "RT ETHIstanbul #DevconIstanbul ⛓: Eda @edatweets_ rocks⚡️ as always @EFDevcon 🤩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/hashnode/status/1580085357428625408",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Hashnode\nIn this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳\n~ By @theekrystallee https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react?source=tw1022",
-          "link": "https://twitter.com/hashnode/status/1580085357428625408",
-          "publishedOn": "2022-10-12T06:38:00.000Z",
-          "wordCount": 399,
-          "title": "RT Hashnode: In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳 ~ By @theekry...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/flaviocopes/status/1579853011408461824",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT flavio",
-          "link": "https://twitter.com/flaviocopes/status/1579853011408461824",
-          "publishedOn": "2022-10-11T15:14:44.000Z",
-          "wordCount": 399,
-          "title": "RT flavio:",
+          "title": "RT WBW3 - BUIDL Accelerator: GM Buildooorss ✨ We have good news this morning. All our grads from #30daysofweb3 have officially been allow listed by @...",
           "imageUrl": null
         }
       ]

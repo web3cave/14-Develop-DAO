@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-15T06:25:17.369Z</id>
+    <id>urn:2022-10-16T06:22:19.895Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-15T06:25:17.370Z</updated>
+    <updated>2022-10-16T06:22:19.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT supermari0x.eth @ Devcon 🇨🇴: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also liked @...]]></title>
+        <id>https://twitter.com/marioralves/status/1581405727390060545</id>
+        <link href="https://twitter.com/marioralves/status/1581405727390060545"/>
+        <updated>2022-10-15T22:04:41.000Z</updated>
+        <summary type="html"><![CDATA[RT supermari0x.eth @ Devcon 🇨🇴
+Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible!
+Also liked @developer_dao’s meetup very much and I see a lot of potential there 🪩🕺🏻💃]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Eda @ Bogotá 🇨🇴: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying t...]]></title>
+        <id>https://twitter.com/edatweets_/status/1581278065849929728</id>
+        <link href="https://twitter.com/edatweets_/status/1581278065849929728"/>
+        <updated>2022-10-15T13:37:24.000Z</updated>
+        <summary type="html"><![CDATA[RT Eda @ Bogotá 🇨🇴
+My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. 
+What are some protocols/products that I should be looking into & write developer guides on?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Alex245: Great to see @dabit3 at @vibesIRL after an amazing @EFDevcon]]></title>
+        <id>https://twitter.com/AlexNi245/status/1581187390873296896</id>
+        <link href="https://twitter.com/AlexNi245/status/1581187390873296896"/>
+        <updated>2022-10-15T07:37:05.000Z</updated>
+        <summary type="html"><![CDATA[RT Alex245
+Great to see @dabit3 at @vibesIRL after an amazing @EFDevcon]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT diegoalzate.eth: Surreal to see so many inspiring people in Colombia, thanks @dabit3 for introducing me to web3]]></title>
+        <id>https://twitter.com/diegoalzate00/status/1581103284835692545</id>
+        <link href="https://twitter.com/diegoalzate00/status/1581103284835692545"/>
+        <updated>2022-10-15T02:02:53.000Z</updated>
+        <summary type="html"><![CDATA[RT diegoalzate.eth
+Surreal to see so many inspiring people in Colombia, thanks @dabit3 for introducing me to web3]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in t...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1581072368725884929</id>
+        <link href="https://twitter.com/devntellxyz/status/1581072368725884929"/>
+        <updated>2022-10-15T00:00:02.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+GM frens!  If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in the latest @developer_dao
+blog entry: https://blog.developerdao.com/devntell-peeranha]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @CoinbaseCloud @vibesIRL to confirm... that's two pickups at each location, first at 6pm and second at ~6:30pm. Come see Developers dance 💃]]></title>
         <id>https://twitter.com/developer_dao/status/1581044387983032320</id>
@@ -179,27 +237,6 @@ Finally, we're doing a giveaway for D_D members, read on for the rules 🎟️�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interested in the learning more about the @LensProtocol ? 🌿 Watch back @dabit3's D_D workshop where he builds a simple social media app.]]></title>
-        <id>https://twitter.com/developer_dao/status/1580581630036557825</id>
-        <link href="https://twitter.com/developer_dao/status/1580581630036557825"/>
-        <updated>2022-10-13T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Interested in the learning more about the @LensProtocol ? 🌿
-Watch back @dabit3's D_D workshop where he builds a simple social media app. https://youtu.be/ESu4uSYEi50]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀]]></title>
-        <id>https://twitter.com/developer_dao/status/1580564010931453956</id>
-        <link href="https://twitter.com/developer_dao/status/1580564010931453956"/>
-        <updated>2022-10-13T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @theekrystallee dropped another tutorial to level up your NFT skills! 🚀 https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Chase Chapman: 2 huge barriers to crypto adoption: 1) crypto people act like assholes in bull markets 2) the tech is complicated "have fun staying ...]]></title>
         <id>https://twitter.com/chaserchapman/status/1580557657538428929</id>
         <link href="https://twitter.com/chaserchapman/status/1580557657538428929"/>
@@ -215,45 +252,16 @@ if we fixed #1, people would probs be a lot more willing to learn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Intro to Gun - A P2P Decentralized Database" by @KenTheRogers ⚡️ 👀 Learn how to building an MVP for a social media app called Remington that all...]]></title>
-        <id>https://twitter.com/developer_dao/status/1580342441068331008</id>
-        <link href="https://twitter.com/developer_dao/status/1580342441068331008"/>
-        <updated>2022-10-12T23:39:33.000Z</updated>
-        <summary type="html"><![CDATA["Intro to Gun - A P2P Decentralized Database" by @KenTheRogers ⚡️
-👀 Learn how to building an MVP for a social media app called Remington that allows users to post messages to a feed visible to everyone. https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ETHIstanbul #DevconIstanbul ⛓: Eda @edatweets_ rocks⚡️ as always @EFDevcon 🤩]]></title>
-        <id>https://twitter.com/ETHIstanbul/status/1580247983949766657</id>
-        <link href="https://twitter.com/ETHIstanbul/status/1580247983949766657"/>
-        <updated>2022-10-12T17:24:13.000Z</updated>
-        <summary type="html"><![CDATA[RT ETHIstanbul #DevconIstanbul ⛓
-Eda @edatweets_ rocks⚡️ as always @EFDevcon 🤩]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Hashnode: In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳 ~ By @theekry...]]></title>
-        <id>https://twitter.com/hashnode/status/1580085357428625408</id>
-        <link href="https://twitter.com/hashnode/status/1580085357428625408"/>
-        <updated>2022-10-12T06:38:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Hashnode
-In this tutorial, you learn to build an NFT viewer using Ankr.js, React, TypeScript, Next.js, Vercel, and TailwindCSS. 🥳
-~ By @theekrystallee https://blog.developerdao.com/build-an-nft-viewer-using-ankrjs-react?source=tw1022]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT flavio:]]></title>
-        <id>https://twitter.com/flaviocopes/status/1579853011408461824</id>
-        <link href="https://twitter.com/flaviocopes/status/1579853011408461824"/>
-        <updated>2022-10-11T15:14:44.000Z</updated>
-        <summary type="html"><![CDATA[RT flavio]]></summary>
+        <title type="html"><![CDATA[RT WBW3 - BUIDL Accelerator: GM Buildooorss ✨ We have good news this morning. All our grads from #30daysofweb3 have officially been allow listed by @...]]></title>
+        <id>https://twitter.com/womenbuildweb3/status/1580195880619364352</id>
+        <link href="https://twitter.com/womenbuildweb3/status/1580195880619364352"/>
+        <updated>2022-10-12T13:57:11.000Z</updated>
+        <summary type="html"><![CDATA[RT WBW3 - BUIDL Accelerator
+GM Buildooorss ✨
+We have good news this morning. All our grads from #30daysofweb3 have officially been allow listed by @LensProtocol to claim a lens handle 🚀
+To claim yours, visit https://lens. xyz
+and click claim handle!! 
+Share your cool new lens profile in the replies too]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
