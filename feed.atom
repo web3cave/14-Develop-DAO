@@ -1,16 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-16T06:22:19.895Z</id>
+    <id>urn:2022-10-17T06:48:51.027Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-16T06:22:19.895Z</updated>
+    <updated>2022-10-17T06:48:51.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT supermari0x.eth @ Devcon 🇨🇴: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also liked @...]]></title>
+        <title type="html"><![CDATA[Re @K41R0N Thank you @K41R0N for organizing such a wonderful event 👑]]></title>
+        <id>https://twitter.com/developer_dao/status/1581743730629152768</id>
+        <link href="https://twitter.com/developer_dao/status/1581743730629152768"/>
+        <updated>2022-10-16T20:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @K41R0N Thank you @K41R0N for organizing such a wonderful event 👑]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens: Literally so bullish on this! 👀💯🔥 Something big is launching soon within @developer_dao that includes...]]></title>
+        <id>https://twitter.com/BrianHHough/status/1581740786491609090</id>
+        <link href="https://twitter.com/BrianHHough/status/1581740786491609090"/>
+        <updated>2022-10-16T20:16:05.000Z</updated>
+        <summary type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens
+Literally so bullish on this! 👀💯🔥
+Something big is launching soon within @developer_dao that includes: 
+- DevRel best practices 
+- BUIDLing with frens
+- Creating a personal brand
+- Launching a web3 portfolio
+Can you guess what it is? 👀
+krinza.eth (🧱, 🚀): @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kickass content creators, buildoors and educators within the guild. 
+Many individual contributors are now full-time devrel engineers 🎉
+👀 Alpha? We are soon launching a devrel incubator.
+ https://twitter.com/kayprasla/status/1562476703938924547?s=20&t=olJftrfbFS-GO9EpZCTN7A]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): Re @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kicka...]]></title>
+        <id>https://twitter.com/kayprasla/status/1581737753439801344</id>
+        <link href="https://twitter.com/kayprasla/status/1581737753439801344"/>
+        <updated>2022-10-16T20:04:02.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
+Re @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kickass content creators, buildoors and educators within the guild. 
+Many individual contributors are now full-time devrel engineers 🎉
+👀 Alpha? We are soon launching a devrel incubator.
+krinza.eth (🧱, 🚀): this week was crazy. 
+ we onboarded a lot of people in the @developer_dao and while y'all find your home in diff guilds, teams and initiatives, if:
+→ content
+→ education 
+→ and seeking partnerships
+is smth you'd like to explore, drop a "👋".
+ https://www.notion.so/developerdao/DevRel-ea108a8ec2a84d4e961cd72b7ba4c226]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT meowy-kun.eth🌱meowy.arweave.dev🌿: Applied to @ETHIndiaco , I hope I get selected to hack irl. Can't wait to meet all @developer_dao frens fro...]]></title>
+        <id>https://twitter.com/me256ow/status/1581601290773143553</id>
+        <link href="https://twitter.com/me256ow/status/1581601290773143553"/>
+        <updated>2022-10-16T11:01:47.000Z</updated>
+        <summary type="html"><![CDATA[RT meowy-kun.eth🌱meowy.arweave.dev🌿
+Applied to @ETHIndiaco , I hope I get selected to hack irl. Can't wait to meet all @developer_dao frens from India.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT supermari0x.eth 🔜 ETHLisbon 🇵🇹: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also l...]]></title>
         <id>https://twitter.com/marioralves/status/1581405727390060545</id>
         <link href="https://twitter.com/marioralves/status/1581405727390060545"/>
         <updated>2022-10-15T22:04:41.000Z</updated>
-        <summary type="html"><![CDATA[RT supermari0x.eth @ Devcon 🇨🇴
+        <summary type="html"><![CDATA[RT supermari0x.eth 🔜 ETHLisbon 🇵🇹
 Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible!
 Also liked @developer_dao’s meetup very much and I see a lot of potential there 🪩🕺🏻💃]]></summary>
         <author>
@@ -18,11 +80,11 @@ Also liked @developer_dao’s meetup very much and I see a lot of potential ther
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Eda @ Bogotá 🇨🇴: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying t...]]></title>
+        <title type="html"><![CDATA[RT Eda: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. What are ...]]></title>
         <id>https://twitter.com/edatweets_/status/1581278065849929728</id>
         <link href="https://twitter.com/edatweets_/status/1581278065849929728"/>
         <updated>2022-10-15T13:37:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Eda @ Bogotá 🇨🇴
+        <summary type="html"><![CDATA[RT Eda
 My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. 
 What are some protocols/products that I should be looking into & write developer guides on?]]></summary>
         <author>
@@ -182,18 +244,6 @@ tonyolendo.eth @ Bogota: Web3 Adoption in Africa speaker pre-talk selfie]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ever asked yourself, where to store data in #web3? 🤔 A blockchain might be too expensive, but you still don't want to fall back to a centralized se...]]></title>
-        <id>https://twitter.com/developer_dao/status/1580926399006875648</id>
-        <link href="https://twitter.com/developer_dao/status/1580926399006875648"/>
-        <updated>2022-10-14T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever asked yourself, where to store data in #web3? 🤔
-A blockchain might be too expensive, but you still don't want to fall back to a centralized service? 😑
-Check out the Gun tutorial by @KenTheRogers 😮 https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Encode Club: The @womenbuildweb3 Accelerator with @encodeclub has started yesterday! 🎉 Here is a thread of 17 projects that will get support thr...]]></title>
         <id>https://twitter.com/encodeclub/status/1580885006582358017</id>
         <link href="https://twitter.com/encodeclub/status/1580885006582358017"/>
@@ -202,51 +252,6 @@ Check out the Gun tutorial by @KenTheRogers 😮 https://blog.developerdao.com
 The @womenbuildweb3 Accelerator with @encodeclub has started yesterday! 🎉
 Here is a thread of 17 projects that will get support through funding, mentorship & education during a period of 11 weeks 🧵
 We're looking forward to helping you build and grow! 🌟]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3Dubai Conf: Re Here's how to get a free ticket: - follow @developer_dao and @Web3Dubai - like and RT the above tweet - reply with your address ...]]></title>
-        <id>https://twitter.com/Web3Dubai/status/1580874417348845568</id>
-        <link href="https://twitter.com/Web3Dubai/status/1580874417348845568"/>
-        <updated>2022-10-14T10:53:26.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3Dubai Conf
-Re Here's how to get a free ticket:
-- follow @developer_dao and @Web3Dubai 
-- like and RT the above tweet
-- reply with your address and D_D number
-- mention a friend in your reply
-We'll select 10 people in 48 hours ⏰
-See you at the conference 🔥 https://web3dubai.org/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3Dubai Conf: We're doing a @developer_dao track on Nov 17 featuring some of the top contributors and maybe you! D_D members can submit a talk he...]]></title>
-        <id>https://twitter.com/Web3Dubai/status/1580874413985390592</id>
-        <link href="https://twitter.com/Web3Dubai/status/1580874413985390592"/>
-        <updated>2022-10-14T10:53:26.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3Dubai Conf
-We're doing a @developer_dao track on Nov 17 featuring some of the top contributors and maybe you! 
-D_D members can submit a talk here to participate:  
-Finally, we're doing a giveaway for D_D members, read on for the rules 🎟️ https://checkout.eventlama.com/#/events/web3dubai/cfp https://www.web3dubai.org/schedule/devdao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Chase Chapman: 2 huge barriers to crypto adoption: 1) crypto people act like assholes in bull markets 2) the tech is complicated "have fun staying ...]]></title>
-        <id>https://twitter.com/chaserchapman/status/1580557657538428929</id>
-        <link href="https://twitter.com/chaserchapman/status/1580557657538428929"/>
-        <updated>2022-10-13T13:54:45.000Z</updated>
-        <summary type="html"><![CDATA[RT Chase Chapman
-2 huge barriers to crypto adoption:
-1) crypto people act like assholes in bull markets
-2) the tech is complicated
-"have fun staying poor" doesn't exactly motivate people to explore the space
-if we fixed #1, people would probs be a lot more willing to learn]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

@@ -77,23 +77,63 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1581743730629152768",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @K41R0N Thank you @K41R0N for organizing such a wonderful event 👑",
+          "link": "https://twitter.com/developer_dao/status/1581743730629152768",
+          "publishedOn": "2022-10-16T20:27:47.000Z",
+          "wordCount": 399,
+          "title": "Re @K41R0N Thank you @K41R0N for organizing such a wonderful event 👑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BrianHHough/status/1581740786491609090",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Brian H. Hough | brianhuff.eth/lens\nLiterally so bullish on this! 👀💯🔥\nSomething big is launching soon within @developer_dao that includes: \n- DevRel best practices \n- BUIDLing with frens\n- Creating a personal brand\n- Launching a web3 portfolio\nCan you guess what it is? 👀\nkrinza.eth (🧱, 🚀): @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kickass content creators, buildoors and educators within the guild. \nMany individual contributors are now full-time devrel engineers 🎉\n👀 Alpha? We are soon launching a devrel incubator.\n https://twitter.com/kayprasla/status/1562476703938924547?s=20&t=olJftrfbFS-GO9EpZCTN7A",
+          "link": "https://twitter.com/BrianHHough/status/1581740786491609090",
+          "publishedOn": "2022-10-16T20:16:05.000Z",
+          "wordCount": 399,
+          "title": "RT Brian H. Hough | brianhuff.eth/lens: Literally so bullish on this! 👀💯🔥 Something big is launching soon within @developer_dao that includes...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kayprasla/status/1581737753439801344",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krinza.eth (🧱, 🚀)\nRe @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kickass content creators, buildoors and educators within the guild. \nMany individual contributors are now full-time devrel engineers 🎉\n👀 Alpha? We are soon launching a devrel incubator.\nkrinza.eth (🧱, 🚀): this week was crazy. \n we onboarded a lot of people in the @developer_dao and while y'all find your home in diff guilds, teams and initiatives, if:\n→ content\n→ education \n→ and seeking partnerships\nis smth you'd like to explore, drop a \"👋\".\n https://www.notion.so/developerdao/DevRel-ea108a8ec2a84d4e961cd72b7ba4c226",
+          "link": "https://twitter.com/kayprasla/status/1581737753439801344",
+          "publishedOn": "2022-10-16T20:04:02.000Z",
+          "wordCount": 399,
+          "title": "RT krinza.eth (🧱, 🚀): Re @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kicka...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/me256ow/status/1581601290773143553",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT meowy-kun.eth🌱meowy.arweave.dev🌿\nApplied to @ETHIndiaco , I hope I get selected to hack irl. Can't wait to meet all @developer_dao frens from India.",
+          "link": "https://twitter.com/me256ow/status/1581601290773143553",
+          "publishedOn": "2022-10-16T11:01:47.000Z",
+          "wordCount": 399,
+          "title": "RT meowy-kun.eth🌱meowy.arweave.dev🌿: Applied to @ETHIndiaco , I hope I get selected to hack irl. Can't wait to meet all @developer_dao frens fro...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/marioralves/status/1581405727390060545",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT supermari0x.eth @ Devcon 🇨🇴\nRe 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible!\nAlso liked @developer_dao’s meetup very much and I see a lot of potential there 🪩🕺🏻💃",
+          "description": "RT supermari0x.eth 🔜 ETHLisbon 🇵🇹\nRe 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible!\nAlso liked @developer_dao’s meetup very much and I see a lot of potential there 🪩🕺🏻💃",
           "link": "https://twitter.com/marioralves/status/1581405727390060545",
           "publishedOn": "2022-10-15T22:04:41.000Z",
           "wordCount": 399,
-          "title": "RT supermari0x.eth @ Devcon 🇨🇴: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also liked @...",
+          "title": "RT supermari0x.eth 🔜 ETHLisbon 🇵🇹: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also l...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/edatweets_/status/1581278065849929728",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Eda @ Bogotá 🇨🇴\nMy favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. \nWhat are some protocols/products that I should be looking into & write developer guides on?",
+          "description": "RT Eda\nMy favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. \nWhat are some protocols/products that I should be looking into & write developer guides on?",
           "link": "https://twitter.com/edatweets_/status/1581278065849929728",
           "publishedOn": "2022-10-15T13:37:24.000Z",
           "wordCount": 399,
-          "title": "RT Eda @ Bogotá 🇨🇴: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying t...",
+          "title": "RT Eda: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. What are ...",
           "imageUrl": null
         },
         {
@@ -217,16 +257,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1580926399006875648",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Ever asked yourself, where to store data in #web3? 🤔\nA blockchain might be too expensive, but you still don't want to fall back to a centralized service? 😑\nCheck out the Gun tutorial by @KenTheRogers 😮 https://blog.developerdao.com/intro-to-gun-a-p2p-decentralized-database",
-          "link": "https://twitter.com/developer_dao/status/1580926399006875648",
-          "publishedOn": "2022-10-14T14:20:00.000Z",
-          "wordCount": 399,
-          "title": "Ever asked yourself, where to store data in #web3? 🤔 A blockchain might be too expensive, but you still don't want to fall back to a centralized se...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/encodeclub/status/1580885006582358017",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Encode Club\nThe @womenbuildweb3 Accelerator with @encodeclub has started yesterday! 🎉\nHere is a thread of 17 projects that will get support through funding, mentorship & education during a period of 11 weeks 🧵\nWe're looking forward to helping you build and grow! 🌟",
@@ -234,36 +264,6 @@
           "publishedOn": "2022-10-14T11:35:31.000Z",
           "wordCount": 399,
           "title": "RT Encode Club: The @womenbuildweb3 Accelerator with @encodeclub has started yesterday! 🎉 Here is a thread of 17 projects that will get support thr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Web3Dubai/status/1580874417348845568",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Web3Dubai Conf\nRe Here's how to get a free ticket:\n- follow @developer_dao and @Web3Dubai \n- like and RT the above tweet\n- reply with your address and D_D number\n- mention a friend in your reply\nWe'll select 10 people in 48 hours ⏰\nSee you at the conference 🔥 https://web3dubai.org/",
-          "link": "https://twitter.com/Web3Dubai/status/1580874417348845568",
-          "publishedOn": "2022-10-14T10:53:26.000Z",
-          "wordCount": 399,
-          "title": "RT Web3Dubai Conf: Re Here's how to get a free ticket: - follow @developer_dao and @Web3Dubai - like and RT the above tweet - reply with your address ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Web3Dubai/status/1580874413985390592",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Web3Dubai Conf\nWe're doing a @developer_dao track on Nov 17 featuring some of the top contributors and maybe you! \nD_D members can submit a talk here to participate:  \nFinally, we're doing a giveaway for D_D members, read on for the rules 🎟️ https://checkout.eventlama.com/#/events/web3dubai/cfp https://www.web3dubai.org/schedule/devdao",
-          "link": "https://twitter.com/Web3Dubai/status/1580874413985390592",
-          "publishedOn": "2022-10-14T10:53:26.000Z",
-          "wordCount": 399,
-          "title": "RT Web3Dubai Conf: We're doing a @developer_dao track on Nov 17 featuring some of the top contributors and maybe you! D_D members can submit a talk he...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/chaserchapman/status/1580557657538428929",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Chase Chapman\n2 huge barriers to crypto adoption:\n1) crypto people act like assholes in bull markets\n2) the tech is complicated\n\"have fun staying poor\" doesn't exactly motivate people to explore the space\nif we fixed #1, people would probs be a lot more willing to learn",
-          "link": "https://twitter.com/chaserchapman/status/1580557657538428929",
-          "publishedOn": "2022-10-13T13:54:45.000Z",
-          "wordCount": 399,
-          "title": "RT Chase Chapman: 2 huge barriers to crypto adoption: 1) crypto people act like assholes in bull markets 2) the tech is complicated \"have fun staying ...",
           "imageUrl": null
         },
         {
