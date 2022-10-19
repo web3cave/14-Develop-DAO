@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/44-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Coming up for air at 2,640m",
+          "link": "https://developerdao.substack.com/p/44-probably-nothing",
+          "publishedOn": "2022-10-18T12:05:31.000Z",
+          "wordCount": null,
+          "title": "#44 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/43-probably-nothing",
           "author": "Colin4ward",
           "description": "ArepaDAO wen?",
@@ -76,6 +92,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/StatesDao/status/1582057498697031680",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT States DAO (⌨️,⌨️)\n🌟🪐GIVEAWAY: The BEST Blockchain Project🪐🌟\nOur goal is to incubate the best blockchain projects, so we want to hear your ideas!🧠\n🎁 Prize: 100 $USDC \nRULES:\n✅ Follow @StatesDao \n✅ Like + RT\n✅ Comment the best blockchain project idea that you know\nENDS in 48 hours⏰",
+          "link": "https://twitter.com/StatesDao/status/1582057498697031680",
+          "publishedOn": "2022-10-17T17:14:35.000Z",
+          "wordCount": 399,
+          "title": "RT States DAO (⌨️,⌨️): 🌟🪐GIVEAWAY: The BEST Blockchain Project🪐🌟 Our goal is to incubate the best blockchain projects, so we want to h...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1581743730629152768",
           "author": "Developer DAO (🧱, 🚀)",
@@ -244,16 +270,6 @@
           "publishedOn": "2022-10-14T16:30:01.000Z",
           "wordCount": 399,
           "title": "How to create and deploy an SVG NFT on-chain? Learn by one of the D_D workshop here- Thanks to @velvet_shark for this awesome🤩 workshop.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1580938375456227329",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "MAJOR 🌍\ntonyolendo.eth @ Bogota: Web3 Adoption in Africa speaker pre-talk selfie",
-          "link": "https://twitter.com/developer_dao/status/1580938375456227329",
-          "publishedOn": "2022-10-14T15:07:35.000Z",
-          "wordCount": 399,
-          "title": "MAJOR 🌍",
           "imageUrl": null
         },
         {

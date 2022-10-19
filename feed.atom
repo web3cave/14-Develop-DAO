@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T06:53:45.003Z</id>
+    <id>urn:2022-10-19T06:57:13.910Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-18T06:53:45.003Z</updated>
+    <updated>2022-10-19T06:57:13.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#44 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/44-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/44-probably-nothing"/>
+        <updated>2022-10-18T12:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Coming up for air at 2,640m]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT States DAO (⌨️,⌨️): 🌟🪐GIVEAWAY: The BEST Blockchain Project🪐🌟 Our goal is to incubate the best blockchain projects, so we want to h...]]></title>
+        <id>https://twitter.com/StatesDao/status/1582057498697031680</id>
+        <link href="https://twitter.com/StatesDao/status/1582057498697031680"/>
+        <updated>2022-10-17T17:14:35.000Z</updated>
+        <summary type="html"><![CDATA[RT States DAO (⌨️,⌨️)
+🌟🪐GIVEAWAY: The BEST Blockchain Project🪐🌟
+Our goal is to incubate the best blockchain projects, so we want to hear your ideas!🧠
+🎁 Prize: 100 $USDC 
+RULES:
+✅ Follow @StatesDao 
+✅ Like + RT
+✅ Comment the best blockchain project idea that you know
+ENDS in 48 hours⏰]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @K41R0N Thank you @K41R0N for organizing such a wonderful event 👑]]></title>
         <id>https://twitter.com/developer_dao/status/1581743730629152768</id>
@@ -228,17 +256,6 @@ Hosted by @me256ow and @theekrystallee]]></summary>
 Learn by one of the D_D workshop here- 
 
 Thanks to @velvet_shark for this awesome🤩 workshop. https://www.youtube.com/watch?v=Hfga2UjupVU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAJOR 🌍]]></title>
-        <id>https://twitter.com/developer_dao/status/1580938375456227329</id>
-        <link href="https://twitter.com/developer_dao/status/1580938375456227329"/>
-        <updated>2022-10-14T15:07:35.000Z</updated>
-        <summary type="html"><![CDATA[MAJOR 🌍
-tonyolendo.eth @ Bogota: Web3 Adoption in Africa speaker pre-talk selfie]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
