@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6352f6a2-10ee-4421-863d-6ae8b71e6389_1600x800.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/40-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Merged so hard",
-          "link": "https://developerdao.substack.com/p/40-probably-nothing",
-          "publishedOn": "2022-09-20T13:52:16.000Z",
-          "wordCount": null,
-          "title": "#40 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee5e741f-cae8-473d-a793-ae31e303a9a0_1600x800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee5e741f-cae8-473d-a793-ae31e303a9a0_1600x800.png"
         }
       ]
     },
@@ -93,6 +77,106 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/cannablitch/status/1582879850133848064",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Cannablitch.eth\nAlso spent some time working out of a hotel lobby today and accomplished# ✨2 hours of interview prep\n✨Progression towards booking next months product management workshops for @developer_dao \n✨ Staffing our different projects/products in @developer_dao with some awesome PM’s",
+          "link": "https://twitter.com/cannablitch/status/1582879850133848064",
+          "publishedOn": "2022-10-19T23:42:19.000Z",
+          "wordCount": 399,
+          "title": "RT Cannablitch.eth: Also spent some time working out of a hotel lobby today and accomplished# ✨2 hours of interview prep ✨Progression towards bookin...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1582866091206127617",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Aayush_gupta_ji Congratulations @Aayush_gupta_ji 🥳",
+          "link": "https://twitter.com/developer_dao/status/1582866091206127617",
+          "publishedOn": "2022-10-19T22:47:39.000Z",
+          "wordCount": 399,
+          "title": "Re @Aayush_gupta_ji Congratulations @Aayush_gupta_ji 🥳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/camiinthisthang/status/1582861319522263040",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT cami ᵍᵐ\nI've been writing so much sway, today I spent like 6 mins remembering how to write frontend code. Does anyone want to contribute to OS and slap a frontend on this and make it cute? I added all the console logs ever so even a beginner could work on this 🤠 https://github.com/camiinthisthang/learnsway-web3rsvp",
+          "link": "https://twitter.com/camiinthisthang/status/1582861319522263040",
+          "publishedOn": "2022-10-19T22:28:41.000Z",
+          "wordCount": 399,
+          "title": "RT cami ᵍᵐ: I've been writing so much sway, today I spent like 6 mins remembering how to write frontend code. Does anyone want to contribute to OS a...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/me256ow/status/1582847445704200192",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT meowy-kun.eth🌱meowy.arweave.dev🌿\nI will probably be going to @SolanaConf breakpoint Lisbon. Can someone host me during that time or suggest me somewhere I can stay?\ncc: @developer_dao",
+          "link": "https://twitter.com/me256ow/status/1582847445704200192",
+          "publishedOn": "2022-10-19T21:33:33.000Z",
+          "wordCount": 399,
+          "title": "RT meowy-kun.eth🌱meowy.arweave.dev🌿: I will probably be going to @SolanaConf breakpoint Lisbon. Can someone host me during that time or suggest ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/mannyornothing/status/1582827541383217152",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT manny\nDeveloper Dao needs a Chief Meme Officer",
+          "link": "https://twitter.com/mannyornothing/status/1582827541383217152",
+          "publishedOn": "2022-10-19T20:14:28.000Z",
+          "wordCount": 399,
+          "title": "RT manny: Developer Dao needs a Chief Meme Officer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/JoshCStein/status/1582743232764465153",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT josh (🧱,🚀)ᵍᵐ joshcs.lens 🦇🔊 joshcs.eth\n👀 looking to get started building on @CelestiaOrg?\n✨ excited to release my `gm world` tutorial, where you can learn to build a sovereign rollup that uses Celestia's DA layer to submit rollmint blocks from your `gm` chain\n🔗\njosh (🧱,🚀)ᵍᵐ joshcs.lens 🦇🔊 joshcs.eth: gm from a @CelestiaOrg Light Node running locally ✨",
+          "link": "https://twitter.com/JoshCStein/status/1582743232764465153",
+          "publishedOn": "2022-10-19T14:39:27.000Z",
+          "wordCount": 399,
+          "title": "RT josh (🧱,🚀)ᵍᵐ joshcs.lens 🦇🔊 joshcs.eth: 👀 looking to get started building on @CelestiaOrg? ✨ excited to release my `gm world` tut...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ChainCrusader/status/1582730101359157250",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jonathan Pereira\nRe There is an exclusive happy hour only for @developer_dao members on October 29. \nIf you are a Developer DAO member, register here: \nIf you are not a member but still really interested, DM me. https://lu.ma/ArweaveXDevDAO",
+          "link": "https://twitter.com/ChainCrusader/status/1582730101359157250",
+          "publishedOn": "2022-10-19T13:47:16.000Z",
+          "wordCount": 399,
+          "title": "RT Jonathan Pereira: Re There is an exclusive happy hour only for @developer_dao members on October 29. If you are a Developer DAO member, register he...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/naomiHauret/status/1582701658978779136",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Naomi Hauret\nCalling once again for web3 folks to help us out and take 5min to answer this survey about social audio apps. We didn't get enough answers for it to be helpful/get meaningful insights and we really want to create a better app, tailored for web3 👀🙏⤵️ https://naomihauret.typeform.com/to/ptzRCSQX",
+          "link": "https://twitter.com/naomiHauret/status/1582701658978779136",
+          "publishedOn": "2022-10-19T11:54:15.000Z",
+          "wordCount": 399,
+          "title": "RT Naomi Hauret: Calling once again for web3 folks to help us out and take 5min to answer this survey about social audio apps. We didn't get enough an...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/tr3butor/status/1582496752825151488",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tr3butor | web3 contributor platform\n💥 tr3butor continues to push the frontier of the Internet of Jobs 💥\nWe're thrilled to announce a brand-new makeover to our platform!\n✨ Incredible art\n✨ Slick design \n✨ Improved search\nCheck it out at \n👇👇👇 http://app.tr3butor.io",
+          "link": "https://twitter.com/tr3butor/status/1582496752825151488",
+          "publishedOn": "2022-10-18T22:20:01.000Z",
+          "wordCount": 399,
+          "title": "RT tr3butor | web3 contributor platform: 💥 tr3butor continues to push the frontier of the Internet of Jobs 💥 We're thrilled to announce a brand-...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BundlrNetwork/status/1582129351310553089",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Bundlr | we're hiring!\nRe 🧱, 🚀 DeveloperDAO X Arweave on Oct 29th\n​All builders are invited to join the @ArweaveTeam and @developer_dao for happy hour after Day 2 of @ETHLisbon Come grab some well-deserved food and discuss what you've been building!\nRegister here https://lu.ma/ArweaveXDevDAO",
+          "link": "https://twitter.com/BundlrNetwork/status/1582129351310553089",
+          "publishedOn": "2022-10-17T22:00:06.000Z",
+          "wordCount": 399,
+          "title": "RT Bundlr | we're hiring!: Re 🧱, 🚀 DeveloperDAO X Arweave on Oct 29th ​All builders are invited to join the @ArweaveTeam and @developer_dao for...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/StatesDao/status/1582057498697031680",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT States DAO (⌨️,⌨️)\n🌟🪐GIVEAWAY: The BEST Blockchain Project🪐🌟\nOur goal is to incubate the best blockchain projects, so we want to hear your ideas!🧠\n🎁 Prize: 100 $USDC \nRULES:\n✅ Follow @StatesDao \n✅ Like + RT\n✅ Comment the best blockchain project idea that you know\nENDS in 48 hours⏰",
@@ -100,6 +184,16 @@
           "publishedOn": "2022-10-17T17:14:35.000Z",
           "wordCount": 399,
           "title": "RT States DAO (⌨️,⌨️): 🌟🪐GIVEAWAY: The BEST Blockchain Project🪐🌟 Our goal is to incubate the best blockchain projects, so we want to h...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/LordHeb/status/1581827556298592256",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ihab ۞ Heb\nVery Delighted to finally join the @developer_dao .\nAs an Initiate of the Guild, May I soar to new heights and have my name echoed through the decentralized web3 and the Cypherpunk Movement,\nI Vow to the manifestation of the New Age Paradigm Shift and of the Digital Public Goods.",
+          "link": "https://twitter.com/LordHeb/status/1581827556298592256",
+          "publishedOn": "2022-10-17T02:00:53.000Z",
+          "wordCount": 399,
+          "title": "RT Ihab ۞ Heb: Very Delighted to finally join the @developer_dao . As an Initiate of the Guild, May I soar to new heights and have my name echoed thr...",
           "imageUrl": null
         },
         {
@@ -143,16 +237,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/marioralves/status/1581405727390060545",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT supermari0x.eth 🔜 ETHLisbon 🇵🇹\nRe 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible!\nAlso liked @developer_dao’s meetup very much and I see a lot of potential there 🪩🕺🏻💃",
-          "link": "https://twitter.com/marioralves/status/1581405727390060545",
-          "publishedOn": "2022-10-15T22:04:41.000Z",
-          "wordCount": 399,
-          "title": "RT supermari0x.eth 🔜 ETHLisbon 🇵🇹: Re 5/ The afterparties by @letsraave, @Daivinity, @TalentProtocol and @DefiantNews were incredible! Also l...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/edatweets_/status/1581278065849929728",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Eda\nMy favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. \nWhat are some protocols/products that I should be looking into & write developer guides on?",
@@ -173,16 +257,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/diegoalzate00/status/1581103284835692545",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT diegoalzate.eth\nSurreal to see so many inspiring people in Colombia, thanks @dabit3 for introducing me to web3",
-          "link": "https://twitter.com/diegoalzate00/status/1581103284835692545",
-          "publishedOn": "2022-10-15T02:02:53.000Z",
-          "wordCount": 399,
-          "title": "RT diegoalzate.eth: Surreal to see so many inspiring people in Colombia, thanks @dabit3 for introducing me to web3",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/devntellxyz/status/1581072368725884929",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT DevNTell\nGM frens!  If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in the latest @developer_dao\nblog entry: https://blog.developerdao.com/devntell-peeranha",
@@ -190,96 +264,6 @@
           "publishedOn": "2022-10-15T00:00:02.000Z",
           "wordCount": 399,
           "title": "RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1581044387983032320",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @CoinbaseCloud @vibesIRL to confirm... that's two pickups at each location, first at 6pm and second at ~6:30pm.\nCome see Developers dance 💃",
-          "link": "https://twitter.com/developer_dao/status/1581044387983032320",
-          "publishedOn": "2022-10-14T22:08:51.000Z",
-          "wordCount": 399,
-          "title": "Re @CoinbaseCloud @vibesIRL to confirm... that's two pickups at each location, first at 6pm and second at ~6:30pm. Come see Developers dance 💃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1581043703166435329",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "We've just opened up ~ 40 more spots for our @CoinbaseCloud X D_D @vibesIRL party tonight 👀\nTwo free party busses 🚌 to the venue, pickups at 6pm and ~ 6:30pm from:\n1️⃣ Agora Conference Center\n2️⃣ Grand Hyatt Hotel\nFirst come, first serve 🫡\nRSVP https://lu.ma/D_D-Bog",
-          "link": "https://twitter.com/developer_dao/status/1581043703166435329",
-          "publishedOn": "2022-10-14T22:06:07.000Z",
-          "wordCount": 399,
-          "title": "We've just opened up ~ 40 more spots for our @CoinbaseCloud X D_D @vibesIRL party tonight 👀 Two free party busses 🚌 to the venue, pickups at 6pm...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Colin4ward/status/1581016618385096704",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Colin Forward\nAbout to meet at least 20 people I've spent hours talking to / working with but never met IRL. Pretty Psyched.\nDeveloper DAO (🧱, 🚀): Who's partying with us and @CoinbaseCloud tonight? 👀 \nFolks who've RSVP'd get a🚌 pickup from Agora @ 6:30 pm, and drop off back to Grand Hyatt @ 2:00 am. \nThere's still a 🤏 time to RSVP, info is here - \n📜 👇\n https://lu.ma/D_D-Bog",
-          "link": "https://twitter.com/Colin4ward/status/1581016618385096704",
-          "publishedOn": "2022-10-14T20:18:30.000Z",
-          "wordCount": 399,
-          "title": "RT Colin Forward: About to meet at least 20 people I've spent hours talking to / working with but never met IRL. Pretty Psyched.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kempsterrrr/status/1581003387608264704",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kempsterrrr.eth / lens | in 🇨🇴 ᵍᵐ\nLFG Bogotá 🇨🇴\nDeveloper DAO (🧱, 🚀): Who's partying with us and @CoinbaseCloud tonight? 👀 \nFolks who've RSVP'd get a🚌 pickup from Agora @ 6:30 pm, and drop off back to Grand Hyatt @ 2:00 am. \nThere's still a 🤏 time to RSVP, info is here - \n📜 👇\n https://lu.ma/D_D-Bog",
-          "link": "https://twitter.com/kempsterrrr/status/1581003387608264704",
-          "publishedOn": "2022-10-14T19:25:55.000Z",
-          "wordCount": 399,
-          "title": "RT kempsterrrr.eth / lens | in 🇨🇴 ᵍᵐ: LFG Bogotá 🇨🇴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1581002359140143104",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re We're celebrating the launch of The Buidl Web3 with @CoinbaseCloud Challenge 🫡\nAspiring developers, start your hacking journey with Coinbase Cloud! Create your dApp to win prizes and growth opportunities from Coinbase.\nPassword to access: cbcl0ud https://www.herox.com/BuidlwithCoinbaseCloud?utm_source=coinbase&utm_medium=outreach&utm_campaign=CoinbaseCloud_promo",
-          "link": "https://twitter.com/developer_dao/status/1581002359140143104",
-          "publishedOn": "2022-10-14T19:21:50.000Z",
-          "wordCount": 399,
-          "title": "Re We're celebrating the launch of The Buidl Web3 with @CoinbaseCloud Challenge 🫡 Aspiring developers, start your hacking journey with Coinbase Clo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1581002357185212416",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Who's partying with us and @CoinbaseCloud tonight? 👀 \nFolks who've RSVP'd get a🚌 pickup from Agora @ 6:30 pm, and drop off back to Grand Hyatt @ 2:00 am. \nThere's still a 🤏 time to RSVP, info is here - \n📜 👇 https://lu.ma/D_D-Bog",
-          "link": "https://twitter.com/developer_dao/status/1581002357185212416",
-          "publishedOn": "2022-10-14T19:21:50.000Z",
-          "wordCount": 399,
-          "title": "Who's partying with us and @CoinbaseCloud tonight? 👀 Folks who've RSVP'd get a🚌 pickup from Agora @ 6:30 pm, and drop off back to Grand Hyatt @ ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1580991454700138496",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Fun session of @AmongUsGame happening in the @devdaowomen vibes call, right now✨\nHosted by @me256ow and @theekrystallee",
-          "link": "https://twitter.com/developer_dao/status/1580991454700138496",
-          "publishedOn": "2022-10-14T18:38:30.000Z",
-          "wordCount": 399,
-          "title": "Fun session of @AmongUsGame happening in the @devdaowomen vibes call, right now✨ Hosted by @me256ow and @theekrystallee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1580959118117830663",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "How to create and deploy an SVG NFT on-chain? \nLearn by one of the D_D workshop here- \n\nThanks to @velvet_shark for this awesome🤩 workshop. https://www.youtube.com/watch?v=Hfga2UjupVU",
-          "link": "https://twitter.com/developer_dao/status/1580959118117830663",
-          "publishedOn": "2022-10-14T16:30:01.000Z",
-          "wordCount": 399,
-          "title": "How to create and deploy an SVG NFT on-chain? Learn by one of the D_D workshop here- Thanks to @velvet_shark for this awesome🤩 workshop.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/encodeclub/status/1580885006582358017",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Encode Club\nThe @womenbuildweb3 Accelerator with @encodeclub has started yesterday! 🎉\nHere is a thread of 17 projects that will get support through funding, mentorship & education during a period of 11 weeks 🧵\nWe're looking forward to helping you build and grow! 🌟",
-          "link": "https://twitter.com/encodeclub/status/1580885006582358017",
-          "publishedOn": "2022-10-14T11:35:31.000Z",
-          "wordCount": 399,
-          "title": "RT Encode Club: The @womenbuildweb3 Accelerator with @encodeclub has started yesterday! 🎉 Here is a thread of 17 projects that will get support thr...",
           "imageUrl": null
         },
         {
