@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-20T06:25:06.102Z</id>
+    <id>urn:2022-10-21T06:29:15.532Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-20T06:25:06.102Z</updated>
+    <updated>2022-10-21T06:29:15.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1583132550737690624</id>
+        <link href="https://twitter.com/developer_dao/status/1583132550737690624"/>
+        <updated>2022-10-20T16:26:27.000Z</updated>
+        <summary type="html"><![CDATA[gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT josevelez.eth | josevelez.lens: gm @developer_dao community. There's a new proposal the D_D Delegate Committee is reviewing for vote Hop into the G...]]></title>
+        <id>https://twitter.com/JoseLionelVelez/status/1583088247810379777</id>
+        <link href="https://twitter.com/JoseLionelVelez/status/1583088247810379777"/>
+        <updated>2022-10-20T13:30:25.000Z</updated>
+        <summary type="html"><![CDATA[RT josevelez.eth | josevelez.lens
+gm @developer_dao community. There's a new proposal the D_D Delegate Committee is reviewing for vote
+Hop into the Governance Guild channel and chime in with questions or comments.
+Snapshot: 
+About D_D Delegate Committee: https://bit.ly/3Sj0TSy https://bit.ly/3VJqsPt]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @rahul3526 @me256ow @pbillingsby_eth @shxwnzy @JoshCStein @CryptoPowerGals @BrianHHough @wise_Tyy @7i7o @Sunk8k @mannyornothing @K4y1s 👑]]></title>
+        <id>https://twitter.com/developer_dao/status/1583058052219297793</id>
+        <link href="https://twitter.com/developer_dao/status/1583058052219297793"/>
+        <updated>2022-10-20T11:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @rahul3526 @me256ow @pbillingsby_eth @shxwnzy @JoshCStein @CryptoPowerGals @BrianHHough @wise_Tyy @7i7o @Sunk8k @mannyornothing @K4y1s 👑]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @me256ow @pbillingsby_eth @shxwnzy @JoshCStein @CryptoPowerGals @BrianHHough @wise_Tyy @7i7o @Sunk8k @mannyornothing can someone tag K so he gets t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1583057713247813632</id>
+        <link href="https://twitter.com/developer_dao/status/1583057713247813632"/>
+        <updated>2022-10-20T11:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @me256ow @pbillingsby_eth @shxwnzy @JoshCStein @CryptoPowerGals @BrianHHough @wise_Tyy @7i7o @Sunk8k @mannyornothing can someone tag K so he gets the interwebs props please 🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[epic flower Respekt 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1583057550643458051</id>
+        <link href="https://twitter.com/developer_dao/status/1583057550643458051"/>
+        <updated>2022-10-20T11:28:26.000Z</updated>
+        <summary type="html"><![CDATA[epic flower 
+Respekt 🫡 http://skribbl.io]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Cannablitch.eth: Also spent some time working out of a hotel lobby today and accomplished# ✨2 hours of interview prep ✨Progression towards bookin...]]></title>
         <id>https://twitter.com/cannablitch/status/1582879850133848064</id>
@@ -63,15 +118,15 @@ Developer Dao needs a Chief Meme Officer]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT josh (🧱,🚀)ᵍᵐ joshcs.lens 🦇🔊 joshcs.eth: 👀 looking to get started building on @CelestiaOrg? ✨ excited to release my `gm world` tut...]]></title>
+        <title type="html"><![CDATA[RT josh (🧱,🚀)ᵍᵐ joshcs.eth 🦇🔊 joshcs.lens: 👀 looking to get started building on @CelestiaOrg? ✨ excited to release my `gm world` tut...]]></title>
         <id>https://twitter.com/JoshCStein/status/1582743232764465153</id>
         <link href="https://twitter.com/JoshCStein/status/1582743232764465153"/>
         <updated>2022-10-19T14:39:27.000Z</updated>
-        <summary type="html"><![CDATA[RT josh (🧱,🚀)ᵍᵐ joshcs.lens 🦇🔊 joshcs.eth
+        <summary type="html"><![CDATA[RT josh (🧱,🚀)ᵍᵐ joshcs.eth 🦇🔊 joshcs.lens
 👀 looking to get started building on @CelestiaOrg?
 ✨ excited to release my `gm world` tutorial, where you can learn to build a sovereign rollup that uses Celestia's DA layer to submit rollmint blocks from your `gm` chain
 🔗
-josh (🧱,🚀)ᵍᵐ joshcs.lens 🦇🔊 joshcs.eth: gm from a @CelestiaOrg Light Node running locally ✨]]></summary>
+josh (🧱,🚀)ᵍᵐ joshcs.eth 🦇🔊 joshcs.lens: gm from a @CelestiaOrg Light Node running locally ✨]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -182,27 +237,6 @@ I Vow to the manifestation of the New Age Paradigm Shift and of the Digital Publ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens: Literally so bullish on this! 👀💯🔥 Something big is launching soon within @developer_dao that includes...]]></title>
-        <id>https://twitter.com/BrianHHough/status/1581740786491609090</id>
-        <link href="https://twitter.com/BrianHHough/status/1581740786491609090"/>
-        <updated>2022-10-16T20:16:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens
-Literally so bullish on this! 👀💯🔥
-Something big is launching soon within @developer_dao that includes: 
-- DevRel best practices 
-- BUIDLing with frens
-- Creating a personal brand
-- Launching a web3 portfolio
-Can you guess what it is? 👀
-krinza.eth (🧱, 🚀): @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kickass content creators, buildoors and educators within the guild. 
-Many individual contributors are now full-time devrel engineers 🎉
-👀 Alpha? We are soon launching a devrel incubator.
- https://twitter.com/kayprasla/status/1562476703938924547?s=20&t=olJftrfbFS-GO9EpZCTN7A]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): Re @dabit3 @0xtaetaehoho @DennisonBertram @camiinthisthang @thatguyintech @developer_dao +1. We have been onboarding kicka...]]></title>
         <id>https://twitter.com/kayprasla/status/1581737753439801344</id>
         <link href="https://twitter.com/kayprasla/status/1581737753439801344"/>
@@ -229,56 +263,6 @@ is smth you'd like to explore, drop a "👋".
         <updated>2022-10-16T11:01:47.000Z</updated>
         <summary type="html"><![CDATA[RT meowy-kun.eth🌱meowy.arweave.dev🌿
 Applied to @ETHIndiaco , I hope I get selected to hack irl. Can't wait to meet all @developer_dao frens from India.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Eda: My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. What are ...]]></title>
-        <id>https://twitter.com/edatweets_/status/1581278065849929728</id>
-        <link href="https://twitter.com/edatweets_/status/1581278065849929728"/>
-        <updated>2022-10-15T13:37:24.000Z</updated>
-        <summary type="html"><![CDATA[RT Eda
-My favorite articles to write were deep dives into new web3 projects and protocols. Learned a lot and had fun just trying the tools. 
-What are some protocols/products that I should be looking into & write developer guides on?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alex245: Great to see @dabit3 at @vibesIRL after an amazing @EFDevcon]]></title>
-        <id>https://twitter.com/AlexNi245/status/1581187390873296896</id>
-        <link href="https://twitter.com/AlexNi245/status/1581187390873296896"/>
-        <updated>2022-10-15T07:37:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Alex245
-Great to see @dabit3 at @vibesIRL after an amazing @EFDevcon]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in t...]]></title>
-        <id>https://twitter.com/devntellxyz/status/1581072368725884929</id>
-        <link href="https://twitter.com/devntellxyz/status/1581072368725884929"/>
-        <updated>2022-10-15T00:00:02.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-GM frens!  If you missed all the action from #DevNTell this week with @SergeyIlinn and @bankier_philip, you can now read all about it in the latest @developer_dao
-blog entry: https://blog.developerdao.com/devntell-peeranha]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT WBW3 - BUIDL Accelerator: GM Buildooorss ✨ We have good news this morning. All our grads from #30daysofweb3 have officially been allow listed by @...]]></title>
-        <id>https://twitter.com/womenbuildweb3/status/1580195880619364352</id>
-        <link href="https://twitter.com/womenbuildweb3/status/1580195880619364352"/>
-        <updated>2022-10-12T13:57:11.000Z</updated>
-        <summary type="html"><![CDATA[RT WBW3 - BUIDL Accelerator
-GM Buildooorss ✨
-We have good news this morning. All our grads from #30daysofweb3 have officially been allow listed by @LensProtocol to claim a lens handle 🚀
-To claim yours, visit https://lens. xyz
-and click claim handle!! 
-Share your cool new lens profile in the replies too]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
