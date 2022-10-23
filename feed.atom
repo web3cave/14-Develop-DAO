@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-22T06:22:19.937Z</id>
+    <id>urn:2022-10-23T06:24:38.732Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-22T06:22:19.937Z</updated>
+    <updated>2022-10-23T06:24:38.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/developer_dao/status/1583919541511688193</id>
+        <link href="https://twitter.com/developer_dao/status/1583919541511688193"/>
+        <updated>2022-10-22T20:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/i/spaces/1lPJqBgkWeAxb?s=20]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👀 Hedera x Developer DAO 🛠️ Meet the team and learn what you can build on @hedera. Set Reminder:]]></title>
+        <id>https://twitter.com/developer_dao/status/1583919449299513344</id>
+        <link href="https://twitter.com/developer_dao/status/1583919449299513344"/>
+        <updated>2022-10-22T20:33:19.000Z</updated>
+        <summary type="html"><![CDATA[👀 Hedera x Developer DAO
+🛠️ Meet the team and learn what you can build on @hedera.
+Set Reminder: https://twitter.com/i/spaces/1lPJqBgkWeAxb?s=20]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create and Deploy an ERC-1155 NFT Bundle Collection by @developer_dao member @Aayush_gupta_ji 🛠 In this Tutorial, we will build NFT Bundle C...]]></title>
         <id>https://twitter.com/developer_dao/status/1583571830048280595</id>
@@ -151,30 +173,6 @@ Get a quick look at rollups classifications in rollup 101
 Here's a story about a project I really enjoyed building.
 A few months ago I had an idea: what if there was an NFT collection that can't be bought with money, but needs to be earned with skill and dedication?
 ↓]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT josevelez.eth | josevelez.lens: gm @developer_dao community. There's a new proposal the D_D Delegate Committee is reviewing for vote Hop into the G...]]></title>
-        <id>https://twitter.com/JoseLionelVelez/status/1583088247810379777</id>
-        <link href="https://twitter.com/JoseLionelVelez/status/1583088247810379777"/>
-        <updated>2022-10-20T13:30:25.000Z</updated>
-        <summary type="html"><![CDATA[RT josevelez.eth | josevelez.lens
-gm @developer_dao community. There's a new proposal the D_D Delegate Committee is reviewing for vote
-Hop into the Governance Guild channel and chime in with questions or comments.
-Snapshot: 
-About D_D Delegate Committee: https://bit.ly/3Sj0TSy https://bit.ly/3VJqsPt]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @rahul3526 @me256ow @pbillingsby_eth @shxwnzy @JoshCStein @CryptoPowerGals @BrianHHough @wise_Tyy @7i7o @Sunk8k @mannyornothing @K4y1s 👑]]></title>
-        <id>https://twitter.com/developer_dao/status/1583058052219297793</id>
-        <link href="https://twitter.com/developer_dao/status/1583058052219297793"/>
-        <updated>2022-10-20T11:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @rahul3526 @me256ow @pbillingsby_eth @shxwnzy @JoshCStein @CryptoPowerGals @BrianHHough @wise_Tyy @7i7o @Sunk8k @mannyornothing @K4y1s 👑]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
