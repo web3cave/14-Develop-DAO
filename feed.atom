@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-25T06:51:53.871Z</id>
+    <id>urn:2022-10-26T06:17:20.618Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-25T06:51:53.871Z</updated>
+    <updated>2022-10-26T06:17:20.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#45 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/45-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/45-probably-nothing"/>
+        <updated>2022-10-26T03:08:40.000Z</updated>
+        <summary type="html"><![CDATA[From hola to olá]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Aviral 🦇🔊: unnecessarily aesthetics meme]]></title>
+        <id>https://twitter.com/spacemonkey127/status/1584986610453843970</id>
+        <link href="https://twitter.com/spacemonkey127/status/1584986610453843970"/>
+        <updated>2022-10-25T19:13:50.000Z</updated>
+        <summary type="html"><![CDATA[RT Aviral 🦇🔊
+unnecessarily aesthetics meme]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever asked yourself what #DeSci is all about?! 🔬🧪 @nonstack took some time and explain it! There are quite some DeSci DAOs out there you should ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1584926409369214979</id>
+        <link href="https://twitter.com/developer_dao/status/1584926409369214979"/>
+        <updated>2022-10-25T15:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Ever asked yourself what #DeSci is all about?! 🔬🧪
+@nonstack took some time and explain it! There are quite some DeSci DAOs out there you should check out! 🤓 https://blog.developerdao.com/exploring-desci-24-desci-daos-doing-amazing-things]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pateldeep.eth/lens: super excited to join @developer_dao, the craziest web3 developers community! looking forward to contributing to the DAO 🧱�...]]></title>
+        <id>https://twitter.com/pateldeep_eth/status/1584753420447416320</id>
+        <link href="https://twitter.com/pateldeep_eth/status/1584753420447416320"/>
+        <updated>2022-10-25T03:47:13.000Z</updated>
+        <summary type="html"><![CDATA[RT pateldeep.eth/lens
+super excited to join @developer_dao, the craziest web3 developers community!
+looking forward to contributing to the DAO 🧱🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Presenting the sixth episode of the "Humans of D_D" podcast. Plugin as @ropats16 share all about his web3 journey, leading @devdao_academy and educati...]]></title>
         <id>https://twitter.com/developer_dao/status/1584581686104576001</id>
@@ -150,43 +194,6 @@ We launched Solana Core yesterday -- a 6 week program to turn you into a goated 
 We are hyped af to get you building on Solana.
 So, We partnered up with @thirdweb to bring you Solanathon!
 Start building and win $10,000 in prizes👇🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get better at Solidity 🗡 By @developer_dao member @w1nt3r_eth An actionable guide to becoming a better smart contract developer.]]></title>
-        <id>https://twitter.com/developer_dao/status/1583473028914348032</id>
-        <link href="https://twitter.com/developer_dao/status/1583473028914348032"/>
-        <updated>2022-10-21T14:59:24.000Z</updated>
-        <summary type="html"><![CDATA[How to get better at Solidity 🗡
-By @developer_dao member @w1nt3r_eth 
-An actionable guide to becoming a better smart contract developer. https://w1nt3r.mirror.xyz/enD1dorw5t2u_s13MthnsqnhqW03WMY8T7ASdRwxDQg]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nicob.eth: Re @developer_dao is one of the most supportive communities you can join when becoming a web3 developer. Writing a blog post about how m...]]></title>
-        <id>https://twitter.com/nicoburkart/status/1583456455625035777</id>
-        <link href="https://twitter.com/nicoburkart/status/1583456455625035777"/>
-        <updated>2022-10-21T13:53:32.000Z</updated>
-        <summary type="html"><![CDATA[RT nicob.eth
-Re @developer_dao is one of the most supportive communities you can join when becoming a web3 developer. Writing a blog post about how my journey began with them 👀🫡 D_D]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Smart Contracts with @HardhatHQ + Chai by @developer_dao member @Web3Club ⚡️ code: video:]]></title>
-        <id>https://twitter.com/developer_dao/status/1583413071611015170</id>
-        <link href="https://twitter.com/developer_dao/status/1583413071611015170"/>
-        <updated>2022-10-21T11:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Testing Smart Contracts with @HardhatHQ + Chai
-by @developer_dao member @Web3Club ⚡️
-code:
-
-video: https://gist.github.com/shobhitic/f4325edcb25d9cffc2a21ce53914e2ce https://www.youtube.com/watch?v=6g5jclcYX88]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

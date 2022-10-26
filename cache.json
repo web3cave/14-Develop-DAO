@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/45-probably-nothing",
+          "author": "Colin4ward",
+          "description": "From hola to olá",
+          "link": "https://developerdao.substack.com/p/45-probably-nothing",
+          "publishedOn": "2022-10-26T03:08:40.000Z",
+          "wordCount": null,
+          "title": "#45 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc715ba52-c3cf-49e6-bcae-15dcf0f03fc9_1600x800.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc715ba52-c3cf-49e6-bcae-15dcf0f03fc9_1600x800.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/44-probably-nothing",
           "author": "Colin4ward",
           "description": "Coming up for air at 2,640m",
@@ -76,6 +92,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/spacemonkey127/status/1584986610453843970",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Aviral 🦇🔊\nunnecessarily aesthetics meme",
+          "link": "https://twitter.com/spacemonkey127/status/1584986610453843970",
+          "publishedOn": "2022-10-25T19:13:50.000Z",
+          "wordCount": 399,
+          "title": "RT Aviral 🦇🔊: unnecessarily aesthetics meme",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1584926409369214979",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Ever asked yourself what #DeSci is all about?! 🔬🧪\n@nonstack took some time and explain it! There are quite some DeSci DAOs out there you should check out! 🤓 https://blog.developerdao.com/exploring-desci-24-desci-daos-doing-amazing-things",
+          "link": "https://twitter.com/developer_dao/status/1584926409369214979",
+          "publishedOn": "2022-10-25T15:14:37.000Z",
+          "wordCount": 399,
+          "title": "Ever asked yourself what #DeSci is all about?! 🔬🧪 @nonstack took some time and explain it! There are quite some DeSci DAOs out there you should ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pateldeep_eth/status/1584753420447416320",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pateldeep.eth/lens\nsuper excited to join @developer_dao, the craziest web3 developers community!\nlooking forward to contributing to the DAO 🧱🚀",
+          "link": "https://twitter.com/pateldeep_eth/status/1584753420447416320",
+          "publishedOn": "2022-10-25T03:47:13.000Z",
+          "wordCount": 399,
+          "title": "RT pateldeep.eth/lens: super excited to join @developer_dao, the craziest web3 developers community! looking forward to contributing to the DAO 🧱�...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1584581686104576001",
           "author": "Developer DAO (🧱, 🚀)",
@@ -194,36 +240,6 @@
           "publishedOn": "2022-10-21T16:19:51.000Z",
           "wordCount": 399,
           "title": "RT buildspace: We launched Solana Core yesterday -- a 6 week program to turn you into a goated Solana dev. We are hyped af to get you building on Sola...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1583473028914348032",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "How to get better at Solidity 🗡\nBy @developer_dao member @w1nt3r_eth \nAn actionable guide to becoming a better smart contract developer. https://w1nt3r.mirror.xyz/enD1dorw5t2u_s13MthnsqnhqW03WMY8T7ASdRwxDQg",
-          "link": "https://twitter.com/developer_dao/status/1583473028914348032",
-          "publishedOn": "2022-10-21T14:59:24.000Z",
-          "wordCount": 399,
-          "title": "How to get better at Solidity 🗡 By @developer_dao member @w1nt3r_eth An actionable guide to becoming a better smart contract developer.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nicoburkart/status/1583456455625035777",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nicob.eth\nRe @developer_dao is one of the most supportive communities you can join when becoming a web3 developer. Writing a blog post about how my journey began with them 👀🫡 D_D",
-          "link": "https://twitter.com/nicoburkart/status/1583456455625035777",
-          "publishedOn": "2022-10-21T13:53:32.000Z",
-          "wordCount": 399,
-          "title": "RT nicob.eth: Re @developer_dao is one of the most supportive communities you can join when becoming a web3 developer. Writing a blog post about how m...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1583413071611015170",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Testing Smart Contracts with @HardhatHQ + Chai\nby @developer_dao member @Web3Club ⚡️\ncode:\n\nvideo: https://gist.github.com/shobhitic/f4325edcb25d9cffc2a21ce53914e2ce https://www.youtube.com/watch?v=6g5jclcYX88",
-          "link": "https://twitter.com/developer_dao/status/1583413071611015170",
-          "publishedOn": "2022-10-21T11:01:09.000Z",
-          "wordCount": 399,
-          "title": "Testing Smart Contracts with @HardhatHQ + Chai by @developer_dao member @Web3Club ⚡️ code: video:",
           "imageUrl": null
         },
         {
