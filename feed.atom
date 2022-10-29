@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-28T06:16:26.442Z</id>
+    <id>urn:2022-10-29T06:15:32.367Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-28T06:16:26.442Z</updated>
+    <updated>2022-10-29T06:15:32.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens 🌈 We had another great showing today at the @developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1586088549870620672</id>
+        <link href="https://twitter.com/devntellxyz/status/1586088549870620672"/>
+        <updated>2022-10-28T20:12:33.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+🌈 gm frens 🌈
+We had another great showing today at the 
+@developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @dataunions, gave us an overview of Data Unions 🪄
+If you missed us live, you can now watch the recording on YouTube 📹: https://youtu.be/8WYHNwIor6Y]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You have developed on EVM, but not the EVM 🤔. Learn about what is EVM and how it works with @crypdoughdoteth 🔥 Join us here=> on 2nd Nov, 4:30 p...]]></title>
+        <id>https://twitter.com/developer_dao/status/1586047645675462657</id>
+        <link href="https://twitter.com/developer_dao/status/1586047645675462657"/>
+        <updated>2022-10-28T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You have developed on EVM, but not the EVM 🤔.
+Learn about what is EVM and how it works with @crypdoughdoteth 🔥
+Join us here=> 
+on 2nd Nov, 4:30 pm UTC
+Hosted by @yash___garg✨ https://www.youtube.com/watch?v=ereNG_-Azyc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 without a blockchain? Yes, @hedera makes it possible with hashgraphs! 🔗 @nonstack wrote a getting started guide for you! 🏫]]></title>
+        <id>https://twitter.com/developer_dao/status/1586039063823392768</id>
+        <link href="https://twitter.com/developer_dao/status/1586039063823392768"/>
+        <updated>2022-10-28T16:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Web3 without a blockchain? Yes, @hedera makes it possible with hashgraphs! 🔗
+@nonstack wrote a getting started guide for you! 🏫 https://blog.developerdao.com/how-to-start-developing-on-hedera-hashgraph]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 0x3 Studio: ⭐️ This week in web3 #4 ⭐️ Every Friday afternoon, we share with you the most important news of the week in the world of web3. 🧵]]></title>
+        <id>https://twitter.com/0x3studio/status/1585987498668621829</id>
+        <link href="https://twitter.com/0x3studio/status/1585987498668621829"/>
+        <updated>2022-10-28T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[RT 0x3 Studio
+⭐️ This week in web3 #4 ⭐️
+Every Friday afternoon, we share with you the most important news of the week in the world of web3.
+🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT rahat.eth: I dunno I think I look cute]]></title>
+        <id>https://twitter.com/Rahatcodes/status/1585786111502143490</id>
+        <link href="https://twitter.com/Rahatcodes/status/1585786111502143490"/>
+        <updated>2022-10-28T00:10:46.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth
+I dunno I think I look cute]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT jacob: zora is hiring for engineering up and down the stack as well as a finance lead. email me jacob@zora.co]]></title>
+        <id>https://twitter.com/js_horne/status/1585763280991051776</id>
+        <link href="https://twitter.com/js_horne/status/1585763280991051776"/>
+        <updated>2022-10-27T22:40:02.000Z</updated>
+        <summary type="html"><![CDATA[RT jacob
+zora is hiring for engineering up and down the stack as well as a finance lead. email me jacob@zora.co]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT 0xShikhar(🧱,🚀) - .eth/.lens/.sol/.x: Finally got the @ETHIndiaco confirmation mail 🥳🥳🥳 I am super exited to meet you all at Bangalor...]]></title>
         <id>https://twitter.com/0xShikhar/status/1585713818155765760</id>
@@ -146,63 +220,6 @@ Developer DAO (🧱, 🚀): 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re Twitter crashed on us, sorry folks. Join the new space if you're seeing this -]]></title>
-        <id>https://twitter.com/developer_dao/status/1585347095330181122</id>
-        <link href="https://twitter.com/developer_dao/status/1585347095330181122"/>
-        <updated>2022-10-26T19:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Re Twitter crashed on us, sorry folks. Join the new space if you're seeing this -
-Developer DAO (🧱, 🚀): 
- https://twitter.com/i/spaces/1zqKVPZdLQAJB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spaces/ Twitter crashed - Here is the new space]]></title>
-        <id>https://twitter.com/developer_dao/status/1585346903843041280</id>
-        <link href="https://twitter.com/developer_dao/status/1585346903843041280"/>
-        <updated>2022-10-26T19:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Spaces/ Twitter crashed - Here is the new space https://twitter.com/i/spaces/1zqKVPZdLQAJB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1585346645084221440</id>
-        <link href="https://twitter.com/developer_dao/status/1585346645084221440"/>
-        <updated>2022-10-26T19:04:29.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1zqKVPZdLQAJB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1585345579026067456</id>
-        <link href="https://twitter.com/developer_dao/status/1585345579026067456"/>
-        <updated>2022-10-26T19:00:14.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1lPJqBgkWeAxb]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come hang and get to now our frens at @hedera at 7pm UTC today RSVP 👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1585334163301093376</id>
-        <link href="https://twitter.com/developer_dao/status/1585334163301093376"/>
-        <updated>2022-10-26T18:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Come hang and get to now our frens at @hedera at 7pm UTC today
-RSVP 👇
-Developer DAO (🧱, 🚀): 👀 Hedera x Developer DAO
-🛠️ Meet the team and learn what you can build on @hedera.
-Set Reminder:
- https://twitter.com/i/spaces/1lPJqBgkWeAxb?s=20]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT pbillingsby: Create & deploy @ArweaveTeam Permaweb apps easier with my Arweave/NextJs template complete with: - Basic smart contract - Tests - Arwe...]]></title>
         <id>https://twitter.com/pbillingsby_/status/1585332404142497792</id>
         <link href="https://twitter.com/pbillingsby_/status/1585332404142497792"/>
@@ -226,21 +243,6 @@ Create & deploy @ArweaveTeam Permaweb apps easier with my Arweave/NextJs templat
         <updated>2022-10-26T18:01:56.000Z</updated>
         <summary type="html"><![CDATA[RT nonstack ❁
 Re @K4y1s this post is an open appreciation to you for all the support]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Papi Billy: Re DevDao + Hedera]]></title>
-        <id>https://twitter.com/wc49358/status/1585298333618212864</id>
-        <link href="https://twitter.com/wc49358/status/1585298333618212864"/>
-        <updated>2022-10-26T15:52:30.000Z</updated>
-        <summary type="html"><![CDATA[RT Papi Billy
-Re DevDao + Hedera
-Developer DAO (🧱, 🚀): 👀 Hedera x Developer DAO
-🛠️ Meet the team and learn what you can build on @hedera.
-Set Reminder:
- https://twitter.com/i/spaces/1lPJqBgkWeAxb?s=20]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
