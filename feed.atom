@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-29T06:15:32.367Z</id>
+    <id>urn:2022-10-30T06:15:22.828Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-29T06:15:32.367Z</updated>
+    <updated>2022-10-30T06:15:22.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intro to EVM Development by @crypdoughdoteth 💪 Join us here=> on 2nd Nov, 4:30 pm UTC Hosted by @yash___garg 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1586251489579655168</id>
+        <link href="https://twitter.com/developer_dao/status/1586251489579655168"/>
+        <updated>2022-10-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intro to EVM Development by @crypdoughdoteth 💪
+Join us here=> 
+on 2nd Nov, 4:30 pm UTC
+Hosted by @yash___garg 🫡 https://www.youtube.com/watch?v=ereNG_-Azyc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @nicoburkart, you can now read all about it in the latest @developer...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1586145791344779270</id>
+        <link href="https://twitter.com/devntellxyz/status/1586145791344779270"/>
+        <updated>2022-10-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+GM frens!  If you missed all the action from #DevNTell this week with @nicoburkart, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-data-unions]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: Remember to get those spooky memes submitted for a chance to win 400 $CODE token that will give you full membership into @develo...]]></title>
+        <id>https://twitter.com/narb_s/status/1586116515069595648</id>
+        <link href="https://twitter.com/narb_s/status/1586116515069595648"/>
+        <updated>2022-10-28T22:03:40.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+Remember to get those spooky memes submitted for a chance to win 400 $CODE token that will give you full membership into @developer_dao 👇
+DevNTell: 👻 Whose ready for #Spooktober giveaway?
+🪄 As Halloween is upon us, reply to this tweet with your best original spooky #web3 meme for a chance to win 400 $CODE token 
+🧛 Submission deadline is Sunday Oct 30th at 7pm UTC
+🎃 One winner will be chosen on Halloween Day (Oct 31st)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens 🌈 We had another great showing today at the @developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @...]]></title>
         <id>https://twitter.com/devntellxyz/status/1586088549870620672</id>
@@ -177,44 +216,6 @@ Read & Collect @viamirror now ⬇️⬇️⬇️
         <updated>2022-10-26T20:12:19.000Z</updated>
         <summary type="html"><![CDATA[RT garretthughes.eth
 1/n Really excited to announce I’m joining @rabbithole_gg as Head of Engineering.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: My latest experiment in the @ArweaveTeam ecosystem is with Execution Machine - @exmbuild ⬢ EXM is a platform that...]]></title>
-        <id>https://twitter.com/dabit3/status/1585351555301396480</id>
-        <link href="https://twitter.com/dabit3/status/1585351555301396480"/>
-        <updated>2022-10-26T19:23:59.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-My latest experiment in the @ArweaveTeam ecosystem is with Execution Machine - @exmbuild ⬢
-EXM is a platform that enables developers to build + deploy permanent serverless functions on Arweave ⚡️
-Today I released an in depth tutorial + codebase here: https://github.com/dabit3/execution-machine]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens: Want to learn about @hedera – one of the most used enterprise-grade public blockchain networks? 🧱⛓🌎 Jo...]]></title>
-        <id>https://twitter.com/BrianHHough/status/1585351063963856896</id>
-        <link href="https://twitter.com/BrianHHough/status/1585351063963856896"/>
-        <updated>2022-10-26T19:22:02.000Z</updated>
-        <summary type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth/lens
-Want to learn about @hedera – one of the most used enterprise-grade public blockchain networks? 🧱⛓🌎
-Join @developer_dao for today’s #TwitterSpace w/ the Hedera Team’s @defigirlxoxo, @bmgentile, @woodwardmatt, @thehbarbull, hosted by D_D’s own @wc49358 🔥🙏🙌
-Join in fren ↴
-Developer DAO (🧱, 🚀): 
- https://twitter.com/i/spaces/1zqKVPZdLQAJB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re handled liked a 👑by @wc49358]]></title>
-        <id>https://twitter.com/developer_dao/status/1585347268064219136</id>
-        <link href="https://twitter.com/developer_dao/status/1585347268064219136"/>
-        <updated>2022-10-26T19:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Re handled liked a 👑by @wc49358]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

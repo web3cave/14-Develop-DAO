@@ -77,6 +77,36 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1586251489579655168",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Intro to EVM Development by @crypdoughdoteth 💪\nJoin us here=> \non 2nd Nov, 4:30 pm UTC\nHosted by @yash___garg 🫡 https://www.youtube.com/watch?v=ereNG_-Azyc",
+          "link": "https://twitter.com/developer_dao/status/1586251489579655168",
+          "publishedOn": "2022-10-29T07:00:00.000Z",
+          "wordCount": 399,
+          "title": "Intro to EVM Development by @crypdoughdoteth 💪 Join us here=> on 2nd Nov, 4:30 pm UTC Hosted by @yash___garg 🫡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devntellxyz/status/1586145791344779270",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\nGM frens!  If you missed all the action from #DevNTell this week with @nicoburkart, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-data-unions",
+          "link": "https://twitter.com/devntellxyz/status/1586145791344779270",
+          "publishedOn": "2022-10-29T00:00:00.000Z",
+          "wordCount": 399,
+          "title": "RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @nicoburkart, you can now read all about it in the latest @developer...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/narb_s/status/1586116515069595648",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\nRemember to get those spooky memes submitted for a chance to win 400 $CODE token that will give you full membership into @developer_dao 👇\nDevNTell: 👻 Whose ready for #Spooktober giveaway?\n🪄 As Halloween is upon us, reply to this tweet with your best original spooky #web3 meme for a chance to win 400 $CODE token \n🧛 Submission deadline is Sunday Oct 30th at 7pm UTC\n🎃 One winner will be chosen on Halloween Day (Oct 31st)",
+          "link": "https://twitter.com/narb_s/status/1586116515069595648",
+          "publishedOn": "2022-10-28T22:03:40.000Z",
+          "wordCount": 399,
+          "title": "RT Narb | narbeh.eth: Remember to get those spooky memes submitted for a chance to win 400 $CODE token that will give you full membership into @develo...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/devntellxyz/status/1586088549870620672",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT DevNTell\n🌈 gm frens 🌈\nWe had another great showing today at the \n@developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @dataunions, gave us an overview of Data Unions 🪄\nIf you missed us live, you can now watch the recording on YouTube 📹: https://youtu.be/8WYHNwIor6Y",
@@ -214,36 +244,6 @@
           "publishedOn": "2022-10-26T20:12:19.000Z",
           "wordCount": 399,
           "title": "RT garretthughes.eth: 1/n Really excited to announce I’m joining @rabbithole_gg as Head of Engineering.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1585351555301396480",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nMy latest experiment in the @ArweaveTeam ecosystem is with Execution Machine - @exmbuild ⬢\nEXM is a platform that enables developers to build + deploy permanent serverless functions on Arweave ⚡️\nToday I released an in depth tutorial + codebase here: https://github.com/dabit3/execution-machine",
-          "link": "https://twitter.com/dabit3/status/1585351555301396480",
-          "publishedOn": "2022-10-26T19:23:59.000Z",
-          "wordCount": 399,
-          "title": "RT nader (🧱, 🚀) | nader.lens: My latest experiment in the @ArweaveTeam ecosystem is with Execution Machine - @exmbuild ⬢ EXM is a platform that...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/BrianHHough/status/1585351063963856896",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Brian H. Hough | brianhuff.eth/lens\nWant to learn about @hedera – one of the most used enterprise-grade public blockchain networks? 🧱⛓🌎\nJoin @developer_dao for today’s #TwitterSpace w/ the Hedera Team’s @defigirlxoxo, @bmgentile, @woodwardmatt, @thehbarbull, hosted by D_D’s own @wc49358 🔥🙏🙌\nJoin in fren ↴\nDeveloper DAO (🧱, 🚀): \n https://twitter.com/i/spaces/1zqKVPZdLQAJB",
-          "link": "https://twitter.com/BrianHHough/status/1585351063963856896",
-          "publishedOn": "2022-10-26T19:22:02.000Z",
-          "wordCount": 399,
-          "title": "RT Brian H. Hough | brianhuff.eth/lens: Want to learn about @hedera – one of the most used enterprise-grade public blockchain networks? 🧱⛓🌎 Jo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1585347268064219136",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re handled liked a 👑by @wc49358",
-          "link": "https://twitter.com/developer_dao/status/1585347268064219136",
-          "publishedOn": "2022-10-26T19:06:57.000Z",
-          "wordCount": 399,
-          "title": "Re handled liked a 👑by @wc49358",
           "imageUrl": null
         },
         {
