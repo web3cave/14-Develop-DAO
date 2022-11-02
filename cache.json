@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/46-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Happy DAO 📈 Sad Panda 🐼",
+          "link": "https://developerdao.substack.com/p/46-probably-nothing",
+          "publishedOn": "2022-11-01T16:36:38.000Z",
+          "wordCount": null,
+          "title": "#46 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64f84aa8-df9b-4aeb-9edb-718e5a34099f_1456x728.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64f84aa8-df9b-4aeb-9edb-718e5a34099f_1456x728.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/45-probably-nothing",
           "author": "Colin4ward",
           "description": "From hola to olá",
@@ -77,6 +93,126 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1587611311130628096",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We are live!  Come Join in and learn about @StatesDao and what they are up to\nStates DAO (⌨️,⌨️): 🚨 AMA W/ DEVELOPER DAO 🚨\nJoin us TOMORROW for a ✨special✨ama with @developer_dao where we’ll be chatting about our accelerator States Launch, @spacebar_nft, and our roadmap\nWEN:\n⏰ TOMORROW @ 6pm PST\n https://twitter.com/i/spaces/1dRKZMpXEvmxB",
+          "link": "https://twitter.com/developer_dao/status/1587611311130628096",
+          "publishedOn": "2022-11-02T01:03:27.000Z",
+          "wordCount": 399,
+          "title": "We are live! Come Join in and learn about @StatesDao and what they are up to",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DAppaDanDev/status/1587560110133346304",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DappaDan (🧱,🚀)\nWeb3 DevRel - It's in the hands. \n@camiinthisthang and @dabit3 showing you how it's done. 👏",
+          "link": "https://twitter.com/DAppaDanDev/status/1587560110133346304",
+          "publishedOn": "2022-11-01T21:40:00.000Z",
+          "wordCount": 399,
+          "title": "RT DappaDan (🧱,🚀): Web3 DevRel - It's in the hands. @camiinthisthang and @dabit3 showing you how it's done. 👏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BluePanda_io/status/1587558295820124160",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Broken BluePanda (🧑‍⚕️,❤️‍🩹 )\nGm frens! I’m in🇵🇹 for web3 week. We went surfing with EDEN🌱team day before ETHLisbon & I broke my back🏄🏻‍♂️Compression fracture of 4 vertebrae. Consider minting BrokenPanda NFT to help with medical expenses🙏🏼 @edenprotocolxyz made the art🥹\n@developer_dao💙 https://www.mintables.club/m/brokenpanda",
+          "link": "https://twitter.com/BluePanda_io/status/1587558295820124160",
+          "publishedOn": "2022-11-01T21:32:47.000Z",
+          "wordCount": 399,
+          "title": "RT Broken BluePanda (🧑‍⚕️,❤️‍🩹 ): Gm frens! I’m in🇵🇹 for web3 week. We went surfing with EDEN🌱team day before ETHLisbon & I brok...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ETHSanDiego/status/1587525341030989824",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ETH SD\nEthereum San Diego is turning one year old this month 🥳\nlet’s take a look at the impact we've had over the last year:\n21 in-person events 🎉\n350+ community members 🫶\n1 Clubhouse 🏠\n1 Hacker House 💻\nbelow is a thread on our progress 🧵",
+          "link": "https://twitter.com/ETHSanDiego/status/1587525341030989824",
+          "publishedOn": "2022-11-01T19:21:50.000Z",
+          "wordCount": 399,
+          "title": "RT ETH SD: Ethereum San Diego is turning one year old this month 🥳 let’s take a look at the impact we've had over the last year: 21 in-person even...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devdaowomen/status/1587519073281200128",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT D_D Women\nWe are excited to partner with @PhoenixGuildHQ, to onboard more female and non-binary developers into the world of solidity.✨\nWe will be sponsoring two @developer_dao  memberships to participants who complete the bootcamp.\nRegister here, to get started: https://lu.ma/0gs7o1kb?s=09",
+          "link": "https://twitter.com/devdaowomen/status/1587519073281200128",
+          "publishedOn": "2022-11-01T18:56:56.000Z",
+          "wordCount": 399,
+          "title": "RT D_D Women: We are excited to partner with @PhoenixGuildHQ, to onboard more female and non-binary developers into the world of solidity.✨ We will b...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Yazanator/status/1587466008058642432",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Yaz Khoury\nHey CT, @CelestiaOrg is hiring for a Devrel Program Manager to join the Devrel team! Come work with us to make hackathons, manage the Modular fellows program, build our event and sponsorship strategy and own swag 😎 You’ll also be mentored by me to help you grow your Devrel chops",
+          "link": "https://twitter.com/Yazanator/status/1587466008058642432",
+          "publishedOn": "2022-11-01T15:26:04.000Z",
+          "wordCount": 399,
+          "title": "RT Yaz Khoury: Hey CT, @CelestiaOrg is hiring for a Devrel Program Manager to join the Devrel team! Come work with us to make hackathons, manage the M...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/biconomy/status/1587421568900087808",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Biconomy\nA game-changer for Web3 developers is coming. \nWatch this space, fam  *sound on 📣*\nA thread👇\n#BiconomySDK #developers #infrastructure #toolkit",
+          "link": "https://twitter.com/biconomy/status/1587421568900087808",
+          "publishedOn": "2022-11-01T12:29:29.000Z",
+          "wordCount": 399,
+          "title": "RT Biconomy: A game-changer for Web3 developers is coming. Watch this space, fam *sound on 📣* A thread👇 #BiconomySDK #developers #infrastructure...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/PatrickGuay1/status/1587366128074067968",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Patrick\nLoved the @ETHLisbon hackathon! It brought so many amazing people from all over and so many amazing projects came out of it!\nHere is what @MissBriannaM & I built, which led us to be 1 of the top 10 projects of the hackathon & won top bounties from @WalletConnect & @ArweaveTeam!",
+          "link": "https://twitter.com/PatrickGuay1/status/1587366128074067968",
+          "publishedOn": "2022-11-01T08:49:11.000Z",
+          "wordCount": 399,
+          "title": "RT Patrick: Loved the @ETHLisbon hackathon! It brought so many amazing people from all over and so many amazing projects came out of it! Here is what ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587361914224627714",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Thank you to everyone who joined us last Friday, for our 3rd Town Hall of Season 1. It was massively informative! We hope to open up more forums, where we can discuss and share ideas as a community.\nMint has now closed.\nDesign: @boyluan",
+          "link": "https://twitter.com/developer_dao/status/1587361914224627714",
+          "publishedOn": "2022-11-01T08:32:26.000Z",
+          "wordCount": 399,
+          "title": "Thank you to everyone who joined us last Friday, for our 3rd Town Hall of Season 1. It was massively informative! We hope to open up more forums, wher...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587350912875520000",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re  https://twitter.com/i/spaces/1dRKZMpXEvmxB?s=20",
+          "link": "https://twitter.com/developer_dao/status/1587350912875520000",
+          "publishedOn": "2022-11-01T07:48:43.000Z",
+          "wordCount": 399,
+          "title": "Re",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587350854742466560",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Developer DAO (🧱, 🚀)\n👀 @StatesDao x Developer DAO\n🛠️ Meet the team and explore accelerator, grants and @statesdao genesis collection. \nSet Reminder: https://twitter.com/i/spaces/1dRKZMpXEvmxB?s=20",
+          "link": "https://twitter.com/developer_dao/status/1587350854742466560",
+          "publishedOn": "2022-11-01T07:48:29.000Z",
+          "wordCount": 399,
+          "title": "RT Developer DAO (🧱, 🚀): 👀 @StatesDao x Developer DAO 🛠️ Meet the team and explore accelerator, grants and @statesdao genesis collection....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587350854742466560",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "👀 @StatesDao x Developer DAO\n🛠️ Meet the team and explore accelerator, grants and @statesdao genesis collection. \nSet Reminder: https://twitter.com/i/spaces/1dRKZMpXEvmxB?s=20",
+          "link": "https://twitter.com/developer_dao/status/1587350854742466560",
+          "publishedOn": "2022-11-01T07:48:29.000Z",
+          "wordCount": 399,
+          "title": "👀 @StatesDao x Developer DAO 🛠️ Meet the team and explore accelerator, grants and @statesdao genesis collection. Set Reminder:",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/Riijo/status/1587173723253112832",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Richa 🔔🦇🔊 DM for PushChat Early Access\nBuidl using Push 🔔✨\nAmazing tutorial by @tchowd_ using @pushprotocol SDK to trigger web3 native notifications.\nDeveloper DAO (🧱, 🚀): Build with the @pushprotocol SDK 🛠️ tutorial by @tchowd_.\nLearn how you can utilize the Push SDK to display notifications from users.\n https://youtu.be/nWcM073RCM0",
@@ -94,16 +230,6 @@
           "publishedOn": "2022-10-31T17:08:33.000Z",
           "wordCount": 399,
           "title": "Build with the @pushprotocol SDK 🛠️ tutorial by @tchowd_. Learn how you can utilize the Push SDK to display notifications from users.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1587112161251409921",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\nThank you to everyone who took the time submit those awesome memes, we really enjoyed them all 🪄\nWith that said, the winner of the @developer_dao #DevNTell spooky meme contest is 🥁....\n🎃 @the_reshma with the spooky bridge meme 🎃\n🍬Have a safe and happy Halloween everybody!",
-          "link": "https://twitter.com/devntellxyz/status/1587112161251409921",
-          "publishedOn": "2022-10-31T16:00:01.000Z",
-          "wordCount": 399,
-          "title": "RT DevNTell: Thank you to everyone who took the time submit those awesome memes, we really enjoyed them all 🪄 With that said, the winner of the @de...",
           "imageUrl": null
         },
         {
@@ -127,36 +253,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/thatguyintech/status/1586991842137997312",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT albert | thatguyinweb3.eth\nRe @0ceans404 throwback to our first time meeting in person in Amsterdam 😁\nfeels like ages ago",
-          "link": "https://twitter.com/thatguyintech/status/1586991842137997312",
-          "publishedOn": "2022-10-31T08:01:54.000Z",
-          "wordCount": 399,
-          "title": "RT albert | thatguyinweb3.eth: Re @0ceans404 throwback to our first time meeting in person in Amsterdam 😁 feels like ages ago",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/manavkampani/status/1586989035360112640",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Manav Kampani\nStarting out on a new role as a DevRel Intern @biconomy \nLet's go 🚀",
-          "link": "https://twitter.com/manavkampani/status/1586989035360112640",
-          "publishedOn": "2022-10-31T07:50:45.000Z",
-          "wordCount": 399,
-          "title": "RT Manav Kampani: Starting out on a new role as a DevRel Intern @biconomy Let's go 🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Aayush_gupta_ji/status/1586982226318700544",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Aayush Gupta| aayush.lens\nGM Everyone 👋\nI am a Blockchain Developer and Technical writer. I am in the web3 space for the last 1 year and now looking for the DevRel/Dev role in the Web3 space. \nYou can read about my work here: \nMEGA 🧵 https://buttercup-bard-08b.notion.site/GM-I-am-Aayush-Gupta-985800e316f4448aae5d5d88b01a164d",
-          "link": "https://twitter.com/Aayush_gupta_ji/status/1586982226318700544",
-          "publishedOn": "2022-10-31T07:23:42.000Z",
-          "wordCount": 399,
-          "title": "RT Aayush Gupta| aayush.lens: GM Everyone 👋 I am a Blockchain Developer and Technical writer. I am in the web3 space for the last 1 year and now lo...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/web3afrika/status/1586920943783403521",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Web3 Afrika\nHappy birthday to one of our finest core team member @tonyolendo\nDo have fun 🚀 we love you 😍",
@@ -164,16 +260,6 @@
           "publishedOn": "2022-10-31T03:20:11.000Z",
           "wordCount": 399,
           "title": "RT Web3 Afrika: Happy birthday to one of our finest core team member @tonyolendo Do have fun 🚀 we love you 😍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1586251489579655168",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Intro to EVM Development by @crypdoughdoteth 💪\nJoin us here=> \non 2nd Nov, 4:30 pm UTC\nHosted by @yash___garg 🫡 https://www.youtube.com/watch?v=ereNG_-Azyc",
-          "link": "https://twitter.com/developer_dao/status/1586251489579655168",
-          "publishedOn": "2022-10-29T07:00:00.000Z",
-          "wordCount": 399,
-          "title": "Intro to EVM Development by @crypdoughdoteth 💪 Join us here=> on 2nd Nov, 4:30 pm UTC Hosted by @yash___garg 🫡",
           "imageUrl": null
         },
         {
@@ -197,83 +283,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/devntellxyz/status/1586088549870620672",
+          "id": "https://twitter.com/StatesDao/status/1585832010517426177",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe had another great showing today at the \n@developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @dataunions, gave us an overview of Data Unions 🪄\nIf you missed us live, you can now watch the recording on YouTube 📹: https://youtu.be/8WYHNwIor6Y",
-          "link": "https://twitter.com/devntellxyz/status/1586088549870620672",
-          "publishedOn": "2022-10-28T20:12:33.000Z",
+          "description": "RT States DAO (⌨️,⌨️)\n💻🌟 Future of States DAO AMA 🌟💻\nJoin us w/ @developer_dao to hear more about our upcoming accelerator, genesis collection @spacebar_nft, and roadmap 🚀✨\nEvent Deets:\n⏰ November 1 @ 6PM PST\n📍 Twitter spaces\n🧑‍💻 Host: @developer_dao",
+          "link": "https://twitter.com/StatesDao/status/1585832010517426177",
+          "publishedOn": "2022-10-28T03:13:09.000Z",
           "wordCount": 399,
-          "title": "RT DevNTell: 🌈 gm frens 🌈 We had another great showing today at the @developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1586047645675462657",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "You have developed on EVM, but not the EVM 🤔.\nLearn about what is EVM and how it works with @crypdoughdoteth 🔥\nJoin us here=> \non 2nd Nov, 4:30 pm UTC\nHosted by @yash___garg✨ https://www.youtube.com/watch?v=ereNG_-Azyc",
-          "link": "https://twitter.com/developer_dao/status/1586047645675462657",
-          "publishedOn": "2022-10-28T17:30:00.000Z",
-          "wordCount": 399,
-          "title": "You have developed on EVM, but not the EVM 🤔. Learn about what is EVM and how it works with @crypdoughdoteth 🔥 Join us here=> on 2nd Nov, 4:30 p...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1586039063823392768",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Web3 without a blockchain? Yes, @hedera makes it possible with hashgraphs! 🔗\n@nonstack wrote a getting started guide for you! 🏫 https://blog.developerdao.com/how-to-start-developing-on-hedera-hashgraph",
-          "link": "https://twitter.com/developer_dao/status/1586039063823392768",
-          "publishedOn": "2022-10-28T16:55:54.000Z",
-          "wordCount": 399,
-          "title": "Web3 without a blockchain? Yes, @hedera makes it possible with hashgraphs! 🔗 @nonstack wrote a getting started guide for you! 🏫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0x3studio/status/1585987498668621829",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0x3 Studio\n⭐️ This week in web3 #4 ⭐️\nEvery Friday afternoon, we share with you the most important news of the week in the world of web3.\n🧵",
-          "link": "https://twitter.com/0x3studio/status/1585987498668621829",
-          "publishedOn": "2022-10-28T13:31:00.000Z",
-          "wordCount": 399,
-          "title": "RT 0x3 Studio: ⭐️ This week in web3 #4 ⭐️ Every Friday afternoon, we share with you the most important news of the week in the world of web3. 🧵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Rahatcodes/status/1585786111502143490",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT rahat.eth\nI dunno I think I look cute",
-          "link": "https://twitter.com/Rahatcodes/status/1585786111502143490",
-          "publishedOn": "2022-10-28T00:10:46.000Z",
-          "wordCount": 399,
-          "title": "RT rahat.eth: I dunno I think I look cute",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/js_horne/status/1585763280991051776",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT jacob\nzora is hiring for engineering up and down the stack as well as a finance lead. email me jacob@zora.co",
-          "link": "https://twitter.com/js_horne/status/1585763280991051776",
-          "publishedOn": "2022-10-27T22:40:02.000Z",
-          "wordCount": 399,
-          "title": "RT jacob: zora is hiring for engineering up and down the stack as well as a finance lead. email me jacob@zora.co",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xShikhar/status/1585713818155765760",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 0xShikhar(🧱,🚀) - .eth/.lens/.sol/.x\nFinally got the @ETHIndiaco confirmation mail 🥳🥳🥳\nI am super exited to meet you all at Bangalore. Gonna meet lot of @developer_dao frens this time 🚀🚀🚀",
-          "link": "https://twitter.com/0xShikhar/status/1585713818155765760",
-          "publishedOn": "2022-10-27T19:23:30.000Z",
-          "wordCount": 399,
-          "title": "RT 0xShikhar(🧱,🚀) - .eth/.lens/.sol/.x: Finally got the @ETHIndiaco confirmation mail 🥳🥳🥳 I am super exited to meet you all at Bangalor...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1585684323721940992",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n👻 Whose ready for #Spooktober giveaway?\n🪄 As Halloween is upon us, reply to this tweet with your best original spooky #web3 meme for a chance to win 400 $CODE token \n🧛 Submission deadline is Sunday Oct 30th at 7pm UTC\n🎃 One winner will be chosen on Halloween Day (Oct 31st)",
-          "link": "https://twitter.com/devntellxyz/status/1585684323721940992",
-          "publishedOn": "2022-10-27T17:26:18.000Z",
-          "wordCount": 399,
-          "title": "RT DevNTell: 👻 Whose ready for #Spooktober giveaway? 🪄 As Halloween is upon us, reply to this tweet with your best original spooky #web3 meme fo...",
+          "title": "RT States DAO (⌨️,⌨️): 💻🌟 Future of States DAO AMA 🌟💻 Join us w/ @developer_dao to hear more about our upcoming accelerator, genesis c...",
           "imageUrl": null
         }
       ]
