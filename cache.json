@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F34adbda2-7c56-468d-ab7e-31ae3b2833b5_1600x800.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/42-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Is it DevCon yet",
-          "link": "https://developerdao.substack.com/p/42-probably-nothing",
-          "publishedOn": "2022-10-04T12:01:18.000Z",
-          "wordCount": null,
-          "title": "#42 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe231ff98-e7d9-46e8-9f01-832a49309c7e_1600x800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe231ff98-e7d9-46e8-9f01-832a49309c7e_1600x800.png"
         }
       ]
     },
@@ -93,6 +77,46 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/wolovim/status/1587927389543141378",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT wolovim.eth 🐼\nnew post ⚡️\nneed moar concurrency but cant use the async provider? quick read on threading + web3py: https://snakecharmers.ethereum.org/web3-py-patterns-multithreading/",
+          "link": "https://twitter.com/wolovim/status/1587927389543141378",
+          "publishedOn": "2022-11-02T21:59:26.000Z",
+          "wordCount": 399,
+          "title": "RT wolovim.eth 🐼: new post ⚡️ need moar concurrency but cant use the async provider? quick read on threading + web3py:",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587887826917642240",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Great opportunity for female and non-binary developers to have a chance at winning a Developer DAO membership 🤩\nD_D Women: We are excited to partner with @PhoenixGuildHQ, to onboard more female and non-binary developers into the world of solidity.✨\nWe will be sponsoring two @developer_dao  memberships to participants who complete the bootcamp.\nRegister here, to get started:\n https://lu.ma/0gs7o1kb?s=09",
+          "link": "https://twitter.com/developer_dao/status/1587887826917642240",
+          "publishedOn": "2022-11-02T19:22:14.000Z",
+          "wordCount": 399,
+          "title": "Great opportunity for female and non-binary developers to have a chance at winning a Developer DAO membership 🤩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587865109900120064",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Had an insightful session with @crypdoughdoteth🫡 on \n\"Intro to EVM Development\"\nIf you missed it out, watch it here👇\n\nHosted by @yash___garg ✨ https://youtu.be/ereNG_-Azyc",
+          "link": "https://twitter.com/developer_dao/status/1587865109900120064",
+          "publishedOn": "2022-11-02T17:51:57.000Z",
+          "wordCount": 399,
+          "title": "Had an insightful session with @crypdoughdoteth🫡 on \"Intro to EVM Development\" If you missed it out, watch it here👇 Hosted by @yash___garg ✨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1587840589126463488",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Starting in 15min !!!\nIntro To EVM Development w/@crypdoughdoteth 🤩\nHosted by @yash___garg 🫡\nJoin us here👇 https://youtu.be/ereNG_-Azyc",
+          "link": "https://twitter.com/developer_dao/status/1587840589126463488",
+          "publishedOn": "2022-11-02T16:14:31.000Z",
+          "wordCount": 399,
+          "title": "Starting in 15min !!! Intro To EVM Development w/@crypdoughdoteth 🤩 Hosted by @yash___garg 🫡 Join us here👇",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1587611311130628096",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "We are live!  Come Join in and learn about @StatesDao and what they are up to\nStates DAO (⌨️,⌨️): 🚨 AMA W/ DEVELOPER DAO 🚨\nJoin us TOMORROW for a ✨special✨ama with @developer_dao where we’ll be chatting about our accelerator States Launch, @spacebar_nft, and our roadmap\nWEN:\n⏰ TOMORROW @ 6pm PST\n https://twitter.com/i/spaces/1dRKZMpXEvmxB",
@@ -100,16 +124,6 @@
           "publishedOn": "2022-11-02T01:03:27.000Z",
           "wordCount": 399,
           "title": "We are live! Come Join in and learn about @StatesDao and what they are up to",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DAppaDanDev/status/1587560110133346304",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DappaDan (🧱,🚀)\nWeb3 DevRel - It's in the hands. \n@camiinthisthang and @dabit3 showing you how it's done. 👏",
-          "link": "https://twitter.com/DAppaDanDev/status/1587560110133346304",
-          "publishedOn": "2022-11-01T21:40:00.000Z",
-          "wordCount": 399,
-          "title": "RT DappaDan (🧱,🚀): Web3 DevRel - It's in the hands. @camiinthisthang and @dabit3 showing you how it's done. 👏",
           "imageUrl": null
         },
         {
@@ -123,16 +137,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/ETHSanDiego/status/1587525341030989824",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ETH SD\nEthereum San Diego is turning one year old this month 🥳\nlet’s take a look at the impact we've had over the last year:\n21 in-person events 🎉\n350+ community members 🫶\n1 Clubhouse 🏠\n1 Hacker House 💻\nbelow is a thread on our progress 🧵",
-          "link": "https://twitter.com/ETHSanDiego/status/1587525341030989824",
-          "publishedOn": "2022-11-01T19:21:50.000Z",
-          "wordCount": 399,
-          "title": "RT ETH SD: Ethereum San Diego is turning one year old this month 🥳 let’s take a look at the impact we've had over the last year: 21 in-person even...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/devdaowomen/status/1587519073281200128",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT D_D Women\nWe are excited to partner with @PhoenixGuildHQ, to onboard more female and non-binary developers into the world of solidity.✨\nWe will be sponsoring two @developer_dao  memberships to participants who complete the bootcamp.\nRegister here, to get started: https://lu.ma/0gs7o1kb?s=09",
@@ -140,36 +144,6 @@
           "publishedOn": "2022-11-01T18:56:56.000Z",
           "wordCount": 399,
           "title": "RT D_D Women: We are excited to partner with @PhoenixGuildHQ, to onboard more female and non-binary developers into the world of solidity.✨ We will b...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Yazanator/status/1587466008058642432",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Yaz Khoury\nHey CT, @CelestiaOrg is hiring for a Devrel Program Manager to join the Devrel team! Come work with us to make hackathons, manage the Modular fellows program, build our event and sponsorship strategy and own swag 😎 You’ll also be mentored by me to help you grow your Devrel chops",
-          "link": "https://twitter.com/Yazanator/status/1587466008058642432",
-          "publishedOn": "2022-11-01T15:26:04.000Z",
-          "wordCount": 399,
-          "title": "RT Yaz Khoury: Hey CT, @CelestiaOrg is hiring for a Devrel Program Manager to join the Devrel team! Come work with us to make hackathons, manage the M...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/biconomy/status/1587421568900087808",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Biconomy\nA game-changer for Web3 developers is coming. \nWatch this space, fam  *sound on 📣*\nA thread👇\n#BiconomySDK #developers #infrastructure #toolkit",
-          "link": "https://twitter.com/biconomy/status/1587421568900087808",
-          "publishedOn": "2022-11-01T12:29:29.000Z",
-          "wordCount": 399,
-          "title": "RT Biconomy: A game-changer for Web3 developers is coming. Watch this space, fam *sound on 📣* A thread👇 #BiconomySDK #developers #infrastructure...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/PatrickGuay1/status/1587366128074067968",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Patrick\nLoved the @ETHLisbon hackathon! It brought so many amazing people from all over and so many amazing projects came out of it!\nHere is what @MissBriannaM & I built, which led us to be 1 of the top 10 projects of the hackathon & won top bounties from @WalletConnect & @ArweaveTeam!",
-          "link": "https://twitter.com/PatrickGuay1/status/1587366128074067968",
-          "publishedOn": "2022-11-01T08:49:11.000Z",
-          "wordCount": 399,
-          "title": "RT Patrick: Loved the @ETHLisbon hackathon! It brought so many amazing people from all over and so many amazing projects came out of it! Here is what ...",
           "imageUrl": null
         },
         {
@@ -243,33 +217,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/cannablitch/status/1587106298369380353",
+          "id": "https://twitter.com/developer_dao/status/1586251489579655168",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Cannablitch.eth\nRe ✨ also started off this morning with the @developer_dao Product Managers round table, we finally have our first Product Workshop scheduled for November! Also just shout out to our team of badass PM's. I'm so lucky to work beside them and lead the team.",
-          "link": "https://twitter.com/cannablitch/status/1587106298369380353",
-          "publishedOn": "2022-10-31T15:36:43.000Z",
+          "description": "Intro to EVM Development by @crypdoughdoteth 💪\nJoin us here=> \non 2nd Nov, 4:30 pm UTC\nHosted by @yash___garg 🫡 https://www.youtube.com/watch?v=ereNG_-Azyc",
+          "link": "https://twitter.com/developer_dao/status/1586251489579655168",
+          "publishedOn": "2022-10-29T07:00:00.000Z",
           "wordCount": 399,
-          "title": "RT Cannablitch.eth: Re ✨ also started off this morning with the @developer_dao Product Managers round table, we finally have our first Product Worksh...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/web3afrika/status/1586920943783403521",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Web3 Afrika\nHappy birthday to one of our finest core team member @tonyolendo\nDo have fun 🚀 we love you 😍",
-          "link": "https://twitter.com/web3afrika/status/1586920943783403521",
-          "publishedOn": "2022-10-31T03:20:11.000Z",
-          "wordCount": 399,
-          "title": "RT Web3 Afrika: Happy birthday to one of our finest core team member @tonyolendo Do have fun 🚀 we love you 😍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1586145791344779270",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\nGM frens!  If you missed all the action from #DevNTell this week with @nicoburkart, you can now read all about it in the latest @developer_dao blog entry: https://blog.developerdao.com/devntell-data-unions",
-          "link": "https://twitter.com/devntellxyz/status/1586145791344779270",
-          "publishedOn": "2022-10-29T00:00:00.000Z",
-          "wordCount": 399,
-          "title": "RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @nicoburkart, you can now read all about it in the latest @developer...",
+          "title": "Intro to EVM Development by @crypdoughdoteth 💪 Join us here=> on 2nd Nov, 4:30 pm UTC Hosted by @yash___garg 🫡",
           "imageUrl": null
         },
         {
@@ -280,6 +234,36 @@
           "publishedOn": "2022-10-28T22:03:40.000Z",
           "wordCount": 399,
           "title": "RT Narb | narbeh.eth: Remember to get those spooky memes submitted for a chance to win 400 $CODE token that will give you full membership into @develo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devntellxyz/status/1586088549870620672",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe had another great showing today at the \n@developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @dataunions, gave us an overview of Data Unions 🪄\nIf you missed us live, you can now watch the recording on YouTube 📹: https://youtu.be/8WYHNwIor6Y",
+          "link": "https://twitter.com/devntellxyz/status/1586088549870620672",
+          "publishedOn": "2022-10-28T20:12:33.000Z",
+          "wordCount": 399,
+          "title": "RT DevNTell: 🌈 gm frens 🌈 We had another great showing today at the @developer_dao #DevNTell where @nicoburkart, DevRel engineer at @streamr & @...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1586047645675462657",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "You have developed on EVM, but not the EVM 🤔.\nLearn about what is EVM and how it works with @crypdoughdoteth 🔥\nJoin us here=> \non 2nd Nov, 4:30 pm UTC\nHosted by @yash___garg✨ https://www.youtube.com/watch?v=ereNG_-Azyc",
+          "link": "https://twitter.com/developer_dao/status/1586047645675462657",
+          "publishedOn": "2022-10-28T17:30:00.000Z",
+          "wordCount": 399,
+          "title": "You have developed on EVM, but not the EVM 🤔. Learn about what is EVM and how it works with @crypdoughdoteth 🔥 Join us here=> on 2nd Nov, 4:30 p...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1586039063823392768",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Web3 without a blockchain? Yes, @hedera makes it possible with hashgraphs! 🔗\n@nonstack wrote a getting started guide for you! 🏫 https://blog.developerdao.com/how-to-start-developing-on-hedera-hashgraph",
+          "link": "https://twitter.com/developer_dao/status/1586039063823392768",
+          "publishedOn": "2022-10-28T16:55:54.000Z",
+          "wordCount": 399,
+          "title": "Web3 without a blockchain? Yes, @hedera makes it possible with hashgraphs! 🔗 @nonstack wrote a getting started guide for you! 🏫",
           "imageUrl": null
         },
         {
