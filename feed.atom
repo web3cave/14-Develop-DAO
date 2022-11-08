@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-07T06:15:51.766Z</id>
+    <id>urn:2022-11-08T06:15:32.062Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-07T06:15:51.766Z</updated>
+    <updated>2022-11-08T06:15:32.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The biggest StarkNet event in Asia 🤯 Bengaluru — Nov 30 - Dec 1 ⏱ A two-day event that will be a mix of talks, panels, hacking, and brainstorming...]]></title>
+        <id>https://twitter.com/developer_dao/status/1589650263404859394</id>
+        <link href="https://twitter.com/developer_dao/status/1589650263404859394"/>
+        <updated>2022-11-07T16:05:31.000Z</updated>
+        <summary type="html"><![CDATA[The biggest StarkNet event in Asia 🤯
+Bengaluru — Nov 30 - Dec 1 ⏱
+A two-day event that will be a mix of talks, panels, hacking, and brainstorming on ZK and Cairo (the base language of StarkNet). 🔥
+Registration is now open ⚡️
+Starknet.cc (Bangalore 🇮🇳 Nov 30 - Dec 1): ZK, Cairo, StarkNet, and Ethereum curious chads!! 
+Get ready for the biggest StarkNet event in Asia. The StarkNet community will take over Bengaluru from Nov 30 - Dec 1.
+Register to participate- 
+Follow this thread 🧵 to learn more about what to expect 👇
+ https://starknet-cc.devfolio.co/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna become a Solidity dev? 👩‍💻👨‍💻 @frankiefab100 took the time to gather a bunch of repos that will help along the way! 🤯]]></title>
+        <id>https://twitter.com/developer_dao/status/1589621730984747013</id>
+        <link href="https://twitter.com/developer_dao/status/1589621730984747013"/>
+        <updated>2022-11-07T14:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Wanna become a Solidity dev? 👩‍💻👨‍💻
+@frankiefab100 took the time to gather a bunch of repos that will help along the way! 🤯 https://blog.developerdao.com/35-github-repositories-every-solidity-developer-should-bookmark]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Stef(🧱,🚀): Update...we won a bounty from @xmtp_!! 🎉🎉🎉 Next level shipping 🚀 A group of women in tech from @herdaolatam @Web3Famil...]]></title>
+        <id>https://twitter.com/StefLikeCurry/status/1589470546479419392</id>
+        <link href="https://twitter.com/StefLikeCurry/status/1589470546479419392"/>
+        <updated>2022-11-07T04:11:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Stef(🧱,🚀)
+Update...we won a bounty from @xmtp_!! 🎉🎉🎉
+Next level shipping 🚀
+A group of women in tech from @herdaolatam @Web3Familia
+and @developer_dao
+Plus different parts of the world Peru, Spain, and America. 
+I don't speak Spanish and they do😅
+Stef(🧱,🚀): First in-person web3 hackathon with @ETHGlobal for #ETHSanFrancisco2022 🚀
+Built so much in a short time with this amazing team from @herdaolatam 💫
+ Built a platform to assist people that are victims of sexual assault on college campuses.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens 🌈 We had another great showing today at the @developer_dao #DevNTell where @DigitalDustChan gave us an overview of Long ...]]></title>
         <id>https://twitter.com/devntellxyz/status/1588604560079466497</id>
@@ -175,33 +223,6 @@ Join us here👇 https://youtu.be/ereNG_-Azyc]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We are live! Come Join in and learn about @StatesDao and what they are up to]]></title>
-        <id>https://twitter.com/developer_dao/status/1587611311130628096</id>
-        <link href="https://twitter.com/developer_dao/status/1587611311130628096"/>
-        <updated>2022-11-02T01:03:27.000Z</updated>
-        <summary type="html"><![CDATA[We are live!  Come Join in and learn about @StatesDao and what they are up to
-States DAO (⌨️,⌨️): 🚨 AMA W/ DEVELOPER DAO 🚨
-Join us TOMORROW for a ✨special✨ama with @developer_dao where we’ll be chatting about our accelerator States Launch, @spacebar_nft, and our roadmap
-WEN:
-⏰ TOMORROW @ 6pm PST
- https://twitter.com/i/spaces/1dRKZMpXEvmxB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Broken BluePanda (🧑‍⚕️,❤️‍🩹 ): Gm frens! I’m in🇵🇹 for web3 week. We went surfing with EDEN🌱team day before ETHLisbon & I brok...]]></title>
-        <id>https://twitter.com/BluePanda_io/status/1587558295820124160</id>
-        <link href="https://twitter.com/BluePanda_io/status/1587558295820124160"/>
-        <updated>2022-11-01T21:32:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Broken BluePanda (🧑‍⚕️,❤️‍🩹 )
-Gm frens! I’m in🇵🇹 for web3 week. We went surfing with EDEN🌱team day before ETHLisbon & I broke my back🏄🏻‍♂️Compression fracture of 4 vertebrae. Consider minting BrokenPanda NFT to help with medical expenses🙏🏼 @edenprotocolxyz made the art🥹
-@developer_dao💙 https://www.mintables.club/m/brokenpanda]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#46 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/46-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/46-probably-nothing"/>
@@ -209,19 +230,6 @@ Gm frens! I’m in🇵🇹 for web3 week. We went surfing with EDEN🌱team day 
         <summary type="html"><![CDATA[Happy DAO 📈 Sad Panda 🐼]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): 👀 @StatesDao x Developer DAO 🛠️ Meet the team and explore accelerator, grants and @statesdao genesis collection....]]></title>
-        <id>https://twitter.com/developer_dao/status/1587350854742466560</id>
-        <link href="https://twitter.com/developer_dao/status/1587350854742466560"/>
-        <updated>2022-11-01T07:48:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
-👀 @StatesDao x Developer DAO
-🛠️ Meet the team and explore accelerator, grants and @statesdao genesis collection. 
-Set Reminder: https://twitter.com/i/spaces/1dRKZMpXEvmxB?s=20]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
