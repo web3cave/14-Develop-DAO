@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/47-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Chuck and Wiktor go full Jerry Maguire",
+          "link": "https://developerdao.substack.com/p/47-probably-nothing",
+          "publishedOn": "2022-11-08T15:20:47.000Z",
+          "wordCount": null,
+          "title": "#47 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f49dea1-4816-4ee8-98d1-bc2d520cc802_1456x728.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f49dea1-4816-4ee8-98d1-bc2d520cc802_1456x728.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/46-probably-nothing",
           "author": "Colin4ward",
           "description": "Happy DAO 📈 Sad Panda 🐼",
@@ -76,6 +92,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/Rahatcodes/status/1590008562310610944",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT rahat.eth\nLearn about building on Polygon and and possibly join @developer_dao. Doesn't get better than that.\nPolygon Guild Ahmedabad 💜: Want to get exclusive memberships of @developer_dao???\nThen you have to take part in Gujarat's biggest Web3 Event...\nWe have 3 D_D membership giveaways, hurry up and register fast, seats are limited\n https://lu.ma/PolygonGuildAhmedabad",
+          "link": "https://twitter.com/Rahatcodes/status/1590008562310610944",
+          "publishedOn": "2022-11-08T15:49:16.000Z",
+          "wordCount": 399,
+          "title": "RT rahat.eth: Learn about building on Polygon and and possibly join @developer_dao. Doesn't get better than that.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Web3Dubai/status/1589938026280808448",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Web3Dubai Conf\nREMINDER: \n@dabit3 (@AaveAave + @LensProtocol)\n@Mudit__Gupta (@0xPolygon)\n@sarangparikh22 (@SushiSwap)\n@httpJunkie (@ConsenSys)\n@barinov (@blockscoutcom & xDAI)\nWith workshops, hackathon & demo day! http://web3dubai.org",
+          "link": "https://twitter.com/Web3Dubai/status/1589938026280808448",
+          "publishedOn": "2022-11-08T11:08:59.000Z",
+          "wordCount": 399,
+          "title": "RT Web3Dubai Conf: REMINDER: @dabit3 (@AaveAave + @LensProtocol) @Mudit__Gupta (@0xPolygon) @sarangparikh22 (@SushiSwap) @httpJunkie (@ConsenSys) @bar...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1589650263404859394",
           "author": "Developer DAO (🧱, 🚀)",
@@ -199,11 +235,11 @@
         {
           "id": "https://twitter.com/gitcoin/status/1588146371231719425",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Gitcoin 🤖 🌍\ngm builders 🫡",
+          "description": "RT Gitcoin (🤖, 💚)\ngm builders 🫡",
           "link": "https://twitter.com/gitcoin/status/1588146371231719425",
           "publishedOn": "2022-11-03T12:29:35.000Z",
           "wordCount": 399,
-          "title": "RT Gitcoin 🤖 🌍: gm builders 🫡",
+          "title": "RT Gitcoin (🤖, 💚): gm builders 🫡",
           "imageUrl": null
         },
         {
@@ -224,26 +260,6 @@
           "publishedOn": "2022-11-02T19:22:14.000Z",
           "wordCount": 399,
           "title": "Great opportunity for female and non-binary developers to have a chance at winning a Developer DAO membership 🤩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1587865109900120064",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Had an insightful session with @crypdoughdoteth🫡 on \n\"Intro to EVM Development\"\nIf you missed it out, watch it here👇\n\nHosted by @yash___garg ✨ https://youtu.be/ereNG_-Azyc",
-          "link": "https://twitter.com/developer_dao/status/1587865109900120064",
-          "publishedOn": "2022-11-02T17:51:57.000Z",
-          "wordCount": 399,
-          "title": "Had an insightful session with @crypdoughdoteth🫡 on \"Intro to EVM Development\" If you missed it out, watch it here👇 Hosted by @yash___garg ✨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1587840589126463488",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Starting in 15min !!!\nIntro To EVM Development w/@crypdoughdoteth 🤩\nHosted by @yash___garg 🫡\nJoin us here👇 https://youtu.be/ereNG_-Azyc",
-          "link": "https://twitter.com/developer_dao/status/1587840589126463488",
-          "publishedOn": "2022-11-02T16:14:31.000Z",
-          "wordCount": 399,
-          "title": "Starting in 15min !!! Intro To EVM Development w/@crypdoughdoteth 🤩 Hosted by @yash___garg 🫡 Join us here👇",
           "imageUrl": null
         },
         {

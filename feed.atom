@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-08T06:15:32.062Z</id>
+    <id>urn:2022-11-09T06:19:51.618Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-08T06:15:32.062Z</updated>
+    <updated>2022-11-09T06:19:51.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT rahat.eth: Learn about building on Polygon and and possibly join @developer_dao. Doesn't get better than that.]]></title>
+        <id>https://twitter.com/Rahatcodes/status/1590008562310610944</id>
+        <link href="https://twitter.com/Rahatcodes/status/1590008562310610944"/>
+        <updated>2022-11-08T15:49:16.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth
+Learn about building on Polygon and and possibly join @developer_dao. Doesn't get better than that.
+Polygon Guild Ahmedabad 💜: Want to get exclusive memberships of @developer_dao???
+Then you have to take part in Gujarat's biggest Web3 Event...
+We have 3 D_D membership giveaways, hurry up and register fast, seats are limited
+ https://lu.ma/PolygonGuildAhmedabad]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#47 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/47-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/47-probably-nothing"/>
+        <updated>2022-11-08T15:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Chuck and Wiktor go full Jerry Maguire]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Web3Dubai Conf: REMINDER: @dabit3 (@AaveAave + @LensProtocol) @Mudit__Gupta (@0xPolygon) @sarangparikh22 (@SushiSwap) @httpJunkie (@ConsenSys) @bar...]]></title>
+        <id>https://twitter.com/Web3Dubai/status/1589938026280808448</id>
+        <link href="https://twitter.com/Web3Dubai/status/1589938026280808448"/>
+        <updated>2022-11-08T11:08:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3Dubai Conf
+REMINDER: 
+@dabit3 (@AaveAave + @LensProtocol)
+@Mudit__Gupta (@0xPolygon)
+@sarangparikh22 (@SushiSwap)
+@httpJunkie (@ConsenSys)
+@barinov (@blockscoutcom & xDAI)
+With workshops, hackathon & demo day! http://web3dubai.org]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The biggest StarkNet event in Asia 🤯 Bengaluru — Nov 30 - Dec 1 ⏱ A two-day event that will be a mix of talks, panels, hacking, and brainstorming...]]></title>
         <id>https://twitter.com/developer_dao/status/1589650263404859394</id>
@@ -159,11 +201,11 @@ Then check out @K4y1s' new article about building an image uploader with @IPFS! 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Gitcoin 🤖 🌍: gm builders 🫡]]></title>
+        <title type="html"><![CDATA[RT Gitcoin (🤖, 💚): gm builders 🫡]]></title>
         <id>https://twitter.com/gitcoin/status/1588146371231719425</id>
         <link href="https://twitter.com/gitcoin/status/1588146371231719425"/>
         <updated>2022-11-03T12:29:35.000Z</updated>
-        <summary type="html"><![CDATA[RT Gitcoin 🤖 🌍
+        <summary type="html"><![CDATA[RT Gitcoin (🤖, 💚)
 gm builders 🫡]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
@@ -191,33 +233,6 @@ D_D Women: We are excited to partner with @PhoenixGuildHQ, to onboard more fem
 We will be sponsoring two @developer_dao  memberships to participants who complete the bootcamp.
 Register here, to get started:
  https://lu.ma/0gs7o1kb?s=09]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Had an insightful session with @crypdoughdoteth🫡 on "Intro to EVM Development" If you missed it out, watch it here👇 Hosted by @yash___garg ✨]]></title>
-        <id>https://twitter.com/developer_dao/status/1587865109900120064</id>
-        <link href="https://twitter.com/developer_dao/status/1587865109900120064"/>
-        <updated>2022-11-02T17:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Had an insightful session with @crypdoughdoteth🫡 on 
-"Intro to EVM Development"
-If you missed it out, watch it here👇
-
-Hosted by @yash___garg ✨ https://youtu.be/ereNG_-Azyc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starting in 15min !!! Intro To EVM Development w/@crypdoughdoteth 🤩 Hosted by @yash___garg 🫡 Join us here👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1587840589126463488</id>
-        <link href="https://twitter.com/developer_dao/status/1587840589126463488"/>
-        <updated>2022-11-02T16:14:31.000Z</updated>
-        <summary type="html"><![CDATA[Starting in 15min !!!
-Intro To EVM Development w/@crypdoughdoteth 🤩
-Hosted by @yash___garg 🫡
-Join us here👇 https://youtu.be/ereNG_-Azyc]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
