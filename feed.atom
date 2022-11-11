@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-10T06:15:49.229Z</id>
+    <id>urn:2022-11-11T06:17:16.781Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-10T06:15:49.229Z</updated>
+    <updated>2022-11-11T06:17:16.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Should we get verified?]]></title>
+        <id>https://twitter.com/developer_dao/status/1590922895143862272</id>
+        <link href="https://twitter.com/developer_dao/status/1590922895143862272"/>
+        <updated>2022-11-11T04:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Should we get verified?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1590918863054864386</id>
+        <link href="https://twitter.com/developer_dao/status/1590918863054864386"/>
+        <updated>2022-11-11T04:06:29.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth / lens | 🫡: Posted a long-form brain dump/thought experiment to the @developer_dao forum, informed by feedback and observations ...]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1590755917561491456</id>
+        <link href="https://twitter.com/kempsterrrr/status/1590755917561491456"/>
+        <updated>2022-11-10T17:19:00.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth / lens | 🫡
+Posted a long-form brain dump/thought experiment to the @developer_dao  forum, informed by feedback and observations since starting Season 1.
+Can we build a better game?
+Would love to hear from as many folks as possible, it's all ❤️ out here. https://forum.developerdao.com/t/can-we-build-a-better-game/2528/1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Kash 🏗️ &🚀 at DAOHelper.com: The problem with crypto is that users must invest money to participate. That's sus. 🚀📢Launching 716 compa...]]></title>
+        <id>https://twitter.com/ChKashifAli/status/1590727745377824768</id>
+        <link href="https://twitter.com/ChKashifAli/status/1590727745377824768"/>
+        <updated>2022-11-10T15:27:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Kash 🏗️ &🚀 at DAOHelper.com
+The problem with crypto is that users must invest money to participate. That's sus.
+🚀📢Launching 
+716 companies/daos
+26 open jobs and bounties 
+worth $1.8M
+Sign up now! http://DAOHelper.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gm Everyone💜 We will be having our First Product Management on "Localisation and Web3" w/@CaddleMaya✨ In this session find out how you can think a...]]></title>
+        <id>https://twitter.com/developer_dao/status/1590726632423116800</id>
+        <link href="https://twitter.com/developer_dao/status/1590726632423116800"/>
+        <updated>2022-11-10T15:22:38.000Z</updated>
+        <summary type="html"><![CDATA[gm Everyone💜
+We will be having our First Product Management on "Localisation and Web3" w/@CaddleMaya✨
+In this session find out how you can think about building web3 products that scale *globally*. 
+Join here at 4 pm UTC 👇
+
+Hosted by @cannablitch🫡 https://youtu.be/i-XyDBaBOC4]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understand the EVM Development from the D_D workshops ✨ Intro To EVM Development🚀 by @crypdoughdoteth Watch it here👇]]></title>
+        <id>https://twitter.com/developer_dao/status/1590592591262720000</id>
+        <link href="https://twitter.com/developer_dao/status/1590592591262720000"/>
+        <updated>2022-11-10T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Understand the EVM Development from the D_D workshops ✨
+Intro To EVM Development🚀 by @crypdoughdoteth 
+Watch it here👇 https://youtu.be/ereNG_-Azyc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @CaddleMaya @YouTube soweee time in the original post was wrong... update to 4pm UTC tomorrow, 10th November]]></title>
         <id>https://twitter.com/developer_dao/status/1590484400361570304</id>
@@ -157,20 +232,6 @@ Hosted by @yash___garg 🫡 https://youtu.be/fYpxsAYO7Oc]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Coinvise ✨: We're officially hosting Coinvise Cosmo Night at ETH India 🇮🇳 We're thrilled to partner with @devfolio & @CapxFi alongside @deve...]]></title>
-        <id>https://twitter.com/CoinviseCo/status/1590378547834937344</id>
-        <link href="https://twitter.com/CoinviseCo/status/1590378547834937344"/>
-        <updated>2022-11-09T16:19:28.000Z</updated>
-        <summary type="html"><![CDATA[RT Coinvise ✨
-We're officially hosting Coinvise Cosmo Night at ETH India 🇮🇳
-We're thrilled to partner with @devfolio & @CapxFi alongside @developer_dao & @banklessDAO ✨
-RSVP
-↳ https://lu.ma/4mx22ug1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT nicob.eth in Bangkok 🇹🇭: I wrote a post on how I started my web3 journey with @developer_dao and how you can too 🚀🚀]]></title>
         <id>https://twitter.com/nicoburkart/status/1590368284138156032</id>
         <link href="https://twitter.com/nicoburkart/status/1590368284138156032"/>
@@ -194,19 +255,6 @@ If you want performant, decentralized, and permanent storage for the videos on y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Awesome opportunity today for anyone and everyone working on projects in or outside of the DAO 👀 First workshop in a series on getting grants: The ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1590347480360980481</id>
-        <link href="https://twitter.com/developer_dao/status/1590347480360980481"/>
-        <updated>2022-11-09T14:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Awesome opportunity today for anyone and everyone working on projects in or outside of the DAO 👀 
-First workshop in a series on getting grants:
-The Components of a Great Grant Application
-Hosted by our Fundraising Operators @mr_cgc & @Wikist_ https://www.youtube.com/watch?v=cOacn81scoE]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT jtriley.eth: the fuel virtual machine architecture article is live 🤘 we're diving into the asset, call, and memory models, storage layout, execu...]]></title>
         <id>https://twitter.com/jtriley_eth/status/1590302458592792578</id>
         <link href="https://twitter.com/jtriley_eth/status/1590302458592792578"/>
@@ -215,31 +263,6 @@ Hosted by our Fundraising Operators @mr_cgc & @Wikist_ https://www.youtube.com
 the fuel virtual machine architecture article is live 🤘
 we're diving into the asset, call, and memory models, storage layout, execution contexts, and even the instruction set. this info comes straight from the spec, links included!
 @fuellabs_ @SwayLang https://jtriley.substack.com/p/the-fuel-virtual-machine-architecture?sd=pf]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to connect your website to the blockchain with the latest popular tools. "Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3" w/@w...]]></title>
-        <id>https://twitter.com/developer_dao/status/1590264579023867907</id>
-        <link href="https://twitter.com/developer_dao/status/1590264579023867907"/>
-        <updated>2022-11-09T08:46:35.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to connect your website to the blockchain with the latest popular tools.
-"Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3" w/@wc49358 💪
-Watch it here, today at 5 pm UTC => 
-
-Hosted by @yash___garg 🫡 https://youtu.be/fYpxsAYO7Oc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Papi Billy: Tomorrow on the @developer_dao youtube channel. I'll be going over Wagmi+Rainbow kit. How to connect your website to the blockchain 9am...]]></title>
-        <id>https://twitter.com/wc49358/status/1590192504468836352</id>
-        <link href="https://twitter.com/wc49358/status/1590192504468836352"/>
-        <updated>2022-11-09T04:00:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Papi Billy
-Tomorrow on the @developer_dao youtube channel.  I'll be going over Wagmi+Rainbow kit.  How to connect your website to the blockchain 9am PST https://www.youtube.com/watch?v=fYpxsAYO7Oc]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -258,21 +281,6 @@ Read on for a list of all the prize winners from this historic hackathon...]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT rahat.eth: Learn about building on Polygon and and possibly join @developer_dao. Doesn't get better than that.]]></title>
-        <id>https://twitter.com/Rahatcodes/status/1590008562310610944</id>
-        <link href="https://twitter.com/Rahatcodes/status/1590008562310610944"/>
-        <updated>2022-11-08T15:49:16.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth
-Learn about building on Polygon and and possibly join @developer_dao. Doesn't get better than that.
-Polygon Guild Ahmedabad 💜: Want to get exclusive memberships of @developer_dao???
-Then you have to take part in Gujarat's biggest Web3 Event...
-We have 3 D_D membership giveaways, hurry up and register fast, seats are limited
- https://lu.ma/PolygonGuildAhmedabad]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#47 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/47-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/47-probably-nothing"/>
@@ -280,23 +288,6 @@ We have 3 D_D membership giveaways, hurry up and register fast, seats are limite
         <summary type="html"><![CDATA[Chuck and Wikist go full Jerry Maguire]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3Dubai Conf: REMINDER: @dabit3 (@AaveAave + @LensProtocol) @Mudit__Gupta (@0xPolygon) @sarangparikh22 (@SushiSwap) @httpJunkie (@ConsenSys) @bar...]]></title>
-        <id>https://twitter.com/Web3Dubai/status/1589938026280808448</id>
-        <link href="https://twitter.com/Web3Dubai/status/1589938026280808448"/>
-        <updated>2022-11-08T11:08:59.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3Dubai Conf
-REMINDER: 
-@dabit3 (@AaveAave + @LensProtocol)
-@Mudit__Gupta (@0xPolygon)
-@sarangparikh22 (@SushiSwap)
-@httpJunkie (@ConsenSys)
-@barinov (@blockscoutcom & xDAI)
-With workshops, hackathon & demo day! http://web3dubai.org]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
