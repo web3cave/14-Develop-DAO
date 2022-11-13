@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-12T06:14:44.981Z</id>
+    <id>urn:2022-11-13T06:14:38.344Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-12T06:14:44.981Z</updated>
+    <updated>2022-11-13T06:14:38.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Gitcoin vibes (:D, :D) 🌱: What's are the best ways to support early stage web3 project builders? 🫡 We’re excited to announce the launch of a...]]></title>
-        <id>https://twitter.com/GitcoinFam/status/1591215986710978561</id>
-        <link href="https://twitter.com/GitcoinFam/status/1591215986710978561"/>
-        <updated>2022-11-11T23:47:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Gitcoin vibes (:D, :D) 🌱
-What's are the best ways to support early stage web3 project builders? 🫡
-We’re excited to announce the launch of a new experiment: a collaborative workshop series called “Buidl in Public” 🧵]]></summary>
+        <title type="html"><![CDATA[Re @FarzaTV Congratulations!! 🔥👑]]></title>
+        <id>https://twitter.com/developer_dao/status/1591437407035228165</id>
+        <link href="https://twitter.com/developer_dao/status/1591437407035228165"/>
+        <updated>2022-11-12T14:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @FarzaTV Congratulations!! 🔥👑]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -33,6 +31,21 @@ GM frens!  If you missed all the action from #DevNTell this week with @PSkinnerT
         <id>https://twitter.com/developer_dao/status/1591191085367595008</id>
         <link href="https://twitter.com/developer_dao/status/1591191085367595008"/>
         <updated>2022-11-11T22:08:12.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Farza 🇺🇸 🇵🇰: Big news. We've raised $10m led by a16z to build Hogwarts for the builders and dreamers. It's a school for those who don't...]]></title>
+        <id>https://twitter.com/FarzaTV/status/1591131253410918400</id>
+        <link href="https://twitter.com/FarzaTV/status/1591131253410918400"/>
+        <updated>2022-11-11T18:10:27.000Z</updated>
+        <summary type="html"><![CDATA[RT Farza 🇺🇸 🇵🇰
+Big news.
+We've raised $10m led by a16z to build Hogwarts for the builders and dreamers.
+It's a school for those who don't want to just "get a job" -- who want to instead pursue an alternative path.
+We're profitable + have 125,000+ users.
+Let's go 😈 https://buildspace.so/raise]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -102,6 +115,18 @@ krystal || theekrystallee.eth/lens: excited to announce i accepted and signed 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT ORB 🪐: who wants to get invited next? 👀 drop your lens handle 🌿]]></title>
+        <id>https://twitter.com/orbwagmi/status/1591032340012466178</id>
+        <link href="https://twitter.com/orbwagmi/status/1591032340012466178"/>
+        <updated>2022-11-11T11:37:24.000Z</updated>
+        <summary type="html"><![CDATA[RT ORB 🪐
+who wants to get invited next? 👀
+drop your lens handle 🌿]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Should we get verified?]]></title>
         <id>https://twitter.com/developer_dao/status/1590922895143862272</id>
         <link href="https://twitter.com/developer_dao/status/1590922895143862272"/>
@@ -160,20 +185,6 @@ In this session find out how you can think about building web3 products that sca
 Join here at 4 pm UTC 👇
 
 Hosted by @cannablitch🫡 https://youtu.be/i-XyDBaBOC4]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Biconomy: #Web3 is evolving beyond walled-garden, single blockchains. Cross-chain messaging and multi-chain relayers will help scale the best-utili...]]></title>
-        <id>https://twitter.com/biconomy/status/1590694175804379136</id>
-        <link href="https://twitter.com/biconomy/status/1590694175804379136"/>
-        <updated>2022-11-10T13:13:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Biconomy
-#Web3 is evolving beyond walled-garden, single blockchains.
-Cross-chain messaging and multi-chain relayers will help scale the best-utilised #dApps.
-Future-proof your project with a chainless experience with #BiconomySDK!
-Launching Nov. 15✍🏼]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -269,18 +280,6 @@ By @calummoore ⛓️ https://blog.developerdao.com/ethereum-is-censoring-tran
         <updated>2022-11-09T20:39:30.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Bundlr | we're hiring!: For the next 4 weeks, @encodeclub is hosting a hackathon for builders to make Web3 video creator tools and applications on ...]]></title>
-        <id>https://twitter.com/BundlrNetwork/status/1590366801531375616</id>
-        <link href="https://twitter.com/BundlrNetwork/status/1590366801531375616"/>
-        <updated>2022-11-09T15:32:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Bundlr | we're hiring!
-For the next 4 weeks, @encodeclub is hosting a hackathon for builders to make Web3 video creator tools and applications on @Livepeer 📺 
-If you want performant, decentralized, and permanent storage for the videos on your dApps, you'll want to use @BundlrNetwork and #Arweave]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
