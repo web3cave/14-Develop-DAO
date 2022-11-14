@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/gus_tavo_guim/status/1591450518651817985",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT GUSTAVO\nTried out today FuelVM and SWAY by @fuellabs_ . \nDev tooling is very much a work in progress but I liked the experience of using them so far.\nAlso enjoyed the tutorial put together by @camiinthisthang .\nHere the code I created following it https://github.com/gustavoguimaraes/first-sway-contract",
+          "link": "https://twitter.com/gus_tavo_guim/status/1591450518651817985",
+          "publishedOn": "2022-11-12T15:19:06.000Z",
+          "wordCount": 399,
+          "title": "RT GUSTAVO: Tried out today FuelVM and SWAY by @fuellabs_ . Dev tooling is very much a work in progress but I liked the experience of using them so fa...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1591437407035228165",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @FarzaTV Congratulations!! 🔥👑",
@@ -264,16 +274,6 @@
           "publishedOn": "2022-11-09T23:08:53.000Z",
           "wordCount": 399,
           "title": "The only real long-term solution is to make nodes participating in the protocol completely dumb to what is actually being processed. That’s actually ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1590478909854060544",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1590478909854060544",
-          "publishedOn": "2022-11-09T22:58:16.000Z",
-          "wordCount": 399,
-          "title": "Untitled",
           "imageUrl": null
         }
       ]
