@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/44-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Coming up for air at 2,640m",
-          "link": "https://developerdao.substack.com/p/44-probably-nothing",
-          "publishedOn": "2022-10-18T12:05:31.000Z",
-          "wordCount": null,
-          "title": "#44 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png"
         }
       ]
     },
@@ -92,6 +76,46 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1593019889970991106",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys\nConsenSys Diligence: Today we published the Diligence Security Tooling Guide to help devs across Web3 level up their smart contract security! 🥳🚀\n The guide features 22 tools from @GnosisDAO @trufflesuite @OpenZeppelin @TenderlyApp and more, and when to use each at every stage of development.👇",
+          "link": "https://twitter.com/developer_dao/status/1593019889970991106",
+          "publishedOn": "2022-11-16T23:15:13.000Z",
+          "wordCount": 399,
+          "title": "We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1592917915006820356",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Thanks to everyone who attended the workshop! It went splendidly! 🥳\nNext week D_D Fundraising Operators @mr_cgc & @Wikist_\nwill come back to you with another one! 👀\nFor those who missed it: https://www.youtube.com/watch?v=Ynd0jgI4UCM",
+          "link": "https://twitter.com/developer_dao/status/1592917915006820356",
+          "publishedOn": "2022-11-16T16:30:00.000Z",
+          "wordCount": 399,
+          "title": "Thanks to everyone who attended the workshop! It went splendidly! 🥳 Next week D_D Fundraising Operators @mr_cgc & @Wikist_ will come back to you wi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1592895278939504645",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We are LIVE!!! 🚨\nD_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀\n2nd topic:\nWrite a Compelling Narrative for Your Project\nWatch on YouTube and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM",
+          "link": "https://twitter.com/developer_dao/status/1592895278939504645",
+          "publishedOn": "2022-11-16T15:00:03.000Z",
+          "wordCount": 399,
+          "title": "We are LIVE!!! 🚨 D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrativ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1592865070165348352",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "In two hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀\n2nd topic:\nWrite a Compelling Narrative for Your Project\nWatch at 3pm UTC this Wednesday and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM",
+          "link": "https://twitter.com/developer_dao/status/1592865070165348352",
+          "publishedOn": "2022-11-16T13:00:01.000Z",
+          "wordCount": 399,
+          "title": "In two hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrative f...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/devntellxyz/status/1592673913087328256",
           "author": "Developer DAO (🧱, 🚀)",
@@ -213,36 +237,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1592193138524934150",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "How to create and deploy an SVG NFT on-chain? \nLearn by one of the D_D workshop here- \n\nThanks to @velvet_shark for this awesome🤩 workshop. https://www.youtube.com/watch?v=Hfga2UjupVU",
-          "link": "https://twitter.com/developer_dao/status/1592193138524934150",
-          "publishedOn": "2022-11-14T16:30:00.000Z",
-          "wordCount": 399,
-          "title": "How to create and deploy an SVG NFT on-chain? Learn by one of the D_D workshop here- Thanks to @velvet_shark for this awesome🤩 workshop.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Wikist_/status/1592193002872926209",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Wikist || wikist.eth/lens\nRe @dabit3 sparkling real hope, motivation and courage in all of the @developer_dao community. Thank you from the bottom of my hearth that you have your values in place and that you are pushing everyone forward to become the best version of themselves. You are a true icon and ty:)",
-          "link": "https://twitter.com/Wikist_/status/1592193002872926209",
-          "publishedOn": "2022-11-14T16:29:28.000Z",
-          "wordCount": 399,
-          "title": "RT Wikist || wikist.eth/lens: Re @dabit3 sparkling real hope, motivation and courage in all of the @developer_dao community. Thank you from the bottom...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1592192895247089666",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "gm ☀️",
-          "link": "https://twitter.com/developer_dao/status/1592192895247089666",
-          "publishedOn": "2022-11-14T16:29:02.000Z",
-          "wordCount": 399,
-          "title": "gm ☀️",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/theekrystallee/status/1592185309210759168",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT krystal || theekrystallee.eth/lens\nhere are some crypto safety measures to implement and lower your risk to exposure \na short 🧵 \n0/",
@@ -250,16 +244,6 @@
           "publishedOn": "2022-11-14T15:58:53.000Z",
           "wordCount": 399,
           "title": "RT krystal || theekrystallee.eth/lens: here are some crypto safety measures to implement and lower your risk to exposure a short 🧵 0/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1592170489589399556",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "This week D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀\n2nd topic:\nWrite a Compelling Narrative for Your Project\nWatch at 3pm UTC this Wednesday and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM",
-          "link": "https://twitter.com/developer_dao/status/1592170489589399556",
-          "publishedOn": "2022-11-14T15:00:00.000Z",
-          "wordCount": 399,
-          "title": "This week D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrative for ...",
           "imageUrl": null
         },
         {

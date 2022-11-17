@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T06:14:43.599Z</id>
+    <id>urn:2022-11-17T06:14:30.621Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-16T06:14:43.599Z</updated>
+    <updated>2022-11-17T06:14:30.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys]]></title>
+        <id>https://twitter.com/developer_dao/status/1593019889970991106</id>
+        <link href="https://twitter.com/developer_dao/status/1593019889970991106"/>
+        <updated>2022-11-16T23:15:13.000Z</updated>
+        <summary type="html"><![CDATA[We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys
+ConsenSys Diligence: Today we published the Diligence Security Tooling Guide to help devs across Web3 level up their smart contract security! 🥳🚀
+ The guide features 22 tools from @GnosisDAO @trufflesuite @OpenZeppelin @TenderlyApp and more, and when to use each at every stage of development.👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanks to everyone who attended the workshop! It went splendidly! 🥳 Next week D_D Fundraising Operators @mr_cgc & @Wikist_ will come back to you wi...]]></title>
+        <id>https://twitter.com/developer_dao/status/1592917915006820356</id>
+        <link href="https://twitter.com/developer_dao/status/1592917915006820356"/>
+        <updated>2022-11-16T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to everyone who attended the workshop! It went splendidly! 🥳
+Next week D_D Fundraising Operators @mr_cgc & @Wikist_
+will come back to you with another one! 👀
+For those who missed it: https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We are LIVE!!! 🚨 D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrativ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1592895278939504645</id>
+        <link href="https://twitter.com/developer_dao/status/1592895278939504645"/>
+        <updated>2022-11-16T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[We are LIVE!!! 🚨
+D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀
+2nd topic:
+Write a Compelling Narrative for Your Project
+Watch on YouTube and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In two hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrative f...]]></title>
+        <id>https://twitter.com/developer_dao/status/1592865070165348352</id>
+        <link href="https://twitter.com/developer_dao/status/1592865070165348352"/>
+        <updated>2022-11-16T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[In two hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀
+2nd topic:
+Write a Compelling Narrative for Your Project
+Watch at 3pm UTC this Wednesday and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#48 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/48-probably-nothing</id>
@@ -164,40 +216,6 @@ Plug in as @narb_s shares his web3 journey, leading @devntellxyz and @Glossetado
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to create and deploy an SVG NFT on-chain? Learn by one of the D_D workshop here- Thanks to @velvet_shark for this awesome🤩 workshop.]]></title>
-        <id>https://twitter.com/developer_dao/status/1592193138524934150</id>
-        <link href="https://twitter.com/developer_dao/status/1592193138524934150"/>
-        <updated>2022-11-14T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How to create and deploy an SVG NFT on-chain? 
-Learn by one of the D_D workshop here- 
-
-Thanks to @velvet_shark for this awesome🤩 workshop. https://www.youtube.com/watch?v=Hfga2UjupVU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Wikist || wikist.eth/lens: Re @dabit3 sparkling real hope, motivation and courage in all of the @developer_dao community. Thank you from the bottom...]]></title>
-        <id>https://twitter.com/Wikist_/status/1592193002872926209</id>
-        <link href="https://twitter.com/Wikist_/status/1592193002872926209"/>
-        <updated>2022-11-14T16:29:28.000Z</updated>
-        <summary type="html"><![CDATA[RT Wikist || wikist.eth/lens
-Re @dabit3 sparkling real hope, motivation and courage in all of the @developer_dao community. Thank you from the bottom of my hearth that you have your values in place and that you are pushing everyone forward to become the best version of themselves. You are a true icon and ty:)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm ☀️]]></title>
-        <id>https://twitter.com/developer_dao/status/1592192895247089666</id>
-        <link href="https://twitter.com/developer_dao/status/1592192895247089666"/>
-        <updated>2022-11-14T16:29:02.000Z</updated>
-        <summary type="html"><![CDATA[gm ☀️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT krystal || theekrystallee.eth/lens: here are some crypto safety measures to implement and lower your risk to exposure a short 🧵 0/]]></title>
         <id>https://twitter.com/theekrystallee/status/1592185309210759168</id>
         <link href="https://twitter.com/theekrystallee/status/1592185309210759168"/>
@@ -206,19 +224,6 @@ Re @dabit3 sparkling real hope, motivation and courage in all of the @developer_
 here are some crypto safety measures to implement and lower your risk to exposure 
 a short 🧵 
 0/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This week D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrative for ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1592170489589399556</id>
-        <link href="https://twitter.com/developer_dao/status/1592170489589399556"/>
-        <updated>2022-11-14T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This week D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀
-2nd topic:
-Write a Compelling Narrative for Your Project
-Watch at 3pm UTC this Wednesday and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -307,16 +312,6 @@ Here's the guide.
         <link href="https://developerdao.substack.com/p/45-probably-nothing"/>
         <updated>2022-10-26T03:08:40.000Z</updated>
         <summary type="html"><![CDATA[From hola to olá]]></summary>
-        <author>
-            <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#44 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/44-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/44-probably-nothing"/>
-        <updated>2022-10-18T12:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Coming up for air at 2,640m]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>
