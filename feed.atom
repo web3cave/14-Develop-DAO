@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-17T06:14:30.621Z</id>
+    <id>urn:2022-11-18T06:14:53.975Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-17T06:14:30.621Z</updated>
+    <updated>2022-11-18T06:14:53.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): Gm @developer_dao (🧱, 🚀)]]></title>
+        <id>https://twitter.com/kayprasla/status/1593209799491354626</id>
+        <link href="https://twitter.com/kayprasla/status/1593209799491354626"/>
+        <updated>2022-11-17T11:49:51.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
+Gm @developer_dao (🧱, 🚀)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to use Frontend Tools through one of the D_D Workshops🔥 Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀 w/ @wc49358✨ Wa...]]></title>
+        <id>https://twitter.com/developer_dao/status/1593127041578065921</id>
+        <link href="https://twitter.com/developer_dao/status/1593127041578065921"/>
+        <updated>2022-11-17T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn How to use Frontend Tools through one of the D_D Workshops🔥
+Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀
+w/
+@wc49358✨
+Watch it here👇 https://youtu.be/fYpxsAYO7Oc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys]]></title>
         <id>https://twitter.com/developer_dao/status/1593019889970991106</id>
@@ -40,6 +65,20 @@ D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising wor
 2nd topic:
 Write a Compelling Narrative for Your Project
 Watch on YouTube and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Biconomy: Nothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomySDK 🚀 ✅ Familiar Social Sign-ins (Google, Twitter) ✅ ...]]></title>
+        <id>https://twitter.com/biconomy/status/1592865075433394176</id>
+        <link href="https://twitter.com/biconomy/status/1592865075433394176"/>
+        <updated>2022-11-16T13:00:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Biconomy
+Nothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomySDK 🚀
+✅ Familiar Social Sign-ins (Google, Twitter)
+✅ Easy creation of secure Smart Contract Wallets
+✅ No private keys to manage]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -167,50 +206,12 @@ Video tutorial by @Web3Club ⚡️ https://www.youtube.com/watch?v=ibLK_OIOij0
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT marc | wolovim.eth 🐼: look forward to @PyChainConf tmrw for some super shadowy python talks! 🤫🐍 i'll be giving a rundown of the latest in ...]]></title>
-        <id>https://twitter.com/wolovim/status/1592267490163556352</id>
-        <link href="https://twitter.com/wolovim/status/1592267490163556352"/>
-        <updated>2022-11-14T21:25:27.000Z</updated>
-        <summary type="html"><![CDATA[RT marc | wolovim.eth 🐼
-look forward to @PyChainConf tmrw for some super shadowy python talks! 🤫🐍
-i'll be giving a rundown of the latest in web3py at 1:25pm EST ✨
-PyChain - Python and Blockchain Online Conference: We're excited to have @wolovim from @ethereum giving us a talk at @PyChainConf  about 
-#PyChain is free for all the attend! Register now! :
- http://Web3.py https://buff.ly/3DKxaxP https://buff.ly/3sflVqA]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT DappaDan (🧱,🚀): I have been a freelancer in Web3 for almost a year now. I think I have committed all the freelancer mistakes. AMA.]]></title>
         <id>https://twitter.com/DAppaDanDev/status/1592264319387009025</id>
         <link href="https://twitter.com/DAppaDanDev/status/1592264319387009025"/>
         <updated>2022-11-14T21:12:51.000Z</updated>
         <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
 I have been a freelancer in Web3 for almost a year now. I think I have committed all the freelancer mistakes. AMA.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Schwartz.lens: I could not be more excited to share I've joined the developer relations team at @fuellabs_! Here's why I'm so excited about Fuel�...]]></title>
-        <id>https://twitter.com/schwartzswartz/status/1592258863163924480</id>
-        <link href="https://twitter.com/schwartzswartz/status/1592258863163924480"/>
-        <updated>2022-11-14T20:51:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Schwartz.lens
-I could not be more excited to share I've joined the developer relations team at @fuellabs_! Here's why I'm so excited about Fuel👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Episode 7 is up 🎉 Plug in as @narb_s shares his web3 journey, leading @devntellxyz and @Glossetadotcom initiatives. 🫶 Thanks to our frens @State...]]></title>
-        <id>https://twitter.com/developer_dao/status/1592196842699243520</id>
-        <link href="https://twitter.com/developer_dao/status/1592196842699243520"/>
-        <updated>2022-11-14T16:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Episode 7 is up 🎉
-Plug in as @narb_s shares his web3 journey, leading @devntellxyz and @Glossetadotcom initiatives.
-🫶 Thanks to our frens @StatesDao for sponsoring the podcast. https://www.youtube.com/watch?v=tm5lgiYHH2E]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
