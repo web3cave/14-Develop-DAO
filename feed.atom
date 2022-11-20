@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-19T06:13:49.808Z</id>
+    <id>urn:2022-11-20T06:13:42.944Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-19T06:13:49.808Z</updated>
+    <updated>2022-11-20T06:13:42.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1593994930950742022</id>
+        <link href="https://twitter.com/developer_dao/status/1593994930950742022"/>
+        <updated>2022-11-19T15:49:41.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT BanklessDAO 🏴: We're excited to announce our partnership with @CoinviseCo for a fun Coinvise Cosmo Night at @ETHIndiaco 🇮🇳 Glad to be part...]]></title>
+        <id>https://twitter.com/banklessDAO/status/1593963399360270345</id>
+        <link href="https://twitter.com/banklessDAO/status/1593963399360270345"/>
+        <updated>2022-11-19T13:44:23.000Z</updated>
+        <summary type="html"><![CDATA[RT BanklessDAO 🏴
+We're excited to announce our partnership with @CoinviseCo for a fun Coinvise Cosmo Night at @ETHIndiaco  🇮🇳
+Glad to be partnered alongside @devfolio, @CapxFi, @Superfluid_HQ & @developer_dao ✨
+LFG! 🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Radicle CLI with @abbey_titcomb and @cloudhead Built on protocols instead of platforms, Radicle provides creators with secure & uncensorable code ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1593945835473350658</id>
+        <link href="https://twitter.com/developer_dao/status/1593945835473350658"/>
+        <updated>2022-11-19T12:34:35.000Z</updated>
+        <summary type="html"><![CDATA[The Radicle CLI with @abbey_titcomb  and @cloudhead 
+Built on protocols instead of platforms, Radicle provides creators with secure & uncensorable code infrastructure, tools for collective code governance, and new ways to earn for open-source work. ⚡️ https://www.youtube.com/watch?v=9YWN5G_FwNU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): Building decentralized protocols, empowering decentralized communities 🛠 Developer DAO rep 🪄]]></title>
+        <id>https://twitter.com/kayprasla/status/1593930936227434497</id>
+        <link href="https://twitter.com/kayprasla/status/1593930936227434497"/>
+        <updated>2022-11-19T11:35:23.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
+Building decentralized protocols, empowering decentralized communities 🛠
+Developer DAO rep 🪄 https://twitter.com/i/web/status/1593930936227434497]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @httpJunkie @Web3Dubai @9001sabella @Rahatcodes @kayprasla 3 @razacodes, 5 @nazeeh21, 6 @LordHeb]]></title>
         <id>https://twitter.com/developer_dao/status/1593840443971846144</id>
@@ -169,65 +214,15 @@ For the community, by the community! 🧵👇 https://push-protocol.medium.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): Gm @developer_dao (🧱, 🚀)]]></title>
-        <id>https://twitter.com/kayprasla/status/1593209799491354626</id>
-        <link href="https://twitter.com/kayprasla/status/1593209799491354626"/>
-        <updated>2022-11-17T11:49:51.000Z</updated>
-        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
-Gm @developer_dao (🧱, 🚀)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to use Frontend Tools through one of the D_D Workshops🔥 Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀 w/ @wc49358✨ Wa...]]></title>
-        <id>https://twitter.com/developer_dao/status/1593127041578065921</id>
-        <link href="https://twitter.com/developer_dao/status/1593127041578065921"/>
-        <updated>2022-11-17T06:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn How to use Frontend Tools through one of the D_D Workshops🔥
-Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀
-w/
-@wc49358✨
-Watch it here👇 https://youtu.be/fYpxsAYO7Oc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys]]></title>
-        <id>https://twitter.com/developer_dao/status/1593019889970991106</id>
-        <link href="https://twitter.com/developer_dao/status/1593019889970991106"/>
-        <updated>2022-11-16T23:15:13.000Z</updated>
-        <summary type="html"><![CDATA[We're all about leveling up! This is a pretty exciting update from our S1 partners @ConsenSys
-ConsenSys Diligence: Today we published the Diligence Security Tooling Guide to help devs across Web3 level up their smart contract security! 🥳🚀
- The guide features 22 tools from @GnosisDAO @trufflesuite @OpenZeppelin @TenderlyApp and more, and when to use each at every stage of development.👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to everyone who attended the workshop! It went splendidly! 🥳 Next week D_D Fundraising Operators @mr_cgc & @Wikist_ will come back to you wi...]]></title>
-        <id>https://twitter.com/developer_dao/status/1592917915006820356</id>
-        <link href="https://twitter.com/developer_dao/status/1592917915006820356"/>
-        <updated>2022-11-16T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to everyone who attended the workshop! It went splendidly! 🥳
-Next week D_D Fundraising Operators @mr_cgc & @Wikist_
-will come back to you with another one! 👀
-For those who missed it: https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We are LIVE!!! 🚨 D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrativ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1592895278939504645</id>
-        <link href="https://twitter.com/developer_dao/status/1592895278939504645"/>
-        <updated>2022-11-16T15:00:03.000Z</updated>
-        <summary type="html"><![CDATA[We are LIVE!!! 🚨
-D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀
-2nd topic:
-Write a Compelling Narrative for Your Project
-Watch on YouTube and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
+        <title type="html"><![CDATA[RT Spruce: Now commencing phase one of the Bring-Your-Own-Data Revolution 🚀 Introducing SSX - Self-Sovereign Anything - now the easiest way to inst...]]></title>
+        <id>https://twitter.com/SpruceID/status/1592930508417413121</id>
+        <link href="https://twitter.com/SpruceID/status/1592930508417413121"/>
+        <updated>2022-11-16T17:20:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Spruce
+Now commencing phase one of the Bring-Your-Own-Data Revolution 🚀
+Introducing SSX - Self-Sovereign Anything - now the easiest way to install Sign-In with Ethereum, enable DAO Login, and more.
+
+(🧵1/7) https://blog.spruceid.com/announcing-ssx/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -247,19 +242,6 @@ Nothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomyS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In two hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 2nd topic: Write a Compelling Narrative f...]]></title>
-        <id>https://twitter.com/developer_dao/status/1592865070165348352</id>
-        <link href="https://twitter.com/developer_dao/status/1592865070165348352"/>
-        <updated>2022-11-16T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[In two hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀
-2nd topic:
-Write a Compelling Narrative for Your Project
-Watch at 3pm UTC this Wednesday and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#48 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/48-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/48-probably-nothing"/>
@@ -267,6 +249,18 @@ Watch at 3pm UTC this Wednesday and don't be shy to ask your questions! 😎 h
         <summary type="html"><![CDATA[Full Time Xylophonists]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Eda: New post: Intro to zero-knowledge & building zkApps w/@MinaProtocol ✨ Zero-knowledge is one of the most exciting technologies w/the potential...]]></title>
+        <id>https://twitter.com/edatweets_/status/1592507638960381953</id>
+        <link href="https://twitter.com/edatweets_/status/1592507638960381953"/>
+        <updated>2022-11-15T13:19:43.000Z</updated>
+        <summary type="html"><![CDATA[RT Eda
+New post: Intro to zero-knowledge & building zkApps w/@MinaProtocol ✨
+Zero-knowledge is one of the most exciting technologies w/the potential to unlock many use-cases. Here's my post covering the basics & building smart contracts powered by ZKPs on Mina https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
