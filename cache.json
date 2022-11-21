@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1594367465089376259",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Deploy Vyper contract using Foundry🛠 !\nLearn by one of the D_D🤩 workshop here-\n\nThanks to @nazeeh21 for presenting this insightful workshop🔥 https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0&t=173s",
+          "link": "https://twitter.com/developer_dao/status/1594367465089376259",
+          "publishedOn": "2022-11-20T16:30:00.000Z",
+          "wordCount": 399,
+          "title": "Deploy Vyper contract using Foundry🛠 ! Learn by one of the D_D🤩 workshop here- Thanks to @nazeeh21 for presenting this insightful workshop🔥",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1593994930950742022",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "",
@@ -254,16 +264,6 @@
           "publishedOn": "2022-11-16T17:20:03.000Z",
           "wordCount": 399,
           "title": "RT Spruce: Now commencing phase one of the Bring-Your-Own-Data Revolution 🚀 Introducing SSX - Self-Sovereign Anything - now the easiest way to inst...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/biconomy/status/1592865075433394176",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Biconomy\nNothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomySDK 🚀\n✅ Familiar Social Sign-ins (Google, Twitter)\n✅ Easy creation of secure Smart Contract Wallets\n✅ No private keys to manage",
-          "link": "https://twitter.com/biconomy/status/1592865075433394176",
-          "publishedOn": "2022-11-16T13:00:02.000Z",
-          "wordCount": 399,
-          "title": "RT Biconomy: Nothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomySDK 🚀 ✅ Familiar Social Sign-ins (Google, Twitter) ✅ ...",
           "imageUrl": null
         },
         {

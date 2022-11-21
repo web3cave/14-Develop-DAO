@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-20T06:13:42.944Z</id>
+    <id>urn:2022-11-21T06:15:43.105Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-20T06:13:42.944Z</updated>
+    <updated>2022-11-21T06:15:43.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy Vyper contract using Foundry🛠 ! Learn by one of the D_D🤩 workshop here- Thanks to @nazeeh21 for presenting this insightful workshop🔥]]></title>
+        <id>https://twitter.com/developer_dao/status/1594367465089376259</id>
+        <link href="https://twitter.com/developer_dao/status/1594367465089376259"/>
+        <updated>2022-11-20T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Deploy Vyper contract using Foundry🛠 !
+Learn by one of the D_D🤩 workshop here-
+
+Thanks to @nazeeh21 for presenting this insightful workshop🔥 https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0&t=173s]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://twitter.com/developer_dao/status/1593994930950742022</id>
@@ -223,20 +236,6 @@ Now commencing phase one of the Bring-Your-Own-Data Revolution 🚀
 Introducing SSX - Self-Sovereign Anything - now the easiest way to install Sign-In with Ethereum, enable DAO Login, and more.
 
 (🧵1/7) https://blog.spruceid.com/announcing-ssx/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Biconomy: Nothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomySDK 🚀 ✅ Familiar Social Sign-ins (Google, Twitter) ✅ ...]]></title>
-        <id>https://twitter.com/biconomy/status/1592865075433394176</id>
-        <link href="https://twitter.com/biconomy/status/1592865075433394176"/>
-        <updated>2022-11-16T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[RT Biconomy
-Nothing helps #Web3 mass adoption like easy Web2-like onboarding with #BiconomySDK 🚀
-✅ Familiar Social Sign-ins (Google, Twitter)
-✅ Easy creation of secure Smart Contract Wallets
-✅ No private keys to manage]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
