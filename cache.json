@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/49-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Last Town Hall in S1, Who come?!",
+          "link": "https://developerdao.substack.com/p/49-probably-nothing",
+          "publishedOn": "2022-11-23T04:05:36.000Z",
+          "wordCount": null,
+          "title": "#49 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F363c1f24-8880-42b1-a07c-15cf5dd3c56b_1456x728.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F363c1f24-8880-42b1-a07c-15cf5dd3c56b_1456x728.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/48-probably-nothing",
           "author": "Colin4ward",
           "description": "Full Time Xylophonists",
@@ -77,6 +93,116 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/devntellxyz/status/1595227486195179520",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe hope you're ready for another great #DevNTell this week where @KaiHuang will be giving us a demo of @superclusterdev 🔥\nRead on below for a little background about Kai before the presentation 👇",
+          "link": "https://twitter.com/devntellxyz/status/1595227486195179520",
+          "publishedOn": "2022-11-23T01:27:25.000Z",
+          "wordCount": 399,
+          "title": "RT DevNTell: 🌈 gm frens 🌈 We hope you're ready for another great #DevNTell this week where @KaiHuang will be giving us a demo of @superclusterde...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/naomiHauret/status/1595226226675027970",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Naomi Hauret\nHey fam, we're building Lens Spaces - it's called  Rally (@rallydotfm - follow us!), and with my teammate @GerzeljTimotej  hosting our first rally (Twitter Space alternative if you didn't follow) on Friday !\nLmk if you want to test it out, we'll keep you a spot in the audience 🫶",
+          "link": "https://twitter.com/naomiHauret/status/1595226226675027970",
+          "publishedOn": "2022-11-23T01:22:24.000Z",
+          "wordCount": 399,
+          "title": "RT Naomi Hauret: Hey fam, we're building Lens Spaces - it's called Rally (@rallydotfm - follow us!), and with my teammate @GerzeljTimotej hosting our ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595220044253868033",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "we are an ever-evolving internet organization",
+          "link": "https://twitter.com/developer_dao/status/1595220044253868033",
+          "publishedOn": "2022-11-23T00:57:50.000Z",
+          "wordCount": 399,
+          "title": "we are an ever-evolving internet organization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/chaserchapman/status/1595152183183683584",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Chase Chapman\n\"we are a DAO\"\n- boring\n- heard it before\n- tells you nothing\n\"we are an ever-evolving internet organization\"\n- arouses curiosity\n- forces debates about 'what is DAO'\n- makes you wonder how ppl pay their bills",
+          "link": "https://twitter.com/chaserchapman/status/1595152183183683584",
+          "publishedOn": "2022-11-22T20:28:11.000Z",
+          "wordCount": 399,
+          "title": "RT Chase Chapman: \"we are a DAO\" - boring - heard it before - tells you nothing \"we are an ever-evolving internet organization\" - arouses curiosity - ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1595133211969216512",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\nThis is actually the coolest blockchain / web3 educational platform I’ve ever seen 🤯\nDesign feels unreal. Can’t imagine the amount of work that went into this. 👏🫡\nNode Guardians: Calling all Guardians !\nAfter months of development, \nHere is our humble contribution to the web3 education landscape. 🧵\n http://nodeguardians.io",
+          "link": "https://twitter.com/dabit3/status/1595133211969216512",
+          "publishedOn": "2022-11-22T19:12:48.000Z",
+          "wordCount": 399,
+          "title": "RT nader (🧱, 🚀) | nader.lens: This is actually the coolest blockchain / web3 educational platform I’ve ever seen 🤯 Design feels unreal. Can...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/nodeguardians/status/1595112282773594112",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Node Guardians\nCalling all Guardians !\nAfter months of development, \nHere is our humble contribution to the web3 education landscape. 🧵 http://nodeguardians.io",
+          "link": "https://twitter.com/nodeguardians/status/1595112282773594112",
+          "publishedOn": "2022-11-22T17:49:38.000Z",
+          "wordCount": 399,
+          "title": "RT Node Guardians: Calling all Guardians ! After months of development, Here is our humble contribution to the web3 education landscape. 🧵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595088572637396993",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @kempsterrrr @CoinviseCo @devfolio @CapxFi @banklessDAO @luganodes @Osh_mahajan @0xjenil can we make sure that the talks are recorded? 👀",
+          "link": "https://twitter.com/developer_dao/status/1595088572637396993",
+          "publishedOn": "2022-11-22T16:15:25.000Z",
+          "wordCount": 399,
+          "title": "Re @kempsterrrr @CoinviseCo @devfolio @CapxFi @banklessDAO @luganodes @Osh_mahajan @0xjenil can we make sure that the talks are recorded? 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1595078982625800193",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth / lens | 🫡\nsome juicy #web3 jobs from @hedera and @ConsenSys on the @developer_dao Job Board. Great work @mannyornothing \nGo check 'em out 👇 https://developerdao.pallet.com/jobs",
+          "link": "https://twitter.com/kempsterrrr/status/1595078982625800193",
+          "publishedOn": "2022-11-22T15:37:19.000Z",
+          "wordCount": 399,
+          "title": "RT kempsterrrr.eth / lens | 🫡: some juicy #web3 jobs from @hedera and @ConsenSys on the @developer_dao Job Board. Great work @mannyornothing Go che...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/routerprotocol/status/1595060180416606208",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Router Protocol | 🔜 ETH India 🦇🔊\nRouter was part of @developer_dao panel last week at @Web3Dubai along with:\n🎙 @razacodes, @Rahatcodes of @0xPolygon\n🎙 @LordHeb of @42Network\n🎙 @kayprasla of @ankr\n🎙 @nazeeh21 of @ReimaginedFi\n“Interoperability is a responsibility” \n(One of the best lines spoken at the event)",
+          "link": "https://twitter.com/routerprotocol/status/1595060180416606208",
+          "publishedOn": "2022-11-22T14:22:36.000Z",
+          "wordCount": 399,
+          "title": "RT Router Protocol | 🔜 ETH India 🦇🔊: Router was part of @developer_dao panel last week at @Web3Dubai along with: 🎙 @razacodes, @Rahatcodes...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/0xTPH/status/1594959015540183041",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT The Product House🚀\nlooking for web3 side events on your way to @ETHIndiaco ? 🔍\nhere are some events hosted by our frens you shouldn't miss out:\nRT to share with other buildooors 🚀",
+          "link": "https://twitter.com/0xTPH/status/1594959015540183041",
+          "publishedOn": "2022-11-22T07:40:36.000Z",
+          "wordCount": 399,
+          "title": "RT The Product House🚀: looking for web3 side events on your way to @ETHIndiaco ? 🔍 here are some events hosted by our frens you shouldn't miss o...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/PSkinnerTech/status/1594853364088578048",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Doc™\nRe @_SchusterDev So far, @developer_dao is by far my favorite.\nI don't try many communities, and I'm always looking for communities to learn from.",
+          "link": "https://twitter.com/PSkinnerTech/status/1594853364088578048",
+          "publishedOn": "2022-11-22T00:40:47.000Z",
+          "wordCount": 399,
+          "title": "RT Doc™: Re @_SchusterDev So far, @developer_dao is by far my favorite. I don't try many communities, and I'm always looking for communities to learn...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/tchowd_/status/1594818750016102428",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT turja.eth 🕺\nBuilt a storage solution this weekend that lets you store images & text on Arweave then view all the past content you've uploaded!\nCode: \nLink: coming soon🤞🏽 https://github.com/turja-c/chowder",
@@ -137,26 +263,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1594723490556411906",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @CryptoPowerGals will be speaking on the importance of having ‘Structures & Processes’ in place, when building a DAO — and how they are integral:\n• to facilitating how people gather\n• to facilitate work\n• to reward work\n• and to appraise the standard of work that is done",
-          "link": "https://twitter.com/developer_dao/status/1594723490556411906",
-          "publishedOn": "2022-11-21T16:04:43.000Z",
-          "wordCount": 399,
-          "title": "Re @CryptoPowerGals will be speaking on the importance of having ‘Structures & Processes’ in place, when building a DAO — and how they are integral...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1594723485653278722",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Hey folks! Did you know we’ve partnered with @CoinviseCo, as they host Cosmo Night ✨ at ETH India 🇮🇳 on 4th December?\nWell today, we’re proud to announce that Community Manager @CryptoPowerGals, and @devdaowomen Founder @me256ow are among the listed speakers for this event\n🧵",
-          "link": "https://twitter.com/developer_dao/status/1594723485653278722",
-          "publishedOn": "2022-11-21T16:04:42.000Z",
-          "wordCount": 399,
-          "title": "Hey folks! Did you know we’ve partnered with @CoinviseCo, as they host Cosmo Night ✨ at ETH India 🇮🇳 on 4th December? Well today, we’re proud...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/OasisProtocol/status/1594705332286234624",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Oasis Foundation\nThe Oasis Privacy Layer — powered by Sapphire, the EVM-compatible ParaTime for web3 — allows Solidity developers to build privacy-enabled dApps with ease\nUse Sapphire to build new confidential dApps ✨or✨ add confidentiality to established dApps, without sacrificing anything",
@@ -184,96 +290,6 @@
           "publishedOn": "2022-11-20T18:31:37.000Z",
           "wordCount": 399,
           "title": "RT Adebayo Olamilekan: Techies 👋, how many NFTs you got? Me: 2 1) @developer_dao devs for revolution 2) buildIt polygon hackathon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1594367465089376259",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Deploy Vyper contract using Foundry🛠 !\nLearn by one of the D_D🤩 workshop here-\n\nThanks to @nazeeh21 for presenting this insightful workshop🔥 https://www.youtube.com/watch?v=Z7JZ-Qm4Vo0&t=173s",
-          "link": "https://twitter.com/developer_dao/status/1594367465089376259",
-          "publishedOn": "2022-11-20T16:30:00.000Z",
-          "wordCount": 399,
-          "title": "Deploy Vyper contract using Foundry🛠 ! Learn by one of the D_D🤩 workshop here- Thanks to @nazeeh21 for presenting this insightful workshop🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1593994930950742022",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1593994930950742022",
-          "publishedOn": "2022-11-19T15:49:41.000Z",
-          "wordCount": 399,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/banklessDAO/status/1593963399360270345",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT BanklessDAO 🏴\nWe're excited to announce our partnership with @CoinviseCo for a fun Coinvise Cosmo Night at @ETHIndiaco  🇮🇳\nGlad to be partnered alongside @devfolio, @CapxFi, @Superfluid_HQ & @developer_dao ✨\nLFG! 🔥",
-          "link": "https://twitter.com/banklessDAO/status/1593963399360270345",
-          "publishedOn": "2022-11-19T13:44:23.000Z",
-          "wordCount": 399,
-          "title": "RT BanklessDAO 🏴: We're excited to announce our partnership with @CoinviseCo for a fun Coinvise Cosmo Night at @ETHIndiaco 🇮🇳 Glad to be part...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1593945835473350658",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The Radicle CLI with @abbey_titcomb  and @cloudhead \nBuilt on protocols instead of platforms, Radicle provides creators with secure & uncensorable code infrastructure, tools for collective code governance, and new ways to earn for open-source work. ⚡️ https://www.youtube.com/watch?v=9YWN5G_FwNU",
-          "link": "https://twitter.com/developer_dao/status/1593945835473350658",
-          "publishedOn": "2022-11-19T12:34:35.000Z",
-          "wordCount": 399,
-          "title": "The Radicle CLI with @abbey_titcomb and @cloudhead Built on protocols instead of platforms, Radicle provides creators with secure & uncensorable code ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kayprasla/status/1593930936227434497",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT krinza.eth (🧱, 🚀)\nBuilding decentralized protocols, empowering decentralized communities 🛠\nDeveloper DAO rep 🪄 https://twitter.com/i/web/status/1593930936227434497",
-          "link": "https://twitter.com/kayprasla/status/1593930936227434497",
-          "publishedOn": "2022-11-19T11:35:23.000Z",
-          "wordCount": 399,
-          "title": "RT krinza.eth (🧱, 🚀): Building decentralized protocols, empowering decentralized communities 🛠 Developer DAO rep 🪄",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1593840443971846144",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @httpJunkie @Web3Dubai @9001sabella @Rahatcodes @kayprasla 3 @razacodes, 5 @nazeeh21, 6 @LordHeb",
-          "link": "https://twitter.com/developer_dao/status/1593840443971846144",
-          "publishedOn": "2022-11-19T05:35:48.000Z",
-          "wordCount": 399,
-          "title": "Re @httpJunkie @Web3Dubai @9001sabella @Rahatcodes @kayprasla 3 @razacodes, 5 @nazeeh21, 6 @LordHeb",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1593830380926279685",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#48 Probably Nothing - a new edition of the Developer DAO newsletter\n- Community highlights 🫂\n- Ecosystem updates⚡️ \n- Guild news (Design, Community, Writers, Marketing / BizDev, Development) 🛠 https://developerdao.substack.com/p/48-probably-nothing",
-          "link": "https://twitter.com/developer_dao/status/1593830380926279685",
-          "publishedOn": "2022-11-19T04:55:49.000Z",
-          "wordCount": 399,
-          "title": "#48 Probably Nothing - a new edition of the Developer DAO newsletter - Community highlights 🫂 - Ecosystem updates⚡️ - Guild news (Design, Communi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SpruceID/status/1592930508417413121",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Spruce\nNow commencing phase one of the Bring-Your-Own-Data Revolution 🚀\nIntroducing SSX - Self-Sovereign Anything - now the easiest way to install Sign-In with Ethereum, enable DAO Login, and more.\n\n(🧵1/7) https://blog.spruceid.com/announcing-ssx/",
-          "link": "https://twitter.com/SpruceID/status/1592930508417413121",
-          "publishedOn": "2022-11-16T17:20:03.000Z",
-          "wordCount": 399,
-          "title": "RT Spruce: Now commencing phase one of the Bring-Your-Own-Data Revolution 🚀 Introducing SSX - Self-Sovereign Anything - now the easiest way to inst...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/edatweets_/status/1592507638960381953",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Eda\nNew post: Intro to zero-knowledge & building zkApps w/@MinaProtocol ✨\nZero-knowledge is one of the most exciting technologies w/the potential to unlock many use-cases. Here's my post covering the basics & building smart contracts powered by ZKPs on Mina https://eda.hashnode.dev/zero-knowledge-building-zkapps-mina-protocol",
-          "link": "https://twitter.com/edatweets_/status/1592507638960381953",
-          "publishedOn": "2022-11-15T13:19:43.000Z",
-          "wordCount": 399,
-          "title": "RT Eda: New post: Intro to zero-knowledge & building zkApps w/@MinaProtocol ✨ Zero-knowledge is one of the most exciting technologies w/the potential...",
           "imageUrl": null
         }
       ]
