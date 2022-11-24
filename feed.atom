@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T06:13:48.771Z</id>
+    <id>urn:2022-11-24T06:13:38.876Z</id>
     <title>web3::cave</title>
-    <updated>2022-11-23T06:13:48.771Z</updated>
+    <updated>2022-11-24T06:13:38.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hey 👀 are there any Developer DAO members currently at ETHVietnam ?? @eth_vietnam Let's find each other below 👇]]></title>
+        <id>https://twitter.com/developer_dao/status/1595620723694997505</id>
+        <link href="https://twitter.com/developer_dao/status/1595620723694997505"/>
+        <updated>2022-11-24T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey 👀 are there any Developer DAO members currently at ETHVietnam ?? @eth_vietnam
+Let's find each other below 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 🤓 Do you still remember the second workshop on fundraising made by D_D Fundraising ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1595522578424160256</id>
+        <link href="https://twitter.com/developer_dao/status/1595522578424160256"/>
+        <updated>2022-11-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 🤓
+Do you still remember the second workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀
+How to Write a Compelling Narrative for Your Project?
+If you missed it: https://www.youtube.com/watch?v=Ynd0jgI4UCM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Hedera: .@Developer_DAO embraces the same values as @Hedera in growing strong, curious, empathetic, and diverse communities across web3 👩‍💻...]]></title>
+        <id>https://twitter.com/hedera/status/1595489897963524101</id>
+        <link href="https://twitter.com/hedera/status/1595489897963524101"/>
+        <updated>2022-11-23T18:50:09.000Z</updated>
+        <summary type="html"><![CDATA[RT Hedera
+.@Developer_DAO embraces the same values as @Hedera in growing strong, curious, empathetic, and diverse communities across web3 👩‍💻🧑‍💻
+We're a proud sponsor this season & look forward to empowering their community with developer education & enablement 🚀 https://hedera.com/blog/hedera-x-devdao-developer-workshops-twitter-spaces-and-community-building]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#49 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/49-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/49-probably-nothing"/>
         <updated>2022-11-23T04:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Last Town Hall in S1, Who come?!]]></summary>
+        <summary type="html"><![CDATA[Last Town Hall in S1, Who Is Coming?]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>
@@ -192,41 +228,6 @@ Super excited to share that I've joined the SDK team at @fuellabs_ to build the 
         <updated>2022-11-21T17:04:18.000Z</updated>
         <summary type="html"><![CDATA[RT Naruto11.eth
 Im traveling to India this weekend and going to be at @ETHIndiaco on 2nd Dec. If anyone from my twitter is there and want me to show around, let me know, I can make a group. We can all go for good biryani and local food. Excited to meet @dabit3 and people from @developer_dao 🫡]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm! Join us now for a workshop on tRPC & Sign-In With Ethereum w/ Monorepos with @codingwithmanny 🚀 YouTube Stream Link 👉]]></title>
-        <id>https://twitter.com/developer_dao/status/1594733059622195200</id>
-        <link href="https://twitter.com/developer_dao/status/1594733059622195200"/>
-        <updated>2022-11-21T16:42:44.000Z</updated>
-        <summary type="html"><![CDATA[gm! 
-Join us now for a workshop on tRPC & Sign-In With Ethereum w/ Monorepos with 
-@codingwithmanny 🚀
-YouTube Stream Link 👉 https://youtu.be/P9BAMyCT7TU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re We’re super excited to see you all at @CoinviseCo Cosmo Night ✨ alongside @devfolio, @CapxFi, @banklessDAO & @luganodes 🥳 Don’t forget to RSV...]]></title>
-        <id>https://twitter.com/developer_dao/status/1594723498269839361</id>
-        <link href="https://twitter.com/developer_dao/status/1594723498269839361"/>
-        <updated>2022-11-21T16:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Re We’re super excited to see you all at @CoinviseCo Cosmo Night ✨ alongside @devfolio, @CapxFi, @banklessDAO & @luganodes 🥳
-Don’t forget to RSVP below #CosmoNight
-↳ https://lu.ma/4mx22ug1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @me256ow will be speaking on the need for ‘Social Layers’ in DAOs — which are particularly important in communities and spaces that are quite he...]]></title>
-        <id>https://twitter.com/developer_dao/status/1594723494428028928</id>
-        <link href="https://twitter.com/developer_dao/status/1594723494428028928"/>
-        <updated>2022-11-21T16:04:44.000Z</updated>
-        <summary type="html"><![CDATA[Re @me256ow will be speaking on the need for ‘Social Layers’ in DAOs — which are particularly important in communities and spaces that are quite heavily geared towards ‘building’. And how these social layers can be leveraged to engage members in formats outside of just work.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
