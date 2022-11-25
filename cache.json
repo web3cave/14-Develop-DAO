@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64f84aa8-df9b-4aeb-9edb-718e5a34099f_1456x728.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/45-probably-nothing",
-          "author": "Colin4ward",
-          "description": "From hola to olá",
-          "link": "https://developerdao.substack.com/p/45-probably-nothing",
-          "publishedOn": "2022-10-26T03:08:40.000Z",
-          "wordCount": null,
-          "title": "#45 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F67ba79b5-ddd4-47cc-ab90-331bd8dfbde2_1600x800.png"
         }
       ]
     },
@@ -92,6 +76,86 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1595876188786167809",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "wagmi",
+          "link": "https://twitter.com/developer_dao/status/1595876188786167809",
+          "publishedOn": "2022-11-24T20:25:08.000Z",
+          "wordCount": 399,
+          "title": "wagmi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595809467479871488",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Do your dapps require authentication and session management? 🤔\nWouldn't it be nice to have something like Auth0 but for web3?\nThen check out this piece about SSX by our member @codingwithmanny! 😎 https://buff.ly/3U5dv0z",
+          "link": "https://twitter.com/developer_dao/status/1595809467479871488",
+          "publishedOn": "2022-11-24T16:00:00.000Z",
+          "wordCount": 399,
+          "title": "Do your dapps require authentication and session management? 🤔 Wouldn't it be nice to have something like Auth0 but for web3? Then check out this p...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/rallydotfm/status/1595783947262332930",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Rally (📢,📢)\nWe want to send warm and huge thank you to all the folks that make building Rally possible: @guildxyz, @LensProtocol, @livekitted , @LitProtocol, @rainbowdotme,  @Web3Storage, @encodeclub  & @womenbuildweb3 🫶",
+          "link": "https://twitter.com/rallydotfm/status/1595783947262332930",
+          "publishedOn": "2022-11-24T14:18:35.000Z",
+          "wordCount": 399,
+          "title": "RT Rally (📢,📢): We want to send warm and huge thank you to all the folks that make building Rally possible: @guildxyz, @LensProtocol, @livekitte...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/mannyornothing/status/1595773641836605440",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT manny\nFrens, if you are job hunting in web3. You need to join the developer dao @developer_dao collective! https://developerdao.pallet.com/talent",
+          "link": "https://twitter.com/mannyornothing/status/1595773641836605440",
+          "publishedOn": "2022-11-24T13:37:38.000Z",
+          "wordCount": 399,
+          "title": "RT manny: Frens, if you are job hunting in web3. You need to join the developer dao @developer_dao collective!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595750112004898817",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re If you’re looking for jobs with some of the best teams in #web3 be sure to sign-up - http://developerdao.pallet.com/jobs",
+          "link": "https://twitter.com/developer_dao/status/1595750112004898817",
+          "publishedOn": "2022-11-24T12:04:08.000Z",
+          "wordCount": 399,
+          "title": "Re If you’re looking for jobs with some of the best teams in #web3 be sure to sign-up -",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595750110155137025",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re 💻 Developer Advocate (US): https://developerdao.pallet.com/jobs/85b9245c-c960-4bd6-a3fd-f3e71b26ed3d",
+          "link": "https://twitter.com/developer_dao/status/1595750110155137025",
+          "publishedOn": "2022-11-24T12:04:08.000Z",
+          "wordCount": 399,
+          "title": "Re 💻 Developer Advocate (US):",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595750108359958529",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @hedera is the most used enterprise-grade public network for you to make your digital world exactly as it should be – yours.\n💻  Developer Advocate (APAC): \n💻  Developer Advocate (Europe): https://developerdao.pallet.com/jobs/2e6c3f11-f45e-4197-b62d-c11e0e134b6e https://developerdao.pallet.com/jobs/8d511712-8ed3-414e-a572-5f21bb9b8d29",
+          "link": "https://twitter.com/developer_dao/status/1595750108359958529",
+          "publishedOn": "2022-11-24T12:04:08.000Z",
+          "wordCount": 399,
+          "title": "Re @hedera is the most used enterprise-grade public network for you to make your digital world exactly as it should be – yours. 💻 Developer Advoca...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1595750105877221377",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚀 D_D Jobs of the Week 🚀 \nCheck out the D_D Job Board for the latest #web3 #jobs from our partners.\nFeatured jobs this week 👇 📜 https://developerdao.pallet.com/jobs",
+          "link": "https://twitter.com/developer_dao/status/1595750105877221377",
+          "publishedOn": "2022-11-24T12:04:07.000Z",
+          "wordCount": 399,
+          "title": "🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. Featured jobs this week 👇 📜",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1595620723694997505",
           "author": "Developer DAO (🧱, 🚀)",
@@ -183,16 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1595088572637396993",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @kempsterrrr @CoinviseCo @devfolio @CapxFi @banklessDAO @luganodes @Osh_mahajan @0xjenil can we make sure that the talks are recorded? 👀",
-          "link": "https://twitter.com/developer_dao/status/1595088572637396993",
-          "publishedOn": "2022-11-22T16:15:25.000Z",
-          "wordCount": 399,
-          "title": "Re @kempsterrrr @CoinviseCo @devfolio @CapxFi @banklessDAO @luganodes @Osh_mahajan @0xjenil can we make sure that the talks are recorded? 👀",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/kempsterrrr/status/1595078982625800193",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT kempsterrrr.eth / lens | 🫡\nsome juicy #web3 jobs from @hedera and @ConsenSys on the @developer_dao Job Board. Great work @mannyornothing \nGo check 'em out 👇 https://developerdao.pallet.com/jobs",
@@ -200,16 +254,6 @@
           "publishedOn": "2022-11-22T15:37:19.000Z",
           "wordCount": 399,
           "title": "RT kempsterrrr.eth / lens | 🫡: some juicy #web3 jobs from @hedera and @ConsenSys on the @developer_dao Job Board. Great work @mannyornothing Go che...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/routerprotocol/status/1595060180416606208",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Router Protocol | 🔜 ETH India 🦇🔊\nRouter was part of @developer_dao panel last week at @Web3Dubai along with:\n🎙 @razacodes, @Rahatcodes of @0xPolygon\n🎙 @LordHeb of @42Network\n🎙 @kayprasla of @ankr\n🎙 @nazeeh21 of @ReimaginedFi\n“Interoperability is a responsibility” \n(One of the best lines spoken at the event)",
-          "link": "https://twitter.com/routerprotocol/status/1595060180416606208",
-          "publishedOn": "2022-11-22T14:22:36.000Z",
-          "wordCount": 399,
-          "title": "RT Router Protocol | 🔜 ETH India 🦇🔊: Router was part of @developer_dao panel last week at @Web3Dubai along with: 🎙 @razacodes, @Rahatcodes...",
           "imageUrl": null
         },
         {
@@ -230,66 +274,6 @@
           "publishedOn": "2022-11-22T00:40:47.000Z",
           "wordCount": 399,
           "title": "RT Doc™: Re @_SchusterDev So far, @developer_dao is by far my favorite. I don't try many communities, and I'm always looking for communities to learn...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tchowd_/status/1594818750016102428",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT turja.eth 🕺\nBuilt a storage solution this weekend that lets you store images & text on Arweave then view all the past content you've uploaded!\nCode: \nLink: coming soon🤞🏽 https://github.com/turja-c/chowder",
-          "link": "https://twitter.com/tchowd_/status/1594818750016102428",
-          "publishedOn": "2022-11-21T22:23:14.000Z",
-          "wordCount": 399,
-          "title": "RT turja.eth 🕺: Built a storage solution this weekend that lets you store images & text on Arweave then view all the past content you've uploaded! ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1594761926646853632",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT dhai.eth ⛽️🌴\nSuper excited to share that I've joined the SDK team at @fuellabs_ to build the fastest modular execution layer! ⛽️🌴",
-          "link": "https://twitter.com/dhaiwat10/status/1594761926646853632",
-          "publishedOn": "2022-11-21T18:37:27.000Z",
-          "wordCount": 399,
-          "title": "RT dhai.eth ⛽️🌴: Super excited to share that I've joined the SDK team at @fuellabs_ to build the fastest modular execution layer! ⛽️🌴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/naruto11eth/status/1594738486778675206",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Naruto11.eth\nIm traveling to India this weekend and going to be at @ETHIndiaco on 2nd Dec. If anyone from my twitter is there and want me to show around, let me know, I can make a group. We can all go for good biryani and local food. Excited to meet @dabit3 and people from @developer_dao 🫡",
-          "link": "https://twitter.com/naruto11eth/status/1594738486778675206",
-          "publishedOn": "2022-11-21T17:04:18.000Z",
-          "wordCount": 399,
-          "title": "RT Naruto11.eth: Im traveling to India this weekend and going to be at @ETHIndiaco on 2nd Dec. If anyone from my twitter is there and want me to show ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OasisProtocol/status/1594705332286234624",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Oasis Foundation\nThe Oasis Privacy Layer — powered by Sapphire, the EVM-compatible ParaTime for web3 — allows Solidity developers to build privacy-enabled dApps with ease\nUse Sapphire to build new confidential dApps ✨or✨ add confidentiality to established dApps, without sacrificing anything",
-          "link": "https://twitter.com/OasisProtocol/status/1594705332286234624",
-          "publishedOn": "2022-11-21T14:52:34.000Z",
-          "wordCount": 399,
-          "title": "RT Oasis Foundation: The Oasis Privacy Layer — powered by Sapphire, the EVM-compatible ParaTime for web3 — allows Solidity developers to build priva...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1594440973161230337",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nExcited to share that I’ll be visiting India in December for @ETHIndiaco!\nPumped up to be in Bengaluru for the first time, meet devs from the region, and eat a lot of local food 🫡\nWho else is going?",
-          "link": "https://twitter.com/dabit3/status/1594440973161230337",
-          "publishedOn": "2022-11-20T21:22:05.000Z",
-          "wordCount": 399,
-          "title": "RT nader (🧱, 🚀) | nader.lens: Excited to share that I’ll be visiting India in December for @ETHIndiaco! Pumped up to be in Bengaluru for the fi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Oleanji_sol/status/1594398073903775744",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Adebayo Olamilekan\nTechies 👋, how many NFTs you got?\nMe: 2 \n1) @developer_dao devs for revolution \n2) buildIt polygon hackathon",
-          "link": "https://twitter.com/Oleanji_sol/status/1594398073903775744",
-          "publishedOn": "2022-11-20T18:31:37.000Z",
-          "wordCount": 399,
-          "title": "RT Adebayo Olamilekan: Techies 👋, how many NFTs you got? Me: 2 1) @developer_dao devs for revolution 2) buildIt polygon hackathon",
           "imageUrl": null
         }
       ]
