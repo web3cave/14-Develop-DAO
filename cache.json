@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f49dea1-4816-4ee8-98d1-bc2d520cc802_1456x728.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/46-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Happy DAO 📈 Sad Panda 🐼",
-          "link": "https://developerdao.substack.com/p/46-probably-nothing",
-          "publishedOn": "2022-11-01T16:36:38.000Z",
-          "wordCount": null,
-          "title": "#46 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64f84aa8-df9b-4aeb-9edb-718e5a34099f_1456x728.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64f84aa8-df9b-4aeb-9edb-718e5a34099f_1456x728.png"
         }
       ]
     },
@@ -93,12 +77,112 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/thatguyintech/status/1598104387096023040",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT albert | thatguyintech.eth\n100 comments on this tweet and I’ll make this video 🧊🧊🧊😂\nPatrick Collins 🌪: @thatguyintech \"I try to explain blockchain while someone puts ice in unexpected places. \"",
+          "link": "https://twitter.com/thatguyintech/status/1598104387096023040",
+          "publishedOn": "2022-11-30T23:59:11.000Z",
+          "wordCount": 398,
+          "title": "RT albert | thatguyintech.eth: 100 comments on this tweet and I’ll make this video 🧊🧊🧊😂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1598034625951313922",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @stefdelev gm",
+          "link": "https://twitter.com/developer_dao/status/1598034625951313922",
+          "publishedOn": "2022-11-30T19:21:59.000Z",
+          "wordCount": 398,
+          "title": "Re @stefdelev gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1597998899448483842",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "IPFS, ArWeave, Filecoin, Sia... Are these decentralized storage options confusing you? 😵\nThen check out this article by our member @cryptoshuriken! 😎 https://buff.ly/3UaJook",
+          "link": "https://twitter.com/developer_dao/status/1597998899448483842",
+          "publishedOn": "2022-11-30T17:00:01.000Z",
+          "wordCount": 398,
+          "title": "IPFS, ArWeave, Filecoin, Sia... Are these decentralized storage options confusing you? 😵 Then check out this article by our member @cryptoshuriken!...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1597991345670471685",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Thanks to everyone who attended the workshop! Another one to the bag! 🥳\nNext week D_D Fundraising Operators @mr_cgc & @Wikist_ will come back to you with another one! 👀\nFor those who missed it: https://www.youtube.com/watch?v=z0xqty_fvJg",
+          "link": "https://twitter.com/developer_dao/status/1597991345670471685",
+          "publishedOn": "2022-11-30T16:30:00.000Z",
+          "wordCount": 398,
+          "title": "Thanks to everyone who attended the workshop! Another one to the bag! 🥳 Next week D_D Fundraising Operators @mr_cgc & @Wikist_ will come back to yo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1597968694797377536",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We are LIVE!!! 🚨\nD_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀\n3rd topic:\nPresent Your Path to Sustainability and Scale\nWatch on YouTube now and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=z0xqty_fvJg",
+          "link": "https://twitter.com/developer_dao/status/1597968694797377536",
+          "publishedOn": "2022-11-30T15:00:00.000Z",
+          "wordCount": 398,
+          "title": "We are LIVE!!! 🚨 D_D Fundraising Operators @mr_cgc & @Wikist_ are hosting another fundraising workshop! 👀 3rd topic: Present Your Path to Sustai...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Mardeni01/status/1597936296265416707",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT MardΞni (🧱, 🚀) 📍🇦🇪\n.@developer_dao at @Algorand’s Desipher event 👀",
+          "link": "https://twitter.com/Mardeni01/status/1597936296265416707",
+          "publishedOn": "2022-11-30T12:51:15.000Z",
+          "wordCount": 398,
+          "title": "RT MardΞni (🧱, 🚀) 📍🇦🇪: .@developer_dao at @Algorand’s Desipher event 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/codingwithmanny/status/1597917951088562176",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Manny (🧱,🚀)\nVery happy to announce that @alikonukk1 is back in @developer_dao 🙌 I've missed you kanki ❤️",
+          "link": "https://twitter.com/codingwithmanny/status/1597917951088562176",
+          "publishedOn": "2022-11-30T11:38:22.000Z",
+          "wordCount": 398,
+          "title": "RT Manny (🧱,🚀): Very happy to announce that @alikonukk1 is back in @developer_dao 🙌 I've missed you kanki ❤️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1597893196985425920",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "In 5 hours D_D Fundraising Operators @mr_cgc\n & @Wikist_ will be hosting another fundraising workshop! 👀\n3rd topic:\nPresent Your Path to Sustainability and Scale\nWatch at 3pm UTC today and don't be shy to ask your questions! 😎 https://www.youtube.com/watch?v=z0xqty_fvJg",
+          "link": "https://twitter.com/developer_dao/status/1597893196985425920",
+          "publishedOn": "2022-11-30T10:00:00.000Z",
+          "wordCount": 398,
+          "title": "In 5 hours D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 3rd topic: Present Your Path to Sustainabil...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/nileshrathoree/status/1597872706862477312",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Nilesh 🪐\nWe launched @orbwagmi at N&W S1, and so many crazy things happened afterward. We(a team of three) ended up doing it full-time, and thousands of users use the app every day. \nThis is a perfect place where you can make your product go 0 to 1 in just 6 weeks.\n1-day left to apply.\nFarza 🇺🇸 🇵🇰: We're running Nights & Weekends S2.\nIt's a 6-week sprint where you'll join 500 other builders and: pick an idea, build it out, ship it, and get real users.\nAt the end, we invite everyone out IRL to SF to build at @fdotinc for 3-days\n1-day left, apply:\n https://buildspace.so/nights-weekends",
+          "link": "https://twitter.com/nileshrathoree/status/1597872706862477312",
+          "publishedOn": "2022-11-30T08:38:35.000Z",
+          "wordCount": 398,
+          "title": "RT Nilesh 🪐: We launched @orbwagmi at N&W S1, and so many crazy things happened afterward. We(a team of three) ended up doing it full-time, and tho...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devntellxyz/status/1597779890480513024",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe hope you're ready for another great #DevNTell this week where @afoma_orji will be sharing her project, Meta Tour 🚀\nRead on below for a little background about Afoma before the presentation 👇",
+          "link": "https://twitter.com/devntellxyz/status/1597779890480513024",
+          "publishedOn": "2022-11-30T02:29:45.000Z",
+          "wordCount": 398,
+          "title": "RT DevNTell: 🌈 gm frens 🌈 We hope you're ready for another great #DevNTell this week where @afoma_orji will be sharing her project, Meta Tour �...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wolovim/status/1597704797150646272",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT marc | wolovim.eth 🐼\nlooking to kick off a \"Hackathon Support Team\" in @developer_dao in the near future. MVP details: \nopen-ended q's:\na) what resources might be especially helpful for first-time hackathon attendees?\nb) for experienced attendees?\nc) how to measure success? https://forum.developerdao.com/t/draft-hackathon-support-team/2541",
           "link": "https://twitter.com/wolovim/status/1597704797150646272",
           "publishedOn": "2022-11-29T21:31:22.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT marc | wolovim.eth 🐼: looking to kick off a \"Hackathon Support Team\" in @developer_dao in the near future. MVP details: open-ended q's: a) what ...",
           "imageUrl": null
         },
@@ -108,7 +192,7 @@
           "description": "On D_D YouTube channel there is a lot of knowledge to be found! 🤓\nDo you still remember the first workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀\nThe components of a great grant application\nIf you missed it: https://www.youtube.com/watch?v=cOacn81scoE",
           "link": "https://twitter.com/developer_dao/status/1597696911011508225",
           "publishedOn": "2022-11-29T21:00:02.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "On D_D YouTube channel there is a lot of knowledge to be found! 🤓 Do you still remember the first workshop on fundraising made by D_D Fundraising O...",
           "imageUrl": null
         },
@@ -118,7 +202,7 @@
           "description": "RT Lens Protocol 🌿\nAre you in Miami 🇺🇸 for Art Basel?\nCome say 👋 to the Lens team today at the @RefractionDAO Festival.\nMore details👇 https://www.refractionfestival.com/miami-art-week/event",
           "link": "https://twitter.com/LensProtocol/status/1597694656590249984",
           "publishedOn": "2022-11-29T20:51:04.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT Lens Protocol 🌿: Are you in Miami 🇺🇸 for Art Basel? Come say 👋 to the Lens team today at the @RefractionDAO Festival. More details👇",
           "imageUrl": null
         },
@@ -128,7 +212,7 @@
           "description": "RT Tally\nwho are you most excited to see @ the Virtual On-Chain Summit™️ next week? \nfull panel guests dropping tomorrow 👀 we have a feeling you're gonna love them 🤝\nRSVP to secure your spot  ⬇️ https://notionforms.io/forms/on-chain-summit-interest",
           "link": "https://twitter.com/tallyxyz/status/1597687181266456576",
           "publishedOn": "2022-11-29T20:21:22.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT Tally: who are you most excited to see @ the Virtual On-Chain Summit™️ next week? full panel guests dropping tomorrow 👀 we have a feeling you'...",
           "imageUrl": null
         },
@@ -138,7 +222,7 @@
           "description": "RT Erik Knobl\nBuilding good stuff. The team of our awesome @jazza_eth from @developer_dao is shipping!\n3RM: Web3 is tired of Telegram.\n• It's impossible to keep track of chats\n• It's annoying to invite your teammates to new chats\n• Sharing info about conversations with your team is all manual work\nUntil now.\nWe've built a Telegram CRM, and here's why you'll love it 👇",
           "link": "https://twitter.com/Erik_Knobl/status/1597687098160472064",
           "publishedOn": "2022-11-29T20:21:02.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT Erik Knobl: Building good stuff. The team of our awesome @jazza_eth from @developer_dao is shipping!",
           "imageUrl": null
         },
@@ -148,7 +232,7 @@
           "description": "RT 3RM\nWeb3 is tired of Telegram.\n• It's impossible to keep track of chats\n• It's annoying to invite your teammates to new chats\n• Sharing info about conversations with your team is all manual work\nUntil now.\nWe've built a Telegram CRM, and here's why you'll love it 👇",
           "link": "https://twitter.com/3RM_co/status/1597666774270427136",
           "publishedOn": "2022-11-29T19:00:16.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT 3RM: Web3 is tired of Telegram. • It's impossible to keep track of chats • It's annoying to invite your teammates to new chats • Sharing info ab...",
           "imageUrl": null
         },
@@ -158,28 +242,8 @@
           "description": "RT Tarun | Copperx.io\nWho's coming to Cosmo Night? 👯‍♂️\nExcited to meet y'all 🙋‍♂️\n\n@devfolio @CapxFi @luganodes @Superfluid_HQ @walldotapp @CopperxHQ @CruizeFinance @metapassHQ @developer_dao @banklessDAO @BuidlersTribe @LabsLumos https://lu.ma/4mx22ug1",
           "link": "https://twitter.com/TarunMangukiya/status/1597658674842902528",
           "publishedOn": "2022-11-29T18:28:05.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT Tarun | Copperx.io: Who's coming to Cosmo Night? 👯‍♂️ Excited to meet y'all 🙋‍♂️ @devfolio @CapxFi @luganodes @Superfluid_HQ @walldotap...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pateldeep_eth/status/1597638575540928512",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pateldeep.eth/lens | EthIndia\nMy first blog on @developer_dao  🥹🎉\nDeveloper DAO (🧱, 🚀): Do you wanna get started with Foundry and OpenZeppelin? 🤔\nOur member @pateldeep_eth got you covered with a guide! 🤓\n https://buff.ly/3VyTwIK",
-          "link": "https://twitter.com/pateldeep_eth/status/1597638575540928512",
-          "publishedOn": "2022-11-29T17:08:13.000Z",
-          "wordCount": 399,
-          "title": "RT pateldeep.eth/lens | EthIndia: My first blog on @developer_dao 🥹🎉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1597637393057824768",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Do you wanna get started with Foundry and OpenZeppelin? 🤔\nOur member @pateldeep_eth got you covered with a guide! 🤓 https://buff.ly/3VyTwIK",
-          "link": "https://twitter.com/developer_dao/status/1597637393057824768",
-          "publishedOn": "2022-11-29T17:03:31.000Z",
-          "wordCount": 399,
-          "title": "Do you wanna get started with Foundry and OpenZeppelin? 🤔 Our member @pateldeep_eth got you covered with a guide! 🤓",
           "imageUrl": null
         },
         {
@@ -188,88 +252,8 @@
           "description": "RT Fuel Labs\nToday, we're excited to announce the Fuel Ambassador program, an opportunity for anyone to take part in building the fastest modular execution Layer. https://fuel-labs.ghost.io/fuel-ambassador-program/",
           "link": "https://twitter.com/fuellabs_/status/1597630084399042561",
           "publishedOn": "2022-11-29T16:34:29.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT Fuel Labs: Today, we're excited to announce the Fuel Ambassador program, an opportunity for anyone to take part in building the fastest modular exe...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ridley___/status/1597629316732702721",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Abi\nFeeling grateful for the opportunity to hold a workshop with the amazing Developer DAO community! ☺️ 🤘\nDeveloper DAO (🧱, 🚀): 🗣️  Calling all our @hedera builders...\nJoin us on 5th Dec @ 4:30pm UTC for an interactive workshop with @ridley___, Dev Evangelist for #Hedera @swirldslabs.\nBuild Scalable #Web3 Applications on Hedera 😎\nDon't forget to set a reminder on YT\n https://buff.ly/3Vplarg",
-          "link": "https://twitter.com/ridley___/status/1597629316732702721",
-          "publishedOn": "2022-11-29T16:31:26.000Z",
-          "wordCount": 399,
-          "title": "RT Abi: Feeling grateful for the opportunity to hold a workshop with the amazing Developer DAO community! ☺️ 🤘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1597605699487666176",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nI just released a new video: Introduction to Lens for Developers 🧱✨\nThis 8 minute video shows how to get started building on Lens – an API overview, tutorials, & how to get started with gasless transactions, the dispatcher, & other integrations. 🌿 https://www.youtube.com/watch?v=M_CeggIzrzw",
-          "link": "https://twitter.com/dabit3/status/1597605699487666176",
-          "publishedOn": "2022-11-29T14:57:35.000Z",
-          "wordCount": 399,
-          "title": "RT nader (🧱, 🚀) | nader.lens: I just released a new video: Introduction to Lens for Developers 🧱✨ This 8 minute video shows how to get start...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1597604803093430274",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🗣️  Calling all our @hedera builders...\nJoin us on 5th Dec @ 4:30pm UTC for an interactive workshop with @ridley___, Dev Evangelist for #Hedera @swirldslabs.\nBuild Scalable #Web3 Applications on Hedera 😎\nDon't forget to set a reminder on YT https://buff.ly/3Vplarg",
-          "link": "https://twitter.com/developer_dao/status/1597604803093430274",
-          "publishedOn": "2022-11-29T14:54:01.000Z",
-          "wordCount": 399,
-          "title": "🗣️ Calling all our @hedera builders... Join us on 5th Dec @ 4:30pm UTC for an interactive workshop with @ridley___, Dev Evangelist for #Hedera @sw...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CoinviseCo/status/1597600286935519232",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Coinvise ✨\nRe Join us for a memorable night with our friends @devfolio, @CapxFi, @luganodes, @Superfluid_HQ, @walldotapp, @CopperxHQ, @CruizeFinance @metapassHQ ✨\nAnd our community partners—@developer_dao, @banklessDAO, @BuidlersTribe, @LabsLumos 🌐",
-          "link": "https://twitter.com/CoinviseCo/status/1597600286935519232",
-          "publishedOn": "2022-11-29T14:36:05.000Z",
-          "wordCount": 399,
-          "title": "RT Coinvise ✨: Re Join us for a memorable night with our friends @devfolio, @CapxFi, @luganodes, @Superfluid_HQ, @walldotapp, @CopperxHQ, @CruizeFina...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CoinviseCo/status/1597598060905132032",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Coinvise ✨\n𝗖𝗢𝗜𝗡𝗩𝗜𝗦𝗘 𝗖𝗢𝗦𝗠𝗢 𝗡𝗜𝗚𝗛𝗧\n4th Dec @ETHIndiaco ✨\n RSVP ╮\n╰ https://lu.ma/4mx22ug1",
-          "link": "https://twitter.com/CoinviseCo/status/1597598060905132032",
-          "publishedOn": "2022-11-29T14:27:14.000Z",
-          "wordCount": 399,
-          "title": "RT Coinvise ✨: 𝗖𝗢𝗜𝗡𝗩𝗜𝗦𝗘 𝗖𝗢𝗦𝗠𝗢 𝗡𝗜𝗚𝗛𝗧 4th Dec @ETHIndiaco ✨ RSVP ╮ ╰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/olanetsoft/status/1597561915869646848",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT I D R I S 💙\nYet another extremely thrilling time to be alive. Last weekend, I spoke about integrating stablecoins into web applications at #DevFestLagos by @gdglagos.\nI met a lot of outstanding individuals, and we had a good time together. Thank you, @TheMARAverse x @circle. \nWagmi🔥",
-          "link": "https://twitter.com/olanetsoft/status/1597561915869646848",
-          "publishedOn": "2022-11-29T12:03:36.000Z",
-          "wordCount": 399,
-          "title": "RT I D R I S 💙: Yet another extremely thrilling time to be alive. Last weekend, I spoke about integrating stablecoins into web applications at #Dev...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/edatweets_/status/1597486722962448384",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Eda\nJust came across this DeFi Developer Roadmap & WOW! \nFor anyone wanting to become a web3 & defi developer highly recommend to check it out 👇 https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics",
-          "link": "https://twitter.com/edatweets_/status/1597486722962448384",
-          "publishedOn": "2022-11-29T07:04:49.000Z",
-          "wordCount": 399,
-          "title": "RT Eda: Just came across this DeFi Developer Roadmap & WOW! For anyone wanting to become a web3 & defi developer highly recommend to check it out 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/cookbook_dev/status/1597476444027858944",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 🧑‍🍳 Cookbook\n🧑‍🍳 Building in web3? 🧑‍🍳\nCheck out \nThere's a ton you can do on Cookbook, all completely free ⬇️ http://cookbook.dev",
-          "link": "https://twitter.com/cookbook_dev/status/1597476444027858944",
-          "publishedOn": "2022-11-29T06:23:58.000Z",
-          "wordCount": 399,
-          "title": "RT 🧑‍🍳 Cookbook: 🧑‍🍳 Building in web3? 🧑‍🍳 Check out There's a ton you can do on Cookbook, all completely free ⬇️",
           "imageUrl": null
         },
         {
@@ -278,7 +262,7 @@
           "description": "RT blaine\n(1/4) EVM storage 📦\nSlots, bits, bytes and gas refunds… \nHow is storage structured and accessed in the EVM?",
           "link": "https://twitter.com/blainemalone/status/1597352375593078784",
           "publishedOn": "2022-11-28T22:10:58.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT blaine: (1/4) EVM storage 📦 Slots, bits, bytes and gas refunds… How is storage structured and accessed in the EVM?",
           "imageUrl": null
         },
@@ -288,7 +272,7 @@
           "description": "RT wagmi-dev.eth\nThe wagmi core team is now working full-time on the future of wagmi and developer tools for Ethereum, sponsored by @Paradigm. https://wagmi.sh/blog/paradigm-wagmi",
           "link": "https://twitter.com/wagmi_sh/status/1597303189057208320",
           "publishedOn": "2022-11-28T18:55:31.000Z",
-          "wordCount": 399,
+          "wordCount": 398,
           "title": "RT wagmi-dev.eth: The wagmi core team is now working full-time on the future of wagmi and developer tools for Ethereum, sponsored by @Paradigm.",
           "imageUrl": null
         }
