@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-04T06:12:21.095Z</id>
+    <id>urn:2022-12-05T06:13:27.693Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-04T06:12:21.095Z</updated>
+    <updated>2022-12-05T06:13:27.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[JUST IN CASE YOU MISSED IT @AlchemyLearn is giving away 50 early access NFT to D_D members via @getP3RKS]]></title>
+        <id>https://twitter.com/developer_dao/status/1599378742555590656</id>
+        <link href="https://twitter.com/developer_dao/status/1599378742555590656"/>
+        <updated>2022-12-04T12:23:01.000Z</updated>
+        <summary type="html"><![CDATA[JUST IN CASE YOU MISSED IT
+@AlchemyLearn is  giving away 50 early access NFT to D_D members via @getP3RKS https://buff.ly/3Vtvb7w]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s ready for Cosmo Night ✨ 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1599348847184338945</id>
+        <link href="https://twitter.com/developer_dao/status/1599348847184338945"/>
+        <updated>2022-12-04T10:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Who’s ready for Cosmo Night ✨ 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Ahmed Abdelmalek (🧱,🚀) (🛠,🌈) @peterpan.lens🌱: It was February 27, 2022 Who remember this first-of-a-kind event? gm @developer_dao We...]]></title>
         <id>https://twitter.com/PeterPanYes/status/1599221080735895552</id>
@@ -67,18 +88,6 @@ Meet with the @developer_dao 's OG @Rahatcodes & @me256ow  in @ETHIndiaco]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Ayush Agrawal is in @ ETHIndia: Thank you @me256ow for dropping code tokens. A new journey begins with @developer_dao. Thank you to @CryptoPowerGal...]]></title>
-        <id>https://twitter.com/Lucifer0x17/status/1598932787201212417</id>
-        <link href="https://twitter.com/Lucifer0x17/status/1598932787201212417"/>
-        <updated>2022-12-03T06:50:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Ayush Agrawal is in @ ETHIndia
-Thank you @me256ow for dropping code tokens. A new journey begins with @developer_dao.
-Thank you to @CryptoPowerGals for introducing me to meowy.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @afoma_orji around Meta Tour, you can now read all about it in the l...]]></title>
         <id>https://twitter.com/devntellxyz/status/1598889763741876224</id>
         <link href="https://twitter.com/devntellxyz/status/1598889763741876224"/>
@@ -86,24 +95,6 @@ Thank you to @CryptoPowerGals for introducing me to meowy.]]></summary>
         <summary type="html"><![CDATA[RT DevNTell
 GM frens!  If you missed all the action from #DevNTell this week with @afoma_orji around Meta Tour, you can now read all about it in the latest @developer_dao
 blog entry: https://blog.developerdao.com/devntell-meta-tour]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: This week I've been trying out @biconomy new SDK With the new release, it supports the following feature set ⚡️ ...]]></title>
-        <id>https://twitter.com/dabit3/status/1598889609949491201</id>
-        <link href="https://twitter.com/dabit3/status/1598889609949491201"/>
-        <updated>2022-12-03T03:59:23.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-This week I've been trying out @biconomy new SDK
-With the new release, it supports the following feature set ⚡️
-- Social Login (wallet-less)
-- Gasless transactions
-- Fiat on / off ramp
-- Pay gas in choice of ERC20 token
-- Batch transactions
-- Cross chain calls & transfers]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -244,21 +235,6 @@ More info on D_D Friendly Funders page: https://buff.ly/3XMGLvY]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Mariah | muvaofmarketing.eth/lens: I'm going to #ArtBaselMiami2022! Let's meet-up and connect because I'm hosting a private event (in-person + virt...]]></title>
-        <id>https://twitter.com/muvaofmarketing/status/1598555837131374594</id>
-        <link href="https://twitter.com/muvaofmarketing/status/1598555837131374594"/>
-        <updated>2022-12-02T05:53:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Mariah | muvaofmarketing.eth/lens
-I'm going to #ArtBaselMiami2022! Let's meet-up and connect because I'm hosting a private event (in-person + virtually) for @edenprotocolxyz! We're discussing The Future of Funding in Web 3. 
-Are you ready?
-You don't want to miss this!
-RSVP: 
-Limited Space https://lu.ma/egjsqr2v https://twitter.com/i/web/status/1598555837131374594]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Polygon - MATIC 💜: DRUM ROLL PLEASE…🥁🥁 We are excited to announce that the @graphprotocol is adding support for #Polygon on The Graph Net...]]></title>
         <id>https://twitter.com/0xPolygon/status/1598278263650275329</id>
         <link href="https://twitter.com/0xPolygon/status/1598278263650275329"/>
@@ -289,6 +265,22 @@ Soon, users will be able to rely on FULLY decentralized APIs to power 👏🏾 t
         <updated>2022-11-29T00:46:32.000Z</updated>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Tally: 8 days until the Virtual On-Chain Summit™️ 12 protocols. 2 panels. sign up to attend & stay in the loop ⬇️ full Summit recordings will b...]]></title>
+        <id>https://twitter.com/tallyxyz/status/1597327120455602179</id>
+        <link href="https://twitter.com/tallyxyz/status/1597327120455602179"/>
+        <updated>2022-11-28T20:30:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Tally
+8 days until the Virtual On-Chain Summit™️
+12 protocols.
+2 panels. 
+sign up to attend & stay in the loop ⬇️
+
+full Summit recordings will be available for free! https://notionforms.io/forms/on-chain-summit-interest]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>

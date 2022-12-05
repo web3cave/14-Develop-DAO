@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1599378742555590656",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "JUST IN CASE YOU MISSED IT\n@AlchemyLearn is  giving away 50 early access NFT to D_D members via @getP3RKS https://buff.ly/3Vtvb7w",
+          "link": "https://twitter.com/developer_dao/status/1599378742555590656",
+          "publishedOn": "2022-12-04T12:23:01.000Z",
+          "wordCount": 470,
+          "title": "JUST IN CASE YOU MISSED IT @AlchemyLearn is giving away 50 early access NFT to D_D members via @getP3RKS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1599348847184338945",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Who’s ready for Cosmo Night ✨ 👀",
+          "link": "https://twitter.com/developer_dao/status/1599348847184338945",
+          "publishedOn": "2022-12-04T10:24:14.000Z",
+          "wordCount": 470,
+          "title": "Who’s ready for Cosmo Night ✨ 👀",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/PeterPanYes/status/1599221080735895552",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Ahmed Abdelmalek (🧱,🚀) (🛠,🌈) @peterpan.lens🌱\nIt was February 27, 2022\nWho remember this first-of-a-kind event?\ngm @developer_dao \nWen @web3con !!!?",
@@ -127,16 +147,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/Lucifer0x17/status/1598932787201212417",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ayush Agrawal is in @ ETHIndia\nThank you @me256ow for dropping code tokens. A new journey begins with @developer_dao.\nThank you to @CryptoPowerGals for introducing me to meowy.",
-          "link": "https://twitter.com/Lucifer0x17/status/1598932787201212417",
-          "publishedOn": "2022-12-03T06:50:57.000Z",
-          "wordCount": 470,
-          "title": "RT Ayush Agrawal is in @ ETHIndia: Thank you @me256ow for dropping code tokens. A new journey begins with @developer_dao. Thank you to @CryptoPowerGal...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/devntellxyz/status/1598889763741876224",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT DevNTell\nGM frens!  If you missed all the action from #DevNTell this week with @afoma_orji around Meta Tour, you can now read all about it in the latest @developer_dao\nblog entry: https://blog.developerdao.com/devntell-meta-tour",
@@ -144,16 +154,6 @@
           "publishedOn": "2022-12-03T04:00:00.000Z",
           "wordCount": 470,
           "title": "RT DevNTell: GM frens! If you missed all the action from #DevNTell this week with @afoma_orji around Meta Tour, you can now read all about it in the l...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1598889609949491201",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nThis week I've been trying out @biconomy new SDK\nWith the new release, it supports the following feature set ⚡️\n- Social Login (wallet-less)\n- Gasless transactions\n- Fiat on / off ramp\n- Pay gas in choice of ERC20 token\n- Batch transactions\n- Cross chain calls & transfers",
-          "link": "https://twitter.com/dabit3/status/1598889609949491201",
-          "publishedOn": "2022-12-03T03:59:23.000Z",
-          "wordCount": 470,
-          "title": "RT nader (🧱, 🚀) | nader.lens: This week I've been trying out @biconomy new SDK With the new release, it supports the following feature set ⚡️ ...",
           "imageUrl": null
         },
         {
@@ -257,16 +257,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/muvaofmarketing/status/1598555837131374594",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Mariah | muvaofmarketing.eth/lens\nI'm going to #ArtBaselMiami2022! Let's meet-up and connect because I'm hosting a private event (in-person + virtually) for @edenprotocolxyz! We're discussing The Future of Funding in Web 3. \nAre you ready?\nYou don't want to miss this!\nRSVP: \nLimited Space https://lu.ma/egjsqr2v https://twitter.com/i/web/status/1598555837131374594",
-          "link": "https://twitter.com/muvaofmarketing/status/1598555837131374594",
-          "publishedOn": "2022-12-02T05:53:05.000Z",
-          "wordCount": 470,
-          "title": "RT Mariah | muvaofmarketing.eth/lens: I'm going to #ArtBaselMiami2022! Let's meet-up and connect because I'm hosting a private event (in-person + virt...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/0xPolygon/status/1598278263650275329",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Polygon - MATIC 💜\nDRUM ROLL PLEASE…🥁🥁\nWe are excited to announce that the @graphprotocol is adding support for #Polygon on The Graph Network 🤩\nSoon, users will be able to rely on FULLY decentralized APIs to power 👏🏾 their 👏🏾 dApps 👏🏾\n🌐: https://polygon.technology/blog/polygon-is-coming-to-the-graphs-decentralized-network",
@@ -274,6 +264,16 @@
           "publishedOn": "2022-12-01T11:30:07.000Z",
           "wordCount": 470,
           "title": "RT Polygon - MATIC 💜: DRUM ROLL PLEASE…🥁🥁 We are excited to announce that the @graphprotocol is adding support for #Polygon on The Graph Net...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/tallyxyz/status/1597327120455602179",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Tally\n8 days until the Virtual On-Chain Summit™️\n12 protocols.\n2 panels. \nsign up to attend & stay in the loop ⬇️\n\nfull Summit recordings will be available for free! https://notionforms.io/forms/on-chain-summit-interest",
+          "link": "https://twitter.com/tallyxyz/status/1597327120455602179",
+          "publishedOn": "2022-11-28T20:30:37.000Z",
+          "wordCount": 470,
+          "title": "RT Tally: 8 days until the Virtual On-Chain Summit™️ 12 protocols. 2 panels. sign up to attend & stay in the loop ⬇️ full Summit recordings will b...",
           "imageUrl": null
         }
       ]
