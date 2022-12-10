@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-09T06:13:34.613Z</id>
+    <id>urn:2022-12-10T06:12:39.761Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-09T06:13:34.613Z</updated>
+    <updated>2022-12-10T06:12:39.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[If you missed it, our member @Jamiescript wrote about Arweave! With Arweave, you can be sure your data stays online permanently! 🏔]]></title>
+        <id>https://twitter.com/developer_dao/status/1601260841248120840</id>
+        <link href="https://twitter.com/developer_dao/status/1601260841248120840"/>
+        <updated>2022-12-09T17:01:49.000Z</updated>
+        <summary type="html"><![CDATA[If you missed it, our member  @Jamiescript  wrote about Arweave!
+With Arweave,  you can be sure your data stays online permanently! 🏔 https://buff.ly/3B0x2s6]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know that if you are a D_D member you can get free support in looking for funding for your project? 🤔 Send @mr_cgc or @Wikist_ a DM on Twit...]]></title>
+        <id>https://twitter.com/developer_dao/status/1601200076872990720</id>
+        <link href="https://twitter.com/developer_dao/status/1601200076872990720"/>
+        <updated>2022-12-09T13:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that if you are a D_D member you can get free support in looking for funding for your project? 🤔 
+Send @mr_cgc or @Wikist_ a DM on Twitter or come to Discord Office Hours to get help! 🤩💸 
+More info on D_D Friendly Funders page: https://buff.ly/3XMGLvY]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to use Frontend Tools through one of the D_D Workshops🔥 Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀 w/ @wc49358✨ Wa...]]></title>
+        <id>https://twitter.com/developer_dao/status/1601099574508023808</id>
+        <link href="https://twitter.com/developer_dao/status/1601099574508023808"/>
+        <updated>2022-12-09T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn How to use Frontend Tools through one of the D_D Workshops🔥
+Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀
+w/
+@wc49358✨
+Watch it here👇 https://youtu.be/fYpxsAYO7Oc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In case you missed it 👀 Awesome opportunity from our friends @AlgoveraAI for one D_D member to secure $1,000 in grant funding for an #AI project th...]]></title>
         <id>https://twitter.com/developer_dao/status/1600941789187391488</id>
@@ -180,17 +217,6 @@ Polymer Labs is building the most efficient and adaptive IBC interoperability so
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></title>
-        <id>https://twitter.com/developer_dao/status/1600866250812542976</id>
-        <link href="https://twitter.com/developer_dao/status/1600866250812542976"/>
-        <updated>2022-12-08T14:53:51.000Z</updated>
-        <summary type="html"><![CDATA[🚀  D_D Jobs of the Week 🚀
-Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth: Excited to be speaking to the awesome @inpeakxyz community today with @SomiArian to give an intro to smart contract...]]></title>
         <id>https://twitter.com/BrianHHough/status/1600862643924783104</id>
         <link href="https://twitter.com/BrianHHough/status/1600862643924783104"/>
@@ -199,19 +225,6 @@ Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></su
 Excited to be speaking to the awesome @inpeakxyz community today with @SomiArian to give an intro to smart contracts in web3! 🧱⛓
 We'll go from high-level to technical on the ins & outs of web3 with coding examples 🥳
 👉 RSVP here: https://www.inpeak.xyz/event/smart-contracts]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Wednesday D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀 5th topic: Practice Your Elevator Pitch...]]></title>
-        <id>https://twitter.com/developer_dao/status/1600852885960593417</id>
-        <link href="https://twitter.com/developer_dao/status/1600852885960593417"/>
-        <updated>2022-12-08T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Next Wednesday D_D Fundraising Operators @mr_cgc & @Wikist_ will be hosting another fundraising workshop! 👀
-5th topic:
-Practice Your Elevator Pitch  
-Sign-up with the link below and attend at 3pm UTC on 14th of December! 😎 https://buff.ly/3itS1NA]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -250,21 +263,6 @@ Reach out to @wise_Tyy for any questions 🙏 https://forum.algovera.ai/c/prop
         <summary type="html"><![CDATA[Santa's not the only one with a workshop]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alchemy | The web3 developer platform: 1/ Ever wanted to see every web3 app & dev tool in one place? So did we, but nothing comprehensive & communi...]]></title>
-        <id>https://twitter.com/AlchemyPlatform/status/1600178684182159370</id>
-        <link href="https://twitter.com/AlchemyPlatform/status/1600178684182159370"/>
-        <updated>2022-12-06T17:21:42.000Z</updated>
-        <summary type="html"><![CDATA[RT Alchemy | The web3 developer platform
-1/ Ever wanted to see every web3 app & dev tool in one place?
-So did we, but nothing comprehensive & community-supported existed 🤨
-Until now.
-Here’s why the new Alchemy Dapp Store is a game-changer!
-🧵👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -311,15 +309,6 @@ Here’s why the new Alchemy Dapp Store is a game-changer!
         <id>https://www.youtube.com/watch?v=cGLMN5A2C4E</id>
         <link href="https://www.youtube.com/watch?v=cGLMN5A2C4E"/>
         <updated>2022-11-11T16:54:59.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lens GraphQL API in 90 Seconds]]></title>
-        <id>https://www.youtube.com/watch?v=mIJKa2-2p8w</id>
-        <link href="https://www.youtube.com/watch?v=mIJKa2-2p8w"/>
-        <updated>2022-11-09T20:39:30.000Z</updated>
         <author>
             <name>Nader Dabit</name>
         </author>
