@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/edenprotocolxyz/status/1601666296563003392",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Eden!\nRe With this initiative, it is not only about attracting talented teams or funding remarkable ideas - ultimately its purpose is giving them wings without limits and make innovation soar higher than even before.",
+          "link": "https://twitter.com/edenprotocolxyz/status/1601666296563003392",
+          "publishedOn": "2022-12-10T19:52:57.000Z",
+          "wordCount": 470,
+          "title": "RT Eden!: Re With this initiative, it is not only about attracting talented teams or funding remarkable ideas - ultimately its purpose is giving them ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/edenprotocolxyz/status/1601666292771328000",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Eden!\nRe Being born in @developer_dao, we believe in providing the best possible resources to our developer communities. That's why we're introducing #EMIP – Eden's Microgrant Incentive Program!",
+          "link": "https://twitter.com/edenprotocolxyz/status/1601666292771328000",
+          "publishedOn": "2022-12-10T19:52:56.000Z",
+          "wordCount": 470,
+          "title": "RT Eden!: Re Being born in @developer_dao, we believe in providing the best possible resources to our developer communities. That's why we're introduc...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1601260841248120840",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "If you missed it, our member  @Jamiescript  wrote about Arweave!\nWith Arweave,  you can be sure your data stays online permanently! 🏔 https://buff.ly/3B0x2s6",
@@ -227,26 +247,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1600866252108570632",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @metaintro @PolymerDAO Hedera is the most used, sustainable, enterprise-grade public network for the decentralized economy. @hedera\nSpruce offers the most secure and convenient developer tools to share authentic data. @spruceid",
-          "link": "https://twitter.com/developer_dao/status/1600866252108570632",
-          "publishedOn": "2022-12-08T14:53:51.000Z",
-          "wordCount": 470,
-          "title": "Re @metaintro @PolymerDAO Hedera is the most used, sustainable, enterprise-grade public network for the decentralized economy. @hedera Spruce offers t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1600866251496198144",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Metaintro is the professional resume wallet for web3.@metaintro\nPolymer Labs is building the most efficient and adaptive IBC interoperability solution to connect all of the blockchains in Web3. @PolymerDAO",
-          "link": "https://twitter.com/developer_dao/status/1600866251496198144",
-          "publishedOn": "2022-12-08T14:53:51.000Z",
-          "wordCount": 470,
-          "title": "Re Metaintro is the professional resume wallet for web3.@metaintro Polymer Labs is building the most efficient and adaptive IBC interoperability solut...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/BrianHHough/status/1600862643924783104",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Brian H. Hough | brianhuff.eth\nExcited to be speaking to the awesome @inpeakxyz community today with @SomiArian to give an intro to smart contracts in web3! 🧱⛓\nWe'll go from high-level to technical on the ins & outs of web3 with coding examples 🥳\n👉 RSVP here: https://www.inpeak.xyz/event/smart-contracts",
@@ -291,16 +291,6 @@
           "publishedOn": "2022-11-29T00:46:32.000Z",
           "wordCount": null,
           "title": "Introduction to Lens for Developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cGLMN5A2C4E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cGLMN5A2C4E",
-          "publishedOn": "2022-11-11T16:54:59.000Z",
-          "wordCount": null,
-          "title": "Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js",
           "imageUrl": null
         }
       ]

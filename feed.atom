@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-10T06:12:39.761Z</id>
+    <id>urn:2022-12-11T06:12:27.093Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-10T06:12:39.761Z</updated>
+    <updated>2022-12-11T06:12:27.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Eden!: Re With this initiative, it is not only about attracting talented teams or funding remarkable ideas - ultimately its purpose is giving them ...]]></title>
+        <id>https://twitter.com/edenprotocolxyz/status/1601666296563003392</id>
+        <link href="https://twitter.com/edenprotocolxyz/status/1601666296563003392"/>
+        <updated>2022-12-10T19:52:57.000Z</updated>
+        <summary type="html"><![CDATA[RT Eden!
+Re With this initiative, it is not only about attracting talented teams or funding remarkable ideas - ultimately its purpose is giving them wings without limits and make innovation soar higher than even before.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Eden!: Re Being born in @developer_dao, we believe in providing the best possible resources to our developer communities. That's why we're introduc...]]></title>
+        <id>https://twitter.com/edenprotocolxyz/status/1601666292771328000</id>
+        <link href="https://twitter.com/edenprotocolxyz/status/1601666292771328000"/>
+        <updated>2022-12-10T19:52:56.000Z</updated>
+        <summary type="html"><![CDATA[RT Eden!
+Re Being born in @developer_dao, we believe in providing the best possible resources to our developer communities. That's why we're introducing #EMIP – Eden's Microgrant Incentive Program!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If you missed it, our member @Jamiescript wrote about Arweave! With Arweave, you can be sure your data stays online permanently! 🏔]]></title>
         <id>https://twitter.com/developer_dao/status/1601260841248120840</id>
@@ -195,28 +217,6 @@ With Eth India now at a conclusion, this has marked one of many hackathons I've 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @metaintro @PolymerDAO Hedera is the most used, sustainable, enterprise-grade public network for the decentralized economy. @hedera Spruce offers t...]]></title>
-        <id>https://twitter.com/developer_dao/status/1600866252108570632</id>
-        <link href="https://twitter.com/developer_dao/status/1600866252108570632"/>
-        <updated>2022-12-08T14:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Re @metaintro @PolymerDAO Hedera is the most used, sustainable, enterprise-grade public network for the decentralized economy. @hedera
-Spruce offers the most secure and convenient developer tools to share authentic data. @spruceid]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Metaintro is the professional resume wallet for web3.@metaintro Polymer Labs is building the most efficient and adaptive IBC interoperability solut...]]></title>
-        <id>https://twitter.com/developer_dao/status/1600866251496198144</id>
-        <link href="https://twitter.com/developer_dao/status/1600866251496198144"/>
-        <updated>2022-12-08T14:53:51.000Z</updated>
-        <summary type="html"><![CDATA[Re Metaintro is the professional resume wallet for web3.@metaintro
-Polymer Labs is building the most efficient and adaptive IBC interoperability solution to connect all of the blockchains in Web3. @PolymerDAO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth: Excited to be speaking to the awesome @inpeakxyz community today with @SomiArian to give an intro to smart contract...]]></title>
         <id>https://twitter.com/BrianHHough/status/1600862643924783104</id>
         <link href="https://twitter.com/BrianHHough/status/1600862643924783104"/>
@@ -302,15 +302,6 @@ Reach out to @wise_Tyy for any questions 🙏 https://forum.algovera.ai/c/prop
         <summary type="html"><![CDATA[Full Time Xylophonists]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Full Stack Permanent Applications with Arweave, Smartweave, and Next.js]]></title>
-        <id>https://www.youtube.com/watch?v=cGLMN5A2C4E</id>
-        <link href="https://www.youtube.com/watch?v=cGLMN5A2C4E"/>
-        <updated>2022-11-11T16:54:59.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>
