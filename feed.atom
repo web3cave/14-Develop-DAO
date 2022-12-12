@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-11T06:12:27.093Z</id>
+    <id>urn:2022-12-12T06:13:49.181Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-11T06:12:27.093Z</updated>
+    <updated>2022-12-12T06:13:49.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watchuuu build00rs doing on Wednesday? Come join @kayprasla hanging out with @harshrajat & Fabio and learn How To Power #Web3 dApps using @pushprotoco...]]></title>
+        <id>https://twitter.com/developer_dao/status/1602087333901340673</id>
+        <link href="https://twitter.com/developer_dao/status/1602087333901340673"/>
+        <updated>2022-12-11T23:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Watchuuu build00rs doing on Wednesday?
+Come join @kayprasla hanging out with @harshrajat & Fabio and learn How To Power #Web3 dApps using @pushprotocol 😎
+RVSP on the Luma event page below 👇 https://buff.ly/3FIVocV]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Eden!: Re With this initiative, it is not only about attracting talented teams or funding remarkable ideas - ultimately its purpose is giving them ...]]></title>
         <id>https://twitter.com/edenprotocolxyz/status/1601666296563003392</id>
@@ -191,32 +203,6 @@ With Eth India now at a conclusion, this has marked one of many hackathons I've 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @metaintro @PolymerDAO @hedera @SpruceID ⚛️ Developer Advocate (US) : ⚛️ Developer Relations (Remote) : ⚛️ Head of Developer Relations (US) (...]]></title>
-        <id>https://twitter.com/developer_dao/status/1600866253807271937</id>
-        <link href="https://twitter.com/developer_dao/status/1600866253807271937"/>
-        <updated>2022-12-08T14:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @metaintro @PolymerDAO @hedera @SpruceID ⚛️ Developer Advocate (US) : 
-⚛️ Developer Relations (Remote) : 
-⚛️ Head of Developer Relations (US) (Remote) : https://buff.ly/3Ot5D7T https://buff.ly/3PcuAVx https://buff.ly/3W2B23y]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @metaintro @PolymerDAO @hedera @SpruceID Featured jobs this week 👇 📜 🎨 Technical YouTube Content Creator: ⚛️ Developer Relations / Advoc...]]></title>
-        <id>https://twitter.com/developer_dao/status/1600866252926423040</id>
-        <link href="https://twitter.com/developer_dao/status/1600866252926423040"/>
-        <updated>2022-12-08T14:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Re @metaintro @PolymerDAO @hedera @SpruceID Featured jobs this week 👇 📜
-🎨 Technical YouTube Content Creator: 
-⚛️ Developer Relations / Advocate at Polymer Labs: 
-⚛️ Developer Advocate (Europe) : 
-⚛️ Developer Advocate (APAC) : https://buff.ly/3gUjAPS https://buff.ly/3OU4Qgh https://buff.ly/3OyDLiv https://buff.ly/3VbdOb0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Brian H. Hough | brianhuff.eth: Excited to be speaking to the awesome @inpeakxyz community today with @SomiArian to give an intro to smart contract...]]></title>
         <id>https://twitter.com/BrianHHough/status/1600862643924783104</id>
         <link href="https://twitter.com/BrianHHough/status/1600862643924783104"/>
@@ -225,6 +211,20 @@ With Eth India now at a conclusion, this has marked one of many hackathons I've 
 Excited to be speaking to the awesome @inpeakxyz community today with @SomiArian to give an intro to smart contracts in web3! 🧱⛓
 We'll go from high-level to technical on the ins & outs of web3 with coding examples 🥳
 👉 RSVP here: https://www.inpeak.xyz/event/smart-contracts]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Paloma | web3paloma.lens: Look at me 🥺]]></title>
+        <id>https://twitter.com/web3paloma/status/1600852235952746498</id>
+        <link href="https://twitter.com/web3paloma/status/1600852235952746498"/>
+        <updated>2022-12-08T13:58:10.000Z</updated>
+        <summary type="html"><![CDATA[RT Paloma | web3paloma.lens
+Look at me 🥺
+She Code Africa: The first lightning talk was taken by Paloma Peter-Dzoho on “ How to gain the most from communities as a contributor” 
+Paloma shared her journey with us and how actively contributing in communities took her career to the next level.
+ https://www.youtube.com/watch?v=zzhAfFmtYSs&list=PLe_ivkWIZCj9DeD3XGc61eFtuDISVq6QP&index=9]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
