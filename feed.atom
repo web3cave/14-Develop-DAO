@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-18T06:11:54.451Z</id>
+    <id>urn:2022-12-19T06:13:10.162Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-18T06:11:54.451Z</updated>
+    <updated>2022-12-19T06:13:10.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The greatest sports game ever!]]></title>
+        <id>https://twitter.com/developer_dao/status/1604535843376566282</id>
+        <link href="https://twitter.com/developer_dao/status/1604535843376566282"/>
+        <updated>2022-12-18T17:55:30.000Z</updated>
+        <summary type="html"><![CDATA[The greatest sports game ever!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT JayFrank.eth | Personal Tokens 📍NYC: I’m going to @developer_dao’s upcoming Space. SubDAO culture coming 2023 @DevRelGuild]]></title>
+        <id>https://twitter.com/JayFrankEsq/status/1604488351452893185</id>
+        <link href="https://twitter.com/JayFrankEsq/status/1604488351452893185"/>
+        <updated>2022-12-18T14:46:47.000Z</updated>
+        <summary type="html"><![CDATA[RT JayFrank.eth | Personal Tokens 📍NYC
+I’m going to @developer_dao’s upcoming Space.
+SubDAO culture coming 2023 @DevRelGuild https://twitter.com/i/spaces/1mnxeRworwNKX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Megabyte (🧱,🚀): The growth of @developer_dao is so enormous that now it have started to create its own sub-DAOs for each topic. And the @DevR...]]></title>
         <id>https://twitter.com/megabyte0x/status/1604315932557340673</id>
@@ -218,31 +240,6 @@ Sign up, now: http://bit.ly/3hwauZE]]></summary>
         <updated>2022-12-15T16:05:33.000Z</updated>
         <summary type="html"><![CDATA[— get a job y'all 
 @DevDaoJobs]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jobs Team: Introducing D_D Jobs, the place to find top talent for your web3 project! 🤝 Hiring? Visit us at 🎉 Looking for your next opportunit...]]></title>
-        <id>https://twitter.com/DevDaoJobs/status/1603416158438363137</id>
-        <link href="https://twitter.com/DevDaoJobs/status/1603416158438363137"/>
-        <updated>2022-12-15T15:46:16.000Z</updated>
-        <summary type="html"><![CDATA[RT Jobs Team
-Introducing D_D Jobs, the place to find top talent for your web3 project!
-🤝 Hiring? Visit us at 
-🎉 Looking for your next opportunity in web3? Start your search here: 
-Let's make web3 great together! @developer_dao https://developerdao.pallet.com/talent/welcome https://developerdao.pallet.com/talent/welcome?referral=true]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Aayush Gupta 🦇🔊: Re Meet so many amazing devs, @developer_dao and @LearnWeb3DAO friends but completely forgot to click pictures with them �...]]></title>
-        <id>https://twitter.com/Aayush_gupta_ji/status/1603357324244094978</id>
-        <link href="https://twitter.com/Aayush_gupta_ji/status/1603357324244094978"/>
-        <updated>2022-12-15T11:52:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Aayush Gupta 🦇🔊
-Re Meet so many amazing devs, @developer_dao and @LearnWeb3DAO friends but completely forgot to click pictures with them 😕😶]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
