@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T06:13:10.162Z</id>
+    <id>urn:2022-12-20T06:14:09.559Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-19T06:13:10.162Z</updated>
+    <updated>2022-12-20T06:14:09.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT rahat.eth: Some life stuff caught up to me so missed a couple days. To make up for it: I'll give away two a day for three days starting tomorrow be...]]></title>
+        <id>https://twitter.com/Rahatcodes/status/1605042167327621120</id>
+        <link href="https://twitter.com/Rahatcodes/status/1605042167327621120"/>
+        <updated>2022-12-20T03:27:27.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth
+Some life stuff caught up to me so missed a couple days. To make up for it: I'll give away two a day for three days starting tomorrow before officially closing this. You can still submit or update your submission.
+rahat.eth: In December I am going to personally give away 10 @developer_dao memberships using my $Code token allocation. 
+One way to get into Developer DAO is by owning 400 $Code Tokens. See thread below on how to enter, make sure you actually read through everything.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @cryptovijay1 @DuneAnalytics @pandajackson42 You can find out if you're eligible by connecting your wallet to]]></title>
+        <id>https://twitter.com/developer_dao/status/1604990133471612930</id>
+        <link href="https://twitter.com/developer_dao/status/1604990133471612930"/>
+        <updated>2022-12-20T00:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @cryptovijay1 @DuneAnalytics @pandajackson42 You can find out if you're eligible by connecting your wallet to http://claim.developerdao.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re You can track the claim stats via this 🔥 @DuneAnalytics board kindly created by @pandajackson42]]></title>
+        <id>https://twitter.com/developer_dao/status/1604935353936257025</id>
+        <link href="https://twitter.com/developer_dao/status/1604935353936257025"/>
+        <updated>2022-12-19T20:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Re You can track the claim stats via this 🔥 @DuneAnalytics board kindly created by @pandajackson42 https://buff.ly/3HEHOZk]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 Have you claimed your $CODE tokens yet? Only ~40% of eligible recipients have claimed. To check if you're eligible, head to Claim before it's too...]]></title>
+        <id>https://twitter.com/developer_dao/status/1604935352761851911</id>
+        <link href="https://twitter.com/developer_dao/status/1604935352761851911"/>
+        <updated>2022-12-19T20:23:01.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Have you claimed your $CODE tokens yet?
+Only ~40% of eligible recipients have claimed. To check if you're eligible,  head to 
+ Claim before it's too late and help us decentralise the DAO  👀 https://claim.developerdao.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT manny: Building in public here for the DD Job Board! @DevDaoJobs @developer_dao Here is a new program, I am itching to launch for the D_D job board...]]></title>
+        <id>https://twitter.com/mannyornothing/status/1604899467215470592</id>
+        <link href="https://twitter.com/mannyornothing/status/1604899467215470592"/>
+        <updated>2022-12-19T18:00:25.000Z</updated>
+        <summary type="html"><![CDATA[RT manny
+Building in public here for the DD Job Board! @DevDaoJobs @developer_dao 
+Here is a new program, I am itching to launch for the D_D job board - "job and tell"]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Warp Contracts: The Arweave expansion is insane 🔥 100+ projects are being built and grown with Arweave! 🐘 Most people aren't aware of how qui...]]></title>
+        <id>https://twitter.com/warp_contracts/status/1604810600869425152</id>
+        <link href="https://twitter.com/warp_contracts/status/1604810600869425152"/>
+        <updated>2022-12-19T12:07:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Warp Contracts
+The Arweave expansion is insane 🔥
+100+ projects are being built and grown with Arweave! 🐘 
+Most people aren't aware of how quickly @ArweaveTeam is being adopted. 
+To spread awareness, we canvassed the industry.
+Introducing: The Arweave Ecosystem Landscape 
+🧵👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The greatest sports game ever!]]></title>
         <id>https://twitter.com/developer_dao/status/1604535843376566282</id>
@@ -16,11 +89,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT JayFrank.eth | Personal Tokens 📍NYC: I’m going to @developer_dao’s upcoming Space. SubDAO culture coming 2023 @DevRelGuild]]></title>
+        <title type="html"><![CDATA[RT $JAY the Personal Token | meTokens: I’m going to @developer_dao’s upcoming Space. SubDAO culture coming 2023 @DevRelGuild]]></title>
         <id>https://twitter.com/JayFrankEsq/status/1604488351452893185</id>
         <link href="https://twitter.com/JayFrankEsq/status/1604488351452893185"/>
         <updated>2022-12-18T14:46:47.000Z</updated>
-        <summary type="html"><![CDATA[RT JayFrank.eth | Personal Tokens 📍NYC
+        <summary type="html"><![CDATA[RT $JAY the Personal Token | meTokens
 I’m going to @developer_dao’s upcoming Space.
 SubDAO culture coming 2023 @DevRelGuild https://twitter.com/i/spaces/1mnxeRworwNKX]]></summary>
         <author>
@@ -165,17 +238,6 @@ You can try it out live on @fleekhq here: https://github.com/dabit3/lens-token
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[— bullish on subDAOs in 2023 @DevRelGuild]]></title>
-        <id>https://twitter.com/developer_dao/status/1603477110894518280</id>
-        <link href="https://twitter.com/developer_dao/status/1603477110894518280"/>
-        <updated>2022-12-15T19:48:29.000Z</updated>
-        <summary type="html"><![CDATA[— bullish on subDAOs in 2023
-@DevRelGuild]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Chase Chapman: The real alpha in crypto is just following your natural curiosity Not optimizing for money or clout ‒ just do what makes you feel f...]]></title>
         <id>https://twitter.com/chaserchapman/status/1603469999494295552</id>
         <link href="https://twitter.com/chaserchapman/status/1603469999494295552"/>
@@ -184,62 +246,6 @@ You can try it out live on @fleekhq here: https://github.com/dabit3/lens-token
 The real alpha in crypto is just following your natural curiosity
 Not optimizing for money or clout ‒ just do what makes you feel fired up inside
 That type of authentic excitement is contagious]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The proposal being discussed is P21: Simplifying DAO Governance. Authors: @kempsterrrr & @Erik_Knobl @willhblackburn will be our host]]></title>
-        <id>https://twitter.com/developer_dao/status/1603461241875283969</id>
-        <link href="https://twitter.com/developer_dao/status/1603461241875283969"/>
-        <updated>2022-12-15T18:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Re The proposal being discussed is P21: Simplifying DAO Governance.
-Authors: @kempsterrrr &  @Erik_Knobl
- @willhblackburn will be our host https://forum.developerdao.com/t/p-21-simplifying-the-developer-dao-improvement-proposal-ddip-process/2551/1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomorrow @ 5pm UTC we're hosting an open discussion about D_Ds latest in flight proposal. Come hangout, listen and ask any questions of the proposal a...]]></title>
-        <id>https://twitter.com/developer_dao/status/1603460826924429312</id>
-        <link href="https://twitter.com/developer_dao/status/1603460826924429312"/>
-        <updated>2022-12-15T18:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Tomorrow @ 5pm UTC we're hosting an open discussion about D_Ds latest in flight proposal.
-Come hangout, listen and ask any questions of the proposal authors 🤝 https://twitter.com/i/spaces/1YpKkgjqPPZKj]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build, Ship, Win 🛠️ @OrbisClub Hack your way building the next web3 social and win from a bounty pool of USD 50k 🎉 Sign up, now:]]></title>
-        <id>https://twitter.com/developer_dao/status/1603423654687162370</id>
-        <link href="https://twitter.com/developer_dao/status/1603423654687162370"/>
-        <updated>2022-12-15T16:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Build, Ship, Win 🛠️ @OrbisClub 
-Hack your way building the next web3 social and win from a bounty pool of USD 50k 🎉 
-Sign up, now: http://bit.ly/3hwauZE]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PeterPanYes @DevDaoJobs @mannyornothing if he doesn't put up a cover photo for the account in the next 15 mins, we will fire him.]]></title>
-        <id>https://twitter.com/developer_dao/status/1603421545585672193</id>
-        <link href="https://twitter.com/developer_dao/status/1603421545585672193"/>
-        <updated>2022-12-15T16:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Re @PeterPanYes @DevDaoJobs @mannyornothing if he doesn't put up a cover photo for the account in the next 15 mins, we will fire him.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[— get a job y'all @DevDaoJobs]]></title>
-        <id>https://twitter.com/developer_dao/status/1603421008802742273</id>
-        <link href="https://twitter.com/developer_dao/status/1603421008802742273"/>
-        <updated>2022-12-15T16:05:33.000Z</updated>
-        <summary type="html"><![CDATA[— get a job y'all 
-@DevDaoJobs]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
