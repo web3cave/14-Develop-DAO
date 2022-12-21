@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-20T06:14:09.559Z</id>
+    <id>urn:2022-12-21T06:13:04.154Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-20T06:14:09.559Z</updated>
+    <updated>2022-12-21T06:13:04.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @pushprotocol lfg 🚀]]></title>
+        <id>https://twitter.com/developer_dao/status/1605257586789556227</id>
+        <link href="https://twitter.com/developer_dao/status/1605257586789556227"/>
+        <updated>2022-12-20T17:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @pushprotocol lfg 🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE: Frens @developer_dao! Guess what? You just got exclusive access to begin using Push Chat 💬🎊 You can ...]]></title>
+        <id>https://twitter.com/pushprotocol/status/1605256150584262658</id>
+        <link href="https://twitter.com/pushprotocol/status/1605256150584262658"/>
+        <updated>2022-12-20T17:37:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE
+Frens @developer_dao!
+Guess what? You just got exclusive access to begin using Push Chat 💬🎊
+You can now message any wallet address and send them messages natively on Web3.
+Pretty cool? Come try it out 👇 https://app.push.org/#/chat]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT rahat.eth: Some life stuff caught up to me so missed a couple days. To make up for it: I'll give away two a day for three days starting tomorrow be...]]></title>
         <id>https://twitter.com/Rahatcodes/status/1605042167327621120</id>
@@ -209,30 +233,6 @@ I’ve gotten to talk to some really cool people because of @developer_dao and a
         <updated>2022-12-15T23:59:33.000Z</updated>
         <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
 I never thought I'd say this, but sometimes one DAO just isn't enough. https://mirror.xyz/krinza.eth/Ee7RgWoTdQWTVnUgnOHlxE4zlhix3u9wK6Wixrtrkv0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[who's hiring junior-level roles?]]></title>
-        <id>https://twitter.com/developer_dao/status/1603518662413111296</id>
-        <link href="https://twitter.com/developer_dao/status/1603518662413111296"/>
-        <updated>2022-12-15T22:33:35.000Z</updated>
-        <summary type="html"><![CDATA[who's hiring junior-level roles?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Lens recently launched support for gating @LensProtocol publications To show how to integrate this into a full sta...]]></title>
-        <id>https://twitter.com/dabit3/status/1603512013874929688</id>
-        <link href="https://twitter.com/dabit3/status/1603512013874929688"/>
-        <updated>2022-12-15T22:07:10.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-Lens recently launched support for gating @LensProtocol publications
-To show how to integrate this into a full stack app I've created + open sourced a reference architecture here:
-
-You can try it out live on @fleekhq here: https://github.com/dabit3/lens-token-gating https://damp-meadow-0613.on.fleek.co/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

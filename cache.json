@@ -61,6 +61,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1605257586789556227",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @pushprotocol lfg 🚀",
+          "link": "https://twitter.com/developer_dao/status/1605257586789556227",
+          "publishedOn": "2022-12-20T17:43:27.000Z",
+          "wordCount": 470,
+          "title": "Re @pushprotocol lfg 🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pushprotocol/status/1605256150584262658",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Push Protocol | Push Chat Alpha is LIVE\nFrens @developer_dao!\nGuess what? You just got exclusive access to begin using Push Chat 💬🎊\nYou can now message any wallet address and send them messages natively on Web3.\nPretty cool? Come try it out 👇 https://app.push.org/#/chat",
+          "link": "https://twitter.com/pushprotocol/status/1605256150584262658",
+          "publishedOn": "2022-12-20T17:37:45.000Z",
+          "wordCount": 470,
+          "title": "RT Push Protocol | Push Chat Alpha is LIVE: Frens @developer_dao! Guess what? You just got exclusive access to begin using Push Chat 💬🎊 You can ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/Rahatcodes/status/1605042167327621120",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT rahat.eth\nSome life stuff caught up to me so missed a couple days. To make up for it: I'll give away two a day for three days starting tomorrow before officially closing this. You can still submit or update your submission.\nrahat.eth: In December I am going to personally give away 10 @developer_dao memberships using my $Code token allocation. \nOne way to get into Developer DAO is by owning 400 $Code Tokens. See thread below on how to enter, make sure you actually read through everything.",
@@ -228,26 +248,6 @@
           "publishedOn": "2022-12-15T23:59:33.000Z",
           "wordCount": 470,
           "title": "RT krinza.eth (🧱, 🚀): I never thought I'd say this, but sometimes one DAO just isn't enough.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1603518662413111296",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "who's hiring junior-level roles?",
-          "link": "https://twitter.com/developer_dao/status/1603518662413111296",
-          "publishedOn": "2022-12-15T22:33:35.000Z",
-          "wordCount": 470,
-          "title": "who's hiring junior-level roles?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1603512013874929688",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nLens recently launched support for gating @LensProtocol publications\nTo show how to integrate this into a full stack app I've created + open sourced a reference architecture here:\n\nYou can try it out live on @fleekhq here: https://github.com/dabit3/lens-token-gating https://damp-meadow-0613.on.fleek.co/",
-          "link": "https://twitter.com/dabit3/status/1603512013874929688",
-          "publishedOn": "2022-12-15T22:07:10.000Z",
-          "wordCount": 470,
-          "title": "RT nader (🧱, 🚀) | nader.lens: Lens recently launched support for gating @LensProtocol publications To show how to integrate this into a full sta...",
           "imageUrl": null
         },
         {
