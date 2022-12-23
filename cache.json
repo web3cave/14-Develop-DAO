@@ -36,22 +36,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96482828-c1ff-4786-bc40-5c07776cccd1_1456x728.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/49-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Last Town Hall in S1, Who Is Coming?",
-          "link": "https://developerdao.substack.com/p/49-probably-nothing",
-          "publishedOn": "2022-11-23T04:05:36.000Z",
-          "wordCount": null,
-          "title": "#49 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F363c1f24-8880-42b1-a07c-15cf5dd3c56b_1456x728.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F363c1f24-8880-42b1-a07c-15cf5dd3c56b_1456x728.png"
         }
       ]
     },
@@ -60,6 +44,86 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/dabit3/status/1606044510185656321",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\nThis is a beautiful way to easily set up crypto payments.\n\nA @developer_dao project 🛠\n\n\n\nWoop Pay: 1/ Woop Pay is officially live at \nRequesting cryptocurrency payments won’t be the same again. \nWith a simple, fast, and secure web application, we’re making it easier than ever to request payments in web3 💪\n http://wooppay.xyz",
+          "link": "https://twitter.com/dabit3/status/1606044510185656321",
+          "publishedOn": "2022-12-22T21:50:24.000Z",
+          "wordCount": 470,
+          "title": "RT nader (🧱, 🚀) | nader.lens: This is a beautiful way to easily set up crypto payments. A @developer_dao project 🛠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/fleekxyz/status/1605991662538305536",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Fleek ⚡️\nToday, we're introducing something exciting:\nNon-Fungible Apps (NFAs)\nA new approach for on-chain tokenization of apps that will help unlock better decentralization, censorship resistance, and community ownership for Web3 frontends.\n🧵 https://blog.fleek.co/posts/introducing-nfas-non-fungible-apps",
+          "link": "https://twitter.com/fleekxyz/status/1605991662538305536",
+          "publishedOn": "2022-12-22T18:20:24.000Z",
+          "wordCount": 470,
+          "title": "RT Fleek ⚡️: Today, we're introducing something exciting: Non-Fungible Apps (NFAs) A new approach for on-chain tokenization of apps that will help u...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/getP3RKS/status/1605952199812468737",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT P3RKS\nCongratulations to the winners of the P3RKS x \n@AlchemyLearn giveaway! 🎉 We've sent out the claim links to most of you but cannot reach a few of you in the DMs.\nIf you're tagged below shoot us a message and we will get you your claim link 🔥",
+          "link": "https://twitter.com/getP3RKS/status/1605952199812468737",
+          "publishedOn": "2022-12-22T15:43:36.000Z",
+          "wordCount": 470,
+          "title": "RT P3RKS: Congratulations to the winners of the P3RKS x @AlchemyLearn giveaway! 🎉 We've sent out the claim links to most of you but cannot reach a ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1605949287963267079",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "On D_D YouTube channel there is a lot of knowledge to be found! 🤓\nDo you still remember the fifth workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀\nPractice Your Elevator Pitch \nIf you missed it: https://buff.ly/3OSUzRr",
+          "link": "https://twitter.com/developer_dao/status/1605949287963267079",
+          "publishedOn": "2022-12-22T15:32:02.000Z",
+          "wordCount": 470,
+          "title": "On D_D YouTube channel there is a lot of knowledge to be found! 🤓 Do you still remember the fifth workshop on fundraising made by D_D Fundraising O...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1605938756745314305",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Today, we are happy to share a project that has come out of Agency (@d_d_agency_web3)\n🚀 𝗪𝗢𝗢𝗣 𝗣𝗔𝗬 🚀\nP2P Web3 payments made easy!\nLed by: @alerex_eth & @gordo_design\nAlso on the team: @uma__l & @wolovim\nCheck it out! ⬇️\nWoop Pay: 1/ Woop Pay is officially live at \nRequesting cryptocurrency payments won’t be the same again. \nWith a simple, fast, and secure web application, we’re making it easier than ever to request payments in web3 💪\n http://wooppay.xyz",
+          "link": "https://twitter.com/developer_dao/status/1605938756745314305",
+          "publishedOn": "2022-12-22T14:50:11.000Z",
+          "wordCount": 470,
+          "title": "Today, we are happy to share a project that has come out of Agency (@d_d_agency_web3) 🚀 𝗪𝗢𝗢𝗣 𝗣𝗔𝗬 🚀 P2P Web3 payments made e...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1605916759097102336",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\nI just released a new video ⭐️\nBuilding a Full Stack Social Mobile App in 15 minutes with @expo, React Native, & @LensProtocol ✨🌿\nIncludes\n- Profiles\n- Profile details\n- Comments\n- Publications\n- Navigation\n- New LensProvider for themeing / env config https://www.youtube.com/watch?v=qs6OE9kef6I",
+          "link": "https://twitter.com/dabit3/status/1605916759097102336",
+          "publishedOn": "2022-12-22T13:22:46.000Z",
+          "wordCount": 470,
+          "title": "RT nader (🧱, 🚀) | nader.lens: I just released a new video ⭐️ Building a Full Stack Social Mobile App in 15 minutes with @expo, React Native, &...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/tr3butor/status/1605900092778708993",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT tr3butor | web3 contributor platform\nReady…Set…Go! \n💠💠Genesis NFT Mint is officially ON!💠💠\nGo and grab yours now! ☘️ https://galxe.com/tr3butor/campaign/GCtvJUwXUU",
+          "link": "https://twitter.com/tr3butor/status/1605900092778708993",
+          "publishedOn": "2022-12-22T12:16:32.000Z",
+          "wordCount": 470,
+          "title": "RT tr3butor | web3 contributor platform: Ready…Set…Go! 💠💠Genesis NFT Mint is officially ON!💠💠 Go and grab yours now! ☘️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/hedera/status/1605698380922966016",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Hedera\n⏱Don't forget to set your reminders for Ecosystem Week Trivia tomorrow at 9AM PT in the #Hedera Discord! All the info you need in the tweet below 👇\nHedera: 🎁Want to win some MERCĦANDISE just in time for the holidays?\n♻️Test your #Hedera knowledge and win prizes at Ecosystem Week Trivia hosted by @defigirlxoxo & @oliver_hbar this Thursday at 9AM PT on Discord. Join us then using the link below!\n👉\n https://discord.gg/hedera",
+          "link": "https://twitter.com/hedera/status/1605698380922966016",
+          "publishedOn": "2022-12-21T22:55:01.000Z",
+          "wordCount": 470,
+          "title": "RT Hedera: ⏱Don't forget to set your reminders for Ecosystem Week Trivia tomorrow at 9AM PT in the #Hedera Discord! All the info you need in the twee...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DevDaoJobs/status/1605678662887563274",
           "author": "Developer DAO (🧱, 🚀)",
@@ -88,6 +152,16 @@
           "publishedOn": "2022-12-21T17:39:03.000Z",
           "wordCount": 470,
           "title": "RT DevNTell: 🌈 gm frens 🌈 We hope you're ready for another great #DevNTell this week where we'll be given an overview of @CypherockWallet by @nm...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Givethio/status/1605594294974152706",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Giveth\n🎄 The holidays are a great time to give back - and we take it a step further.\n✨ Giveth unlocks DeFi4good by rewarding you with $GIV when you donate to verified impact projects.\nUse your tokens at \n🧵👇 http://giveth.io",
+          "link": "https://twitter.com/Givethio/status/1605594294974152706",
+          "publishedOn": "2022-12-21T16:01:25.000Z",
+          "wordCount": 470,
+          "title": "RT Giveth: 🎄 The holidays are a great time to give back - and we take it a step further. ✨ Giveth unlocks DeFi4good by rewarding you with $GIV whe...",
           "imageUrl": null
         },
         {
@@ -161,16 +235,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1604935352761851911",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚨 Have you claimed your $CODE tokens yet?\nOnly ~40% of eligible recipients have claimed. To check if you're eligible,  head to \n Claim before it's too late and help us decentralise the DAO  👀 https://claim.developerdao.com/",
-          "link": "https://twitter.com/developer_dao/status/1604935352761851911",
-          "publishedOn": "2022-12-19T20:23:01.000Z",
-          "wordCount": 470,
-          "title": "🚨 Have you claimed your $CODE tokens yet? Only ~40% of eligible recipients have claimed. To check if you're eligible, head to Claim before it's too...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/mannyornothing/status/1604899467215470592",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT manny\nBuilding in public here for the DD Job Board! @DevDaoJobs @developer_dao \nHere is a new program, I am itching to launch for the D_D job board - \"job and tell\"",
@@ -178,86 +242,6 @@
           "publishedOn": "2022-12-19T18:00:25.000Z",
           "wordCount": 470,
           "title": "RT manny: Building in public here for the DD Job Board! @DevDaoJobs @developer_dao Here is a new program, I am itching to launch for the D_D job board...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/warp_contracts/status/1604810600869425152",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Warp Contracts\nThe Arweave expansion is insane 🔥\n100+ projects are being built and grown with Arweave! 🐘 \nMost people aren't aware of how quickly @ArweaveTeam is being adopted. \nTo spread awareness, we canvassed the industry.\nIntroducing: The Arweave Ecosystem Landscape \n🧵👇",
-          "link": "https://twitter.com/warp_contracts/status/1604810600869425152",
-          "publishedOn": "2022-12-19T12:07:17.000Z",
-          "wordCount": 470,
-          "title": "RT Warp Contracts: The Arweave expansion is insane 🔥 100+ projects are being built and grown with Arweave! 🐘 Most people aren't aware of how qui...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1604535843376566282",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The greatest sports game ever!",
-          "link": "https://twitter.com/developer_dao/status/1604535843376566282",
-          "publishedOn": "2022-12-18T17:55:30.000Z",
-          "wordCount": 470,
-          "title": "The greatest sports game ever!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/JayFrankEsq/status/1604488351452893185",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT $JAY the Personal Token | meTokens\nI’m going to @developer_dao’s upcoming Space.\nSubDAO culture coming 2023 @DevRelGuild https://twitter.com/i/spaces/1mnxeRworwNKX",
-          "link": "https://twitter.com/JayFrankEsq/status/1604488351452893185",
-          "publishedOn": "2022-12-18T14:46:47.000Z",
-          "wordCount": 470,
-          "title": "RT $JAY the Personal Token | meTokens: I’m going to @developer_dao’s upcoming Space. SubDAO culture coming 2023 @DevRelGuild",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/megabyte0x/status/1604315932557340673",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Megabyte (🧱,🚀)\nThe growth of @developer_dao is so enormous that now it have started to create its own sub-DAOs for each topic. \nAnd the @DevRelGuild is the first sub-DAO. \nLFG🚀",
-          "link": "https://twitter.com/megabyte0x/status/1604315932557340673",
-          "publishedOn": "2022-12-18T03:21:39.000Z",
-          "wordCount": 470,
-          "title": "RT Megabyte (🧱,🚀): The growth of @developer_dao is so enormous that now it have started to create its own sub-DAOs for each topic. And the @DevR...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DevRelGuild/status/1604310737878499332",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevRel HQ (🧱, 🚀)\n— you've got a new notification! \nHang out with the @pushprotocol and @developer_dao team to geek over web3 communication and messaging. \nSet Reminder!",
-          "link": "https://twitter.com/DevRelGuild/status/1604310737878499332",
-          "publishedOn": "2022-12-18T03:01:01.000Z",
-          "wordCount": 470,
-          "title": "RT DevRel HQ (🧱, 🚀): — you've got a new notification! Hang out with the @pushprotocol and @developer_dao team to geek over web3 communication a...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1604210574975533057",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚨 P21: Simplifying Governance\nIn summary, this proposal:\n- Speeds up Governance (15 > 10 days)\n- Reduces threshold for members to elevate proposals to Snapshot (50k > 25k $CODE)\nPlease exercise your Gov rights and cast your votes 🙏🏼 https://buff.ly/3W4gBU8",
-          "link": "https://twitter.com/developer_dao/status/1604210574975533057",
-          "publishedOn": "2022-12-17T20:23:00.000Z",
-          "wordCount": 470,
-          "title": "🚨 P21: Simplifying Governance In summary, this proposal: - Speeds up Governance (15 > 10 days) - Reduces threshold for members to elevate proposals...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1603843869053177856",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe had another fantastic showing today at the \n@developer_dao #DevNTell with @narb_s who gave us a overview of @storedat_io 🧠\nIf you missed us live, you can now watch the recording on YouTube 📹: https://youtu.be/ULpuwe108FY",
-          "link": "https://twitter.com/devntellxyz/status/1603843869053177856",
-          "publishedOn": "2022-12-16T20:05:51.000Z",
-          "wordCount": 470,
-          "title": "RT DevNTell: 🌈 gm frens 🌈 We had another fantastic showing today at the @developer_dao #DevNTell with @narb_s who gave us a overview of @storeda...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1603791724064608260",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Given @elonmusk has rugged Spaces and we're not sure if this will work, we'll be hosting this in our discord (and definitely not doxxing anyone 🤫)\nSame time on the developers voice channel.\nHope to see you all in ~20 mins 👀\nDeveloper DAO (🧱, 🚀): Tomorrow @ 5pm UTC we're hosting an open discussion about D_Ds latest in flight proposal.\nCome hangout, listen and ask any questions of the proposal authors 🤝\n https://twitter.com/i/spaces/1YpKkgjqPPZKj",
-          "link": "https://twitter.com/developer_dao/status/1603791724064608260",
-          "publishedOn": "2022-12-16T16:38:38.000Z",
-          "wordCount": 470,
-          "title": "Given @elonmusk has rugged Spaces and we're not sure if this will work, we'll be hosting this in our discord (and definitely not doxxing anyone 🤫) ...",
           "imageUrl": null
         }
       ]
@@ -267,6 +251,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qs6OE9kef6I",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qs6OE9kef6I",
+          "publishedOn": "2022-12-22T13:10:49.000Z",
+          "wordCount": null,
+          "title": "Building a Full Stack Social Mobile App in 15 minutes with Expo, React Native, and Lens Protocol",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=M_CeggIzrzw",
           "author": null,
