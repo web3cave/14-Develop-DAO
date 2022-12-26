@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-25T06:11:45.246Z</id>
+    <id>urn:2022-12-26T06:13:20.849Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-25T06:11:45.246Z</updated>
+    <updated>2022-12-26T06:13:20.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1607188339681017856</id>
+        <link href="https://twitter.com/developer_dao/status/1607188339681017856"/>
+        <updated>2022-12-26T01:35:34.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1606994255511445504</id>
+        <link href="https://twitter.com/developer_dao/status/1606994255511445504"/>
+        <updated>2022-12-25T12:44:21.000Z</updated>
+        <summary type="html"><![CDATA[gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @AlgoveraAI @wise_Tyy *supporting 🤦‍♀️]]></title>
         <id>https://twitter.com/developer_dao/status/1606741664743436289</id>
@@ -260,33 +279,6 @@ An example: How they've helped my team so far... 1/7]]></summary>
         <link href="https://twitter.com/developer_dao/status/1605257586789556227"/>
         <updated>2022-12-20T17:43:27.000Z</updated>
         <summary type="html"><![CDATA[Re @pushprotocol lfg 🚀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE: Frens @developer_dao! Guess what? You just got exclusive access to begin using Push Chat 💬🎊 You can ...]]></title>
-        <id>https://twitter.com/pushprotocol/status/1605256150584262658</id>
-        <link href="https://twitter.com/pushprotocol/status/1605256150584262658"/>
-        <updated>2022-12-20T17:37:45.000Z</updated>
-        <summary type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE
-Frens @developer_dao!
-Guess what? You just got exclusive access to begin using Push Chat 💬🎊
-You can now message any wallet address and send them messages natively on Web3.
-Pretty cool? Come try it out 👇 https://app.push.org/#/chat]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rahat.eth: Some life stuff caught up to me so missed a couple days. To make up for it: I'll give away two a day for three days starting tomorrow be...]]></title>
-        <id>https://twitter.com/Rahatcodes/status/1605042167327621120</id>
-        <link href="https://twitter.com/Rahatcodes/status/1605042167327621120"/>
-        <updated>2022-12-20T03:27:27.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth
-Some life stuff caught up to me so missed a couple days. To make up for it: I'll give away two a day for three days starting tomorrow before officially closing this. You can still submit or update your submission.
-rahat.eth: In December I am going to personally give away 10 @developer_dao memberships using my $Code token allocation. 
-One way to get into Developer DAO is by owning 400 $Code Tokens. See thread below on how to enter, make sure you actually read through everything.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
