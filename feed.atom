@@ -1,10 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-27T06:12:56.393Z</id>
+    <id>urn:2022-12-28T06:13:06.117Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-27T06:12:56.394Z</updated>
+    <updated>2022-12-28T06:13:06.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @gianmarcoeth ☝️legend]]></title>
+        <id>https://twitter.com/developer_dao/status/1607837563724926976</id>
+        <link href="https://twitter.com/developer_dao/status/1607837563724926976"/>
+        <updated>2022-12-27T20:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @gianmarcoeth ☝️legend]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 P21: Simplifying Governance In summary, this proposal: - Speeds up Governance (15 > 10 days) - Reduces threshold for members to elevate proposals...]]></title>
+        <id>https://twitter.com/developer_dao/status/1607834454260699137</id>
+        <link href="https://twitter.com/developer_dao/status/1607834454260699137"/>
+        <updated>2022-12-27T20:23:00.000Z</updated>
+        <summary type="html"><![CDATA[🚨 P21: Simplifying Governance
+In summary, this proposal:
+- Speeds up Governance (15 > 10 days)
+- Reduces threshold for members to elevate proposals to Snapshot (50k > 25k $CODE)
+Please exercise your Gov rights and cast your votes 🙏🏼 https://buff.ly/3W4gBU8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Wesley ✈️: Some updates ✅ minor styling improvements ✅ add 'ts-hooks' ✅ add @signinwitheth example]]></title>
+        <id>https://twitter.com/wslyvh/status/1607737005361987585</id>
+        <link href="https://twitter.com/wslyvh/status/1607737005361987585"/>
+        <updated>2022-12-27T13:55:47.000Z</updated>
+        <summary type="html"><![CDATA[RT Wesley ✈️
+Some updates
+✅ minor styling improvements
+✅ add 'ts-hooks'
+✅ add @signinwitheth example
+Wesley ✈️: Shipping Sundays 🚢
+Next.js + Ethereum starter kit
+- @nextjs 
+- @ethereum 
+- @typescript 
+- @chakra_ui 
+- @wagmi_sh
+- @family 
+- ethers.js
+ https://github.com/wslyvh/nexth]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Wesley ✈️: Following @Rahatcodes' example, I'll give away my $CODE allocation ✨ a total of 4 @developer_dao memberships (I'll double the 800 tok...]]></title>
+        <id>https://twitter.com/wslyvh/status/1607687102925348866</id>
+        <link href="https://twitter.com/wslyvh/status/1607687102925348866"/>
+        <updated>2022-12-27T10:37:29.000Z</updated>
+        <summary type="html"><![CDATA[RT Wesley ✈️
+Following @Rahatcodes' example, I'll give away my $CODE allocation
+✨ a total of 4 @developer_dao memberships 
+(I'll double the 800 tokens I got from the airdrop)
+Similar rules as Rahat 👀
+- NO DMs
+- Reply what you're working on and how you think D_D can help
+- winners by EOY
+rahat.eth: In December I am going to personally give away 10 @developer_dao memberships using my $Code token allocation. 
+One way to get into Developer DAO is by owning 400 $Code Tokens. See thread below on how to enter, make sure you actually read through everything.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://twitter.com/developer_dao/status/1607188339681017856</id>
@@ -213,28 +280,6 @@ Sign up now: https://t.me/+bzm-6H8mvcBiYjdh https://developerdao.pallet.com/
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1605669114776735744</id>
-        <link href="https://twitter.com/developer_dao/status/1605669114776735744"/>
-        <updated>2022-12-21T20:58:43.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: 🌈 gm frens 🌈 We hope you're ready for another great #DevNTell this week where we'll be given an overview of @CypherockWallet by @nm...]]></title>
-        <id>https://twitter.com/devntellxyz/status/1605618865093779457</id>
-        <link href="https://twitter.com/devntellxyz/status/1605618865093779457"/>
-        <updated>2022-12-21T17:39:03.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-🌈 gm frens 🌈
-We hope you're ready for another great #DevNTell this week where we'll be given an overview of @CypherockWallet by @nmnsth 🚀
-Read on below for a little background about Naman and Cypherock before the presentation 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Giveth: 🎄 The holidays are a great time to give back - and we take it a step further. ✨ Giveth unlocks DeFi4good by rewarding you with $GIV whe...]]></title>
         <id>https://twitter.com/Givethio/status/1605594294974152706</id>
         <link href="https://twitter.com/Givethio/status/1605594294974152706"/>
@@ -249,17 +294,6 @@ Use your tokens at
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ever tried to build your own NFT smart contract? 🤔 Well, thirdweb and Chainlink are a great help here! And our member @Aayush_gupta_ji will make su...]]></title>
-        <id>https://twitter.com/developer_dao/status/1605594074316247041</id>
-        <link href="https://twitter.com/developer_dao/status/1605594074316247041"/>
-        <updated>2022-12-21T16:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Ever tried to build your own NFT smart contract? 🤔
-Well, thirdweb and Chainlink are a great help here! And our member @Aayush_gupta_ji will make sure you understand how they work. 😎 https://buff.ly/3FK1tV2]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer: What’s the #1 untapped resource for getting grants for your web3 project? It’s @de...]]></title>
         <id>https://twitter.com/kirstenrpomales/status/1605578817019461632</id>
         <link href="https://twitter.com/kirstenrpomales/status/1605578817019461632"/>
@@ -269,16 +303,6 @@ What’s the #1 untapped resource for getting grants for your web3 project?
 It’s @developer_dao 🙌
 TLDR: They have an AWESOME fundraising support team that will spend hands-on time with you perfecting your grant apps and MORE.
 An example: How they've helped my team so far... 1/7]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @pushprotocol lfg 🚀]]></title>
-        <id>https://twitter.com/developer_dao/status/1605257586789556227</id>
-        <link href="https://twitter.com/developer_dao/status/1605257586789556227"/>
-        <updated>2022-12-20T17:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Re @pushprotocol lfg 🚀]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

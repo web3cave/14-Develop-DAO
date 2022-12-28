@@ -45,6 +45,46 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1607837563724926976",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @gianmarcoeth ☝️legend",
+          "link": "https://twitter.com/developer_dao/status/1607837563724926976",
+          "publishedOn": "2022-12-27T20:35:22.000Z",
+          "wordCount": 470,
+          "title": "Re @gianmarcoeth ☝️legend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1607834454260699137",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚨 P21: Simplifying Governance\nIn summary, this proposal:\n- Speeds up Governance (15 > 10 days)\n- Reduces threshold for members to elevate proposals to Snapshot (50k > 25k $CODE)\nPlease exercise your Gov rights and cast your votes 🙏🏼 https://buff.ly/3W4gBU8",
+          "link": "https://twitter.com/developer_dao/status/1607834454260699137",
+          "publishedOn": "2022-12-27T20:23:00.000Z",
+          "wordCount": 470,
+          "title": "🚨 P21: Simplifying Governance In summary, this proposal: - Speeds up Governance (15 > 10 days) - Reduces threshold for members to elevate proposals...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wslyvh/status/1607737005361987585",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Wesley ✈️\nSome updates\n✅ minor styling improvements\n✅ add 'ts-hooks'\n✅ add @signinwitheth example\nWesley ✈️: Shipping Sundays 🚢\nNext.js + Ethereum starter kit\n- @nextjs \n- @ethereum \n- @typescript \n- @chakra_ui \n- @wagmi_sh\n- @family \n- ethers.js\n https://github.com/wslyvh/nexth",
+          "link": "https://twitter.com/wslyvh/status/1607737005361987585",
+          "publishedOn": "2022-12-27T13:55:47.000Z",
+          "wordCount": 470,
+          "title": "RT Wesley ✈️: Some updates ✅ minor styling improvements ✅ add 'ts-hooks' ✅ add @signinwitheth example",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wslyvh/status/1607687102925348866",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Wesley ✈️\nFollowing @Rahatcodes' example, I'll give away my $CODE allocation\n✨ a total of 4 @developer_dao memberships \n(I'll double the 800 tokens I got from the airdrop)\nSimilar rules as Rahat 👀\n- NO DMs\n- Reply what you're working on and how you think D_D can help\n- winners by EOY\nrahat.eth: In December I am going to personally give away 10 @developer_dao memberships using my $Code token allocation. \nOne way to get into Developer DAO is by owning 400 $Code Tokens. See thread below on how to enter, make sure you actually read through everything.",
+          "link": "https://twitter.com/wslyvh/status/1607687102925348866",
+          "publishedOn": "2022-12-27T10:37:29.000Z",
+          "wordCount": 470,
+          "title": "RT Wesley ✈️: Following @Rahatcodes' example, I'll give away my $CODE allocation ✨ a total of 4 @developer_dao memberships (I'll double the 800 tok...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1607188339681017856",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "",
@@ -185,26 +225,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1605669114776735744",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1605669114776735744",
-          "publishedOn": "2022-12-21T20:58:43.000Z",
-          "wordCount": 470,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1605618865093779457",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🌈 gm frens 🌈\nWe hope you're ready for another great #DevNTell this week where we'll be given an overview of @CypherockWallet by @nmnsth 🚀\nRead on below for a little background about Naman and Cypherock before the presentation 👇",
-          "link": "https://twitter.com/devntellxyz/status/1605618865093779457",
-          "publishedOn": "2022-12-21T17:39:03.000Z",
-          "wordCount": 470,
-          "title": "RT DevNTell: 🌈 gm frens 🌈 We hope you're ready for another great #DevNTell this week where we'll be given an overview of @CypherockWallet by @nm...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/Givethio/status/1605594294974152706",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Giveth\n🎄 The holidays are a great time to give back - and we take it a step further.\n✨ Giveth unlocks DeFi4good by rewarding you with $GIV when you donate to verified impact projects.\nUse your tokens at \n🧵👇 http://giveth.io",
@@ -215,16 +235,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1605594074316247041",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Ever tried to build your own NFT smart contract? 🤔\nWell, thirdweb and Chainlink are a great help here! And our member @Aayush_gupta_ji will make sure you understand how they work. 😎 https://buff.ly/3FK1tV2",
-          "link": "https://twitter.com/developer_dao/status/1605594074316247041",
-          "publishedOn": "2022-12-21T16:00:32.000Z",
-          "wordCount": 470,
-          "title": "Ever tried to build your own NFT smart contract? 🤔 Well, thirdweb and Chainlink are a great help here! And our member @Aayush_gupta_ji will make su...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/kirstenrpomales/status/1605578817019461632",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer\nWhat’s the #1 untapped resource for getting grants for your web3 project?\nIt’s @developer_dao 🙌\nTLDR: They have an AWESOME fundraising support team that will spend hands-on time with you perfecting your grant apps and MORE.\nAn example: How they've helped my team so far... 1/7",
@@ -232,16 +242,6 @@
           "publishedOn": "2022-12-21T14:59:54.000Z",
           "wordCount": 470,
           "title": "RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer: What’s the #1 untapped resource for getting grants for your web3 project? It’s @de...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1605257586789556227",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @pushprotocol lfg 🚀",
-          "link": "https://twitter.com/developer_dao/status/1605257586789556227",
-          "publishedOn": "2022-12-20T17:43:27.000Z",
-          "wordCount": 470,
-          "title": "Re @pushprotocol lfg 🚀",
           "imageUrl": null
         }
       ]
