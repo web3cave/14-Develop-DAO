@@ -45,6 +45,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/mannyornothing/status/1608148622817771522",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT manny\nAny web3 companies willing take a chance on a junior dev with a grant to build an internal tool?",
+          "link": "https://twitter.com/mannyornothing/status/1608148622817771522",
+          "publishedOn": "2022-12-28T17:11:24.000Z",
+          "wordCount": 470,
+          "title": "RT manny: Any web3 companies willing take a chance on a junior dev with a grant to build an internal tool?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1608130912159502338",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "If you missed it last week: our member @Aayush_gupta_ji wrote about thirdweb and Chainlink.\nSo, if you wanna build an NFT smart contract, check it out! https://buff.ly/3FK1tV2",
+          "link": "https://twitter.com/developer_dao/status/1608130912159502338",
+          "publishedOn": "2022-12-28T16:01:01.000Z",
+          "wordCount": 470,
+          "title": "If you missed it last week: our member @Aayush_gupta_ji wrote about thirdweb and Chainlink. So, if you wanna build an NFT smart contract, check it out...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1607837563724926976",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @gianmarcoeth ☝️legend",
@@ -215,16 +235,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/DevDaoJobs/status/1605678662887563274",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Jobs Team\nLooking to hire top talent and find your next standout employee? 🚀\nLet us help you streamline the process and find the perfect fit! 🤝\nJoin our Telegram group to find out more: \nor\nSign up now: https://t.me/+bzm-6H8mvcBiYjdh https://developerdao.pallet.com/companies",
-          "link": "https://twitter.com/DevDaoJobs/status/1605678662887563274",
-          "publishedOn": "2022-12-21T21:36:39.000Z",
-          "wordCount": 470,
-          "title": "RT Jobs Team: Looking to hire top talent and find your next standout employee? 🚀 Let us help you streamline the process and find the perfect fit! ...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/Givethio/status/1605594294974152706",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Giveth\n🎄 The holidays are a great time to give back - and we take it a step further.\n✨ Giveth unlocks DeFi4good by rewarding you with $GIV when you donate to verified impact projects.\nUse your tokens at \n🧵👇 http://giveth.io",
@@ -232,16 +242,6 @@
           "publishedOn": "2022-12-21T16:01:25.000Z",
           "wordCount": 470,
           "title": "RT Giveth: 🎄 The holidays are a great time to give back - and we take it a step further. ✨ Giveth unlocks DeFi4good by rewarding you with $GIV whe...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kirstenrpomales/status/1605578817019461632",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer\nWhat’s the #1 untapped resource for getting grants for your web3 project?\nIt’s @developer_dao 🙌\nTLDR: They have an AWESOME fundraising support team that will spend hands-on time with you perfecting your grant apps and MORE.\nAn example: How they've helped my team so far... 1/7",
-          "link": "https://twitter.com/kirstenrpomales/status/1605578817019461632",
-          "publishedOn": "2022-12-21T14:59:54.000Z",
-          "wordCount": 470,
-          "title": "RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer: What’s the #1 untapped resource for getting grants for your web3 project? It’s @de...",
           "imageUrl": null
         }
       ]
@@ -259,16 +259,6 @@
           "publishedOn": "2022-12-22T13:10:49.000Z",
           "wordCount": null,
           "title": "Building a Full Stack Social Mobile App in 15 minutes with Expo, React Native, and Lens Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M_CeggIzrzw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M_CeggIzrzw",
-          "publishedOn": "2022-11-29T00:46:32.000Z",
-          "wordCount": null,
-          "title": "Introduction to Lens for Developers",
           "imageUrl": null
         }
       ]
