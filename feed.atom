@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-30T06:13:00.351Z</id>
+    <id>urn:2022-12-31T06:12:24.591Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-30T06:13:00.351Z</updated>
+    <updated>2022-12-31T06:12:24.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT manny: The passion for helping others is soooo rad in web3! Help me send some rad devs to ETH Denver X @developer_dao]]></title>
+        <id>https://twitter.com/mannyornothing/status/1608884897791479811</id>
+        <link href="https://twitter.com/mannyornothing/status/1608884897791479811"/>
+        <updated>2022-12-30T17:57:05.000Z</updated>
+        <summary type="html"><![CDATA[RT manny
+The passion for helping others is soooo rad in web3!
+Help me send some rad devs to ETH Denver X @developer_dao https://krinza.notion.site/krinza/ETH-Denver-Hackathon-X-DevDAO-6f3762339ca24015bece564bdd453178]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨 Have you claimed your $CODE tokens yet? Less than 50% of eligible recipients have claimed. To check if you're eligible, head to Claim before it's...]]></title>
         <id>https://twitter.com/developer_dao/status/1608559235020767235</id>
@@ -208,26 +220,6 @@ AlgoveraAI: Happy to share that members from @developer_dao & @womenbuildweb3 
         <summary type="html"><![CDATA[RT Orbitum Space
 Let's talk about @developer_dao on our decentralized web3 forums
 Parlons de @developer_dao sur nos forums web3 décentralisés https://orbitum.space/forum/developer-dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: This is a beautiful way to easily set up crypto payments. A @developer_dao project 🛠]]></title>
-        <id>https://twitter.com/dabit3/status/1606044510185656321</id>
-        <link href="https://twitter.com/dabit3/status/1606044510185656321"/>
-        <updated>2022-12-22T21:50:24.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-This is a beautiful way to easily set up crypto payments.
-
-A @developer_dao project 🛠
-
-
-
-Woop Pay: 1/ Woop Pay is officially live at 
-Requesting cryptocurrency payments won’t be the same again. 
-With a simple, fast, and secure web application, we’re making it easier than ever to request payments in web3 💪
- http://wooppay.xyz]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
