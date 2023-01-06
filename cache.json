@@ -4,30 +4,93 @@
       "title": "Developer DAO",
       "feedUrl": "https://developerdao.substack.com/feed",
       "siteUrl": "https://developerdao.substack.com",
-      "articles": [
-        {
-          "id": "https://developerdao.substack.com/p/51-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Santa's not the only one with a workshop",
-          "link": "https://developerdao.substack.com/p/51-probably-nothing",
-          "publishedOn": "2022-12-07T16:51:05.000Z",
-          "wordCount": null,
-          "title": "#51 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc4cd583-433d-43bf-9748-5b066388bb47_1456x728.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc4cd583-433d-43bf-9748-5b066388bb47_1456x728.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Twitter @Developer DAO (🧱, 🚀)",
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/dabit3/status/1611142759930384386",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\nA lot has happened over the past few months in the @LensProtocol ecosystem.\nIn this thread I want to highlight some of the plans, projects, announcements, updates, and products we've shipped over the past year and also shed some light on what's coming next. 🌿❤️‍🔥⚡️\n1/23",
+          "link": "https://twitter.com/dabit3/status/1611142759930384386",
+          "publishedOn": "2023-01-05T23:29:02.000Z",
+          "wordCount": 470,
+          "title": "RT nader (🧱, 🚀) | nader.lens: A lot has happened over the past few months in the @LensProtocol ecosystem. In this thread I want to highlight som...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1611095946431025156",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚨 P21: Simplifying Governance\nIn summary, this proposal:\n- Speeds up Governance (15 > 10 days)\n- Reduces threshold for members to elevate proposals to Snapshot (50k > 25k $CODE)\nPlease exercise your Gov rights and cast your votes, we need ~50 more 🙏 https://buff.ly/3W4gBU8",
+          "link": "https://twitter.com/developer_dao/status/1611095946431025156",
+          "publishedOn": "2023-01-05T20:23:01.000Z",
+          "wordCount": 470,
+          "title": "🚨 P21: Simplifying Governance In summary, this proposal: - Speeds up Governance (15 > 10 days) - Reduces threshold for members to elevate proposals...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DevDaoJobs/status/1611094283183968276",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jobs Team\n🚀  D_D Jobs of the Week 🚀\nCheck out the D_D Job Board for the latest #web3 #jobs from our partners. \n@developer_dao",
+          "link": "https://twitter.com/DevDaoJobs/status/1611094283183968276",
+          "publishedOn": "2023-01-05T20:16:24.000Z",
+          "wordCount": 470,
+          "title": "RT Jobs Team: 🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. @developer_dao",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1611045012107558936",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Last week @PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. \nGo check it out! 🤓 https://buff.ly/3WwCsUy",
+          "link": "https://twitter.com/developer_dao/status/1611045012107558936",
+          "publishedOn": "2023-01-05T17:00:37.000Z",
+          "wordCount": 470,
+          "title": "Last week @PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. Go check it out! 🤓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/QuickNode/status/1611040004981260288",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT QuickNode\nWe're thrilled to announce that we're teaming up with \n@developer_dao to bring even more value to their community of web3 builders!\nLet's BUILD. 🤝",
+          "link": "https://twitter.com/QuickNode/status/1611040004981260288",
+          "publishedOn": "2023-01-05T16:40:43.000Z",
+          "wordCount": 470,
+          "title": "RT QuickNode: We're thrilled to announce that we're teaming up with @developer_dao to bring even more value to their community of web3 builders! Let's...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1611032814933184515",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Hey folks! In case you might’ve missed it, see this awesome workshop with @ridley___ of @swirldslabs on @hedera\n\n#Hedera are working on another workshop 👀 so if there’s any topics you’d like to see covered — please let them know: https://bit.ly/3QeoaFL https://bit.ly/3IyY1PY",
+          "link": "https://twitter.com/developer_dao/status/1611032814933184515",
+          "publishedOn": "2023-01-05T16:12:09.000Z",
+          "wordCount": 470,
+          "title": "Hey folks! In case you might’ve missed it, see this awesome workshop with @ridley___ of @swirldslabs on @hedera #Hedera are working on another worksh...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1611029879566352384",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "After a little bit over a month of the D_D Fundraising Operators working with founders, we’re happy to announce that the first one got funded!\nDec 16: @kirstenrpomales came to the Fundraising Office Hours with a draft proposal for a grant and she got it on Dec 26th!\nCongrats!",
+          "link": "https://twitter.com/developer_dao/status/1611029879566352384",
+          "publishedOn": "2023-01-05T16:00:29.000Z",
+          "wordCount": 470,
+          "title": "After a little bit over a month of the D_D Fundraising Operators working with founders, we’re happy to announce that the first one got funded! Dec 16...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/gakonst/status/1610999180608012289",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Georgios Konstantopoulos\nLooking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/open source projects.\nFrontend/backend/devops all game.\nPlease DM me your Github/past work/your availability/rates. Thanks!",
+          "link": "https://twitter.com/gakonst/status/1610999180608012289",
+          "publishedOn": "2023-01-05T13:58:30.000Z",
+          "wordCount": 470,
+          "title": "RT Georgios Konstantopoulos: Looking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/o...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/camiinthisthang/status/1610726283368964097",
           "author": "Developer DAO (🧱, 🚀)",
@@ -139,26 +202,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/shlokrp/status/1609958558040494080",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Shlok | shlokrp.lens\nExcited to announce that I am now a member of @developer_dao! Grateful to @K4y1s for his support in achieving this. Looking forward to connecting with devs & learning more together.\nWhat a great start to 2023!",
-          "link": "https://twitter.com/shlokrp/status/1609958558040494080",
-          "publishedOn": "2023-01-02T17:03:26.000Z",
-          "wordCount": 470,
-          "title": "RT Shlok | shlokrp.lens: Excited to announce that I am now a member of @developer_dao! Grateful to @K4y1s for his support in achieving this. Looking f...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1609955949497704449",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1609955949497704449",
-          "publishedOn": "2023-01-02T16:53:04.000Z",
-          "wordCount": 470,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/aditipolkam/status/1609809817744609281",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Aditi\nhappy to share with you all I am a @developer_dao member now, thanks @wslyvh for this one!😍✨",
@@ -166,66 +209,6 @@
           "publishedOn": "2023-01-02T07:12:24.000Z",
           "wordCount": 470,
           "title": "RT Aditi: happy to share with you all I am a @developer_dao member now, thanks @wslyvh for this one!😍✨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/zanedraas/status/1609673453757423622",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Zane and Draas\n𝐑𝐞𝐜𝐨𝐧𝐭𝐞𝐱𝐭𝐮𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐃𝐀𝐎𝐬: 𝐓𝐡𝐞 𝐂𝐚𝐬𝐞 𝐟𝐨𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐃𝐀𝐎\n— Guest article written by Developer DAO’s (@developer_dao) Head of Community, Onboarding & Server Architecture @boyluan\n🧵 https://mirror.xyz/zanedraas.eth/q1wuGwH3DxDhuzbnlLeIMXMLkObiinWb8lQkibBSeRs",
-          "link": "https://twitter.com/zanedraas/status/1609673453757423622",
-          "publishedOn": "2023-01-01T22:10:32.000Z",
-          "wordCount": 470,
-          "title": "RT Zane and Draas: 𝐑𝐞𝐜𝐨𝐧𝐭𝐞𝐱𝐭𝐮𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐃𝐀𝐎𝐬: 𝐓𝐡𝐞 𝐂𝐚𝐬𝐞 𝐟𝐨𝐫 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1609642847635906560",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nI just released a new video ⭐️\nSocial Login and Account Abstraction with Next.js and Biconomy ✨❤️‍🔥\nIncludes\n- Biconomy overview\n- Intro to account abstraction\n- Implementing social login + AA from scratch with Next.js\n- 2 codebases\n\n@nextjs @biconomy https://www.youtube.com/watch?v=qBPoVs66CxE",
-          "link": "https://twitter.com/dabit3/status/1609642847635906560",
-          "publishedOn": "2023-01-01T20:08:55.000Z",
-          "wordCount": 470,
-          "title": "RT nader (🧱, 🚀) | nader.lens: I just released a new video ⭐️ Social Login and Account Abstraction with Next.js and Biconomy ✨❤️‍🔥 Inclu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/adiig7/status/1609273269009674240",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Aditya 🥑\n2022 was a good year for me just because of @LearnWeb3DAO @developer_dao\n2022 ended with me joining @Kleros_io as a DevRel💼\nA very big thank you to @e_childsplay for believing in my skills and making a part of the such an amazing team✌️\nA lot to achieve in 2023 with Kleros🫡",
-          "link": "https://twitter.com/adiig7/status/1609273269009674240",
-          "publishedOn": "2022-12-31T19:40:20.000Z",
-          "wordCount": 470,
-          "title": "RT Aditya 🥑: 2022 was a good year for me just because of @LearnWeb3DAO @developer_dao 2022 ended with me joining @Kleros_io as a DevRel💼 A very ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1609251207725592582",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The first set of 𝗔𝘅𝗶𝘀𝗢𝗻𝗲 scholarships have been awarded to the following people:\n@Victorebukaezea @ayodejidev @devv_chi @mierarrar @kpkeerthi25\nYour NFTs have been sent to your respective wallet addresses 🌐\nCongratulations to you all and welcome to Developer DAO! 🥳",
-          "link": "https://twitter.com/developer_dao/status/1609251207725592582",
-          "publishedOn": "2022-12-31T18:12:41.000Z",
-          "wordCount": 470,
-          "title": "The first set of 𝗔𝘅𝗶𝘀𝗢𝗻𝗲 scholarships have been awarded to the following people: @Victorebukaezea @ayodejidev @devv_chi @mierarra...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kirstenrpomales/status/1609224866213015556",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer\nRe @developer_dao Closing out this thread with the fact that we got a grant from @LensProtocol 6 days after submitting our application with support from @developer_dao!!! Love it.\nhellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer: Stoked to announce that @TalentLayer has accepted a grant of $7,500 from @LensProtocol to build an integration between our protocols that lets...\n🌱 Social platforms add gig and hiring features\n🛠️ Work platforms to add social feeds",
-          "link": "https://twitter.com/kirstenrpomales/status/1609224866213015556",
-          "publishedOn": "2022-12-31T16:28:00.000Z",
-          "wordCount": 470,
-          "title": "RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer: Re @developer_dao Closing out this thread with the fact that we got a grant from @Le...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/PSkinnerTech/status/1608599276757868546",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Doc™\nOne of the greatest resources I've come across in the Web3 Space is @developer_dao.\nWhen you've got massive talents like @dabit3, @camiinthisthang, and so many others in the DAO, you know great things are happening within.\nDeveloper DAO (🧱, 🚀): On D_D YouTube channel there is a lot of knowledge to be found! 🤓\nDo you still remember the third workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀\nPresent Your Path to Sustainability and Scale\nIf you missed it:\n https://www.youtube.com/watch?v=z0xqty_fvJg",
-          "link": "https://twitter.com/PSkinnerTech/status/1608599276757868546",
-          "publishedOn": "2022-12-29T23:02:08.000Z",
-          "wordCount": 470,
-          "title": "RT Doc™: One of the greatest resources I've come across in the Web3 Space is @developer_dao. When you've got massive talents like @dabit3, @camiinthi...",
           "imageUrl": null
         }
       ]
