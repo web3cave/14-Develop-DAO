@@ -1,15 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-07T06:11:40.818Z</id>
+    <id>urn:2023-01-08T06:12:10.390Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-07T06:11:40.818Z</updated>
+    <updated>2023-01-08T06:12:10.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Rony_Santos Olá, abra suas mensagens, por favor]]></title>
+        <id>https://twitter.com/developer_dao/status/1611930780288143360</id>
+        <link href="https://twitter.com/developer_dao/status/1611930780288143360"/>
+        <updated>2023-01-08T03:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rony_Santos Olá, abra suas mensagens, por favor]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Melissa_Aquinn 🔥👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1611921389531049984</id>
+        <link href="https://twitter.com/developer_dao/status/1611921389531049984"/>
+        <updated>2023-01-08T03:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @Melissa_Aquinn 🔥👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 🤓 Do you still remember the fourth workshop on fundraising made by D_D Fundraising ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1611747492273553408</id>
+        <link href="https://twitter.com/developer_dao/status/1611747492273553408"/>
+        <updated>2023-01-07T15:32:01.000Z</updated>
+        <summary type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 🤓
+Do you still remember the fourth workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀
+Present a Budget for Web3 Grant 
+If you missed it: https://buff.ly/3FgGcDs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://twitter.com/developer_dao/status/1611565413850304517</id>
         <link href="https://twitter.com/developer_dao/status/1611565413850304517"/>
         <updated>2023-01-07T03:28:30.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Georgios Konstantopoulos: As Foundry is stabilizing and we've been putting more and more time on Reth, I admit we've neglected building tutorials f...]]></title>
+        <id>https://twitter.com/gakonst/status/1611449593912246278</id>
+        <link href="https://twitter.com/gakonst/status/1611449593912246278"/>
+        <updated>2023-01-06T19:48:17.000Z</updated>
+        <summary type="html"><![CDATA[RT Georgios Konstantopoulos
+As Foundry is stabilizing and we've been putting more and more time on Reth, I admit we've neglected building tutorials for beginners.
+While Foundry may be the obvious choice for new projects for experts, it's still not for all newbies.
+What Foundry tutorials should we make?]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -175,41 +221,6 @@ View the projects here: https://medium.com/encode-club/women-build-web3-accele
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Set a reminder for our upcoming Space!]]></title>
-        <id>https://twitter.com/developer_dao/status/1610670878311817216</id>
-        <link href="https://twitter.com/developer_dao/status/1610670878311817216"/>
-        <updated>2023-01-04T16:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Set a reminder for our upcoming Space! https://twitter.com/i/spaces/1nAKErbXlQbGL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna get started with technical writing but don't know how? 😵 Our member @Victorfawole0 got some insights for you! 🧐]]></title>
-        <id>https://twitter.com/developer_dao/status/1610667721200394244</id>
-        <link href="https://twitter.com/developer_dao/status/1610667721200394244"/>
-        <updated>2023-01-04T16:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Wanna get started with technical writing but don't know how? 😵
-Our member @Victorfawole0 got some insights for you! 🧐 https://buff.ly/3WJWQ4J]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Fuel Nomen: We love blockchain domains, but name services are economically broken. Let's understand why they are broken and how Fuel Nomen fixes th...]]></title>
-        <id>https://twitter.com/fuelnomen/status/1610663358767702017</id>
-        <link href="https://twitter.com/fuelnomen/status/1610663358767702017"/>
-        <updated>2023-01-04T15:44:04.000Z</updated>
-        <summary type="html"><![CDATA[RT Fuel Nomen
-We love blockchain domains, 
-but name services are economically broken.
-Let's understand why they are broken and how Fuel Nomen fixes the problem.
-📜 Thread Below]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Blessing.eth  💎: Hey Blessing, Congratulations! You've been accepted into Developer Dao Frens and joined a group of awesome professionals. @de...]]></title>
         <id>https://twitter.com/dicethedev/status/1610558713814810624</id>
         <link href="https://twitter.com/dicethedev/status/1610558713814810624"/>
@@ -219,21 +230,6 @@ Hey Blessing,
 Congratulations! You've been accepted into Developer Dao Frens and joined a group of awesome professionals. @developer_dao @mannyornothing 
 Got this news earlier today in my mail 👌✔❤
 #web3community #Web3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DevNTell: 🌈 GM frens! New Season, new #DevNTell 🌈 We're in for another treat this Friday during the @developer_dao #DevNTell where @codewithc...]]></title>
-        <id>https://twitter.com/devntellxyz/status/1610499846649294848</id>
-        <link href="https://twitter.com/devntellxyz/status/1610499846649294848"/>
-        <updated>2023-01-04T04:54:19.000Z</updated>
-        <summary type="html"><![CDATA[RT DevNTell
-🌈 GM frens! New Season, new #DevNTell 🌈
-We're in for another treat this Friday during the 
-@developer_dao #DevNTell where @codewithcorgis (Drew) will be giving us an overview of his project, 
-Event invite: 
-A little about Drew 👇 http://corgis.xyz https://lu.ma/85b8q7r8]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
