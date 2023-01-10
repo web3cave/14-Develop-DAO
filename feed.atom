@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-09T06:13:17.529Z</id>
+    <id>urn:2023-01-10T06:14:37.755Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-09T06:13:17.529Z</updated>
+    <updated>2023-01-10T06:14:37.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT manny: If you want exposure to @developer_dao builders for your grants program! DM ME.]]></title>
+        <id>https://twitter.com/mannyornothing/status/1612625786376159232</id>
+        <link href="https://twitter.com/mannyornothing/status/1612625786376159232"/>
+        <updated>2023-01-10T01:42:03.000Z</updated>
+        <summary type="html"><![CDATA[RT manny
+If you want exposure to @developer_dao builders for your grants program! DM ME.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT manny: Calling all @developer_dao members. Lets get this to 100 votes!! 🚀🚀🚀]]></title>
+        <id>https://twitter.com/mannyornothing/status/1612463888833855489</id>
+        <link href="https://twitter.com/mannyornothing/status/1612463888833855489"/>
+        <updated>2023-01-09T14:58:43.000Z</updated>
+        <summary type="html"><![CDATA[RT manny
+Calling all @developer_dao members. Lets get this to 100 votes!! 🚀🚀🚀 https://forum.developerdao.com/t/p-21-simplifying-the-developer-dao-improvement-proposal-ddip-process/2551]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ETHIndia 🦇🔊: The diversity at ETHIndia '22 was heartwarming, but there's still a long way to go 🥰 ✨ Here's a sprightly message from our w...]]></title>
+        <id>https://twitter.com/ETHIndiaco/status/1612412956528226306</id>
+        <link href="https://twitter.com/ETHIndiaco/status/1612412956528226306"/>
+        <updated>2023-01-09T11:36:20.000Z</updated>
+        <summary type="html"><![CDATA[RT ETHIndia 🦇🔊
+The diversity at ETHIndia '22 was heartwarming, but there's still a long way to go 🥰 ✨
+Here's a sprightly message from our women builders!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Rony_Santos Olá, abra suas mensagens, por favor]]></title>
         <id>https://twitter.com/developer_dao/status/1611930780288143360</id>
@@ -147,6 +181,18 @@ Check out the D_D Job Board for the latest #web3 #jobs from our partners.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT QuickNode: Explore the potential of NFTs with Auston @bunsen (Co-Founder, QuickNode) & Hari @BlockChainHari (Sr. Blockchain Solution Architect, Qui...]]></title>
+        <id>https://twitter.com/QuickNode/status/1611075113096720385</id>
+        <link href="https://twitter.com/QuickNode/status/1611075113096720385"/>
+        <updated>2023-01-05T19:00:13.000Z</updated>
+        <summary type="html"><![CDATA[RT QuickNode
+Explore the potential of NFTs with Auston @bunsen (Co-Founder, QuickNode) & Hari @BlockChainHari (Sr. Blockchain Solution Architect, QuickNode) - from adoption by F500 companies to transforming retail, gaming, & more.
+Sign up for the webinar here - https://qn.social/nftwebinar]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Last week @PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. Go check it out! 🤓]]></title>
         <id>https://twitter.com/developer_dao/status/1611045012107558936</id>
         <link href="https://twitter.com/developer_dao/status/1611045012107558936"/>
@@ -183,18 +229,6 @@ Let's BUILD. 🤝]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[After a little bit over a month of the D_D Fundraising Operators working with founders, we’re happy to announce that the first one got funded! Dec 16...]]></title>
-        <id>https://twitter.com/developer_dao/status/1611029879566352384</id>
-        <link href="https://twitter.com/developer_dao/status/1611029879566352384"/>
-        <updated>2023-01-05T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[After a little bit over a month of the D_D Fundraising Operators working with founders, we’re happy to announce that the first one got funded!
-Dec 16: @kirstenrpomales came to the Fundraising Office Hours with a draft proposal for a grant and she got it on Dec 26th!
-Congrats!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Georgios Konstantopoulos: Looking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/o...]]></title>
         <id>https://twitter.com/gakonst/status/1610999180608012289</id>
         <link href="https://twitter.com/gakonst/status/1610999180608012289"/>
@@ -203,44 +237,6 @@ Congrats!]]></summary>
 Looking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/open source projects.
 Frontend/backend/devops all game.
 Please DM me your Github/past work/your availability/rates. Thanks!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT cami: Re WBW3 team distributed $140K directly to high-impact projects. The core team put a lot of time and love into this. Namely, @CuddleofDeath @...]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1610726283368964097</id>
-        <link href="https://twitter.com/camiinthisthang/status/1610726283368964097"/>
-        <updated>2023-01-04T19:54:06.000Z</updated>
-        <summary type="html"><![CDATA[RT cami
-Re WBW3 team distributed $140K directly to high-impact projects. 
-The core team put a lot of time and love into this. Namely, @CuddleofDeath @haegeez @schwartzswartz @gsabate @web3paloma @fatima39_fatima @BullishVee @thegirlcoder 🙏
-View the projects here: https://medium.com/encode-club/women-build-web3-accelerator-with-encode-summary-67cc905de63c]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Blessing.eth  💎: Hey Blessing, Congratulations! You've been accepted into Developer Dao Frens and joined a group of awesome professionals. @de...]]></title>
-        <id>https://twitter.com/dicethedev/status/1610558713814810624</id>
-        <link href="https://twitter.com/dicethedev/status/1610558713814810624"/>
-        <updated>2023-01-04T08:48:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Blessing.eth  💎
-Hey Blessing,
-Congratulations! You've been accepted into Developer Dao Frens and joined a group of awesome professionals. @developer_dao @mannyornothing 
-Got this news earlier today in my mail 👌✔❤
-#web3community #Web3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Noah Kagan: I have no idea why anyone wants to be employee 150,000 at Google when they can have massive impact, serious learning, and great upside ...]]></title>
-        <id>https://twitter.com/noahkagan/status/1610457149003517952</id>
-        <link href="https://twitter.com/noahkagan/status/1610457149003517952"/>
-        <updated>2023-01-04T02:04:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Noah Kagan
-I have no idea why anyone wants to be employee 150,000 at Google when they can have massive impact, serious learning, and great upside at a startup.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
