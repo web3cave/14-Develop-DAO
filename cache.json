@@ -4,13 +4,70 @@
       "title": "Developer DAO",
       "feedUrl": "https://developerdao.substack.com/feed",
       "siteUrl": "https://developerdao.substack.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://developerdao.substack.com/p/52-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Year of the DAO",
+          "link": "https://developerdao.substack.com/p/52-probably-nothing",
+          "publishedOn": "2023-01-11T14:21:55.000Z",
+          "wordCount": null,
+          "title": "#52 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc1e0343-a25c-4c85-a5d0-2984207a23a7_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc1e0343-a25c-4c85-a5d0-2984207a23a7_1100x550.png"
+        }
+      ]
     },
     {
       "title": "Twitter @Developer DAO (🧱, 🚀)",
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/devntellxyz/status/1613356623136960512",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\n🌈 GM frens! New Season, new #DevNTell 🌈\nWe're in for another treat this Friday during the \n@developer_dao #DevNTell where we will be given an overview of @DebondProtocol from @lesDecroissant and team 🎉\nRSVP for event below: https://lu.ma/85xfp16s",
+          "link": "https://twitter.com/devntellxyz/status/1613356623136960512",
+          "publishedOn": "2023-01-12T02:06:08.000Z",
+          "wordCount": 470,
+          "title": "RT DevNTell: 🌈 GM frens! New Season, new #DevNTell 🌈 We're in for another treat this Friday during the @developer_dao #DevNTell where we will be...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DailyLoud/status/1613286693850828804",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Daily Loud\nBack in 2019, a 31-year-old North Carolina man created and launched a new dating app…. However he was the only guy on the app and he banned all other men from joining 👀😂",
+          "link": "https://twitter.com/DailyLoud/status/1613286693850828804",
+          "publishedOn": "2023-01-11T21:28:15.000Z",
+          "wordCount": 470,
+          "title": "RT Daily Loud: Back in 2019, a 31-year-old North Carolina man created and launched a new dating app…. However he was the only guy on the app and he b...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1613204130008387585",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "WAGMI Wednesday! 🎉\nOur member @RabbiGreenberg tells the story of their journey from BBS to Web3! https://buff.ly/3WSYf9d",
+          "link": "https://twitter.com/developer_dao/status/1613204130008387585",
+          "publishedOn": "2023-01-11T16:00:11.000Z",
+          "wordCount": 470,
+          "title": "WAGMI Wednesday! 🎉 Our member @RabbiGreenberg tells the story of their journey from BBS to Web3!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DevDaoJobs/status/1613183691718627329",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jobs Team\n🚀Mid of week celebration with a job🚀@QuickNode \n\"We Make It Simple To Power Your Blockchain Applications And Scale Up As You Grow. Lightning Fast Solana, BSC, Ethereum, Matic/Polygon, Gnosis Nodes.\"",
+          "link": "https://twitter.com/DevDaoJobs/status/1613183691718627329",
+          "publishedOn": "2023-01-11T14:38:58.000Z",
+          "wordCount": 470,
+          "title": "RT Jobs Team: 🚀Mid of week celebration with a job🚀@QuickNode \"We Make It Simple To Power Your Blockchain Applications And Scale Up As You Grow. ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/dabit3/status/1612913064021741569",
           "author": "Developer DAO (🧱, 🚀)",
@@ -34,11 +91,11 @@
         {
           "id": "https://twitter.com/StefLikeCurry/status/1612651254693658624",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Stef(🧱,🚀)\nSpecial shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao  for the help today in VC5. \nMade progress on my project with download functionality for the music marketplace.",
+          "description": "RT Stef\nSpecial shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao  for the help today in VC5. \nMade progress on my project with download functionality for the music marketplace.",
           "link": "https://twitter.com/StefLikeCurry/status/1612651254693658624",
           "publishedOn": "2023-01-10T03:23:15.000Z",
           "wordCount": 470,
-          "title": "RT Stef(🧱,🚀): Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao for the help today in VC5. Made progress on my ...",
+          "title": "RT Stef: Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao for the help today in VC5. Made progress on my project wit...",
           "imageUrl": null
         },
         {
@@ -162,36 +219,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1611369102505050120",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1nAKErbXlQbGL",
-          "link": "https://twitter.com/developer_dao/status/1611369102505050120",
-          "publishedOn": "2023-01-06T14:28:26.000Z",
-          "wordCount": 470,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1611142759930384386",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nA lot has happened over the past few months in the @LensProtocol ecosystem.\nIn this thread I want to highlight some of the plans, projects, announcements, updates, and products we've shipped over the past year and also shed some light on what's coming next. 🌿❤️‍🔥⚡️\n1/23",
-          "link": "https://twitter.com/dabit3/status/1611142759930384386",
-          "publishedOn": "2023-01-05T23:29:02.000Z",
-          "wordCount": 470,
-          "title": "RT nader (🧱, 🚀) | nader.lens: A lot has happened over the past few months in the @LensProtocol ecosystem. In this thread I want to highlight som...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1611095946431025156",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚨 P21: Simplifying Governance\nIn summary, this proposal:\n- Speeds up Governance (15 > 10 days)\n- Reduces threshold for members to elevate proposals to Snapshot (50k > 25k $CODE)\nPlease exercise your Gov rights and cast your votes, we need ~50 more 🙏 https://buff.ly/3W4gBU8",
-          "link": "https://twitter.com/developer_dao/status/1611095946431025156",
-          "publishedOn": "2023-01-05T20:23:01.000Z",
-          "wordCount": 470,
-          "title": "🚨 P21: Simplifying Governance In summary, this proposal: - Speeds up Governance (15 > 10 days) - Reduces threshold for members to elevate proposals...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/QuickNode/status/1611075113096720385",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT QuickNode\nExplore the potential of NFTs with Auston @bunsen (Co-Founder, QuickNode) & Hari @BlockChainHari (Sr. Blockchain Solution Architect, QuickNode) - from adoption by F500 companies to transforming retail, gaming, & more.\nSign up for the webinar here - https://qn.social/nftwebinar",
@@ -199,16 +226,6 @@
           "publishedOn": "2023-01-05T19:00:13.000Z",
           "wordCount": 470,
           "title": "RT QuickNode: Explore the potential of NFTs with Auston @bunsen (Co-Founder, QuickNode) & Hari @BlockChainHari (Sr. Blockchain Solution Architect, Qui...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gakonst/status/1610999180608012289",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Georgios Konstantopoulos\nLooking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/open source projects.\nFrontend/backend/devops all game.\nPlease DM me your Github/past work/your availability/rates. Thanks!",
-          "link": "https://twitter.com/gakonst/status/1610999180608012289",
-          "publishedOn": "2023-01-05T13:58:30.000Z",
-          "wordCount": 470,
-          "title": "RT Georgios Konstantopoulos: Looking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/o...",
           "imageUrl": null
         }
       ]

@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-11T06:13:07.498Z</id>
+    <id>urn:2023-01-12T06:13:21.969Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-11T06:13:07.498Z</updated>
+    <updated>2023-01-12T06:13:21.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT DevNTell: 🌈 GM frens! New Season, new #DevNTell 🌈 We're in for another treat this Friday during the @developer_dao #DevNTell where we will be...]]></title>
+        <id>https://twitter.com/devntellxyz/status/1613356623136960512</id>
+        <link href="https://twitter.com/devntellxyz/status/1613356623136960512"/>
+        <updated>2023-01-12T02:06:08.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+🌈 GM frens! New Season, new #DevNTell 🌈
+We're in for another treat this Friday during the 
+@developer_dao #DevNTell where we will be given an overview of @DebondProtocol from @lesDecroissant and team 🎉
+RSVP for event below: https://lu.ma/85xfp16s]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Daily Loud: Back in 2019, a 31-year-old North Carolina man created and launched a new dating app…. However he was the only guy on the app and he b...]]></title>
+        <id>https://twitter.com/DailyLoud/status/1613286693850828804</id>
+        <link href="https://twitter.com/DailyLoud/status/1613286693850828804"/>
+        <updated>2023-01-11T21:28:15.000Z</updated>
+        <summary type="html"><![CDATA[RT Daily Loud
+Back in 2019, a 31-year-old North Carolina man created and launched a new dating app…. However he was the only guy on the app and he banned all other men from joining 👀😂]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAGMI Wednesday! 🎉 Our member @RabbiGreenberg tells the story of their journey from BBS to Web3!]]></title>
+        <id>https://twitter.com/developer_dao/status/1613204130008387585</id>
+        <link href="https://twitter.com/developer_dao/status/1613204130008387585"/>
+        <updated>2023-01-11T16:00:11.000Z</updated>
+        <summary type="html"><![CDATA[WAGMI Wednesday! 🎉
+Our member @RabbiGreenberg tells the story of their journey from BBS to Web3! https://buff.ly/3WSYf9d]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jobs Team: 🚀Mid of week celebration with a job🚀@QuickNode "We Make It Simple To Power Your Blockchain Applications And Scale Up As You Grow. ...]]></title>
+        <id>https://twitter.com/DevDaoJobs/status/1613183691718627329</id>
+        <link href="https://twitter.com/DevDaoJobs/status/1613183691718627329"/>
+        <updated>2023-01-11T14:38:58.000Z</updated>
+        <summary type="html"><![CDATA[RT Jobs Team
+🚀Mid of week celebration with a job🚀@QuickNode 
+"We Make It Simple To Power Your Blockchain Applications And Scale Up As You Grow. Lightning Fast Solana, BSC, Ethereum, Matic/Polygon, Gnosis Nodes."]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#52 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/52-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/52-probably-nothing"/>
+        <updated>2023-01-11T14:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Year of the DAO]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: XMTP is an easy to use encrypted messaging protocol. Imagine if all of your DMS - Twitter, Telegram, Slack, Facebo...]]></title>
         <id>https://twitter.com/dabit3/status/1612913064021741569</id>
@@ -30,11 +88,11 @@ Imagine if all of your DMS - Twitter, Telegram, Slack, Facebook, Linkedin, were 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Stef(🧱,🚀): Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao for the help today in VC5. Made progress on my ...]]></title>
+        <title type="html"><![CDATA[RT Stef: Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao for the help today in VC5. Made progress on my project wit...]]></title>
         <id>https://twitter.com/StefLikeCurry/status/1612651254693658624</id>
         <link href="https://twitter.com/StefLikeCurry/status/1612651254693658624"/>
         <updated>2023-01-10T03:23:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Stef(🧱,🚀)
+        <summary type="html"><![CDATA[RT Stef
 Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao  for the help today in VC5. 
 Made progress on my project with download functionality for the music marketplace.]]></summary>
         <author>
@@ -178,43 +236,6 @@ Arweave is an information technology company that specializes in data storage, b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1611369102505050120</id>
-        <link href="https://twitter.com/developer_dao/status/1611369102505050120"/>
-        <updated>2023-01-06T14:28:26.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1nAKErbXlQbGL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: A lot has happened over the past few months in the @LensProtocol ecosystem. In this thread I want to highlight som...]]></title>
-        <id>https://twitter.com/dabit3/status/1611142759930384386</id>
-        <link href="https://twitter.com/dabit3/status/1611142759930384386"/>
-        <updated>2023-01-05T23:29:02.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-A lot has happened over the past few months in the @LensProtocol ecosystem.
-In this thread I want to highlight some of the plans, projects, announcements, updates, and products we've shipped over the past year and also shed some light on what's coming next. 🌿❤️‍🔥⚡️
-1/23]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 P21: Simplifying Governance In summary, this proposal: - Speeds up Governance (15 > 10 days) - Reduces threshold for members to elevate proposals...]]></title>
-        <id>https://twitter.com/developer_dao/status/1611095946431025156</id>
-        <link href="https://twitter.com/developer_dao/status/1611095946431025156"/>
-        <updated>2023-01-05T20:23:01.000Z</updated>
-        <summary type="html"><![CDATA[🚨 P21: Simplifying Governance
-In summary, this proposal:
-- Speeds up Governance (15 > 10 days)
-- Reduces threshold for members to elevate proposals to Snapshot (50k > 25k $CODE)
-Please exercise your Gov rights and cast your votes, we need ~50 more 🙏 https://buff.ly/3W4gBU8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT QuickNode: Explore the potential of NFTs with Auston @bunsen (Co-Founder, QuickNode) & Hari @BlockChainHari (Sr. Blockchain Solution Architect, Qui...]]></title>
         <id>https://twitter.com/QuickNode/status/1611075113096720385</id>
         <link href="https://twitter.com/QuickNode/status/1611075113096720385"/>
@@ -222,19 +243,6 @@ Please exercise your Gov rights and cast your votes, we need ~50 more 🙏 htt
         <summary type="html"><![CDATA[RT QuickNode
 Explore the potential of NFTs with Auston @bunsen (Co-Founder, QuickNode) & Hari @BlockChainHari (Sr. Blockchain Solution Architect, QuickNode) - from adoption by F500 companies to transforming retail, gaming, & more.
 Sign up for the webinar here - https://qn.social/nftwebinar]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Georgios Konstantopoulos: Looking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/o...]]></title>
-        <id>https://twitter.com/gakonst/status/1610999180608012289</id>
-        <link href="https://twitter.com/gakonst/status/1610999180608012289"/>
-        <updated>2023-01-05T13:58:30.000Z</updated>
-        <summary type="html"><![CDATA[RT Georgios Konstantopoulos
-Looking for the best contractors from anywhere in the world to work remotely on the most interesting internal/portfolio/open source projects.
-Frontend/backend/devops all game.
-Please DM me your Github/past work/your availability/rates. Thanks!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
