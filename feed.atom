@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-12T06:13:21.969Z</id>
+    <id>urn:2023-01-13T06:13:16.559Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-12T06:13:21.969Z</updated>
+    <updated>2023-01-13T06:13:16.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: We'll be hosting a new community event in São Paulo on Friday, January 20 🇧🇷🌿 We'll be presenting an int...]]></title>
+        <id>https://twitter.com/dabit3/status/1613613823801294880</id>
+        <link href="https://twitter.com/dabit3/status/1613613823801294880"/>
+        <updated>2023-01-12T19:08:09.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+We'll be hosting a new community event in São Paulo on Friday, January 20 🇧🇷🌿
+We'll be presenting an introduction to @lensprotocol, a developer workshop with Lens + @fleekxyz, & all attendees will be able to claim a Lens handle.
+Sign ups now open here: https://lu.ma/jolll3z0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last week, our member @Victorfawole0 explained how to get started with technical writing. Check it out! 😎]]></title>
+        <id>https://twitter.com/developer_dao/status/1613566476220338176</id>
+        <link href="https://twitter.com/developer_dao/status/1613566476220338176"/>
+        <updated>2023-01-12T16:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Last week, our member @Victorfawole0 explained how to get started with technical writing. Check it out! 😎 https://buff.ly/3WJWQ4J]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jobs Team: Re @developer_dao collective is hot hot 🌶️ this week. 157 candidates 🥵 ready for introduction to hiring managers! Head over to]]></title>
+        <id>https://twitter.com/DevDaoJobs/status/1613561590686654467</id>
+        <link href="https://twitter.com/DevDaoJobs/status/1613561590686654467"/>
+        <updated>2023-01-12T15:40:36.000Z</updated>
+        <summary type="html"><![CDATA[RT Jobs Team
+Re @developer_dao collective is hot hot 🌶️ this week. 157 candidates 🥵 ready for introduction to hiring managers!
+Head over to https://developerdao.pallet.com/jobs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 😎 Do you still remember the fifth workshop on fundraising made by D_D Fundraising O...]]></title>
+        <id>https://twitter.com/developer_dao/status/1613559431270113281</id>
+        <link href="https://twitter.com/developer_dao/status/1613559431270113281"/>
+        <updated>2023-01-12T15:32:01.000Z</updated>
+        <summary type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 😎  
+Do you still remember the fifth workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀
+Practice Your Elevator Pitch 
+If you missed it: https://buff.ly/3OSUzRr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT DevNTell: 🌈 GM frens! New Season, new #DevNTell 🌈 We're in for another treat this Friday during the @developer_dao #DevNTell where we will be...]]></title>
         <id>https://twitter.com/devntellxyz/status/1613356623136960512</id>
@@ -178,15 +226,6 @@ If you missed it: https://buff.ly/3FgGcDs]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1611565413850304517</id>
-        <link href="https://twitter.com/developer_dao/status/1611565413850304517"/>
-        <updated>2023-01-07T03:28:30.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Georgios Konstantopoulos: As Foundry is stabilizing and we've been putting more and more time on Reth, I admit we've neglected building tutorials f...]]></title>
         <id>https://twitter.com/gakonst/status/1611449593912246278</id>
         <link href="https://twitter.com/gakonst/status/1611449593912246278"/>
@@ -195,42 +234,6 @@ If you missed it: https://buff.ly/3FgGcDs]]></summary>
 As Foundry is stabilizing and we've been putting more and more time on Reth, I admit we've neglected building tutorials for beginners.
 While Foundry may be the obvious choice for new projects for experts, it's still not for all newbies.
 What Foundry tutorials should we make?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Next week I’m hosting a Twitter Space & will be joined by @AraBalaghi @camiinthisthang @spaceagente Building web3...]]></title>
-        <id>https://twitter.com/dabit3/status/1611418194052268033</id>
-        <link href="https://twitter.com/dabit3/status/1611418194052268033"/>
-        <updated>2023-01-06T17:43:30.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-Next week I’m hosting a Twitter Space & will be joined by @AraBalaghi @camiinthisthang @spaceagente 
-Building web3 - Building better UX ⬛️⬜️
-Wednesday January 11 - 9:30am to 10:30am ET
-You can join or set a reminder here 👇 https://twitter.com/i/spaces/1MYxNgzNDQnKw]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jobs Team: 🚀End of week celebration with a job🚀@ArweaveTeam Arweave is an information technology company that specializes in data storage, bl...]]></title>
-        <id>https://twitter.com/DevDaoJobs/status/1611403404982501386</id>
-        <link href="https://twitter.com/DevDaoJobs/status/1611403404982501386"/>
-        <updated>2023-01-06T16:44:44.000Z</updated>
-        <summary type="html"><![CDATA[RT Jobs Team
-🚀End of week celebration with a job🚀@ArweaveTeam 
-Arweave is an information technology company that specializes in data storage, blockchain, and serverless web.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go check out the recording if you missing the space this morning on learning and building for @nounsdao via @ExplorerGrants]]></title>
-        <id>https://twitter.com/developer_dao/status/1611376590084096000</id>
-        <link href="https://twitter.com/developer_dao/status/1611376590084096000"/>
-        <updated>2023-01-06T14:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Go check out the recording if you missing the space this morning on learning and building for @nounsdao via @ExplorerGrants https://twitter.com/i/spaces/1nAKErbXlQbGL]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
