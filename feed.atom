@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-14T06:11:59.696Z</id>
+    <id>urn:2023-01-15T06:12:07.111Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-14T06:11:59.696Z</updated>
+    <updated>2023-01-15T06:12:07.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Jobs Team: 🚀Coffee and jobs vibes on this Saturday afternoon with🚀 @trypearlxyz "Pearl helps web3 users find relevant people/projects to conn...]]></title>
+        <id>https://twitter.com/DevDaoJobs/status/1614325276036550657</id>
+        <link href="https://twitter.com/DevDaoJobs/status/1614325276036550657"/>
+        <updated>2023-01-14T18:15:13.000Z</updated>
+        <summary type="html"><![CDATA[RT Jobs Team
+🚀Coffee and jobs vibes on this Saturday afternoon with🚀
+@trypearlxyz
+"Pearl helps web3 users find relevant people/projects to connect with. We uncover shared interests & enable users to communicate using just their wallet address."]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: gm]]></title>
+        <id>https://twitter.com/dabit3/status/1614285552794177538</id>
+        <link href="https://twitter.com/dabit3/status/1614285552794177538"/>
+        <updated>2023-01-14T15:37:22.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT reetbatra.eth: I started learning about #Web3 almost a year ago and I am working full-time in and around the zk space right now 😌 Working with @...]]></title>
+        <id>https://twitter.com/reet_batra/status/1614253277352452096</id>
+        <link href="https://twitter.com/reet_batra/status/1614253277352452096"/>
+        <updated>2023-01-14T13:29:07.000Z</updated>
+        <summary type="html"><![CDATA[RT reetbatra.eth
+I started learning about #Web3 almost a year ago and I am working full-time in and around the zk space right now 😌
+Working with @zkxprotocol has been the best thing in my life since last year 🫶
+Here are my top picks for newsletters that have helped me grow👇
+A 🧵
+1/8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT jango.eth: anyone familiar with SNX fee distribution staking contract and interested in helping prototype an iteration? @buidlguidl @synthetix_io @...]]></title>
+        <id>https://twitter.com/me_jango/status/1614210526200098816</id>
+        <link href="https://twitter.com/me_jango/status/1614210526200098816"/>
+        <updated>2023-01-14T10:39:14.000Z</updated>
+        <summary type="html"><![CDATA[RT jango.eth
+anyone familiar with SNX fee distribution staking contract and interested in helping prototype an iteration?
+@buidlguidl @synthetix_io @LordTylerWard @developer_dao @juiceboxETH]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Draft Governance Proposal Posted 👩🏽‍⚖️ DAO Governance Structure Upgrade]]></title>
         <id>https://twitter.com/developer_dao/status/1613969933573947406</id>
@@ -58,6 +109,17 @@ Who is ready to build for ETH Denver hackathon? Little birdie told me that a cer
         <summary type="html"><![CDATA[✨ GM frens! ✨
 🗣️ The @developer_dao #DevNTell is live with @DebondProtocol, hosted by @narb_s
 👉 Come check out all the action on Youtube now using the link below: https://buff.ly/3XnjIXx]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): In case you missed it: Our member @cryptoshuriken explained decentralized storage! 😎]]></title>
+        <id>https://twitter.com/developer_dao/status/1613929110098542595</id>
+        <link href="https://twitter.com/developer_dao/status/1613929110098542595"/>
+        <updated>2023-01-13T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
+In case you missed it: Our member @cryptoshuriken explained decentralized storage! 😎 https://buff.ly/3UaJook]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -168,18 +230,6 @@ Our member @RabbiGreenberg tells the story of their journey from BBS to Web3! 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Jobs Team: 🚀Mid of week celebration with a job🚀@QuickNode "We Make It Simple To Power Your Blockchain Applications And Scale Up As You Grow. ...]]></title>
-        <id>https://twitter.com/DevDaoJobs/status/1613183691718627329</id>
-        <link href="https://twitter.com/DevDaoJobs/status/1613183691718627329"/>
-        <updated>2023-01-11T14:38:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Jobs Team
-🚀Mid of week celebration with a job🚀@QuickNode 
-"We Make It Simple To Power Your Blockchain Applications And Scale Up As You Grow. Lightning Fast Solana, BSC, Ethereum, Matic/Polygon, Gnosis Nodes."]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#52 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/52-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/52-probably-nothing"/>
@@ -199,53 +249,6 @@ Our member @RabbiGreenberg tells the story of their journey from BBS to Web3! 
 We will embark on global crypto events with our partners&clients in 2023.
 You can find out what are the latest trends, learn from blockchain and crypto opinion leaders, as well as network with peers. 
 📝Apply: https://v.gd/OZ7BBD]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: XMTP is an easy to use encrypted messaging protocol. Imagine if all of your DMS - Twitter, Telegram, Slack, Facebo...]]></title>
-        <id>https://twitter.com/dabit3/status/1612913064021741569</id>
-        <link href="https://twitter.com/dabit3/status/1612913064021741569"/>
-        <updated>2023-01-10T20:43:35.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-XMTP is an easy to use encrypted messaging protocol.
-Imagine if all of your DMS - Twitter, Telegram, Slack, Facebook, Linkedin, were in one place?
-@xmtp_ enables this! And their API is very simple to use 👇
-(1/4)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed it: Our member @pateldeep_eth wrote a guide on Foundry and OpenZeppelin! 🤓]]></title>
-        <id>https://twitter.com/developer_dao/status/1612856907139530752</id>
-        <link href="https://twitter.com/developer_dao/status/1612856907139530752"/>
-        <updated>2023-01-10T17:00:26.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it: Our member @pateldeep_eth wrote a guide on Foundry and OpenZeppelin! 🤓 https://buff.ly/3VyTwIK]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Stef: Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao for the help today in VC5. Made progress on my project wit...]]></title>
-        <id>https://twitter.com/StefLikeCurry/status/1612651254693658624</id>
-        <link href="https://twitter.com/StefLikeCurry/status/1612651254693658624"/>
-        <updated>2023-01-10T03:23:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Stef
-Special shout out to @wc49358, @crypdoughdoteth, and the squad from @developer_dao  for the help today in VC5. 
-Made progress on my project with download functionality for the music marketplace.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT manny: Very proud of @developer_dao member @crypdoughdoteth for submitting his project to @ExplorerGrants]]></title>
-        <id>https://twitter.com/mannyornothing/status/1612621902450679809</id>
-        <link href="https://twitter.com/mannyornothing/status/1612621902450679809"/>
-        <updated>2023-01-10T01:26:37.000Z</updated>
-        <summary type="html"><![CDATA[RT manny
-Very proud of @developer_dao member @crypdoughdoteth for submitting his project to @ExplorerGrants https://prop.house/nouns/explorer-grants-pilot-round/3144]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
