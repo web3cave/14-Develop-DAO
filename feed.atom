@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-16T06:13:35.364Z</id>
+    <id>urn:2023-01-17T06:13:05.574Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-16T06:13:35.364Z</updated>
+    <updated>2023-01-17T06:13:05.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby: If you're hiring hit me up & we'll get your jobs posted on @DevDaoJobs The package comes with perks such as access to the talent colle...]]></title>
+        <id>https://twitter.com/pbillingsby_/status/1615093784878153728</id>
+        <link href="https://twitter.com/pbillingsby_/status/1615093784878153728"/>
+        <updated>2023-01-16T21:08:59.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby
+If you're hiring hit me up & we'll get your jobs posted on @DevDaoJobs 
+The package comes with perks such as access to the talent collective (currently 175+ people including ex product managers & devs from Microsoft, Consensys and Amazon) & Twitter engagements for brand reach!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Web3 has come a long way, & there is a lot to be excited about in 2023. So what are the tools, products, protocols...]]></title>
+        <id>https://twitter.com/dabit3/status/1615043657706442753</id>
+        <link href="https://twitter.com/dabit3/status/1615043657706442753"/>
+        <updated>2023-01-16T17:49:48.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+Web3 has come a long way, & there is a lot to be excited about in 2023.
+So what are the tools, products, protocols, & real-world use cases that are production-ready today?
+Here are 7 things to be excited about this year from the perspective of a developer of 10+ yrs:]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT samina: Our gaming hackathon kick-off starts in an hour. Super excited to meet a lot of new folks today. 🥰 If you haven't registered yet for the...]]></title>
+        <id>https://twitter.com/saminacodes/status/1615037483678584832</id>
+        <link href="https://twitter.com/saminacodes/status/1615037483678584832"/>
+        <updated>2023-01-16T17:25:16.000Z</updated>
+        <summary type="html"><![CDATA[RT samina
+Our gaming hackathon kick-off starts in an hour.
+Super excited to meet a lot of new folks today. 🥰
+If you haven't registered yet for the hackathon or today's kick-off I will drop the links below. 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 Have you claimed your $CODE tokens yet? To check if you're eligible, head to Claim before it's too late and help us decentralise the DAO 👀 #DA...]]></title>
+        <id>https://twitter.com/developer_dao/status/1615008981713408000</id>
+        <link href="https://twitter.com/developer_dao/status/1615008981713408000"/>
+        <updated>2023-01-16T15:32:01.000Z</updated>
+        <summary type="html"><![CDATA[🚨 Have you claimed your $CODE tokens yet?
+To check if you're eligible,  head to 
+ Claim before it's too late and help us decentralise the DAO  👀
+#DAOs #Decentralization https://claim.developerdao.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Mariah | muvaofmarketing.eth/lens: VC5 - come for the code, stay with the devs, we love it here in @developer_dao! Thanks @texaglo_techno for the S...]]></title>
         <id>https://twitter.com/muvaofmarketing/status/1614703506094493696</id>
@@ -171,57 +222,12 @@ In case you missed it: Our member @cryptoshuriken explained decentralized storag
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In case you missed it: Our member @cryptoshuriken explained decentralized storage! 😎]]></title>
-        <id>https://twitter.com/developer_dao/status/1613929110098542595</id>
-        <link href="https://twitter.com/developer_dao/status/1613929110098542595"/>
-        <updated>2023-01-13T16:00:59.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it: Our member @cryptoshuriken explained decentralized storage! 😎 https://buff.ly/3UaJook]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT with-heart: Re @theekrystallee @developer_dao @me256ow @pbillingsby_ @crypdoughdoteth @wc49358 @codingwithmanny @mannyornothing How does this make ...]]></title>
         <id>https://twitter.com/grow_love/status/1613915787907207168</id>
         <link href="https://twitter.com/grow_love/status/1613915787907207168"/>
         <updated>2023-01-13T15:08:03.000Z</updated>
         <summary type="html"><![CDATA[RT with-heart
 Re @theekrystallee @developer_dao @me256ow @pbillingsby_ @crypdoughdoteth @wc49358 @codingwithmanny @mannyornothing How does this make you feel?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: We'll be hosting a new community event in São Paulo on Friday, January 20 🇧🇷🌿 We'll be presenting an int...]]></title>
-        <id>https://twitter.com/dabit3/status/1613613823801294880</id>
-        <link href="https://twitter.com/dabit3/status/1613613823801294880"/>
-        <updated>2023-01-12T19:08:09.000Z</updated>
-        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
-We'll be hosting a new community event in São Paulo on Friday, January 20 🇧🇷🌿
-We'll be presenting an introduction to @lensprotocol, a developer workshop with Lens + @fleekxyz, & all attendees will be able to claim a Lens handle.
-Sign ups now open here: https://lu.ma/jolll3z0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last week, our member @Victorfawole0 explained how to get started with technical writing. Check it out! 😎]]></title>
-        <id>https://twitter.com/developer_dao/status/1613566476220338176</id>
-        <link href="https://twitter.com/developer_dao/status/1613566476220338176"/>
-        <updated>2023-01-12T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Last week, our member @Victorfawole0 explained how to get started with technical writing. Check it out! 😎 https://buff.ly/3WJWQ4J]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jobs Team: Re @developer_dao collective is hot hot 🌶️ this week. 157 candidates 🥵 ready for introduction to hiring managers! Head over to]]></title>
-        <id>https://twitter.com/DevDaoJobs/status/1613561590686654467</id>
-        <link href="https://twitter.com/DevDaoJobs/status/1613561590686654467"/>
-        <updated>2023-01-12T15:40:36.000Z</updated>
-        <summary type="html"><![CDATA[RT Jobs Team
-Re @developer_dao collective is hot hot 🌶️ this week. 157 candidates 🥵 ready for introduction to hiring managers!
-Head over to https://developerdao.pallet.com/jobs]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
