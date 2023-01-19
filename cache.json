@@ -15,11 +15,11 @@
           "title": "#53 Probably Nothing",
           "itunes": {},
           "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d1cc268-0161-45fc-a6ec-2bd1a538dffd_1100x550.png",
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2a0b573-fccb-438b-9a71-afbba27bd52d_1100x550.png",
             "length": "0",
             "type": "image/jpeg"
           },
-          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d1cc268-0161-45fc-a6ec-2bd1a538dffd_1100x550.png"
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2a0b573-fccb-438b-9a71-afbba27bd52d_1100x550.png"
         },
         {
           "id": "https://developerdao.substack.com/p/52-probably-nothing",
@@ -44,6 +44,106 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/mannyornothing/status/1615812369711566854",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT manny\nSome dope solana dapp demo in happening in @developer_dao 🚀🚀🚀🚀",
+          "link": "https://twitter.com/mannyornothing/status/1615812369711566854",
+          "publishedOn": "2023-01-18T20:44:23.000Z",
+          "wordCount": 470,
+          "title": "RT manny: Some dope solana dapp demo in happening in @developer_dao 🚀🚀🚀🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DevDaoJobs/status/1615807579980201984",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jobs Team\nHot jobs of the week 🫡 for buildoors",
+          "link": "https://twitter.com/DevDaoJobs/status/1615807579980201984",
+          "publishedOn": "2023-01-18T20:25:21.000Z",
+          "wordCount": 470,
+          "title": "RT Jobs Team: Hot jobs of the week 🫡 for buildoors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/mannyornothing/status/1615771657158758401",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT manny\nRe @PieterHumphrey @codingwithmanny @developer_dao @camiinthisthang  @dabit3  @Obstropolos @Melissa_Aquinn @kayprasla is a good starter of folks to follow.",
+          "link": "https://twitter.com/mannyornothing/status/1615771657158758401",
+          "publishedOn": "2023-01-18T18:02:37.000Z",
+          "wordCount": 470,
+          "title": "RT manny: Re @PieterHumphrey @codingwithmanny @developer_dao @camiinthisthang @dabit3 @Obstropolos @Melissa_Aquinn @kayprasla is a good starter of fol...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1615741234802221056",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "With blockchains and decentralized storage, @Filecoin brings together what belongs together. Now, it even allows you to write smart contracts!\nWanna know how? \nOur member @Aayush_gupta_ji explains it to you! https://buff.ly/3ZJAm5S",
+          "link": "https://twitter.com/developer_dao/status/1615741234802221056",
+          "publishedOn": "2023-01-18T16:01:44.000Z",
+          "wordCount": 470,
+          "title": "With blockchains and decentralized storage, @Filecoin brings together what belongs together. Now, it even allows you to write smart contracts! Wanna k...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1615737283050700800",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚨 Have you claimed your $CODE tokens yet?\nTo check if you're eligible,  head to \n The deadline is 18th February 2023, remaining funds will be  returned to the  treasury.\nClaim whilst you can 🙏\n#DAOs #Decentralization https://buff.ly/3BFmhMc",
+          "link": "https://twitter.com/developer_dao/status/1615737283050700800",
+          "publishedOn": "2023-01-18T15:46:01.000Z",
+          "wordCount": 470,
+          "title": "🚨 Have you claimed your $CODE tokens yet? To check if you're eligible, head to The deadline is 18th February 2023, remaining funds will be returned...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1615704427540660224",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @JohnPhamous 😍",
+          "link": "https://twitter.com/developer_dao/status/1615704427540660224",
+          "publishedOn": "2023-01-18T13:35:28.000Z",
+          "wordCount": 470,
+          "title": "Re @JohnPhamous 😍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1615704088376709121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @PeterPanYes Can't do it. Too scared.\n(D_D ❤️ @tailwindcss though 🤫)",
+          "link": "https://twitter.com/developer_dao/status/1615704088376709121",
+          "publishedOn": "2023-01-18T13:34:07.000Z",
+          "wordCount": 470,
+          "title": "Re @PeterPanYes Can't do it. Too scared. (D_D ❤️ @tailwindcss though 🤫)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1615703755714093059",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @diavol_o we concur",
+          "link": "https://twitter.com/developer_dao/status/1615703755714093059",
+          "publishedOn": "2023-01-18T13:32:48.000Z",
+          "wordCount": 470,
+          "title": "Re @diavol_o we concur",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1615702334666948610",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1615702334666948610",
+          "publishedOn": "2023-01-18T13:27:09.000Z",
+          "wordCount": 470,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/muvaofmarketing/status/1615586287372886016",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Mariah | muvaofmarketing.eth/lens\nHi everyone 👋🏾  I'm Mariah or \"Muva\", a blockchain enthusiast passionate about making the world a better place. I'm here to empower and support those who are working hard to build meaningful businesses and projects - especially underrepresented voices in the tech community.",
+          "link": "https://twitter.com/muvaofmarketing/status/1615586287372886016",
+          "publishedOn": "2023-01-18T05:46:01.000Z",
+          "wordCount": 470,
+          "title": "RT Mariah | muvaofmarketing.eth/lens: Hi everyone 👋🏾 I'm Mariah or \"Muva\", a blockchain enthusiast passionate about making the world a better pl...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1615573908358316037",
           "author": "Developer DAO (🧱, 🚀)",
@@ -135,113 +235,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1615552570008735744",
+          "id": "https://twitter.com/MariaShen/status/1615394281837178882",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "🌟 Probably Nothing Issue # 53 🌟 \n- We're putting the \"jobs\" back in \"Web3\" \nThis week brought to you by our very-good friends @QuickNode 🤗\nRead in full here - \nCheck out the summary 👇 https://buff.ly/3QMzjOd",
-          "link": "https://twitter.com/developer_dao/status/1615552570008735744",
-          "publishedOn": "2023-01-18T03:32:02.000Z",
+          "description": "RT maria ⚡️\n1/ Time for the 4th annual @ElectricCapital Developer Report!\nThis year we are also proud to launch \nWe analyzed 250m code commits and 300+ people contributed to this year's report.\nLet's dig in👇 http://developerreport.com",
+          "link": "https://twitter.com/MariaShen/status/1615394281837178882",
+          "publishedOn": "2023-01-17T17:03:04.000Z",
           "wordCount": 470,
-          "title": "🌟 Probably Nothing Issue # 53 🌟 - We're putting the \"jobs\" back in \"Web3\" This week brought to you by our very-good friends @QuickNode 🤗 Read...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615543066118479874",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @TheDerrek @DevDaoJobs @EthereumDenver @developerdao @fuellabs_ @fluence_project Thank you and Denver gang Derek 🫡",
-          "link": "https://twitter.com/developer_dao/status/1615543066118479874",
-          "publishedOn": "2023-01-18T02:54:16.000Z",
-          "wordCount": 470,
-          "title": "Re @TheDerrek @DevDaoJobs @EthereumDenver @developerdao @fuellabs_ @fluence_project Thank you and Denver gang Derek 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615468425484148757",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Starting soon! \nFor anyone interested in the D_D hacker scholarship, don't miss out👀\n\ncami: starting in ~30 mins!\n https://twitter.com/EthereumDenver/status/1615396122863755264",
-          "link": "https://twitter.com/developer_dao/status/1615468425484148757",
-          "publishedOn": "2023-01-17T21:57:41.000Z",
-          "wordCount": 470,
-          "title": "Starting soon! For anyone interested in the D_D hacker scholarship, don't miss out👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615393787290714134",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "In case you missed it! 😳\n@ridley___, a developer evangelist for Hedera, did a fire workshop last month! 🔥\nIf you want to build fast DApps with predictable gas fees, check it out!.⚡ https://buff.ly/3F6cuQb",
-          "link": "https://twitter.com/developer_dao/status/1615393787290714134",
-          "publishedOn": "2023-01-17T17:01:06.000Z",
-          "wordCount": 470,
-          "title": "In case you missed it! 😳 @ridley___, a developer evangelist for Hedera, did a fire workshop last month! 🔥 If you want to build fast DApps with p...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615384446504669185",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "If you're a D_D Member hacking @ @EthereumDenver stop what you're doing and check this out.\nWe're supporting builders to ship at the hackathon in partnership with @fuellabs_ & @fluence_project 🫡\nLFG\n\nJobs Team: Super excited to announce Builder Scholarships to @EthereumDenver 🎉\nWe love to see builders ship and for that @developerdao is partnering with @fuellabs_ and @fluence_project to send some of y'all to hack.\nApplications Open →\n https://dxql9ua1g5o.typeform.com/to/eLgXtxZp",
-          "link": "https://twitter.com/developer_dao/status/1615384446504669185",
-          "publishedOn": "2023-01-17T16:23:59.000Z",
-          "wordCount": 470,
-          "title": "If you're a D_D Member hacking @ @EthereumDenver stop what you're doing and check this out. We're supporting builders to ship at the hackathon in part...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DevRelGuild/status/1615373439287672833",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevRel HQ (🧱, 🚀)\nSuper excited to announce Builder Scholarships to @EthereumDenver 🎉\nWe love to see builders ship and for that @developer_dao is partnering with @fuellabs_ and @fluence_project to send some of y'all to hack.\nApplications Open → https://dxql9ua1g5o.typeform.com/to/eLgXtxZp",
-          "link": "https://twitter.com/DevRelGuild/status/1615373439287672833",
-          "publishedOn": "2023-01-17T15:40:14.000Z",
-          "wordCount": 470,
-          "title": "RT DevRel HQ (🧱, 🚀): Super excited to announce Builder Scholarships to @EthereumDenver 🎉 We love to see builders ship and for that @developer...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615361204742131712",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1615361204742131712",
-          "publishedOn": "2023-01-17T14:51:37.000Z",
-          "wordCount": 470,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615348581346459649",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re ⚛️ Engineering Manager https://developerdao.pallet.com/jobs/9a9c2eaf-36ed-4a4d-ba26-d9362e923bfb",
-          "link": "https://twitter.com/developer_dao/status/1615348581346459649",
-          "publishedOn": "2023-01-17T14:01:28.000Z",
-          "wordCount": 470,
-          "title": "Re ⚛️ Engineering Manager",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1615348578850947073",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re ⚛️ Blockchain Developer https://developerdao.pallet.com/jobs/9a9c2eaf-36ed-4a4d-ba26-d9362e923bfb",
-          "link": "https://twitter.com/developer_dao/status/1615348578850947073",
-          "publishedOn": "2023-01-17T14:01:27.000Z",
-          "wordCount": 470,
-          "title": "Re ⚛️ Blockchain Developer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/boyluan/status/1615038817894793250",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ‎ lu—an Δ\nif you exist at the infrastructure layer of a DAO, you want as lean a tech stack as is humanly possible. there’s a lot of moving parts, and a convoluted backend will inevitably translate to the member UX. this is why interoperability is important, when vetting platforms",
-          "link": "https://twitter.com/boyluan/status/1615038817894793250",
-          "publishedOn": "2023-01-16T17:30:34.000Z",
-          "wordCount": 470,
-          "title": "RT ‎ lu—an Δ: if you exist at the infrastructure layer of a DAO, you want as lean a tech stack as is humanly possible. there’s a lot of moving par...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/codingwithmanny/status/1613110719003631619",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Manny (🧱,🚀)\nI sometimes wonder if it’s still relevant for new devs to start with basic JavaScript or just go straight into React.",
-          "link": "https://twitter.com/codingwithmanny/status/1613110719003631619",
-          "publishedOn": "2023-01-11T09:49:00.000Z",
-          "wordCount": 470,
-          "title": "RT Manny (🧱,🚀): I sometimes wonder if it’s still relevant for new devs to start with basic JavaScript or just go straight into React.",
+          "title": "RT maria ⚡️: 1/ Time for the 4th annual @ElectricCapital Developer Report! This year we are also proud to launch We analyzed 250m code commits and 3...",
           "imageUrl": null
         }
       ]
