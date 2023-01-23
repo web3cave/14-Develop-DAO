@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-22T06:12:15.230Z</id>
+    <id>urn:2023-01-23T06:12:30.715Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-22T06:12:15.230Z</updated>
+    <updated>2023-01-23T06:12:30.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[👑 @DevDaoJobs x @mannyornothing]]></title>
+        <id>https://twitter.com/developer_dao/status/1617278408488017921</id>
+        <link href="https://twitter.com/developer_dao/status/1617278408488017921"/>
+        <updated>2023-01-22T21:49:54.000Z</updated>
+        <summary type="html"><![CDATA[👑 @DevDaoJobs x @mannyornothing
+
+Jobs Team: In 2022, we achieved remarkable success at Developer DAO, placing over a dozen top-talent developers in leading companies. If you're looking to hire, our community is the ultimate destination for finding the best candidates.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy Lunar New Year !! 🧧 We wish you and your loved ones a happy, and prosperous year ahead 🎊 🐇]]></title>
         <id>https://twitter.com/developer_dao/status/1617041989198831621</id>
@@ -240,17 +252,6 @@ Our latest episode of ‘Frens of Push’ is out!🤝🎉
 This week we had the amazing @kayprasla of @developer_dao discuss how Push is helping keep the D_D community stay updated🔔
 We can’t thank @kayprasla enough for all her awesome work 🤩🙏
 Read more👇 https://medium.com/push-protocol/push-notifications-for-developer-dao-to-boost-community-participation-fd8363e8254b]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our member @omobukola_ wrote about the ethical and social implications of blockchain technology! 📚 Check it out if you want to learn more about how...]]></title>
-        <id>https://twitter.com/developer_dao/status/1616103484020883459</id>
-        <link href="https://twitter.com/developer_dao/status/1616103484020883459"/>
-        <updated>2023-01-19T16:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Our member @omobukola_  wrote about the ethical and social implications of blockchain technology! 📚
-Check it out if you want to learn more about how blockchains could change the world! https://buff.ly/3keo2tR]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
