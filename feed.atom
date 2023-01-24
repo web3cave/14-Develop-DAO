@@ -1,10 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-23T06:12:30.715Z</id>
+    <id>urn:2023-01-24T06:12:37.887Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-23T06:12:30.715Z</updated>
+    <updated>2023-01-24T06:12:37.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[👑🚀Development to Sales]]></title>
+        <id>https://twitter.com/developer_dao/status/1617717538569490434</id>
+        <link href="https://twitter.com/developer_dao/status/1617717538569490434"/>
+        <updated>2023-01-24T02:54:51.000Z</updated>
+        <summary type="html"><![CDATA[👑🚀Development to Sales
+
+Jobs Team: 🚀Some Wine and Featured Jobs on this Monday evening with🚀
+@UMAprotocol
+"UMA is an Optimistic Oracle for Web3"]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D_D member @kirstenrpomales from @talentlayer closed 3 grants already! Week 1: @LensProtocol $7.5K Week 3: @pushprotocol $10K Week 4: @protocollabs $5...]]></title>
+        <id>https://twitter.com/developer_dao/status/1617598076352331789</id>
+        <link href="https://twitter.com/developer_dao/status/1617598076352331789"/>
+        <updated>2023-01-23T19:00:09.000Z</updated>
+        <summary type="html"><![CDATA[D_D member @kirstenrpomales from @talentlayer closed 3 grants already! 
+Week 1: @LensProtocol $7.5K
+Week 3: @pushprotocol $10K
+Week 4: @protocollabs $5K
+They also got into Outlier Ventures Filecoin Basecamp incubator, where they negotiated a $100K.
+Let's celebrate! 🥳 🥳 🥳]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer: Hey @developer_dao - some of our team members @TalentLayer need help getting to @Eth...]]></title>
+        <id>https://twitter.com/kirstenrpomales/status/1617566210950062082</id>
+        <link href="https://twitter.com/kirstenrpomales/status/1617566210950062082"/>
+        <updated>2023-01-23T16:53:32.000Z</updated>
+        <summary type="html"><![CDATA[RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer
+Hey @developer_dao - some of our team members @TalentLayer need help getting to @EthereumDenver to hack! Check out some of our work at prior hackathons. We're ready to build on @fluence_project!!!
+
+Mattia Pomelli: My team and I applied to be @developer_dao hackers at @EthereumDenver!! Thanks D_D for offering these amazing opportunities 🙏 What do we want to build with @fluence_project? ⤵️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT cami: Just released my in-depth guide on understanding account abstraction! This is seriously some of the best writing I've ever published, and I'm...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1617563360328908800</id>
+        <link href="https://twitter.com/camiinthisthang/status/1617563360328908800"/>
+        <updated>2023-01-23T16:42:12.000Z</updated>
+        <summary type="html"><![CDATA[RT cami
+Just released my in-depth guide on understanding account abstraction!
+This is seriously some of the best writing I've ever published, and I'm excited to bring clarity and simplicity to something notoriously hard to understand.
+Enjoy this morning read☕️ https://camiinthisthang.substack.com/p/account-abstraction-for-everyone]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Mattia Pomelli: My team and I applied to be @developer_dao hackers at @EthereumDenver!! Thanks D_D for offering these amazing opportunities 🙏 Wh...]]></title>
+        <id>https://twitter.com/mattiapomelli/status/1617561058213871622</id>
+        <link href="https://twitter.com/mattiapomelli/status/1617561058213871622"/>
+        <updated>2023-01-23T16:33:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Mattia Pomelli
+My team and I applied to be @developer_dao hackers at @EthereumDenver!! Thanks D_D for offering these amazing opportunities 🙏 What do we want to build with @fluence_project? ⤵️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Fuel Labs: Want to attend @EthereumDenver to hack but find yourself budget-restrained? Apply for the @developer_dao Builder Scholarships if you're ...]]></title>
+        <id>https://twitter.com/fuellabs_/status/1617549897200472064</id>
+        <link href="https://twitter.com/fuellabs_/status/1617549897200472064"/>
+        <updated>2023-01-23T15:48:42.000Z</updated>
+        <summary type="html"><![CDATA[RT Fuel Labs
+Want to attend @EthereumDenver to hack but find yourself budget-restrained?
+Apply for the @developer_dao Builder Scholarships if you're a developer and want to come build on Fuel 👇
+
+Jobs Team: Super excited to announce Builder Scholarships to @EthereumDenver 🎉
+We love to see builders ship and for that @developerdao is partnering with @fuellabs_ and @fluence_project to send some of y'all to hack.
+Applications Open →
+ https://dxql9ua1g5o.typeform.com/to/eLgXtxZp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Food and Vibes in VC5 today at noon EST!]]></title>
+        <id>https://twitter.com/developer_dao/status/1617543213455409152</id>
+        <link href="https://twitter.com/developer_dao/status/1617543213455409152"/>
+        <updated>2023-01-23T15:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Food and Vibes in VC5 today at noon EST!
+
+Jobs Team: Come vibe in @developer_dao VC5.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👑 @DevDaoJobs x @mannyornothing]]></title>
         <id>https://twitter.com/developer_dao/status/1617278408488017921</id>
@@ -156,102 +251,6 @@ Developer DAO (🧱, 🚀): ✨ GM frens! ✨
         <summary type="html"><![CDATA[✨ GM frens! ✨
 🗣️ The Developer DAO @devntellxyz is live with @patrickwoo who'll give an overview of @AstroDao 
 👉 Come check out all the action on Youtube now using the link below: https://buff.ly/3XmFM54]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ever wanted to automate your smart contract execution? Like cron, but for the blockchain? ⏲ Gelato Automate can do just that, and our member @Aayush_...]]></title>
-        <id>https://twitter.com/developer_dao/status/1616465604977770496</id>
-        <link href="https://twitter.com/developer_dao/status/1616465604977770496"/>
-        <updated>2023-01-20T16:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Ever wanted to automate your smart contract execution? 
-Like cron, but for the blockchain? ⏲
-Gelato Automate can do just that, and our member @Aayush_gupta_ji explains how you use it! ‍🔥 https://buff.ly/3XwVL0E]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome @gitcoin Passport A curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps.]]></title>
-        <id>https://twitter.com/developer_dao/status/1616455835407847431</id>
-        <link href="https://twitter.com/developer_dao/status/1616455835407847431"/>
-        <updated>2023-01-20T15:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Awesome @gitcoin Passport
-A curated list of all the resources, articles, and code samples about using Gitcoin's Passport and Stamps.
-
-
-KΞV.eth (🤖,💚): hey @gitcoinpassport , what should go on this list of passport builder resources that @0xZakk put together?
- https://github.com/gitcoinco/awesome-gitcoin-passports]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT krinza.eth (🧱, 🚀): On Scalability, Transparency and Argument of Knowledge: ZK-STARK ✨ n attempt to: ↳ outlay the weak links in the chain of...]]></title>
-        <id>https://twitter.com/kayprasla/status/1616450611288969218</id>
-        <link href="https://twitter.com/kayprasla/status/1616450611288969218"/>
-        <updated>2023-01-20T15:00:32.000Z</updated>
-        <summary type="html"><![CDATA[RT krinza.eth (🧱, 🚀)
-On Scalability, Transparency and Argument of Knowledge: ZK-STARK ✨
-n attempt to:
-↳ outlay the weak links in the chain of trust
-↳ why zero-knowledge proofs
-↳ underlying issues with zksnark
-↳ and the breakdown of zkstark https://mirror.xyz/krinza.eth/kEdZ4s3Io1dYlFA0x8hTAn1oMxCX6GVJ4b6-6wJ4Kd8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Web3 Afrika: WEB3 AFRIKA SPACES 🥁 🥁 🥁 Join us for our upcoming space, "Understanding The Technology behind Decentralized Applications". we...]]></title>
-        <id>https://twitter.com/web3afrika/status/1616178539111526400</id>
-        <link href="https://twitter.com/web3afrika/status/1616178539111526400"/>
-        <updated>2023-01-19T20:59:25.000Z</updated>
-        <summary type="html"><![CDATA[RT Web3 Afrika
-WEB3 AFRIKA SPACES  🥁 🥁 🥁
-Join us for our upcoming space, "Understanding The Technology behind Decentralized Applications".
-we'll also delve into the partnership between @web3afrika and @Web3Bridge and onboarding everyone
-#Web3AfrikaSpaces  #Web3BridgeSpaces #web3community]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mariah | muvaofmarketing.eth/lens: Have you applied to the #BUIDLerScholarship? @developer_dao is giving you the tools to make your dreams a realit...]]></title>
-        <id>https://twitter.com/muvaofmarketing/status/1616171569231065088</id>
-        <link href="https://twitter.com/muvaofmarketing/status/1616171569231065088"/>
-        <updated>2023-01-19T20:31:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Mariah | muvaofmarketing.eth/lens
-Have you applied to the #BUIDLerScholarship? @developer_dao is giving you the tools to make your dreams a reality. Thanks to @mannyornothing, our sponsors and the hackathon team we can't wait to help fund your journey of growth and learning! 
-↓ https://dxql9ua1g5o.typeform.com/to/eLgXtxZp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tom | Impactbilli.lens - building Eden Protocol: Re @developer_dao initiative leads in full swing - getting ready for S2. What's a bear? v excited ...]]></title>
-        <id>https://twitter.com/impactbilli/status/1616116984009359361</id>
-        <link href="https://twitter.com/impactbilli/status/1616116984009359361"/>
-        <updated>2023-01-19T16:54:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Tom | Impactbilli.lens - building Eden Protocol
-Re @developer_dao initiative leads in full swing - getting ready for S2. 
-What's a bear? v excited for what's ahead!! 
-If you're thinking about joining D_D - DM me :))]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE: Our latest episode of ‘Frens of Push’ is out!🤝🎉 This week we had the amazing @kayprasla of @develo...]]></title>
-        <id>https://twitter.com/pushprotocol/status/1616106956019666945</id>
-        <link href="https://twitter.com/pushprotocol/status/1616106956019666945"/>
-        <updated>2023-01-19T16:14:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE
-Our latest episode of ‘Frens of Push’ is out!🤝🎉
-This week we had the amazing @kayprasla of @developer_dao discuss how Push is helping keep the D_D community stay updated🔔
-We can’t thank @kayprasla enough for all her awesome work 🤩🙏
-Read more👇 https://medium.com/push-protocol/push-notifications-for-developer-dao-to-boost-community-participation-fd8363e8254b]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
