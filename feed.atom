@@ -1,16 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-28T06:11:55.813Z</id>
+    <id>urn:2023-01-29T06:11:55.509Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-28T06:11:55.813Z</updated>
+    <updated>2023-01-29T06:11:55.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT with-heart: So proud of @StefLikeCurry, @me256ow, and @run4pancakes for taking part in this season of @_buildspace Nights and Weekends and followin...]]></title>
+        <id>https://twitter.com/grow_love/status/1619409347913863169</id>
+        <link href="https://twitter.com/grow_love/status/1619409347913863169"/>
+        <updated>2023-01-28T18:57:30.000Z</updated>
+        <summary type="html"><![CDATA[RT with-heart
+So proud of @StefLikeCurry, @me256ow, and @run4pancakes for taking part in this season of @_buildspace Nights and Weekends and following through to the end! Yall did a great job and it was such a pleasure to visit each of your booths at demo day today!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: I just released a new video: Building Permanent, Immutable, & Stateful Serverless Functions with @exmbuild & @Arwe...]]></title>
+        <id>https://twitter.com/dabit3/status/1619377137991172096</id>
+        <link href="https://twitter.com/dabit3/status/1619377137991172096"/>
+        <updated>2023-01-28T16:49:30.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+I just released a new video:
+Building Permanent, Immutable, & Stateful Serverless Functions with @exmbuild & @ArweaveEco 🐘✨
+Includes:
+- Brief intro to EXM + Arweave
+- Building an end to end app from scratch
+- Mocha tests
+- Example codebase + tutorial https://www.youtube.com/watch?v=lXkAx7XqR6A]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Permanent, Immutable, and Stateful Serverless Functions with EXM and Arweave]]></title>
+        <id>https://www.youtube.com/watch?v=lXkAx7XqR6A</id>
+        <link href="https://www.youtube.com/watch?v=lXkAx7XqR6A"/>
+        <updated>2023-01-28T16:16:55.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get excited for next week to learn about @UMAprotocol and there jobs!🚀🚀🚀]]></title>
         <id>https://twitter.com/developer_dao/status/1619085803300200450</id>
         <link href="https://twitter.com/developer_dao/status/1619085803300200450"/>
         <updated>2023-01-27T21:31:51.000Z</updated>
         <summary type="html"><![CDATA[Get excited for next week to learn about @UMAprotocol and there jobs!🚀🚀🚀 https://twitter.com/i/spaces/1OwxWwqNlpZxQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT D_D Women: Today's vibe was such a sparkling one. ✨ Every week @DevDaoJobs alpha.🌈 The favorite part was, when everyone pitched their one liner...]]></title>
+        <id>https://twitter.com/devdaowomen/status/1619065089449164800</id>
+        <link href="https://twitter.com/devdaowomen/status/1619065089449164800"/>
+        <updated>2023-01-27T20:09:32.000Z</updated>
+        <summary type="html"><![CDATA[RT D_D Women
+Today's vibe was such a sparkling one. ✨
+Every week @DevDaoJobs alpha.🌈
+The favorite part was, when everyone pitched their one liner for their projects or podcasts or anything.  @developer_dao 
+Also did you know that we have our chain specific queens?👀]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -196,37 +247,14 @@ Woop Pay: Woop Pay is a web application built by @developer_dao and @d_d_agenc
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huge news from the 𝗪𝗢𝗢𝗣 𝗣𝗔𝗬 (@woop_pay) team 🚀 a partnership with @pushprotocol @Push_DAO under their grant program, to bring ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1618705990102450176</id>
-        <link href="https://twitter.com/developer_dao/status/1618705990102450176"/>
-        <updated>2023-01-26T20:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Huge news from the 𝗪𝗢𝗢𝗣 𝗣𝗔𝗬 (@woop_pay) team 🚀 a partnership with @pushprotocol @Push_DAO under their grant program, to bring users real-time updates on payment requests.
-This project was born out of Developer DAO’s own 𝗔𝗴𝗲𝗻𝗰𝘆 (@d_d_agency_web3) 🎉
-Check it out ⬇️
-
-Woop Pay: Woop Pay has partnered with @pushprotocol as part of their grant program to bring you more convenience! Users will receive real-time updates on payment requests with Push notifications, making it easier to keep track of your transactions. Get started at
- http://wooppay.xyz]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @vorcigernix @StefLikeCurry @sound_phase @_buildspace Hey Adam 🙂 See below:]]></title>
-        <id>https://twitter.com/developer_dao/status/1618678084055740416</id>
-        <link href="https://twitter.com/developer_dao/status/1618678084055740416"/>
-        <updated>2023-01-26T18:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @vorcigernix @StefLikeCurry @sound_phase @_buildspace Hey Adam 🙂 See below: https://lu.ma/juny37bz]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last week @omobukola_ wrote about the ethical and social implications of blockchain technology! 📚 Check it out if you want to learn more about how ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1618655099760394240</id>
-        <link href="https://twitter.com/developer_dao/status/1618655099760394240"/>
-        <updated>2023-01-26T17:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Last week @omobukola_  wrote about the ethical and social implications of blockchain technology! 📚
-Check it out if you want to learn more about how blockchains could change the world! https://buff.ly/3keo2tR]]></summary>
+        <title type="html"><![CDATA[RT Alysia 👩‍💻📍🇦🇪 Dubai: Everyone I speak to is going to @EthereumDenver so you really don't want to miss it 🤯! @aztech_princess and...]]></title>
+        <id>https://twitter.com/alysiatech/status/1618647594695278593</id>
+        <link href="https://twitter.com/alysiatech/status/1618647594695278593"/>
+        <updated>2023-01-26T16:30:34.000Z</updated>
+        <summary type="html"><![CDATA[RT Alysia 👩‍💻📍🇦🇪 Dubai
+Everyone I speak to is going to 
+@EthereumDenver so you really don't want to miss it 🤯! @aztech_princess and I just signed up for a 
+@developer_dao scholarship, so hopefully you'll see us there building with @fuellabs_ @fluence_project http://shorturl.at/asDXZ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -248,20 +276,6 @@ Check it out if you want to learn more about how blockchains could change the wo
         <updated>2023-01-25T21:10:20.000Z</updated>
         <summary type="html"><![CDATA[RT NevvDevv🔮
 Seeing a lot of people joining WEB3 auditing space recently I have decided to create roadmap that could help with learning process from start. In upcoming days I'll post breakdown for every step with resources and details that would be hard to contain in 1 simple diagram.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Alchemy | The web3 developer platform: People send more than 4.5M blockchain transactions every day but ~99% of people don’t know how to read them...]]></title>
-        <id>https://twitter.com/AlchemyPlatform/status/1618256866878054403</id>
-        <link href="https://twitter.com/AlchemyPlatform/status/1618256866878054403"/>
-        <updated>2023-01-25T14:37:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Alchemy | The web3 developer platform
-People send more than 4.5M blockchain transactions every day
-but ~99% of people don’t know how to read them
-resulting in more than $5B lost in crypto scams in 2022 alone 
-we’ve built a solution:]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
