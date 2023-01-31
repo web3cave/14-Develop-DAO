@@ -61,13 +61,53 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/Rahatcodes/status/1620083674661408769",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT rahat.eth\nHappy to announce that as of today I am now Head of Developer Relations at @biconomy. \nOver the past few months I’ve been thinking about the terrible UX we accept in web3 today. I started doing some front end talks and workshops to talk about common UX patterns in web3 today.",
+          "link": "https://twitter.com/Rahatcodes/status/1620083674661408769",
+          "publishedOn": "2023-01-30T15:37:02.000Z",
+          "wordCount": 498,
+          "title": "RT rahat.eth: Happy to announce that as of today I am now Head of Developer Relations at @biconomy. Over the past few months I’ve been thinking about...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1620064260075458561",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @nazeeh21 @unstoppableweb",
+          "link": "https://twitter.com/developer_dao/status/1620064260075458561",
+          "publishedOn": "2023-01-30T14:19:53.000Z",
+          "wordCount": 498,
+          "title": "Re @nazeeh21 @unstoppableweb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/gretzke/status/1619801128430108673",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT gretzke.lens\nToday we participated in @matchbox_dao 0xMonaco Battle of Titans! We as part of the @0xPolygon  team took 2nd place against 12 opponents. In the end we lost to @Uniswap by a close margin.\nLet's dig into our strategy!\n(find our source code at the end)",
+          "link": "https://twitter.com/gretzke/status/1619801128430108673",
+          "publishedOn": "2023-01-29T20:54:18.000Z",
+          "wordCount": 498,
+          "title": "RT gretzke.lens: Today we participated in @matchbox_dao 0xMonaco Battle of Titans! We as part of the @0xPolygon team took 2nd place against 12 opponen...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1619755515940331522",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Season 2 👀",
           "link": "https://twitter.com/developer_dao/status/1619755515940331522",
           "publishedOn": "2023-01-29T17:53:03.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "Season 2 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/naruto11eth/status/1619510191388766208",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Naruto11.eth | Naruto11.lens\nGM GM\nToday we are going to talk about @delegatecash and dev/team behind it that I have followed closely for the longest time possible in web3: @0xfoobar\nDivided into two parts: layman terms and a bit technical terms on ERC-5639\nIf anyone finds any faults feel free to point it",
+          "link": "https://twitter.com/naruto11eth/status/1619510191388766208",
+          "publishedOn": "2023-01-29T01:38:13.000Z",
+          "wordCount": 498,
+          "title": "RT Naruto11.eth | Naruto11.lens: GM GM Today we are going to talk about @delegatecash and dev/team behind it that I have followed closely for the long...",
           "imageUrl": null
         },
         {
@@ -76,7 +116,7 @@
           "description": "RT with-heart\nSo proud of @StefLikeCurry, @me256ow, and @run4pancakes for taking part in this season of @_buildspace Nights and Weekends and following through to the end! Yall did a great job and it was such a pleasure to visit each of your booths at demo day today!",
           "link": "https://twitter.com/grow_love/status/1619409347913863169",
           "publishedOn": "2023-01-28T18:57:30.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT with-heart: So proud of @StefLikeCurry, @me256ow, and @run4pancakes for taking part in this season of @_buildspace Nights and Weekends and followin...",
           "imageUrl": null
         },
@@ -86,8 +126,18 @@
           "description": "RT nader (🧱, 🚀) | nader.lens\nI just released a new video:\nBuilding Permanent, Immutable, & Stateful Serverless Functions with @exmbuild & @ArweaveEco 🐘✨\nIncludes:\n- Brief intro to EXM + Arweave\n- Building an end to end app from scratch\n- Mocha tests\n- Example codebase + tutorial https://www.youtube.com/watch?v=lXkAx7XqR6A",
           "link": "https://twitter.com/dabit3/status/1619377137991172096",
           "publishedOn": "2023-01-28T16:49:30.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT nader (🧱, 🚀) | nader.lens: I just released a new video: Building Permanent, Immutable, & Stateful Serverless Functions with @exmbuild & @Arwe...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/olanetsoft/status/1619355130041864193",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT I D R I S 💙\n📢📢📢\nI am excited to announce the launch of \"Article Idea Generator\", a new project I've worked on for the past few days. \nThis tool is powered by the incredible technology of @OpenAI  & @vercel Edge Functions, Inspired by @nutlope.\n1/n https://www.articleideagenerator.com/",
+          "link": "https://twitter.com/olanetsoft/status/1619355130041864193",
+          "publishedOn": "2023-01-28T15:22:03.000Z",
+          "wordCount": 498,
+          "title": "RT I D R I S 💙: 📢📢📢 I am excited to announce the launch of \"Article Idea Generator\", a new project I've worked on for the past few days. T...",
           "imageUrl": null
         },
         {
@@ -96,7 +146,7 @@
           "description": "Get excited for next week to learn about @UMAprotocol and there jobs!🚀🚀🚀 https://twitter.com/i/spaces/1OwxWwqNlpZxQ",
           "link": "https://twitter.com/developer_dao/status/1619085803300200450",
           "publishedOn": "2023-01-27T21:31:51.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "Get excited for next week to learn about @UMAprotocol and there jobs!🚀🚀🚀",
           "imageUrl": null
         },
@@ -106,7 +156,7 @@
           "description": "RT D_D Women\nToday's vibe was such a sparkling one. ✨\nEvery week @DevDaoJobs alpha.🌈\nThe favorite part was, when everyone pitched their one liner for their projects or podcasts or anything.  @developer_dao \nAlso did you know that we have our chain specific queens?👀",
           "link": "https://twitter.com/devdaowomen/status/1619065089449164800",
           "publishedOn": "2023-01-27T20:09:32.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT D_D Women: Today's vibe was such a sparkling one. ✨ Every week @DevDaoJobs alpha.🌈 The favorite part was, when everyone pitched their one liner...",
           "imageUrl": null
         },
@@ -116,7 +166,7 @@
           "description": "Who’s stopping by ? 😎\n\nD_D Women: Come and Vibe with us.✨",
           "link": "https://twitter.com/developer_dao/status/1619019018312245250",
           "publishedOn": "2023-01-27T17:06:28.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "Who’s stopping by ? 😎",
           "imageUrl": null
         },
@@ -126,7 +176,7 @@
           "description": "Did you read @Aayush_gupta_ji's article about @gelatonetwork Automate? 🤔\nIf you want to schedule smart contract execution, you should! 😎 https://buff.ly/3XwVL0E",
           "link": "https://twitter.com/developer_dao/status/1619017426145779712",
           "publishedOn": "2023-01-27T17:00:08.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "Did you read @Aayush_gupta_ji's article about @gelatonetwork Automate? 🤔 If you want to schedule smart contract execution, you should! 😎",
           "imageUrl": null
         },
@@ -136,7 +186,7 @@
           "description": "📡📡 Starting now on YouTube\nWho's coming to learn about @joinmirrorworld with D_D Meber @codebender828 \nImmaculately hosted by @narb_s, as always.\n\nDevNTell: ✨ GM frens! ✨\n🗣️ The @developer_dao #DevNTell will be live in 30 mins time (8:30 am PST)\n👉 Come hang out and learn about @joinmirrorworld from @codebender828 :\n https://www.youtube.com/watch?v=OfFieWwtDhg",
           "link": "https://twitter.com/developer_dao/status/1619010173200392192",
           "publishedOn": "2023-01-27T16:31:19.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "📡📡 Starting now on YouTube Who's coming to learn about @joinmirrorworld with D_D Meber @codebender828 Immaculately hosted by @narb_s, as always.",
           "imageUrl": null
         },
@@ -146,7 +196,7 @@
           "description": "✨ GM frens! ✨\n🗣️ #DevNTell is live with @codebender828 and @narb_s\n👉 Come check out all the action on Youtube now using the link below: https://buff.ly/3wuieiG",
           "link": "https://twitter.com/developer_dao/status/1619009937320943616",
           "publishedOn": "2023-01-27T16:30:23.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "✨ GM frens! ✨ 🗣️ #DevNTell is live with @codebender828 and @narb_s 👉 Come check out all the action on Youtube now using the link below:",
           "imageUrl": null
         },
@@ -156,7 +206,7 @@
           "description": "RT Jobs Team\nWhere are my Senior smart contract developers at??? https://developerdao.pallet.com/jobs/36118d73-1174-480b-9987-01d0400b2894",
           "link": "https://twitter.com/DevDaoJobs/status/1618985851404550145",
           "publishedOn": "2023-01-27T14:54:40.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT Jobs Team: Where are my Senior smart contract developers at???",
           "imageUrl": null
         },
@@ -166,7 +216,7 @@
           "description": "Re Check out the Airdrop dashboard by @pandajackson42 for full breakdown https://buff.ly/3HEHOZk",
           "link": "https://twitter.com/developer_dao/status/1618947697544773633",
           "publishedOn": "2023-01-27T12:23:04.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "Re Check out the Airdrop dashboard by @pandajackson42 for full breakdown",
           "imageUrl": null
         },
@@ -176,7 +226,7 @@
           "description": "🚨 Latest stats on the $CODE #Airdrop 👀 🚨 \nStill > 50% of recipients haven't claimed their allocation. This is > 40% of the entire airdroped supply.\nGetting $CODE into the peoples hands is important for decentralisation.\nPlease claim before Feb 18th 🫡",
           "link": "https://twitter.com/developer_dao/status/1618947696345186304",
           "publishedOn": "2023-01-27T12:23:04.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "🚨 Latest stats on the $CODE #Airdrop 👀 🚨 Still > 50% of recipients haven't claimed their allocation. This is > 40% of the entire airdroped su...",
           "imageUrl": null
         },
@@ -186,48 +236,8 @@
           "description": "RT Ahmad Abugosh\nFor my web3 friends 🙏\nThere are just a few days left to support @Givethio in the @Gitcoin Alpha round. \nThrough the power of quadratic funding, a small amount from you can be amplified to have a big impact!\n\n\nGiveth - Gitcoin Alpha Round 🌏: We’ve got great things in store for 2023 & we’re working FAST to bring them to you.\nAs we’re largely funded by donations, this @gitcoin Alpha Round is a big one for us!\n💜 Please consider supporting our grant: \nSo what's in the works?\n🧵👇\n https://grant-explorer.gitcoin.co/#/round/1/0xd95a1969c41112cee9a2c931e849bcef36a16f4c/0xb746c0f648f9b930ea4568cf8741067a7fc7eb3928ac13cced8076212cf3cf37-0xd95a1969c41112cee9a2c931e849bcef36a16f4c",
           "link": "https://twitter.com/aabugosh/status/1618929737073823746",
           "publishedOn": "2023-01-27T11:11:42.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT Ahmad Abugosh: For my web3 friends 🙏 There are just a few days left to support @Givethio in the @Gitcoin Alpha round. Through the power of quadr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1618776326374326273",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @shanvasion 🫂",
-          "link": "https://twitter.com/developer_dao/status/1618776326374326273",
-          "publishedOn": "2023-01-27T01:02:06.000Z",
-          "wordCount": 504,
-          "title": "Re @shanvasion 🫂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1618768062496505858",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @me256ow @dabit3 ☝️ facts",
-          "link": "https://twitter.com/developer_dao/status/1618768062496505858",
-          "publishedOn": "2023-01-27T00:29:16.000Z",
-          "wordCount": 504,
-          "title": "Re @me256ow @dabit3 ☝️ facts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/me256ow/status/1618760889305542659",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT meowy-kun.eth🌱meowy.lens🌿\nI was having a low day today. But @dabit3 made my day brighter.💚",
-          "link": "https://twitter.com/me256ow/status/1618760889305542659",
-          "publishedOn": "2023-01-27T00:00:45.000Z",
-          "wordCount": 504,
-          "title": "RT meowy-kun.eth🌱meowy.lens🌿: I was having a low day today. But @dabit3 made my day brighter.💚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/FarzaTV/status/1618716566975299587",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Farza 🇺🇸 🇵🇰\nWe've gathered 250 hustlers.\nEach of them spent the last 6-weeks going from zero to -- building out their idea + getting real users.\nSome went from 0 to $1000 in MRR.\nOthers now got 150,000 users.\nIf you wanna see what people are building -- see you Saturday.",
-          "link": "https://twitter.com/FarzaTV/status/1618716566975299587",
-          "publishedOn": "2023-01-26T21:04:38.000Z",
-          "wordCount": 504,
-          "title": "RT Farza 🇺🇸 🇵🇰: We've gathered 250 hustlers. Each of them spent the last 6-weeks going from zero to -- building out their idea + getting r...",
           "imageUrl": null
         },
         {
@@ -236,7 +246,7 @@
           "description": "RT Push DAO\nExcited to welcome our newest grantee @woop_pay 🔔✨\nDeveloped as a collective venture by our frens at @developer_dao and @d_d_agency_web3, Woop Pay is on a mission to simply crypto payments and Push will power useful real time notifications for transactions.\n\nWoop Pay: Woop Pay has partnered with @pushprotocol as part of their grant program to bring you more convenience! Users will receive real-time updates on payment requests with Push notifications, making it easier to keep track of your transactions. Get started at\n http://wooppay.xyz",
           "link": "https://twitter.com/Push_DAO/status/1618708270058979328",
           "publishedOn": "2023-01-26T20:31:40.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT Push DAO: Excited to welcome our newest grantee @woop_pay 🔔✨ Developed as a collective venture by our frens at @developer_dao and @d_d_agency_w...",
           "imageUrl": null
         },
@@ -246,18 +256,8 @@
           "description": "RT Alysia 👩‍💻📍🇦🇪 Dubai\nEveryone I speak to is going to \n@EthereumDenver so you really don't want to miss it 🤯! @aztech_princess and I just signed up for a \n@developer_dao scholarship, so hopefully you'll see us there building with @fuellabs_ @fluence_project http://shorturl.at/asDXZ",
           "link": "https://twitter.com/alysiatech/status/1618647594695278593",
           "publishedOn": "2023-01-26T16:30:34.000Z",
-          "wordCount": 504,
+          "wordCount": 498,
           "title": "RT Alysia 👩‍💻📍🇦🇪 Dubai: Everyone I speak to is going to @EthereumDenver so you really don't want to miss it 🤯! @aztech_princess and...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/NevvDevv/status/1618355614303887383",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT NevvDevv🔮\nSeeing a lot of people joining WEB3 auditing space recently I have decided to create roadmap that could help with learning process from start. In upcoming days I'll post breakdown for every step with resources and details that would be hard to contain in 1 simple diagram.",
-          "link": "https://twitter.com/NevvDevv/status/1618355614303887383",
-          "publishedOn": "2023-01-25T21:10:20.000Z",
-          "wordCount": 504,
-          "title": "RT NevvDevv🔮: Seeing a lot of people joining WEB3 auditing space recently I have decided to create roadmap that could help with learning process fr...",
           "imageUrl": null
         }
       ]

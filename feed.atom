@@ -1,16 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T06:13:45.575Z</id>
+    <id>urn:2023-01-31T06:13:30.036Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-30T06:13:45.575Z</updated>
+    <updated>2023-01-31T06:13:30.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT rahat.eth: Happy to announce that as of today I am now Head of Developer Relations at @biconomy. Over the past few months I’ve been thinking about...]]></title>
+        <id>https://twitter.com/Rahatcodes/status/1620083674661408769</id>
+        <link href="https://twitter.com/Rahatcodes/status/1620083674661408769"/>
+        <updated>2023-01-30T15:37:02.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth
+Happy to announce that as of today I am now Head of Developer Relations at @biconomy. 
+Over the past few months I’ve been thinking about the terrible UX we accept in web3 today. I started doing some front end talks and workshops to talk about common UX patterns in web3 today.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @nazeeh21 @unstoppableweb]]></title>
+        <id>https://twitter.com/developer_dao/status/1620064260075458561</id>
+        <link href="https://twitter.com/developer_dao/status/1620064260075458561"/>
+        <updated>2023-01-30T14:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @nazeeh21 @unstoppableweb]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT gretzke.lens: Today we participated in @matchbox_dao 0xMonaco Battle of Titans! We as part of the @0xPolygon team took 2nd place against 12 opponen...]]></title>
+        <id>https://twitter.com/gretzke/status/1619801128430108673</id>
+        <link href="https://twitter.com/gretzke/status/1619801128430108673"/>
+        <updated>2023-01-29T20:54:18.000Z</updated>
+        <summary type="html"><![CDATA[RT gretzke.lens
+Today we participated in @matchbox_dao 0xMonaco Battle of Titans! We as part of the @0xPolygon  team took 2nd place against 12 opponents. In the end we lost to @Uniswap by a close margin.
+Let's dig into our strategy!
+(find our source code at the end)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Season 2 👀]]></title>
         <id>https://twitter.com/developer_dao/status/1619755515940331522</id>
         <link href="https://twitter.com/developer_dao/status/1619755515940331522"/>
         <updated>2023-01-29T17:53:03.000Z</updated>
         <summary type="html"><![CDATA[Season 2 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Naruto11.eth | Naruto11.lens: GM GM Today we are going to talk about @delegatecash and dev/team behind it that I have followed closely for the long...]]></title>
+        <id>https://twitter.com/naruto11eth/status/1619510191388766208</id>
+        <link href="https://twitter.com/naruto11eth/status/1619510191388766208"/>
+        <updated>2023-01-29T01:38:13.000Z</updated>
+        <summary type="html"><![CDATA[RT Naruto11.eth | Naruto11.lens
+GM GM
+Today we are going to talk about @delegatecash and dev/team behind it that I have followed closely for the longest time possible in web3: @0xfoobar
+Divided into two parts: layman terms and a bit technical terms on ERC-5639
+If anyone finds any faults feel free to point it]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -50,6 +99,20 @@ Includes:
         <updated>2023-01-28T16:16:55.000Z</updated>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT I D R I S 💙: 📢📢📢 I am excited to announce the launch of "Article Idea Generator", a new project I've worked on for the past few days. T...]]></title>
+        <id>https://twitter.com/olanetsoft/status/1619355130041864193</id>
+        <link href="https://twitter.com/olanetsoft/status/1619355130041864193"/>
+        <updated>2023-01-28T15:22:03.000Z</updated>
+        <summary type="html"><![CDATA[RT I D R I S 💙
+📢📢📢
+I am excited to announce the launch of "Article Idea Generator", a new project I've worked on for the past few days. 
+This tool is powered by the incredible technology of @OpenAI  & @vercel Edge Functions, Inspired by @nutlope.
+1/n https://www.articleideagenerator.com/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -184,52 +247,6 @@ So what's in the works?
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @shanvasion 🫂]]></title>
-        <id>https://twitter.com/developer_dao/status/1618776326374326273</id>
-        <link href="https://twitter.com/developer_dao/status/1618776326374326273"/>
-        <updated>2023-01-27T01:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @shanvasion 🫂]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @me256ow @dabit3 ☝️ facts]]></title>
-        <id>https://twitter.com/developer_dao/status/1618768062496505858</id>
-        <link href="https://twitter.com/developer_dao/status/1618768062496505858"/>
-        <updated>2023-01-27T00:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @me256ow @dabit3 ☝️ facts]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT meowy-kun.eth🌱meowy.lens🌿: I was having a low day today. But @dabit3 made my day brighter.💚]]></title>
-        <id>https://twitter.com/me256ow/status/1618760889305542659</id>
-        <link href="https://twitter.com/me256ow/status/1618760889305542659"/>
-        <updated>2023-01-27T00:00:45.000Z</updated>
-        <summary type="html"><![CDATA[RT meowy-kun.eth🌱meowy.lens🌿
-I was having a low day today. But @dabit3 made my day brighter.💚]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Farza 🇺🇸 🇵🇰: We've gathered 250 hustlers. Each of them spent the last 6-weeks going from zero to -- building out their idea + getting r...]]></title>
-        <id>https://twitter.com/FarzaTV/status/1618716566975299587</id>
-        <link href="https://twitter.com/FarzaTV/status/1618716566975299587"/>
-        <updated>2023-01-26T21:04:38.000Z</updated>
-        <summary type="html"><![CDATA[RT Farza 🇺🇸 🇵🇰
-We've gathered 250 hustlers.
-Each of them spent the last 6-weeks going from zero to -- building out their idea + getting real users.
-Some went from 0 to $1000 in MRR.
-Others now got 150,000 users.
-If you wanna see what people are building -- see you Saturday.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Push DAO: Excited to welcome our newest grantee @woop_pay 🔔✨ Developed as a collective venture by our frens at @developer_dao and @d_d_agency_w...]]></title>
         <id>https://twitter.com/Push_DAO/status/1618708270058979328</id>
         <link href="https://twitter.com/Push_DAO/status/1618708270058979328"/>
@@ -265,17 +282,6 @@ Everyone I speak to is going to
         <summary type="html"><![CDATA[$CODE Claim Deadline is Feb 18th!]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT NevvDevv🔮: Seeing a lot of people joining WEB3 auditing space recently I have decided to create roadmap that could help with learning process fr...]]></title>
-        <id>https://twitter.com/NevvDevv/status/1618355614303887383</id>
-        <link href="https://twitter.com/NevvDevv/status/1618355614303887383"/>
-        <updated>2023-01-25T21:10:20.000Z</updated>
-        <summary type="html"><![CDATA[RT NevvDevv🔮
-Seeing a lot of people joining WEB3 auditing space recently I have decided to create roadmap that could help with learning process from start. In upcoming days I'll post breakdown for every step with resources and details that would be hard to contain in 1 simple diagram.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
