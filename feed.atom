@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-02T06:13:03.292Z</id>
+    <id>urn:2023-02-03T06:13:33.719Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-02T06:13:03.292Z</updated>
+    <updated>2023-02-03T06:13:33.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1621245512610365441</id>
+        <link href="https://twitter.com/developer_dao/status/1621245512610365441"/>
+        <updated>2023-02-02T20:33:46.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Web3 Afrika: Our registration for an upcoming workshop and hackathon is now open! It's your opportunity to connect with a passionate community of w...]]></title>
+        <id>https://twitter.com/web3afrika/status/1621245410055528448</id>
+        <link href="https://twitter.com/web3afrika/status/1621245410055528448"/>
+        <updated>2023-02-02T20:33:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Web3 Afrika
+Our registration for an upcoming workshop and hackathon is now open! It's your opportunity to connect with a passionate community of web3 enthusiasts and get creative. 
+Unlock new skills, learn, and collaborate with like-minds.
+Click the link below 🚀 https://bit.ly/Web3Afrika_Training-Hackathon]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @crypdoughdoteth but are the trees greener? 🌴]]></title>
+        <id>https://twitter.com/developer_dao/status/1621237916130328577</id>
+        <link href="https://twitter.com/developer_dao/status/1621237916130328577"/>
+        <updated>2023-02-02T20:03:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @crypdoughdoteth but are the trees greener? 🌴]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Join us tomorrow as we bring on @camiinthisthang from @fuellabs_ live on Twitter spaces! We'll chat about all things Fuel and dive into everything wai...]]></title>
+        <id>https://twitter.com/developer_dao/status/1621181659767881728</id>
+        <link href="https://twitter.com/developer_dao/status/1621181659767881728"/>
+        <updated>2023-02-02T16:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Join us tomorrow as we bring on @camiinthisthang from @fuellabs_  live on Twitter spaces!
+We'll chat about all things Fuel and dive into everything waiting for you at #ETHDenver 🏔️ 
+Apply today to become a D_D Hacker fueled by @fuellabs_ https://twitter.com/i/spaces/1jMKgLAdVvOGL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Fleek ⚡️: The CLI is growing Fleek Freaks ⚡ Today, we debut the second phase of the Host your static sites on IPFS in seconds using two simple c...]]></title>
+        <id>https://twitter.com/fleekxyz/status/1621161965526683649</id>
+        <link href="https://twitter.com/fleekxyz/status/1621161965526683649"/>
+        <updated>2023-02-02T15:01:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Fleek ⚡️
+The CLI is growing Fleek Freaks ⚡
+Today, we debut the second phase of the 
+Host your static sites on IPFS in seconds using two simple commands!
+Learn more and get started: http://Fleek.xyz https://blog.fleek.co/posts/release-sites-deployment-beta-cli]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Beyond native digital payments, the most powerful thing that blockchains / web3 / decentralized software infrastru...]]></title>
+        <id>https://twitter.com/dabit3/status/1621160945312735235</id>
+        <link href="https://twitter.com/dabit3/status/1621160945312735235"/>
+        <updated>2023-02-02T14:57:43.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+Beyond native digital payments, the most powerful thing that blockchains / web3 / decentralized software infrastructure enables is immutable, shared, public data and APIs.
+You no longer have to worry about the API your app or business depends on being fucked with or shut down.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Wikist_ DevDAO IRL ?! 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1621157847156559873</id>
+        <link href="https://twitter.com/developer_dao/status/1621157847156559873"/>
+        <updated>2023-02-02T14:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @Wikist_ DevDAO IRL ?! 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴: GM! Don't forget to check out my TWO new articles about Merkle Trees on Mirror, starting with constructing...]]></title>
+        <id>https://twitter.com/crypdoughdoteth/status/1621123771938574336</id>
+        <link href="https://twitter.com/crypdoughdoteth/status/1621123771938574336"/>
+        <updated>2023-02-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RT crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴
+GM! Don't forget to check out my TWO new articles about Merkle Trees on Mirror, starting with constructing the 🌴 https://mirror.xyz/crypdough.eth/WceXwbQcaZ0HCu_zgAIQsXmTOZM1rw85ILO0KVOxVCs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#55 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/55-probably-nothing</id>
@@ -13,6 +104,24 @@
         <summary type="html"><![CDATA[Szn 2: DAO boogaloo]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Megabyte ᵍᵐ (🧱,🚀): Let’s build better UX with @QuickNode Join @sensahil and me to learn about on-chain real time notification.]]></title>
+        <id>https://twitter.com/megabyte0x/status/1620951998983176196</id>
+        <link href="https://twitter.com/megabyte0x/status/1620951998983176196"/>
+        <updated>2023-02-02T01:07:27.000Z</updated>
+        <summary type="html"><![CDATA[RT Megabyte ᵍᵐ (🧱,🚀)
+Let’s build better UX with @QuickNode 
+Join @sensahil and me to learn about on-chain real time notification.
+
+Developer DAO (🧱, 🚀): gm buildooors! 🧱ᵍᵐ 
+Learn how to get real time on-chain notifications with @QuickNode's QuickAlerts ⚒️ 
+Join @megabyte0x and @sensahil on February 8th, 4:30pm UTC. 
+🔗 Sign up now:
+ https://buff.ly/3Jsegin]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +186,18 @@ And a special shout-out to our first two Season Partners, @QuickNode and @stream
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT community @ dd: 𝗦𝗲𝗮𝘀𝗼𝗻 𝟮: 𝗕𝗮𝗱𝗴𝗲𝘀 For over 8 months, the Community Team has worked hard behind the scenes, on...]]></title>
+        <id>https://twitter.com/comm_dd/status/1620892254276816896</id>
+        <link href="https://twitter.com/comm_dd/status/1620892254276816896"/>
+        <updated>2023-02-01T21:10:02.000Z</updated>
+        <summary type="html"><![CDATA[RT community @ dd
+𝗦𝗲𝗮𝘀𝗼𝗻 𝟮: 𝗕𝗮𝗱𝗴𝗲𝘀
+For over 8 months, the Community Team has worked hard behind the scenes, on a range of server architecture initiatives. One of which, is the adoption of a badge system that will allow us to layer on top of our existing NFT and token requirements.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re just in case!]]></title>
         <id>https://twitter.com/developer_dao/status/1620862123709698048</id>
         <link href="https://twitter.com/developer_dao/status/1620862123709698048"/>
@@ -113,118 +234,6 @@ And a special shout-out to our first two Season Partners, @QuickNode and @stream
         <updated>2023-02-01T16:10:40.000Z</updated>
         <summary type="html"><![CDATA[RT hellokpl.lens is 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 TalentLayer
 Today the @TalentLayer team learned abt @fluence_project from @eponomarev and @boneyard935011 via @developer_dao  today. Fluence is a decentralized computing network. They shipped an exciting POC just in time for @EthereumDenver  - tech for running decentralized RPC nodes. Why?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you indexing with The Graph and your metadata hosted on IPFS is missing in your subgraph? ⚠️ Then you might wanna check out this article by our ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1620814233981145088</id>
-        <link href="https://twitter.com/developer_dao/status/1620814233981145088"/>
-        <updated>2023-02-01T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Are you indexing with The Graph and your metadata hosted on IPFS is missing in your subgraph? ⚠️ 
-Then you might wanna check out this article by our member @J_pizzl3 🎓 https://buff.ly/3Hp3E15]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm buildooors! 🧱ᵍᵐ Learn how to get real time on-chain notifications with @QuickNode's QuickAlerts ⚒️ Join @megabyte0x and @sensahil on Februar...]]></title>
-        <id>https://twitter.com/developer_dao/status/1620810707523477504</id>
-        <link href="https://twitter.com/developer_dao/status/1620810707523477504"/>
-        <updated>2023-02-01T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[gm buildooors! 🧱ᵍᵐ 
-Learn how to get real time on-chain notifications with @QuickNode's QuickAlerts ⚒️ 
-Join @megabyte0x and @sensahil on February 8th, 4:30pm UTC. 
-🔗 Sign up now: https://buff.ly/3Jsegin]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1620797758310416384</id>
-        <link href="https://twitter.com/developer_dao/status/1620797758310416384"/>
-        <updated>2023-02-01T14:54:33.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1MnxnpXnlwkGO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less than 30 minutes to go!!]]></title>
-        <id>https://twitter.com/developer_dao/status/1620792903416315905</id>
-        <link href="https://twitter.com/developer_dao/status/1620792903416315905"/>
-        <updated>2023-02-01T14:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Less than 30 minutes to go!! https://twitter.com/i/spaces/1MnxnpXnlwkGO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[facts]]></title>
-        <id>https://twitter.com/developer_dao/status/1620779589890105344</id>
-        <link href="https://twitter.com/developer_dao/status/1620779589890105344"/>
-        <updated>2023-02-01T13:42:21.000Z</updated>
-        <summary type="html"><![CDATA[facts
-
-Kevin: The chances of two bullets colliding are 1 in 70 billion.
-This is more likely than centering a div on your first try.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @kirstenrpomales @fluence_project @EthereumDenver @eponomarev @mannyornothing]]></title>
-        <id>https://twitter.com/developer_dao/status/1620762785755041794</id>
-        <link href="https://twitter.com/developer_dao/status/1620762785755041794"/>
-        <updated>2023-02-01T12:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @kirstenrpomales @fluence_project @EthereumDenver @eponomarev @mannyornothing]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interested to build with @fluence_project at @EthereumDenver? We’ll be joined by @eponomarev tomorrow morning at 10AM EST to get you inspired for eve...]]></title>
-        <id>https://twitter.com/developer_dao/status/1620537538497888257</id>
-        <link href="https://twitter.com/developer_dao/status/1620537538497888257"/>
-        <updated>2023-01-31T21:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Interested to build with @fluence_project at @EthereumDenver? 
-We’ll be joined by @eponomarev tomorrow morning at 10AM EST to get you inspired for everything you can build with Fluence! Led by @mannyornothing 🙌
-Set a reminder for this upcoming Space! https://twitter.com/i/spaces/1MnxnpXnlwkGO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Jobs are here -]]></title>
-        <id>https://twitter.com/developer_dao/status/1620486036798291968</id>
-        <link href="https://twitter.com/developer_dao/status/1620486036798291968"/>
-        <updated>2023-01-31T18:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Re Jobs are here - https://developerdao.pallet.com/jobs]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling all developers! Who's looking to attend ETHDenver?🏔 Applications are still open for you to join us as D_D Hackers powered by @fuellabs_ and...]]></title>
-        <id>https://twitter.com/developer_dao/status/1620482331139080192</id>
-        <link href="https://twitter.com/developer_dao/status/1620482331139080192"/>
-        <updated>2023-01-31T18:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Calling all developers! Who's looking to attend ETHDenver?🏔 
-Applications are still open for you to join us as D_D Hackers powered by @fuellabs_ and @fluence_project! 
-We're just waiting for you to apply! Send in your team application today🚀 https://buff.ly/3D9WoVD]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT UMA: Re @developer_dao]]></title>
-        <id>https://twitter.com/UMAprotocol/status/1620482258292596737</id>
-        <link href="https://twitter.com/UMAprotocol/status/1620482258292596737"/>
-        <updated>2023-01-31T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[RT UMA
-Re @developer_dao https://docs.umaproject.org/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
