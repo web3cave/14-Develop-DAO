@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T06:12:08.111Z</id>
+    <id>urn:2023-02-05T06:12:05.355Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T06:12:08.111Z</updated>
+    <updated>2023-02-05T06:12:05.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @ethgnz Awesome! 🤩]]></title>
+        <id>https://twitter.com/developer_dao/status/1622046225103994880</id>
+        <link href="https://twitter.com/developer_dao/status/1622046225103994880"/>
+        <updated>2023-02-05T01:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @ethgnz Awesome! 🤩]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations are in order, for Developer DAO member, @texaglo_techno ! 🥳 Well done to you]]></title>
+        <id>https://twitter.com/developer_dao/status/1621988909713428486</id>
+        <link href="https://twitter.com/developer_dao/status/1621988909713428486"/>
+        <updated>2023-02-04T21:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations are in order, for Developer DAO member, @texaglo_techno ! 🥳 Well done to you
+
+Civic: Let’s hear it for the Runner Up of the Decentralized Identity track of the Sandstorm Hackathon by @LamportDAO & @heliuslabs….
+@texaglo_techno! 🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @olanetsoft gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1621919700203585537</id>
+        <link href="https://twitter.com/developer_dao/status/1621919700203585537"/>
+        <updated>2023-02-04T17:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Re @olanetsoft gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://twitter.com/developer_dao/status/1621898326189686785</id>
+        <link href="https://twitter.com/developer_dao/status/1621898326189686785"/>
+        <updated>2023-02-04T15:47:49.000Z</updated>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT pbillingsby: Technical docs can be overwhelming & sometimes unnecessarily convoluted. Sometimes having a concise 0-1 guide can be more useful & eff...]]></title>
         <id>https://twitter.com/pbillingsby_/status/1621619301529669639</id>
@@ -164,51 +206,6 @@ Get inspired about everything you can build with the fastest modular execution l
         <link href="https://twitter.com/developer_dao/status/1621499211672846337"/>
         <updated>2023-02-03T13:21:52.000Z</updated>
         <summary type="html"><![CDATA[Re @kvncnls]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @AlmostEfficient 🫡]]></title>
-        <id>https://twitter.com/developer_dao/status/1621494946678161409</id>
-        <link href="https://twitter.com/developer_dao/status/1621494946678161409"/>
-        <updated>2023-02-03T13:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @AlmostEfficient 🫡]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1621494858467741696</id>
-        <link href="https://twitter.com/developer_dao/status/1621494858467741696"/>
-        <updated>2023-02-03T13:04:34.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re aaaand that's a wrap 🌯 As always, huge thanks to our newsletter team @sylksie @Jamiescript @myz12371 @Colin4ward Subscribe to Substack to get th...]]></title>
-        <id>https://twitter.com/developer_dao/status/1621483004970270720</id>
-        <link href="https://twitter.com/developer_dao/status/1621483004970270720"/>
-        <updated>2023-02-03T12:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Re aaaand that's a wrap 🌯
-As always, huge thanks to our newsletter team @sylksie @Jamiescript @myz12371 @Colin4ward 
-Subscribe to Substack to get the latest issues in your inbox - 
-Help us spread the vibes with RT.
-LGTM https://developerdao.substack.com/p/55-probably-nothing]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re D_D Hackers X @EthereumDenver We've partnered with @fuellabs_ and @fluence_project to get Builders Building in the ETH Denver Hackathon 🏗️. App...]]></title>
-        <id>https://twitter.com/developer_dao/status/1621483003217051652</id>
-        <link href="https://twitter.com/developer_dao/status/1621483003217051652"/>
-        <updated>2023-02-03T12:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Re D_D Hackers  X @EthereumDenver 
-We've partnered with @fuellabs_ and @fluence_project to get Builders Building in the ETH Denver Hackathon 🏗️.
-Apply for up to $4000 in support, deadline February 8th, 00:00 (EST) - https://dxql9ua1g5o.typeform.com/to/eLgXtxZp]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
