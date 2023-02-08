@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/56-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Probably should claim your CODE before 2/18",
+          "link": "https://developerdao.substack.com/p/56-probably-nothing",
+          "publishedOn": "2023-02-07T18:08:42.000Z",
+          "wordCount": null,
+          "title": "#56 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9198bc8e-766b-47db-8dc4-b340042bac98_1100x550.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9198bc8e-766b-47db-8dc4-b340042bac98_1100x550.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/55-probably-nothing",
           "author": "Colin4ward",
           "description": "Szn 2: DAO boogaloo",
@@ -77,6 +93,136 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1623194042229030912",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @me256ow @megabyte0x @TheNoahHein YES! @comm_dd",
+          "link": "https://twitter.com/developer_dao/status/1623194042229030912",
+          "publishedOn": "2023-02-08T05:36:31.000Z",
+          "wordCount": 498,
+          "title": "Re @me256ow @megabyte0x @TheNoahHein YES! @comm_dd",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/TheNoahHein/status/1623049350258561024",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Noah Hein\nif you're in D_D, go vote!\n\nDeveloper DAO (🧱, 🚀): ⚡ New Snapshot Proposl live ⚡ \nP-22: DAO Governace Structure Upgrade\nThis proposal suggests big changes to the Member & Contributor experince in Seasom 2. Don't sleep on this, read the summary thread below and vote 👉 \nVoting closes Feb 11th @ 8:30 pm\n https://buff.ly/3I3iNH8",
+          "link": "https://twitter.com/TheNoahHein/status/1623049350258561024",
+          "publishedOn": "2023-02-07T20:01:34.000Z",
+          "wordCount": 498,
+          "title": "RT Noah Hein: if you're in D_D, go vote!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047468572090380",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re There is a lot to chew 🦷 on in this proposal. If you have the time we'd recommend reading the full proposal and associated debate on the forum below 🫡  \nVoting closes Feb 11th @ 8:30 pm UTC https://buff.ly/40ynrnA",
+          "link": "https://twitter.com/developer_dao/status/1623047468572090380",
+          "publishedOn": "2023-02-07T19:54:05.000Z",
+          "wordCount": 498,
+          "title": "Re There is a lot to chew 🦷 on in this proposal. If you have the time we'd recommend reading the full proposal and associated debate on the forum b...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047464998563840",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re 3) A simpler Governance structure. No more guilds/projects/budget process, just a single path-way for all Governance matters.",
+          "link": "https://twitter.com/developer_dao/status/1623047464998563840",
+          "publishedOn": "2023-02-07T19:54:05.000Z",
+          "wordCount": 498,
+          "title": "Re 3) A simpler Governance structure. No more guilds/projects/budget process, just a single path-way for all Governance matters.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047462792437760",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re 2) An upgrade to the Member and Contributor experiences",
+          "link": "https://twitter.com/developer_dao/status/1623047462792437760",
+          "publishedOn": "2023-02-07T19:54:04.000Z",
+          "wordCount": 498,
+          "title": "Re 2) An upgrade to the Member and Contributor experiences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047460628094976",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re 1) Clear Governance role definitions and accountability/reward scale\n- Members\n- Contributors\n- Stewards",
+          "link": "https://twitter.com/developer_dao/status/1623047460628094976",
+          "publishedOn": "2023-02-07T19:54:04.000Z",
+          "wordCount": 498,
+          "title": "Re 1) Clear Governance role definitions and accountability/reward scale - Members - Contributors - Stewards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047459118190598",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re How does this proposal seek to achieve this?\n- Clear definitions for Governance roles/responsibiliy and accountabilities\n- An upgraded the Member & Contributor Experience\n - Simplified DAOs Governance Structures",
+          "link": "https://twitter.com/developer_dao/status/1623047459118190598",
+          "publishedOn": "2023-02-07T19:54:03.000Z",
+          "wordCount": 498,
+          "title": "Re How does this proposal seek to achieve this? - Clear definitions for Governance roles/responsibiliy and accountabilities - An upgraded the Member &...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047458006749186",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re What are the stated motivations behind the proposal?\n1) Make the experience for non-contributing Members (the majority) much more enjoyable!\n2) Empower Contributors to more freely create value for the DAO\n3) Decentralized Governance further and clarify its structures",
+          "link": "https://twitter.com/developer_dao/status/1623047458006749186",
+          "publishedOn": "2023-02-07T19:54:03.000Z",
+          "wordCount": 498,
+          "title": "Re What are the stated motivations behind the proposal? 1) Make the experience for non-contributing Members (the majority) much more enjoyable! 2) Emp...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623047457016844289",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "⚡ New Snapshot Proposl live ⚡ \nP-22: DAO Governace Structure Upgrade\nThis proposal suggests big changes to the Member & Contributor experince in Seasom 2. Don't sleep on this, read the summary thread below and vote 👉 \nVoting closes Feb 11th @ 8:30 pm https://buff.ly/3I3iNH8",
+          "link": "https://twitter.com/developer_dao/status/1623047457016844289",
+          "publishedOn": "2023-02-07T19:54:03.000Z",
+          "wordCount": 498,
+          "title": "⚡ New Snapshot Proposl live ⚡ P-22: DAO Governace Structure Upgrade This proposal suggests big changes to the Member & Contributor experince in Seas...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623018734808956928",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz @elonmusk Happy to say @elonmusk made the devs do something",
+          "link": "https://twitter.com/developer_dao/status/1623018734808956928",
+          "publishedOn": "2023-02-07T17:59:55.000Z",
+          "wordCount": 498,
+          "title": "Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz @elonmusk Happy to say @elonmusk made the devs do something",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BundlrNetwork/status/1623003817418829824",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Bundlr\nWe want to continue the conversation on Bundlr hitting 50,000 transactions per second. Come hear @josh_benaron, Bundlr's CEO, and @samecwilliams, Arweave's CEO, dive deeper into how we got here on a Twitter Space this Thursday https://twitter.com/i/spaces/1yNGaNAbbrrJj",
+          "link": "https://twitter.com/BundlrNetwork/status/1623003817418829824",
+          "publishedOn": "2023-02-07T17:00:38.000Z",
+          "wordCount": 498,
+          "title": "RT Bundlr: We want to continue the conversation on Bundlr hitting 50,000 transactions per second. Come hear @josh_benaron, Bundlr's CEO, and @samecwil...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1622981971000406016",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz It appears the Twitter Cache has rugged us 🤣🤣🤣\n@elonmusk can the devs do something?",
+          "link": "https://twitter.com/developer_dao/status/1622981971000406016",
+          "publishedOn": "2023-02-07T15:33:50.000Z",
+          "wordCount": 498,
+          "title": "Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz It appears the Twitter Cache has rugged us 🤣🤣🤣 @elonmusk can the devs do something?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1622981002149724160",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Workshop attendee sign-ups are doing NUMBERS this week 🚀 \nHigh-bar content from @fuellabs_ @QuickNode and @devntellxyz \nView & RSVP on Luma - \nIntro to 🏗️ ing with @fuellabs_ today @ 8:30 pm UTC w/ @schwartzswartz https://buff.ly/3FqwPRD https://buff.ly/3YucTUO",
+          "link": "https://twitter.com/developer_dao/status/1622981002149724160",
+          "publishedOn": "2023-02-07T15:29:59.000Z",
+          "wordCount": 498,
+          "title": "Workshop attendee sign-ups are doing NUMBERS this week 🚀 High-bar content from @fuellabs_ @QuickNode and @devntellxyz View & RSVP on Luma - Intro t...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1622818502821175296",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "gn",
@@ -137,143 +283,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1622586133883265028",
+          "id": "https://twitter.com/streamr/status/1621190216680718339",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re not us. https://lu.ma/5r4ngcxk",
-          "link": "https://twitter.com/developer_dao/status/1622586133883265028",
-          "publishedOn": "2023-02-06T13:20:55.000Z",
+          "description": "RT Streamr Network\nToken-gated peer-to-peer chat is coming to the Streamr Network 👀! Register to beta test it this month! 👇 https://form.typeform.com/to/aPjXhllB",
+          "link": "https://twitter.com/streamr/status/1621190216680718339",
+          "publishedOn": "2023-02-02T16:54:02.000Z",
           "wordCount": 498,
-          "title": "Re not us.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1622585860775415808",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "imagine missing out on a kickass workshop by @QuickNode this Wednesday 👀💀",
-          "link": "https://twitter.com/developer_dao/status/1622585860775415808",
-          "publishedOn": "2023-02-06T13:19:50.000Z",
-          "wordCount": 498,
-          "title": "imagine missing out on a kickass workshop by @QuickNode this Wednesday 👀💀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1622544357877338115",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Hey DD members 🗣️\n⇩⇩ Mint link is live ⇩⇩\n\nAnd check the announcements 📣 channel in the server, for guidance on how to claim your new Discord role after minting\n\n\ncommunity @ dd: 𝗦𝗲𝗮𝘀𝗼𝗻 𝟮: 𝗕𝗮𝗱𝗴𝗲𝘀\nFor over 8 months, the Community Team has worked hard behind the scenes, on a range of server architecture initiatives. One of which, is the adoption of a badge system that will allow us to layer on top of our existing NFT and token requirements.",
-          "link": "https://twitter.com/developer_dao/status/1622544357877338115",
-          "publishedOn": "2023-02-06T10:34:54.000Z",
-          "wordCount": 498,
-          "title": "Hey DD members 🗣️ ⇩⇩ Mint link is live ⇩⇩ And check the announcements 📣 channel in the server, for guidance on how to claim your new Discor...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1622452027098791936",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Quickstart with @icy_tools GraphQL API powered by @Quicknode ⚒️ \nLearn how to build an interactive #NFT market dashboard using:\n- QuicksNode's GraphQL API\n- React, Next.js\n- and Tailwind CSS 🧱 \n🔗: https://buff.ly/3DHNzCI",
-          "link": "https://twitter.com/developer_dao/status/1622452027098791936",
-          "publishedOn": "2023-02-06T04:28:01.000Z",
-          "wordCount": 498,
-          "title": "Quickstart with @icy_tools GraphQL API powered by @Quicknode ⚒️ Learn how to build an interactive #NFT market dashboard using: - QuicksNode's GraphQ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1622217515672666113",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @coinfessions Hey Admin, @boyluan here — leading Community & Server Architecture @ Developer DAO. If the person who submitted this wants to reach out, please have them send me a DM. As a fellow neurodivergent (I have ADHD myself), I’d love to see how I might be able to assist. Cheers",
-          "link": "https://twitter.com/developer_dao/status/1622217515672666113",
-          "publishedOn": "2023-02-05T12:56:09.000Z",
-          "wordCount": 498,
-          "title": "Re @coinfessions Hey Admin, @boyluan here — leading Community & Server Architecture @ Developer DAO. If the person who submitted this wants to reach ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1622046225103994880",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @ethgnz Awesome! 🤩",
-          "link": "https://twitter.com/developer_dao/status/1622046225103994880",
-          "publishedOn": "2023-02-05T01:35:30.000Z",
-          "wordCount": 498,
-          "title": "Re @ethgnz Awesome! 🤩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1621988909713428486",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Congratulations are in order, for Developer DAO member, @texaglo_techno ! 🥳 Well done to you\n\nCivic: Let’s hear it for the Runner Up of the Decentralized Identity track of the Sandstorm Hackathon by @LamportDAO & @heliuslabs….\n@texaglo_techno! 🔥",
-          "link": "https://twitter.com/developer_dao/status/1621988909713428486",
-          "publishedOn": "2023-02-04T21:47:45.000Z",
-          "wordCount": 498,
-          "title": "Congratulations are in order, for Developer DAO member, @texaglo_techno ! 🥳 Well done to you",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1621919700203585537",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @olanetsoft gm",
-          "link": "https://twitter.com/developer_dao/status/1621919700203585537",
-          "publishedOn": "2023-02-04T17:12:44.000Z",
-          "wordCount": 498,
-          "title": "Re @olanetsoft gm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1621898326189686785",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1621898326189686785",
-          "publishedOn": "2023-02-04T15:47:49.000Z",
-          "wordCount": 498,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pbillingsby_/status/1621619301529669639",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT pbillingsby\nTechnical docs can be overwhelming & sometimes unnecessarily convoluted. Sometimes having a concise 0-1 guide can be more useful & effective\nSo the community started doing just that for @ArweaveEco!🔥\nI hope you find this as useful as I have so far https://cookbook.arweave.dev",
-          "link": "https://twitter.com/pbillingsby_/status/1621619301529669639",
-          "publishedOn": "2023-02-03T21:19:04.000Z",
-          "wordCount": 498,
-          "title": "RT pbillingsby: Technical docs can be overwhelming & sometimes unnecessarily convoluted. Sometimes having a concise 0-1 guide can be more useful & eff...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1621575561742098432",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re For anyone interested in applying to the scholarship, here is the link 👇 https://dxql9ua1g5o.typeform.com/to/eLgXtxZp",
-          "link": "https://twitter.com/developer_dao/status/1621575561742098432",
-          "publishedOn": "2023-02-03T18:25:15.000Z",
-          "wordCount": 498,
-          "title": "Re For anyone interested in applying to the scholarship, here is the link 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1621569952791552009",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The D_D Hacker scholarship is closing soon 👀\nInterested to apply for the scholarship? Need ideas to get started and building? Join us on Feb 7th to join into a workshop led by @schwartzswartz and @fuellabs_ !\nSign up today 👉🏼 https://lu.ma/cnwu4woi",
-          "link": "https://twitter.com/developer_dao/status/1621569952791552009",
-          "publishedOn": "2023-02-03T18:02:58.000Z",
-          "wordCount": 498,
-          "title": "The D_D Hacker scholarship is closing soon 👀 Interested to apply for the scholarship? Need ideas to get started and building? Join us on Feb 7th to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1621564016748335106",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1PlKQpkyomVxE",
-          "link": "https://twitter.com/developer_dao/status/1621564016748335106",
-          "publishedOn": "2023-02-03T17:39:23.000Z",
-          "wordCount": 498,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/buzea200/status/1621555984345726977",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT buzea200\n📣 Call for Applications \"DevRel Unversity\"  Pilot Program (@DevrelUni) - The First Mentoring Program to Empower #DevRel Talent  📣",
-          "link": "https://twitter.com/buzea200/status/1621555984345726977",
-          "publishedOn": "2023-02-03T17:07:28.000Z",
-          "wordCount": 498,
-          "title": "RT buzea200: 📣 Call for Applications \"DevRel Unversity\" Pilot Program (@DevrelUni) - The First Mentoring Program to Empower #DevRel Talent 📣",
+          "title": "RT Streamr Network: Token-gated peer-to-peer chat is coming to the Streamr Network 👀! Register to beta test it this month! 👇",
           "imageUrl": null
         }
       ]
