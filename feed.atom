@@ -1,116 +1,229 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T06:13:36.031Z</id>
+    <id>urn:2023-02-09T06:13:19.555Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-08T06:13:36.031Z</updated>
+    <updated>2023-02-09T06:13:19.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @me256ow @megabyte0x @TheNoahHein YES! @comm_dd]]></title>
-        <id>https://twitter.com/developer_dao/status/1623194042229030912</id>
-        <link href="https://twitter.com/developer_dao/status/1623194042229030912"/>
-        <updated>2023-02-08T05:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @me256ow @megabyte0x @TheNoahHein YES! @comm_dd]]></summary>
+        <title type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 If you missed it, no worries you can watch it here Presented by @sensahil 🤩 Hosted by @megabyte0x ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623370243014856724</id>
+        <link href="https://twitter.com/developer_dao/status/1623370243014856724"/>
+        <updated>2023-02-08T17:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 
+If you missed it, no worries you can watch it here
+ 
+Presented by @sensahil 🤩 
+Hosted by @megabyte0x ✨ https://buff.ly/3lnjBNQ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Noah Hein: if you're in D_D, go vote!]]></title>
-        <id>https://twitter.com/TheNoahHein/status/1623049350258561024</id>
-        <link href="https://twitter.com/TheNoahHein/status/1623049350258561024"/>
-        <updated>2023-02-07T20:01:34.000Z</updated>
-        <summary type="html"><![CDATA[RT Noah Hein
-if you're in D_D, go vote!
-
-Developer DAO (🧱, 🚀): ⚡ New Snapshot Proposl live ⚡ 
-P-22: DAO Governace Structure Upgrade
-This proposal suggests big changes to the Member & Contributor experince in Seasom 2. Don't sleep on this, read the summary thread below and vote 👉 
-Voting closes Feb 11th @ 8:30 pm
- https://buff.ly/3I3iNH8]]></summary>
+        <title type="html"><![CDATA[Re @J_pizzl3 solved an issue of missing IPFS metadata in subgraphs, check it out! 🎓]]></title>
+        <id>https://twitter.com/developer_dao/status/1623366143229497361</id>
+        <link href="https://twitter.com/developer_dao/status/1623366143229497361"/>
+        <updated>2023-02-08T17:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @J_pizzl3 solved an issue of missing IPFS metadata in subgraphs, check it out!
+ 🎓 https://buff.ly/3Hp3E15]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re There is a lot to chew 🦷 on in this proposal. If you have the time we'd recommend reading the full proposal and associated debate on the forum b...]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047468572090380</id>
-        <link href="https://twitter.com/developer_dao/status/1623047468572090380"/>
-        <updated>2023-02-07T19:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Re There is a lot to chew 🦷 on in this proposal. If you have the time we'd recommend reading the full proposal and associated debate on the forum below 🫡  
-Voting closes Feb 11th @ 8:30 pm UTC https://buff.ly/40ynrnA]]></summary>
+        <title type="html"><![CDATA[RT Fuel Labs: Join us for Layer 2 Day at ETH Denver! Hosted by Fuel Labs with support from @fenbushi, featuring guests from @arbitrum @optimismFND @Sc...]]></title>
+        <id>https://twitter.com/fuellabs_/status/1623364366601969664</id>
+        <link href="https://twitter.com/fuellabs_/status/1623364366601969664"/>
+        <updated>2023-02-08T16:53:20.000Z</updated>
+        <summary type="html"><![CDATA[RT Fuel Labs
+Join us for Layer 2 Day at ETH Denver!
+Hosted by Fuel Labs with support from @fenbushi, featuring guests from @arbitrum @optimismFND @Scroll_ZKP @StarkWareLtd @aztecnetwork @EclipseFND @zksync and more.
+Sign-up here: https://lu.ma/ywesceyk]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 3) A simpler Governance structure. No more guilds/projects/budget process, just a single path-way for all Governance matters.]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047464998563840</id>
-        <link href="https://twitter.com/developer_dao/status/1623047464998563840"/>
-        <updated>2023-02-07T19:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Re 3) A simpler Governance structure. No more guilds/projects/budget process, just a single path-way for all Governance matters.]]></summary>
+        <title type="html"><![CDATA[Developer DAO Workshop x QuickNode: Learn how to get real time on-chain notifications with QuickAlerts]]></title>
+        <id>https://twitter.com/developer_dao/status/1623358577263140864</id>
+        <link href="https://twitter.com/developer_dao/status/1623358577263140864"/>
+        <updated>2023-02-08T16:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Developer DAO Workshop x QuickNode: Learn how to get real time on-chain notifications with QuickAlerts https://twitter.com/i/broadcasts/1vAGRAdPLPrKl]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 2) An upgrade to the Member and Contributor experiences]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047462792437760</id>
-        <link href="https://twitter.com/developer_dao/status/1623047462792437760"/>
-        <updated>2023-02-07T19:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 2) An upgrade to the Member and Contributor experiences]]></summary>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol @sylksie @Ja...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351159002959878</id>
+        <link href="https://twitter.com/developer_dao/status/1623351159002959878"/>
+        <updated>2023-02-08T16:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol @sylksie @Jamiescript @myz12371 @Colin4ward :]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re 1) Clear Governance role definitions and accountability/reward scale - Members - Contributors - Stewards]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047460628094976</id>
-        <link href="https://twitter.com/developer_dao/status/1623047460628094976"/>
-        <updated>2023-02-07T19:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Re 1) Clear Governance role definitions and accountability/reward scale
-- Members
-- Contributors
-- Stewards]]></summary>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol A huge thank...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351157375524864</id>
+        <link href="https://twitter.com/developer_dao/status/1623351157375524864"/>
+        <updated>2023-02-08T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol A huge thanks to our newsletter team @sylksie @Jamiescript @myz12371 & @colin4ward 👑 
+Don't forget to subscribe for future issues - https://buff.ly/3YkGIHB]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re How does this proposal seek to achieve this? - Clear definitions for Governance roles/responsibiliy and accountabilities - An upgraded the Member &...]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047459118190598</id>
-        <link href="https://twitter.com/developer_dao/status/1623047459118190598"/>
-        <updated>2023-02-07T19:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Re How does this proposal seek to achieve this?
-- Clear definitions for Governance roles/responsibiliy and accountabilities
-- An upgraded the Member & Contributor Experience
- - Simplified DAOs Governance Structures]]></summary>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol Season 2 Bad...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351155181985801</id>
+        <link href="https://twitter.com/developer_dao/status/1623351155181985801"/>
+        <updated>2023-02-08T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol Season 2 Badges 🎖️
+A new on-chain badges system being rolled out to tailor the discord experience. https://buff.ly/3JRNxfp]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re What are the stated motivations behind the proposal? 1) Make the experience for non-contributing Members (the majority) much more enjoyable! 2) Emp...]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047458006749186</id>
-        <link href="https://twitter.com/developer_dao/status/1623047458006749186"/>
-        <updated>2023-02-07T19:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Re What are the stated motivations behind the proposal?
-1) Make the experience for non-contributing Members (the majority) much more enjoyable!
-2) Empower Contributors to more freely create value for the DAO
-3) Decentralized Governance further and clarify its structures]]></summary>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol 🧑‍⚖️ G...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351153994997768</id>
+        <link href="https://twitter.com/developer_dao/status/1623351153994997768"/>
+        <updated>2023-02-08T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika @olanetsoft @infura_io @J_pizzl3 @graphprotocol 🧑‍⚖️ Governance Update
+New ⚡️ Snapshot proposal live - P-22: DAO Governancen Structure Upgrade.
+Lots of changes proposed, checked out announcement thread https://buff.ly/3x4nSIX]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[⚡ New Snapshot Proposl live ⚡ P-22: DAO Governace Structure Upgrade This proposal suggests big changes to the Member & Contributor experince in Seas...]]></title>
-        <id>https://twitter.com/developer_dao/status/1623047457016844289</id>
-        <link href="https://twitter.com/developer_dao/status/1623047457016844289"/>
-        <updated>2023-02-07T19:54:03.000Z</updated>
-        <summary type="html"><![CDATA[⚡ New Snapshot Proposl live ⚡ 
-P-22: DAO Governace Structure Upgrade
-This proposal suggests big changes to the Member & Contributor experince in Seasom 2. Don't sleep on this, read the summary thread below and vote 👉 
-Voting closes Feb 11th @ 8:30 pm https://buff.ly/3I3iNH8]]></summary>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika From the blog ✍️ @olanetsoft - Easily Create an #NFT App u...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351152501829632</id>
+        <link href="https://twitter.com/developer_dao/status/1623351152501829632"/>
+        <updated>2023-02-08T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil @texaglo_techno @web3afrika From the blog ✍️ 
+@olanetsoft - Easily Create an #NFT App using the New @infura_io NFT #typescript SDK - 
+@J_pizzl3 - How to reqest JSON metadata from IFPS for your @graphprotocol Sub-Graph - https://buff.ly/3HtBQde https://buff.ly/3Hp3E15]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil Communuty Higlights 🫶 Congrats to @texaglo_techno for his Runner up prize for Decentr...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351151516155905</id>
+        <link href="https://twitter.com/developer_dao/status/1623351151516155905"/>
+        <updated>2023-02-08T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon @schwartzswartz @fuellabs_ @sensahil Communuty Higlights 🫶 
+Congrats to @texaglo_techno for his Runner up prize for Decentralized Identity at the Sandstorm Hackathon 🫡 
+D_D spin-off, @web3afrika, is hosting 44-day training program + Hackathon - "The Ultimate Blockchain Immersion". https://buff.ly/3RKttgJ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon 🗣️ Events Yesterday, @schwartzswartz have us an Intro to Building w/ @fuellabs_ - Today, @ 4:30 PM UTC, @sensahil from @Q...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351150052356105</id>
+        <link href="https://twitter.com/developer_dao/status/1623351150052356105"/>
+        <updated>2023-02-08T16:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon 🗣️ Events
+Yesterday, @schwartzswartz have us an Intro to Building w/ @fuellabs_ - 
+Today, @ 4:30 PM UTC, @sensahil from @QuickNode is showing us How to get real time on-chain notifications with QuickAlerts 😎 
+RSVP - https://buff.ly/3loyrE8 https://buff.ly/3Jsegin]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode @0xPolygon 🚨 CLAIM YOUR $CODE 🚨 The claim period of $CODE ends on the 18th Feb, after that all tokens are returned to the treasury...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351148517130240</id>
+        <link href="https://twitter.com/developer_dao/status/1623351148517130240"/>
+        <updated>2023-02-08T16:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @0xPolygon 🚨 CLAIM YOUR $CODE 🚨 
+The claim period of $CODE ends on the 18th Feb, after that all tokens are returned to the treasury... If you haven't yet head to 
+Only 43.84% if eligible wallets have claimed.
+10 days. Don't miss out 🤝 https://buff.ly/3x6YFO4]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode @QuickNode have a now killer product... QuickAlerts 🔔 Create custom experiences and receive real-time notifications for #NFTs, Contra...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351146919211012</id>
+        <link href="https://twitter.com/developer_dao/status/1623351146919211012"/>
+        <updated>2023-02-08T16:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @QuickNode have a now killer product... QuickAlerts 🔔 
+Create custom experiences and receive real-time notifications for #NFTs, Contracts, Wallets, Blocks, Validators and more, across 7 EVM chains 🔥 
+Try it out on @0xPolygon for free today - https://buff.ly/40Cf0HY]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🌟 Probably Nothing issue # 56 🌟 - Claim your $CODE by 18th Feb Brought to you by our S2 partners and friends @QuickNode 🫂 Check out summary t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623351145996382209</id>
+        <link href="https://twitter.com/developer_dao/status/1623351145996382209"/>
+        <updated>2023-02-08T16:00:48.000Z</updated>
+        <summary type="html"><![CDATA[🌟 Probably Nothing issue # 56 🌟 
+- Claim your $CODE by 18th Feb
+Brought to you by our S2 partners and friends @QuickNode 🫂 
+Check out summary thread below, subscribe and readd in full on Substack - https://buff.ly/3YkGIHB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going live with @QuickNode in T-30mins 🛠️ Catch @sensahil demoing how to get real-time on-chain notifications with QuickAlerts 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1623350954304077827</id>
+        <link href="https://twitter.com/developer_dao/status/1623350954304077827"/>
+        <updated>2023-02-08T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Going live with @QuickNode in T-30mins 🛠️
+Catch @sensahil demoing how to get real-time on-chain notifications with QuickAlerts 👀 https://www.youtube.com/watch?v=20AjN_9u2Is]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BrianHHough @awscloud @nextjs @typescript @AWSAmplify @dynamodb Damn youuu 👑]]></title>
+        <id>https://twitter.com/developer_dao/status/1623350941763403779</id>
+        <link href="https://twitter.com/developer_dao/status/1623350941763403779"/>
+        <updated>2023-02-08T15:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Re @BrianHHough @awscloud @nextjs @typescript @AWSAmplify @dynamodb Damn youuu 👑]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Luigi D'Onorio DeMeo🔺: *WE ARE EXPANDING* I am hiring for multiple Developer Relations roles to build out the best DevRel team in the space. If ...]]></title>
+        <id>https://twitter.com/luigidemeo/status/1623311862774263809</id>
+        <link href="https://twitter.com/luigidemeo/status/1623311862774263809"/>
+        <updated>2023-02-08T13:24:42.000Z</updated>
+        <summary type="html"><![CDATA[RT Luigi D'Onorio DeMeo🔺
+*WE ARE EXPANDING*
+I am hiring for multiple Developer Relations roles to build out the best DevRel team in the space. 
+If you want to become part of a special group to help grow and build the #Avalanche ecosystem, please apply! https://boards.greenhouse.io/avalabs/jobs/4792573004 https://boards.greenhouse.io/avalabs/jobs/4792922004]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dhaiwat10 gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1623289891089006593</id>
+        <link href="https://twitter.com/developer_dao/status/1623289891089006593"/>
+        <updated>2023-02-08T11:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @dhaiwat10 gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday February 10th at 4:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and l...]]></title>
+        <id>https://twitter.com/developer_dao/status/1623223104758480896</id>
+        <link href="https://twitter.com/developer_dao/status/1623223104758480896"/>
+        <updated>2023-02-08T07:32:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨
+🗣️: Join us this Friday February 10th at 4:30pm UTC for another episode of our long running @devntellxyz series
+👉 Details and link to RSVP for this weeks episode: https://buff.ly/40o7ujI]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -126,124 +239,14 @@ Voting closes Feb 11th @ 8:30 pm https://buff.ly/3I3iNH8]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz @elonmusk Happy to say @elonmusk made the devs do something]]></title>
-        <id>https://twitter.com/developer_dao/status/1623018734808956928</id>
-        <link href="https://twitter.com/developer_dao/status/1623018734808956928"/>
-        <updated>2023-02-07T17:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz @elonmusk Happy to say @elonmusk made the devs do something]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Bundlr: We want to continue the conversation on Bundlr hitting 50,000 transactions per second. Come hear @josh_benaron, Bundlr's CEO, and @samecwil...]]></title>
-        <id>https://twitter.com/BundlrNetwork/status/1623003817418829824</id>
-        <link href="https://twitter.com/BundlrNetwork/status/1623003817418829824"/>
-        <updated>2023-02-07T17:00:38.000Z</updated>
-        <summary type="html"><![CDATA[RT Bundlr
-We want to continue the conversation on Bundlr hitting 50,000 transactions per second. Come hear @josh_benaron, Bundlr's CEO, and @samecwilliams, Arweave's CEO, dive deeper into how we got here on a Twitter Space this Thursday https://twitter.com/i/spaces/1yNGaNAbbrrJj]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz It appears the Twitter Cache has rugged us 🤣🤣🤣 @elonmusk can the devs do something?]]></title>
-        <id>https://twitter.com/developer_dao/status/1622981971000406016</id>
-        <link href="https://twitter.com/developer_dao/status/1622981971000406016"/>
-        <updated>2023-02-07T15:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @fuellabs_ @QuickNode @devntellxyz @schwartzswartz It appears the Twitter Cache has rugged us 🤣🤣🤣
-@elonmusk can the devs do something?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Workshop attendee sign-ups are doing NUMBERS this week 🚀 High-bar content from @fuellabs_ @QuickNode and @devntellxyz View & RSVP on Luma - Intro t...]]></title>
-        <id>https://twitter.com/developer_dao/status/1622981002149724160</id>
-        <link href="https://twitter.com/developer_dao/status/1622981002149724160"/>
-        <updated>2023-02-07T15:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Workshop attendee sign-ups are doing NUMBERS this week 🚀 
-High-bar content from @fuellabs_ @QuickNode and @devntellxyz 
-View & RSVP on Luma - 
-Intro to 🏗️ ing with @fuellabs_ today @ 8:30 pm UTC w/ @schwartzswartz https://buff.ly/3FqwPRD https://buff.ly/3YucTUO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gn]]></title>
-        <id>https://twitter.com/developer_dao/status/1622818502821175296</id>
-        <link href="https://twitter.com/developer_dao/status/1622818502821175296"/>
-        <updated>2023-02-07T04:44:16.000Z</updated>
-        <summary type="html"><![CDATA[gn]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to fetch powerful market insights, historical trading data, cached NFT images, and more with @icy_tools GraphQL API powered by @Quicknode. ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1622762183707828224</id>
-        <link href="https://twitter.com/developer_dao/status/1622762183707828224"/>
-        <updated>2023-02-07T01:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to fetch powerful market insights, historical trading data, cached NFT images, and more with @icy_tools GraphQL API powered by @Quicknode. 
-🔗: https://buff.ly/3DHNzCI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @devScrooge very 🫡]]></title>
-        <id>https://twitter.com/developer_dao/status/1622748747854651392</id>
-        <link href="https://twitter.com/developer_dao/status/1622748747854651392"/>
-        <updated>2023-02-07T00:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @devScrooge very 🫡]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re T-Minus 2 days till the D_D Hackers applications are due 🤠 Apply today 👉🏼]]></title>
-        <id>https://twitter.com/developer_dao/status/1622686873100423197</id>
-        <link href="https://twitter.com/developer_dao/status/1622686873100423197"/>
-        <updated>2023-02-06T20:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Re T-Minus 2 days till the D_D Hackers applications are due 🤠 
-Apply today 👉🏼 https://dxql9ua1g5o.typeform.com/to/eLgXtxZp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ready to start building on @fuellabs_ ? ETHDenver is only a few moons away! Join us on tomorrow for a workshop led by @schwartzswartz where we dive in...]]></title>
-        <id>https://twitter.com/developer_dao/status/1622686869610762267</id>
-        <link href="https://twitter.com/developer_dao/status/1622686869610762267"/>
-        <updated>2023-02-06T20:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Ready to start building on @fuellabs_ ? ETHDenver is only a few moons away!
-Join us on tomorrow for a workshop led by @schwartzswartz where we dive into an intro for building with @fuellabs_!
-Sign up today 👉🏼 https://lu.ma/cnwu4woi]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT cami: I'm hiring a developer relations engineer for my team at @fuellabs_ Looking for a dev with experience writing Sway/Rust + who has good writin...]]></title>
-        <id>https://twitter.com/camiinthisthang/status/1622659792257925120</id>
-        <link href="https://twitter.com/camiinthisthang/status/1622659792257925120"/>
-        <updated>2023-02-06T18:13:36.000Z</updated>
-        <summary type="html"><![CDATA[RT cami
-I'm hiring a developer relations engineer for my team at @fuellabs_ 
-Looking for a dev with experience writing Sway/Rust + who has good writing skills and is passionate about delivering a superior developer experience. 
-Apply here - https://jobs.lever.co/fuellabs/5f85d60c-0df5-476f-abbb-9cca6deb5d7a]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Streamr Network: Token-gated peer-to-peer chat is coming to the Streamr Network 👀! Register to beta test it this month! 👇]]></title>
-        <id>https://twitter.com/streamr/status/1621190216680718339</id>
-        <link href="https://twitter.com/streamr/status/1621190216680718339"/>
-        <updated>2023-02-02T16:54:02.000Z</updated>
-        <summary type="html"><![CDATA[RT Streamr Network
-Token-gated peer-to-peer chat is coming to the Streamr Network 👀! Register to beta test it this month! 👇 https://form.typeform.com/to/aPjXhllB]]></summary>
+        <title type="html"><![CDATA[RT Nazeeh: Published a new article about testing react components in isolation and using snapshots Testing React Components: The Snapshot & Component ...]]></title>
+        <id>https://twitter.com/nazeeh21/status/1622644758773653504</id>
+        <link href="https://twitter.com/nazeeh21/status/1622644758773653504"/>
+        <updated>2023-02-06T17:13:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Nazeeh
+Published a new article about testing react components in isolation and using snapshots
+Testing React Components: The Snapshot & Component Testing in Isolation
+#reactjs #jest #testing #storybook https://nazeeh.hashnode.dev/testing-react-components-the-snapshot-component-testing-in-isolation]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
