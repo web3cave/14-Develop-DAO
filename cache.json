@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2a0b573-fccb-438b-9a71-afbba27bd52d_1100x550.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/52-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Year of the DAO",
-          "link": "https://developerdao.substack.com/p/52-probably-nothing",
-          "publishedOn": "2023-01-11T14:21:55.000Z",
-          "wordCount": null,
-          "title": "#52 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc1e0343-a25c-4c85-a5d0-2984207a23a7_1100x550.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc1e0343-a25c-4c85-a5d0-2984207a23a7_1100x550.png"
         }
       ]
     },
@@ -92,6 +76,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1623790995803365378",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "The D_D Mentorship is about to launch for season 2 🚀\nD_D members who want to become mentors or get mentored on design, development, developer relations, or founding, get on! \nDeadline: next Tuesday\nFind the signup forms on Discord! https://buff.ly/3Ia4bpc",
+          "link": "https://twitter.com/developer_dao/status/1623790995803365378",
+          "publishedOn": "2023-02-09T21:08:36.000Z",
+          "wordCount": 498,
+          "title": "The D_D Mentorship is about to launch for season 2 🚀 D_D members who want to become mentors or get mentored on design, development, developer relat...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623728701983584256",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "@PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. \nGo check it out! 🤓 https://buff.ly/3WwCsUy",
+          "link": "https://twitter.com/developer_dao/status/1623728701983584256",
+          "publishedOn": "2023-02-09T17:01:04.000Z",
+          "wordCount": 498,
+          "title": "@PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. Go check it out! 🤓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623724658192162816",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1623724658192162816",
+          "publishedOn": "2023-02-09T16:45:00.000Z",
+          "wordCount": 498,
+          "title": "Untitled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623713555261399040",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨\n🗣️: Join us this Friday February 10th at 4:30pm UTC for another episode of our long running @devntellxyz series\n👉 Details and link to RSVP for this weeks episode: https://buff.ly/40o7ujI",
+          "link": "https://twitter.com/developer_dao/status/1623713555261399040",
+          "publishedOn": "2023-02-09T16:00:53.000Z",
+          "wordCount": 498,
+          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday February 10th at 4:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and l...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1623697878148423680",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "",
+          "link": "https://twitter.com/developer_dao/status/1623697878148423680",
+          "publishedOn": "2023-02-09T14:58:35.000Z",
+          "wordCount": 498,
+          "title": "Untitled",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1623370243014856724",
           "author": "Developer DAO (🧱, 🚀)",
@@ -240,56 +274,6 @@
           "publishedOn": "2023-02-08T16:00:02.000Z",
           "wordCount": 498,
           "title": "Going live with @QuickNode in T-30mins 🛠️ Catch @sensahil demoing how to get real-time on-chain notifications with QuickAlerts 👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1623350941763403779",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @BrianHHough @awscloud @nextjs @typescript @AWSAmplify @dynamodb Damn youuu 👑",
-          "link": "https://twitter.com/developer_dao/status/1623350941763403779",
-          "publishedOn": "2023-02-08T15:59:59.000Z",
-          "wordCount": 498,
-          "title": "Re @BrianHHough @awscloud @nextjs @typescript @AWSAmplify @dynamodb Damn youuu 👑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/luigidemeo/status/1623311862774263809",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Luigi D'Onorio DeMeo🔺\n*WE ARE EXPANDING*\nI am hiring for multiple Developer Relations roles to build out the best DevRel team in the space. \nIf you want to become part of a special group to help grow and build the #Avalanche ecosystem, please apply! https://boards.greenhouse.io/avalabs/jobs/4792573004 https://boards.greenhouse.io/avalabs/jobs/4792922004",
-          "link": "https://twitter.com/luigidemeo/status/1623311862774263809",
-          "publishedOn": "2023-02-08T13:24:42.000Z",
-          "wordCount": 498,
-          "title": "RT Luigi D'Onorio DeMeo🔺: *WE ARE EXPANDING* I am hiring for multiple Developer Relations roles to build out the best DevRel team in the space. If ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1623289891089006593",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @dhaiwat10 gm",
-          "link": "https://twitter.com/developer_dao/status/1623289891089006593",
-          "publishedOn": "2023-02-08T11:57:23.000Z",
-          "wordCount": 498,
-          "title": "Re @dhaiwat10 gm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1623223104758480896",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨\n🗣️: Join us this Friday February 10th at 4:30pm UTC for another episode of our long running @devntellxyz series\n👉 Details and link to RSVP for this weeks episode: https://buff.ly/40o7ujI",
-          "link": "https://twitter.com/developer_dao/status/1623223104758480896",
-          "publishedOn": "2023-02-08T07:32:00.000Z",
-          "wordCount": 498,
-          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday February 10th at 4:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and l...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nazeeh21/status/1622644758773653504",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Nazeeh\nPublished a new article about testing react components in isolation and using snapshots\nTesting React Components: The Snapshot & Component Testing in Isolation\n#reactjs #jest #testing #storybook https://nazeeh.hashnode.dev/testing-react-components-the-snapshot-component-testing-in-isolation",
-          "link": "https://twitter.com/nazeeh21/status/1622644758773653504",
-          "publishedOn": "2023-02-06T17:13:52.000Z",
-          "wordCount": 498,
-          "title": "RT Nazeeh: Published a new article about testing react components in isolation and using snapshots Testing React Components: The Snapshot & Component ...",
           "imageUrl": null
         }
       ]
