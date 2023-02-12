@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T06:12:24.056Z</id>
+    <id>urn:2023-02-12T06:12:26.174Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-11T06:12:24.056Z</updated>
+    <updated>2023-02-12T06:12:26.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: I downloaded @fuellabs_ new browser wallet, it's beautiful + fast affff >>>>>>> Faucet]]></title>
+        <id>https://twitter.com/dabit3/status/1624591607851892736</id>
+        <link href="https://twitter.com/dabit3/status/1624591607851892736"/>
+        <updated>2023-02-12T02:09:57.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+I downloaded @fuellabs_ new browser wallet, it's beautiful + fast affff >>>>>>> 
+
+Faucet https://wallet.fuel.network/docs/install/ https://faucet-beta-2.fuel.network/?address=fuel1p8ldpm08cplm3n38clpz5tt5gup29qlgv6uu76m3vj4tek82kfgs3zk70a]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Credit: @ethgnz]]></title>
+        <id>https://twitter.com/developer_dao/status/1624434591254695936</id>
+        <link href="https://twitter.com/developer_dao/status/1624434591254695936"/>
+        <updated>2023-02-11T15:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Credit: @ethgnz]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We still have free seats on the D_D Mentorship! 🚀 If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 - developme...]]></title>
+        <id>https://twitter.com/developer_dao/status/1624423316445429762</id>
+        <link href="https://twitter.com/developer_dao/status/1624423316445429762"/>
+        <updated>2023-02-11T15:01:13.000Z</updated>
+        <summary type="html"><![CDATA[We still have free seats on the D_D Mentorship! 🚀
+If you’re a D_D member and want to become a mentor or get mentored on: 
+- design 🎨
+- development 🏗
+- developer relations 🥑
+- founding 💼
+Deadline: next Tuesday
+Find the signup forms on Discord: https://buff.ly/3Ia4bpc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT diegoalzate.eth: Learning is a social activity, that's why things like @_buildspace and @developer_dao thrive. You need to surround yourself with p...]]></title>
+        <id>https://twitter.com/diegoalzate00/status/1624411093618593793</id>
+        <link href="https://twitter.com/diegoalzate00/status/1624411093618593793"/>
+        <updated>2023-02-11T14:12:39.000Z</updated>
+        <summary type="html"><![CDATA[RT diegoalzate.eth
+Learning is a social activity, that's why things like @_buildspace and @developer_dao thrive. You need to surround yourself with people that want to learn and vibe about it.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Narb | narbeh.eth: Vancouver @developer_dao meetup, bear market edition, hosted by @devntellxyz 💫 @dbring1 @ohhkaneda @codingwithmanny]]></title>
         <id>https://twitter.com/narb_s/status/1624233960925720577</id>
@@ -176,18 +227,6 @@ Come hang out and learn about @BurnKoin https://buff.ly/3DGmO1i]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ #DevNTell will be live in 30 mins time (4:30 pm UTC) 👉 Come hang out and learn about @BurnKoin]]></title>
-        <id>https://twitter.com/developer_dao/status/1624075994129739779</id>
-        <link href="https://twitter.com/developer_dao/status/1624075994129739779"/>
-        <updated>2023-02-10T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨
-🗣️ #DevNTell will be live in 30 mins time (4:30 pm UTC)
-👉 Come hang out and learn about @BurnKoin https://buff.ly/40o7ujI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Lens Protocol 🌿: crypto group chats be like:]]></title>
         <id>https://twitter.com/LensProtocol/status/1624068505820700677</id>
         <link href="https://twitter.com/LensProtocol/status/1624068505820700677"/>
@@ -199,47 +238,12 @@ crypto group chats be like:]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT buzea200: 📣Applications open for @DevrelUni (DevRel University - a free pilot program to break into Developer Relations 📣]]></title>
-        <id>https://twitter.com/buzea200/status/1624019109296963585</id>
-        <link href="https://twitter.com/buzea200/status/1624019109296963585"/>
-        <updated>2023-02-10T12:15:03.000Z</updated>
-        <summary type="html"><![CDATA[RT buzea200
-📣Applications open for @DevrelUni (DevRel University - a free pilot program to break into Developer Relations 📣]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The D_D Mentorship is about to launch for season 2 🚀 D_D members who want to become mentors or get mentored on design, development, developer relat...]]></title>
-        <id>https://twitter.com/developer_dao/status/1623790995803365378</id>
-        <link href="https://twitter.com/developer_dao/status/1623790995803365378"/>
-        <updated>2023-02-09T21:08:36.000Z</updated>
-        <summary type="html"><![CDATA[The D_D Mentorship is about to launch for season 2 🚀
-D_D members who want to become mentors or get mentored on design, development, developer relations, or founding, get on! 
-Deadline: next Tuesday
-Find the signup forms on Discord! https://buff.ly/3Ia4bpc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Atharva Deshpande | atharva_35.lens: A huge huge huge thanks to @kempsterrrr for getting me into @developer_dao ... Genuinely the happiest day of m...]]></title>
         <id>https://twitter.com/atharva_35/status/1623774959032999940</id>
         <link href="https://twitter.com/atharva_35/status/1623774959032999940"/>
         <updated>2023-02-09T20:04:53.000Z</updated>
         <summary type="html"><![CDATA[RT Atharva Deshpande | atharva_35.lens
 A huge huge huge thanks to @kempsterrrr for getting me into @developer_dao ... Genuinely the happiest day of my life 😭😭😭]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. Go check it out! 🤓]]></title>
-        <id>https://twitter.com/developer_dao/status/1623728701983584256</id>
-        <link href="https://twitter.com/developer_dao/status/1623728701983584256"/>
-        <updated>2023-02-09T17:01:04.000Z</updated>
-        <summary type="html"><![CDATA[@PeterPanYe explained how @AlchemyPlatform API and @thirdweb SDK differ. 
-Go check it out! 🤓 https://buff.ly/3WwCsUy]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
