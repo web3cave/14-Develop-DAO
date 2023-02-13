@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-12T06:12:26.174Z</id>
+    <id>urn:2023-02-13T06:13:44.110Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-12T06:12:26.174Z</updated>
+    <updated>2023-02-13T06:13:44.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 - development 🏗 - developer relations 🥑 - founding 💼 Fi...]]></title>
+        <id>https://twitter.com/developer_dao/status/1624740231609040896</id>
+        <link href="https://twitter.com/developer_dao/status/1624740231609040896"/>
+        <updated>2023-02-12T12:00:32.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a D_D member and want to become a mentor or get mentored on: 
+- design 🎨
+- development 🏗
+- developer relations 🥑
+- founding 💼
+Find the signup forms on Discord: https://buff.ly/3Ia4bpc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT community @ dd: 𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗛𝗨𝗕 🍵 Every 2 weeks, beginning 𝟭𝟯𝘁𝗵 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆 — th...]]></title>
+        <id>https://twitter.com/comm_dd/status/1624712439207010304</id>
+        <link href="https://twitter.com/comm_dd/status/1624712439207010304"/>
+        <updated>2023-02-12T10:10:05.000Z</updated>
+        <summary type="html"><![CDATA[RT community @ dd
+𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗛𝗨𝗕 🍵
+Every 2 weeks, beginning 𝟭𝟯𝘁𝗵 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆 — the Wellness Team will host a 60min support/guidance session in Discord: covering topics such as burnout, imposter syndrome, work-life balance, and more.
+Feel free to stop by 💚]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: I downloaded @fuellabs_ new browser wallet, it's beautiful + fast affff >>>>>>> Faucet]]></title>
         <id>https://twitter.com/dabit3/status/1624591607851892736</id>
@@ -201,27 +229,6 @@ cont... https://buff.ly/3X6olVq https://buff.ly/3I1O2RJ]]></summary>
         <summary type="html"><![CDATA[🚀  @DevDaoJobs of the Week 🚀 
 Check out the D_D Job Board for the latest #web3 #jobs from our partners.
 Featured jobs this week 👇 📜 https://buff.ly/3GD24de]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our #DevNTell session is now live with @lukemwillis and @kuixihe , hosted by @narb_s 🚀 Come hang out and learn about @BurnKoin]]></title>
-        <id>https://twitter.com/developer_dao/status/1624083357805035521</id>
-        <link href="https://twitter.com/developer_dao/status/1624083357805035521"/>
-        <updated>2023-02-10T16:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Our #DevNTell session is now live with @lukemwillis and @kuixihe , hosted by @narb_s 🚀 
-Come hang out and learn about @BurnKoin https://buff.ly/3DGmO1i]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @coinfessions our Community Team has something in the works for members @comm_dd]]></title>
-        <id>https://twitter.com/developer_dao/status/1624078758247268352</id>
-        <link href="https://twitter.com/developer_dao/status/1624078758247268352"/>
-        <updated>2023-02-10T16:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @coinfessions our Community Team has something in the works for members @comm_dd]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
