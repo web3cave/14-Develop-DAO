@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-13T06:13:44.110Z</id>
+    <id>urn:2023-02-14T06:13:57.474Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-13T06:13:44.110Z</updated>
+    <updated>2023-02-14T06:13:57.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Because of popular demand and a shortage on mentors we extended the deadline to Thu., 14:00 UTC. 🚀 If you want to mentor people on: - design 🎨 -...]]></title>
+        <id>https://twitter.com/developer_dao/status/1625374326437421056</id>
+        <link href="https://twitter.com/developer_dao/status/1625374326437421056"/>
+        <updated>2023-02-14T06:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Because of popular demand and a shortage on mentors we extended the deadline to Thu., 14:00 UTC. 🚀
+If you want to mentor people on:
+- design 🎨
+- development 🏗
+- developer relations 🥑
+- founding 💼
+Fill out the mentor form on Discord: https://buff.ly/3Ia4bpc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: 3 Ways to build a decentralized database ⚡️ You can easily build a scalable, fast, decentralized, permanent, and...]]></title>
+        <id>https://twitter.com/dabit3/status/1625228674180980763</id>
+        <link href="https://twitter.com/dabit3/status/1625228674180980763"/>
+        <updated>2023-02-13T20:21:25.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+3 Ways to build a decentralized database ⚡️
+You can easily build a scalable, fast, decentralized, permanent, and immutable data store / database, using @ArweaveEco + @BundlrNetwork 🐘
+It's fast, cheap (free for <100KB), holds arbitrary amounts of state https://docs.weavedb.dev/docs/intro https://twitter.com/i/web/status/1625228674180980763]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby: There's many ways to interact with the Arweave network. One of the basic ways is using the HTTP API. Retrieving data from the network ...]]></title>
+        <id>https://twitter.com/pbillingsby_/status/1625193808907608065</id>
+        <link href="https://twitter.com/pbillingsby_/status/1625193808907608065"/>
+        <updated>2023-02-13T18:02:53.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby
+There's many ways to interact with the Arweave network. One of the basic ways is using the HTTP API.
+Retrieving data from the network can usually be achieved in one line of code using tools like Axios/Fetch for JS, Guzzle for PHP.
+Here are some common endpoint interactions👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Fleek ⚡️: In an effort to supercharge our Non-Fungible Apps (NFAs), we’ve begun to integrate different web3 native protocols into the stack – s...]]></title>
+        <id>https://twitter.com/fleekxyz/status/1625178019450036225</id>
+        <link href="https://twitter.com/fleekxyz/status/1625178019450036225"/>
+        <updated>2023-02-13T17:00:08.000Z</updated>
+        <summary type="html"><![CDATA[RT Fleek ⚡️
+In an effort to supercharge our Non-Fungible Apps (NFAs), we’ve begun to integrate different web3 native protocols into the stack – starting with @graphprotocol!
+For info on how we integrated subgraphs into NFAs & a guide on deploying a subgraph in 2023: https://blog.fleek.co/posts/thegraph-and-nfas-deploying-subgraphs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our first Wellness Session of Season 2 begins in 𝟭 𝗵𝗼𝘂𝗿, in Discord. Hope to see you there 🍵]]></title>
+        <id>https://twitter.com/developer_dao/status/1625163017624117250</id>
+        <link href="https://twitter.com/developer_dao/status/1625163017624117250"/>
+        <updated>2023-02-13T16:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Our first Wellness Session of Season 2 begins in 𝟭 𝗵𝗼𝘂𝗿, in Discord. Hope to see you there 🍵
+
+
+community @ dd: 𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗛𝗨𝗕 🍵
+Every 2 weeks, beginning 𝟭𝟯𝘁𝗵 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆 — the Wellness Team will host a 60min support/guidance session in Discord: covering topics such as burnout, imposter syndrome, work-life balance, and more.
+Feel free to stop by 💚]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT WeaveDB 🧬: Attention all Arweave enthusiasts! We are announcing the second episode of The State of Arweave! 🧬 Set a reminder now and join us ...]]></title>
+        <id>https://twitter.com/weave_db/status/1625152885158735872</id>
+        <link href="https://twitter.com/weave_db/status/1625152885158735872"/>
+        <updated>2023-02-13T15:20:16.000Z</updated>
+        <summary type="html"><![CDATA[RT WeaveDB 🧬
+Attention all Arweave enthusiasts! We are announcing the second episode of The State of Arweave! 🧬
+Set a reminder now and join us here:
+
+Hint: we have a big announcement for all @developer_dao members 👀
+👇🧵 https://twitter.com/i/spaces/1vAxRAdVMakJl]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In case you missed it: Sign up for our mentorship program! If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 - dev...]]></title>
+        <id>https://twitter.com/developer_dao/status/1625057239831568384</id>
+        <link href="https://twitter.com/developer_dao/status/1625057239831568384"/>
+        <updated>2023-02-13T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed it: Sign up for our mentorship program!
+If you’re a D_D member and want to become a mentor or get mentored on: 
+- design 🎨
+- development 🏗
+- developer relations 🥑
+- founding 💼
+Deadline: next Tuesday
+Find the forms on Discord: https://buff.ly/3Ia4bpc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 If you missed it, no worries you can watch it here Presented by @sensahil 🤩 Hosted by @megabyte0x ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1625019439350444036</id>
+        <link href="https://twitter.com/developer_dao/status/1625019439350444036"/>
+        <updated>2023-02-13T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 
+If you missed it, no worries you can watch it here
+ 
+Presented by @sensahil 🤩 
+Hosted by @megabyte0x ✨ https://buff.ly/3lnjBNQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 - development 🏗 - developer relations 🥑 - founding 💼 Fi...]]></title>
         <id>https://twitter.com/developer_dao/status/1624740231609040896</id>
@@ -130,116 +245,15 @@ Here is the team 🚀 @texaglo_techno @protocolllo @crypdoughdoteth]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drumroll please🥁 We're excited to announce our D_D Hackers for @EthereumDenver powered by @fuellabs_ and @fluence_project 🏔 Thank you to everyon...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624146585591418903</id>
-        <link href="https://twitter.com/developer_dao/status/1624146585591418903"/>
-        <updated>2023-02-10T20:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Drumroll please🥁
-We're excited to announce our D_D Hackers for @EthereumDenver powered by @fuellabs_ and @fluence_project 🏔
-Thank you to everyone that applied for the D_D Hacker Scholarship 🙌 
-Let's put the spotlight on our hackers👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed it: The mentorship signup forms are online! If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 -...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624134611306483719</id>
-        <link href="https://twitter.com/developer_dao/status/1624134611306483719"/>
-        <updated>2023-02-10T19:54:00.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it: The mentorship signup forms are online!
-If you’re a D_D member and want to become a mentor or get mentored on: 
-- design 🎨
-- development 🏗
-- developer relations 🥑
-- founding 💼
-Deadline: next Tuesday
-Find them on Discord: https://buff.ly/3Ia4bpc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang @jokedao_ @nextjs @tailwindcss And that's a wrap on a big week for new featured job...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624106432248283142</id>
-        <link href="https://twitter.com/developer_dao/status/1624106432248283142"/>
-        <updated>2023-02-10T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang @jokedao_ @nextjs @tailwindcss And that's a wrap on a big week for new featured jobs 🚀 
-Head to our board to see the fullnlist of 41 jobs, subscribe for notifications and join our Talent Collective for hands-on support to find your next role 🤝 https://buff.ly/3GD24de]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang (🃏,🃏) @jokedao_ - the best way for online communities to make, execute, and r...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624106431204007936</id>
-        <link href="https://twitter.com/developer_dao/status/1624106431204007936"/>
-        <updated>2023-02-10T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang (🃏,🃏)  @jokedao_ - the best way for online communities to make, execute, and reward decisions. 
-👩‍💻 - Senior FE Eng - (#typescript,  @nextjs, @tailwindcss ) - https://buff.ly/40O7oC8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ The World's Fastest Modular Execution Layer 😎 ✍️📚🎙️ - Developer Relations (Mega bonus yo...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624106430113497088</id>
-        <link href="https://twitter.com/developer_dao/status/1624106430113497088"/>
-        <updated>2023-02-10T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ The World's Fastest Modular Execution Layer 😎 
-✍️📚🎙️ - Developer Relations (Mega bonus you work with @camiinthisthang) - https://buff.ly/3YxKqgU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild 🏗️ Backend SE - #typescript #NodeJS #golang #SQL - 🏗️ Backend SE - #rust #golang - 🫂 Snr Support Eng...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624106428876062726</id>
-        <link href="https://twitter.com/developer_dao/status/1624106428876062726"/>
-        <updated>2023-02-10T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild 🏗️  Backend SE - #typescript #NodeJS #golang #SQL - 
-🏗️  Backend SE - #rust #golang - 
-🫂 Snr Support Eng - #python #golang #ruby #bash #linux - 
-Where the #BUIDL'ers at? https://buff.ly/40EmXfy https://buff.ly/3Yu0uAb https://buff.ly/3YaqGA8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @QuickNode - The Blockchain Development Platform. Learn. Build. Scale. ✍️📚🎙️ - Head of Developer Relationship 🔥 - ✍️📚...]]></title>
-        <id>https://twitter.com/developer_dao/status/1624106427668131840</id>
-        <link href="https://twitter.com/developer_dao/status/1624106427668131840"/>
-        <updated>2023-02-10T18:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @QuickNode - The Blockchain Development Platform. 
-Learn. Build. Scale.
-✍️📚🎙️ - Head of Developer Relationship 🔥 - 
-✍️📚🎙️  - Snr Dev Advocate - 
-Where my @DevRelGuild at 👀 
-#devrel #developerrelations
-cont... https://buff.ly/3X6olVq https://buff.ly/3I1O2RJ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 @DevDaoJobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. Featured jobs this week 👇 📜]]></title>
-        <id>https://twitter.com/developer_dao/status/1624106425638158336</id>
-        <link href="https://twitter.com/developer_dao/status/1624106425638158336"/>
-        <updated>2023-02-10T18:02:00.000Z</updated>
-        <summary type="html"><![CDATA[🚀  @DevDaoJobs of the Week 🚀 
-Check out the D_D Job Board for the latest #web3 #jobs from our partners.
-Featured jobs this week 👇 📜 https://buff.ly/3GD24de]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Lens Protocol 🌿: crypto group chats be like:]]></title>
-        <id>https://twitter.com/LensProtocol/status/1624068505820700677</id>
-        <link href="https://twitter.com/LensProtocol/status/1624068505820700677"/>
-        <updated>2023-02-10T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[RT Lens Protocol 🌿
-crypto group chats be like:]]></summary>
+        <title type="html"><![CDATA[RT thirdweb: ANNOUNCEMENT. 🚨 We're excited to be partnering with @Shopify to make integrating Web3 features into your storefront easy. Together we'...]]></title>
+        <id>https://twitter.com/thirdweb/status/1623783739481538560</id>
+        <link href="https://twitter.com/thirdweb/status/1623783739481538560"/>
+        <updated>2023-02-09T20:39:46.000Z</updated>
+        <summary type="html"><![CDATA[RT thirdweb
+ANNOUNCEMENT. 🚨
+We're excited to be partnering with @Shopify to make integrating Web3 features into your storefront easy.
+Together we'll be launching best in class tools for both Web3 and Shopify devs to accelerate the growth of Web3 commerce.
+Details. 🧵]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

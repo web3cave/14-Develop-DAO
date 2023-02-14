@@ -77,6 +77,86 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1625374326437421056",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Because of popular demand and a shortage on mentors we extended the deadline to Thu., 14:00 UTC. 🚀\nIf you want to mentor people on:\n- design 🎨\n- development 🏗\n- developer relations 🥑\n- founding 💼\nFill out the mentor form on Discord: https://buff.ly/3Ia4bpc",
+          "link": "https://twitter.com/developer_dao/status/1625374326437421056",
+          "publishedOn": "2023-02-14T06:00:12.000Z",
+          "wordCount": 498,
+          "title": "Because of popular demand and a shortage on mentors we extended the deadline to Thu., 14:00 UTC. 🚀 If you want to mentor people on: - design 🎨 -...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1625228674180980763",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\n3 Ways to build a decentralized database ⚡️\nYou can easily build a scalable, fast, decentralized, permanent, and immutable data store / database, using @ArweaveEco + @BundlrNetwork 🐘\nIt's fast, cheap (free for <100KB), holds arbitrary amounts of state https://docs.weavedb.dev/docs/intro https://twitter.com/i/web/status/1625228674180980763",
+          "link": "https://twitter.com/dabit3/status/1625228674180980763",
+          "publishedOn": "2023-02-13T20:21:25.000Z",
+          "wordCount": 498,
+          "title": "RT nader (🧱, 🚀) | nader.lens: 3 Ways to build a decentralized database ⚡️ You can easily build a scalable, fast, decentralized, permanent, and...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pbillingsby_/status/1625193808907608065",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT pbillingsby\nThere's many ways to interact with the Arweave network. One of the basic ways is using the HTTP API.\nRetrieving data from the network can usually be achieved in one line of code using tools like Axios/Fetch for JS, Guzzle for PHP.\nHere are some common endpoint interactions👇",
+          "link": "https://twitter.com/pbillingsby_/status/1625193808907608065",
+          "publishedOn": "2023-02-13T18:02:53.000Z",
+          "wordCount": 498,
+          "title": "RT pbillingsby: There's many ways to interact with the Arweave network. One of the basic ways is using the HTTP API. Retrieving data from the network ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/fleekxyz/status/1625178019450036225",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Fleek ⚡️\nIn an effort to supercharge our Non-Fungible Apps (NFAs), we’ve begun to integrate different web3 native protocols into the stack – starting with @graphprotocol!\nFor info on how we integrated subgraphs into NFAs & a guide on deploying a subgraph in 2023: https://blog.fleek.co/posts/thegraph-and-nfas-deploying-subgraphs",
+          "link": "https://twitter.com/fleekxyz/status/1625178019450036225",
+          "publishedOn": "2023-02-13T17:00:08.000Z",
+          "wordCount": 498,
+          "title": "RT Fleek ⚡️: In an effort to supercharge our Non-Fungible Apps (NFAs), we’ve begun to integrate different web3 native protocols into the stack – s...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1625163017624117250",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Our first Wellness Session of Season 2 begins in 𝟭 𝗵𝗼𝘂𝗿, in Discord. Hope to see you there 🍵\n\n\ncommunity @ dd: 𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗛𝗨𝗕 🍵\nEvery 2 weeks, beginning 𝟭𝟯𝘁𝗵 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆 — the Wellness Team will host a 60min support/guidance session in Discord: covering topics such as burnout, imposter syndrome, work-life balance, and more.\nFeel free to stop by 💚",
+          "link": "https://twitter.com/developer_dao/status/1625163017624117250",
+          "publishedOn": "2023-02-13T16:00:32.000Z",
+          "wordCount": 498,
+          "title": "Our first Wellness Session of Season 2 begins in 𝟭 𝗵𝗼𝘂𝗿, in Discord. Hope to see you there 🍵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/weave_db/status/1625152885158735872",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT WeaveDB 🧬\nAttention all Arweave enthusiasts! We are announcing the second episode of The State of Arweave! 🧬\nSet a reminder now and join us here:\n\nHint: we have a big announcement for all @developer_dao members 👀\n👇🧵 https://twitter.com/i/spaces/1vAxRAdVMakJl",
+          "link": "https://twitter.com/weave_db/status/1625152885158735872",
+          "publishedOn": "2023-02-13T15:20:16.000Z",
+          "wordCount": 498,
+          "title": "RT WeaveDB 🧬: Attention all Arweave enthusiasts! We are announcing the second episode of The State of Arweave! 🧬 Set a reminder now and join us ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1625057239831568384",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "In case you missed it: Sign up for our mentorship program!\nIf you’re a D_D member and want to become a mentor or get mentored on: \n- design 🎨\n- development 🏗\n- developer relations 🥑\n- founding 💼\nDeadline: next Tuesday\nFind the forms on Discord: https://buff.ly/3Ia4bpc",
+          "link": "https://twitter.com/developer_dao/status/1625057239831568384",
+          "publishedOn": "2023-02-13T09:00:12.000Z",
+          "wordCount": 498,
+          "title": "In case you missed it: Sign up for our mentorship program! If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 - dev...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1625019439350444036",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @QuickNode's workshop on QuickAlerts was 🔥 \nIf you missed it, no worries you can watch it here\n \nPresented by @sensahil 🤩 \nHosted by @megabyte0x ✨ https://buff.ly/3lnjBNQ",
+          "link": "https://twitter.com/developer_dao/status/1625019439350444036",
+          "publishedOn": "2023-02-13T06:30:00.000Z",
+          "wordCount": 498,
+          "title": "Re @QuickNode's workshop on QuickAlerts was 🔥 If you missed it, no worries you can watch it here Presented by @sensahil 🤩 Hosted by @megabyte0x ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1624740231609040896",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "If you’re a D_D member and want to become a mentor or get mentored on: \n- design 🎨\n- development 🏗\n- developer relations 🥑\n- founding 💼\nFind the signup forms on Discord: https://buff.ly/3Ia4bpc",
@@ -177,93 +257,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1624146585591418903",
+          "id": "https://twitter.com/thirdweb/status/1623783739481538560",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Drumroll please🥁\nWe're excited to announce our D_D Hackers for @EthereumDenver powered by @fuellabs_ and @fluence_project 🏔\nThank you to everyone that applied for the D_D Hacker Scholarship 🙌 \nLet's put the spotlight on our hackers👇",
-          "link": "https://twitter.com/developer_dao/status/1624146585591418903",
-          "publishedOn": "2023-02-10T20:41:35.000Z",
+          "description": "RT thirdweb\nANNOUNCEMENT. 🚨\nWe're excited to be partnering with @Shopify to make integrating Web3 features into your storefront easy.\nTogether we'll be launching best in class tools for both Web3 and Shopify devs to accelerate the growth of Web3 commerce.\nDetails. 🧵",
+          "link": "https://twitter.com/thirdweb/status/1623783739481538560",
+          "publishedOn": "2023-02-09T20:39:46.000Z",
           "wordCount": 498,
-          "title": "Drumroll please🥁 We're excited to announce our D_D Hackers for @EthereumDenver powered by @fuellabs_ and @fluence_project 🏔 Thank you to everyon...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624134611306483719",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "In case you missed it: The mentorship signup forms are online!\nIf you’re a D_D member and want to become a mentor or get mentored on: \n- design 🎨\n- development 🏗\n- developer relations 🥑\n- founding 💼\nDeadline: next Tuesday\nFind them on Discord: https://buff.ly/3Ia4bpc",
-          "link": "https://twitter.com/developer_dao/status/1624134611306483719",
-          "publishedOn": "2023-02-10T19:54:00.000Z",
-          "wordCount": 498,
-          "title": "In case you missed it: The mentorship signup forms are online! If you’re a D_D member and want to become a mentor or get mentored on: - design 🎨 -...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624106432248283142",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang @jokedao_ @nextjs @tailwindcss And that's a wrap on a big week for new featured jobs 🚀 \nHead to our board to see the fullnlist of 41 jobs, subscribe for notifications and join our Talent Collective for hands-on support to find your next role 🤝 https://buff.ly/3GD24de",
-          "link": "https://twitter.com/developer_dao/status/1624106432248283142",
-          "publishedOn": "2023-02-10T18:02:02.000Z",
-          "wordCount": 498,
-          "title": "Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang @jokedao_ @nextjs @tailwindcss And that's a wrap on a big week for new featured job...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624106431204007936",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang (🃏,🃏)  @jokedao_ - the best way for online communities to make, execute, and reward decisions. \n👩‍💻 - Senior FE Eng - (#typescript,  @nextjs, @tailwindcss ) - https://buff.ly/40O7oC8",
-          "link": "https://twitter.com/developer_dao/status/1624106431204007936",
-          "publishedOn": "2023-02-10T18:02:02.000Z",
-          "wordCount": 498,
-          "title": "Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang (🃏,🃏) @jokedao_ - the best way for online communities to make, execute, and r...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624106430113497088",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ The World's Fastest Modular Execution Layer 😎 \n✍️📚🎙️ - Developer Relations (Mega bonus you work with @camiinthisthang) - https://buff.ly/3YxKqgU",
-          "link": "https://twitter.com/developer_dao/status/1624106430113497088",
-          "publishedOn": "2023-02-10T18:02:02.000Z",
-          "wordCount": 498,
-          "title": "Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ The World's Fastest Modular Execution Layer 😎 ✍️📚🎙️ - Developer Relations (Mega bonus yo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624106428876062726",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @DevDaoJobs @QuickNode @DevRelGuild 🏗️  Backend SE - #typescript #NodeJS #golang #SQL - \n🏗️  Backend SE - #rust #golang - \n🫂 Snr Support Eng - #python #golang #ruby #bash #linux - \nWhere the #BUIDL'ers at? https://buff.ly/40EmXfy https://buff.ly/3Yu0uAb https://buff.ly/3YaqGA8",
-          "link": "https://twitter.com/developer_dao/status/1624106428876062726",
-          "publishedOn": "2023-02-10T18:02:01.000Z",
-          "wordCount": 498,
-          "title": "Re @DevDaoJobs @QuickNode @DevRelGuild 🏗️ Backend SE - #typescript #NodeJS #golang #SQL - 🏗️ Backend SE - #rust #golang - 🫂 Snr Support Eng...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624106427668131840",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @DevDaoJobs @QuickNode - The Blockchain Development Platform. \nLearn. Build. Scale.\n✍️📚🎙️ - Head of Developer Relationship 🔥 - \n✍️📚🎙️  - Snr Dev Advocate - \nWhere my @DevRelGuild at 👀 \n#devrel #developerrelations\ncont... https://buff.ly/3X6olVq https://buff.ly/3I1O2RJ",
-          "link": "https://twitter.com/developer_dao/status/1624106427668131840",
-          "publishedOn": "2023-02-10T18:02:01.000Z",
-          "wordCount": 498,
-          "title": "Re @DevDaoJobs @QuickNode - The Blockchain Development Platform. Learn. Build. Scale. ✍️📚🎙️ - Head of Developer Relationship 🔥 - ✍️📚...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1624106425638158336",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚀  @DevDaoJobs of the Week 🚀 \nCheck out the D_D Job Board for the latest #web3 #jobs from our partners.\nFeatured jobs this week 👇 📜 https://buff.ly/3GD24de",
-          "link": "https://twitter.com/developer_dao/status/1624106425638158336",
-          "publishedOn": "2023-02-10T18:02:00.000Z",
-          "wordCount": 498,
-          "title": "🚀 @DevDaoJobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. Featured jobs this week 👇 📜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/LensProtocol/status/1624068505820700677",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Lens Protocol 🌿\ncrypto group chats be like:",
-          "link": "https://twitter.com/LensProtocol/status/1624068505820700677",
-          "publishedOn": "2023-02-10T15:31:20.000Z",
-          "wordCount": 498,
-          "title": "RT Lens Protocol 🌿: crypto group chats be like:",
+          "title": "RT thirdweb: ANNOUNCEMENT. 🚨 We're excited to be partnering with @Shopify to make integrating Web3 features into your storefront easy. Together we'...",
           "imageUrl": null
         },
         {
