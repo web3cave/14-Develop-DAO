@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-18T06:12:30.514Z</id>
+    <id>urn:2023-02-19T06:12:42.230Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-18T06:12:30.514Z</updated>
+    <updated>2023-02-19T06:12:42.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Reminder for our mentors & mentees: Pairing sessions on Monday, we’ll work from east to west. Check coordination channels on Discord: Mentees: Mentor...]]></title>
+        <id>https://twitter.com/developer_dao/status/1627171123392569344</id>
+        <link href="https://twitter.com/developer_dao/status/1627171123392569344"/>
+        <updated>2023-02-19T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Reminder for our mentors & mentees:
+Pairing sessions on Monday, we’ll work from east to west. 
+Check coordination channels on Discord:
+Mentees: 
+Mentors: 
+Mentor sign-ups still open: https://buff.ly/3EixKT4 https://buff.ly/3KmyXwD https://buff.ly/3Ia4bpc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM Mentors & Mentees, welcome on the D_D Mentorship! 🚀 Pairing sessions on Monday, we’ll work from east to west. Check coordination channels on Di...]]></title>
+        <id>https://twitter.com/developer_dao/status/1626990124176228352</id>
+        <link href="https://twitter.com/developer_dao/status/1626990124176228352"/>
+        <updated>2023-02-18T17:00:48.000Z</updated>
+        <summary type="html"><![CDATA[GM Mentors & Mentees, welcome on the D_D Mentorship! 🚀 
+Pairing sessions on Monday, we’ll work from east to west. 
+Check coordination channels on Discord:
+Mentees: 
+Mentors: 
+Mentor sign-ups still open: https://buff.ly/3EixKT4 https://buff.ly/3KmyXwD https://buff.ly/3Ia4bpc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @DevDaoJobs @QuickNode @DevRelGuild @fuellabs_ @camiinthisthang @jokedao_ @nextjs @tailwindcss And that's a wrap on a big week for new featured job...]]></title>
         <id>https://twitter.com/developer_dao/status/1626682615917957123</id>
@@ -107,11 +137,11 @@ crypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴: GM! I just authored FIP-1 with Fu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Abril Zucchi ⚡️ 🔜 ETHDenver: Another Friday, another Build3rs Stack piece! This time we're talking about @ArweaveEco in depth: how to get star...]]></title>
+        <title type="html"><![CDATA[RT Abru Zucchi @ soon ETHDenver: Another Friday, another Build3rs Stack piece! This time we're talking about @ArweaveEco in depth: how to get started ...]]></title>
         <id>https://twitter.com/abruzuc/status/1626600596169191429</id>
         <link href="https://twitter.com/abruzuc/status/1626600596169191429"/>
         <updated>2023-02-17T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Abril Zucchi ⚡️ 🔜 ETHDenver
+        <summary type="html"><![CDATA[RT Abru Zucchi @ soon ETHDenver
 Another Friday, another Build3rs Stack piece! This time we're talking about @ArweaveEco in depth: how to get started with this protocol and the value Arweave can provide to your dApps.  
 Happy to build these cool guides for the community :)
 
@@ -227,17 +257,6 @@ RT plz
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth: Kicking off a new series today: "Work in Web3 Wednesdays" where I'll be posting a few opportunities that I come across from protoco...]]></title>
-        <id>https://twitter.com/tonyolendo/status/1625900784981356575</id>
-        <link href="https://twitter.com/tonyolendo/status/1625900784981356575"/>
-        <updated>2023-02-15T16:52:09.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth
-Kicking off a new series today: "Work in Web3 Wednesdays" where I'll be posting a few opportunities that I come across from protocols who are hiring. And yes, a lot of people are hiring. Sourcing from @developer_dao today.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Mina Protocol 🪶: 12 weeks. 1 life-changing opportunity. From ideation → technical mentorship → submitting a proposal for funding → earning a ...]]></title>
         <id>https://twitter.com/MinaProtocol/status/1625812166690639872</id>
         <link href="https://twitter.com/MinaProtocol/status/1625812166690639872"/>
@@ -247,20 +266,6 @@ Kicking off a new series today: "Work in Web3 Wednesdays" where I'll be posting 
 From ideation → technical mentorship → submitting a proposal for funding → earning a grant for your project or business
 zkIgnite, Cohort 1 starts TODAY ⚡️
 Sign up to build and join the kickoff call: http://bit.ly/3Vhjlwr]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE: Push Protocol launches on @BNBCHAIN!🚀 Today, we’re excited to announce that the largest web3 communica...]]></title>
-        <id>https://twitter.com/pushprotocol/status/1625812049379971073</id>
-        <link href="https://twitter.com/pushprotocol/status/1625812049379971073"/>
-        <updated>2023-02-15T10:59:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Push Protocol | Push Chat Alpha is LIVE
-Push Protocol launches on @BNBCHAIN!🚀 
-Today, we’re excited to announce that the largest web3 communication platform is now available on #BNB!
-The launch means that BNB's 1 million DAU will be able to use Push Protocol for the first time.
-$BNB $PUSH]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
