@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T06:12:42.230Z</id>
+    <id>urn:2023-02-20T06:13:59.267Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-19T06:12:42.230Z</updated>
+    <updated>2023-02-20T06:13:59.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: I spent the weekend diving deeper into @fuellabs_ + @SwayLang, building a couple of apps with @nextjs using the im...]]></title>
+        <id>https://twitter.com/dabit3/status/1627410654209404929</id>
+        <link href="https://twitter.com/dabit3/status/1627410654209404929"/>
+        <updated>2023-02-19T20:51:50.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+I spent the weekend diving deeper into @fuellabs_ + @SwayLang, building a couple of apps with @nextjs using the improved Fuel TypeScript SDK + browser wallet ⚡️
+If you've never looked into Fuel, here's the TLDR: 👇
+Fuel is a new blockchain that labels https://github.com/FuelLabs/sway/tree/master/examples https://twitter.com/i/web/status/1627410654209404929]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you've voted on P-22: DAO Governance Structure Upgrade, don't forget to claim your POAP.]]></title>
+        <id>https://twitter.com/developer_dao/status/1627396103485198340</id>
+        <link href="https://twitter.com/developer_dao/status/1627396103485198340"/>
+        <updated>2023-02-19T19:54:01.000Z</updated>
+        <summary type="html"><![CDATA[If you've voted on P-22: DAO Governance Structure Upgrade, don't forget to claim your POAP. https://buff.ly/3I3iNH8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reminder for our mentors & mentees: Pairing sessions on Monday, we’ll work from east to west. Check coordination channels on Discord: Mentees: Mentor...]]></title>
         <id>https://twitter.com/developer_dao/status/1627171123392569344</id>
@@ -225,33 +248,6 @@ Upcoming session w/ @developer_dao, @EthereumDenver:
 @BarcelonaWineba, CO | Feb 28 | 5PM MST
 ‘Evening Blocktails & Dappetizers @ #ETHDenver’ Join the #Hedera DevRel team and DevDAO members for an evening of networking, drinks, and good vibes.
 RSVP 👉 https://www.eventbrite.com/e/hedera-x-developer-dao-evening-blocktails-dappetizers-tickets-536372704197?aff=DD]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1626214774198636544</id>
-        <link href="https://twitter.com/developer_dao/status/1626214774198636544"/>
-        <updated>2023-02-16T13:39:50.000Z</updated>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT yitong: Solidity wizards: Come help us build governance public infrastructure for onchain communities that really care about getting it right! DMs ...]]></title>
-        <id>https://twitter.com/zhayitong/status/1625975873571815424</id>
-        <link href="https://twitter.com/zhayitong/status/1625975873571815424"/>
-        <updated>2023-02-15T21:50:32.000Z</updated>
-        <summary type="html"><![CDATA[RT yitong
-Solidity wizards: 
-Come help us build governance public infrastructure for onchain communities that really care about getting it right!
-DMs open!
-
-WINTΞR 💙💛: Agora is looking for a Solidity wizard 🧙 who wants to build the next version of protocols powering the largest DAOs.
-You'll be working with ENS, Uniswap, Optimism, Nouns, and a bunch of other communities with $$B in TVL. And also with me :)
-RT plz
- https://w1nt3r.mirror.xyz/msZypKHVm6j_jkX-JAa2144tHnJ7v2d6JDd4KDHg0w0]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/dabit3/status/1627410654209404929",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\nI spent the weekend diving deeper into @fuellabs_ + @SwayLang, building a couple of apps with @nextjs using the improved Fuel TypeScript SDK + browser wallet ⚡️\nIf you've never looked into Fuel, here's the TLDR: 👇\nFuel is a new blockchain that labels https://github.com/FuelLabs/sway/tree/master/examples https://twitter.com/i/web/status/1627410654209404929",
+          "link": "https://twitter.com/dabit3/status/1627410654209404929",
+          "publishedOn": "2023-02-19T20:51:50.000Z",
+          "wordCount": 498,
+          "title": "RT nader (🧱, 🚀) | nader.lens: I spent the weekend diving deeper into @fuellabs_ + @SwayLang, building a couple of apps with @nextjs using the im...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1627396103485198340",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "If you've voted on P-22: DAO Governance Structure Upgrade, don't forget to claim your POAP. https://buff.ly/3I3iNH8",
+          "link": "https://twitter.com/developer_dao/status/1627396103485198340",
+          "publishedOn": "2023-02-19T19:54:01.000Z",
+          "wordCount": 498,
+          "title": "If you've voted on P-22: DAO Governance Structure Upgrade, don't forget to claim your POAP.",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1627171123392569344",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Reminder for our mentors & mentees:\nPairing sessions on Monday, we’ll work from east to west. \nCheck coordination channels on Discord:\nMentees: \nMentors: \nMentor sign-ups still open: https://buff.ly/3EixKT4 https://buff.ly/3KmyXwD https://buff.ly/3Ia4bpc",
@@ -244,26 +264,6 @@
           "publishedOn": "2023-02-16T14:46:21.000Z",
           "wordCount": 498,
           "title": "RT Hedera: Upcoming session w/ @developer_dao, @EthereumDenver: @BarcelonaWineba, CO | Feb 28 | 5PM MST ‘Evening Blocktails & Dappetizers @ #ETHDenve...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1626214774198636544",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "",
-          "link": "https://twitter.com/developer_dao/status/1626214774198636544",
-          "publishedOn": "2023-02-16T13:39:50.000Z",
-          "wordCount": 498,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/zhayitong/status/1625975873571815424",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT yitong\nSolidity wizards: \nCome help us build governance public infrastructure for onchain communities that really care about getting it right!\nDMs open!\n\nWINTΞR 💙💛: Agora is looking for a Solidity wizard 🧙 who wants to build the next version of protocols powering the largest DAOs.\nYou'll be working with ENS, Uniswap, Optimism, Nouns, and a bunch of other communities with $$B in TVL. And also with me :)\nRT plz\n https://w1nt3r.mirror.xyz/msZypKHVm6j_jkX-JAa2144tHnJ7v2d6JDd4KDHg0w0",
-          "link": "https://twitter.com/zhayitong/status/1625975873571815424",
-          "publishedOn": "2023-02-15T21:50:32.000Z",
-          "wordCount": 498,
-          "title": "RT yitong: Solidity wizards: Come help us build governance public infrastructure for onchain communities that really care about getting it right! DMs ...",
           "imageUrl": null
         },
         {
