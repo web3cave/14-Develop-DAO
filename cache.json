@@ -77,6 +77,106 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1627798069956816897",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "when a web3 protocol writes a thread announcing they are going to launch a new feature",
+          "link": "https://twitter.com/developer_dao/status/1627798069956816897",
+          "publishedOn": "2023-02-20T22:31:17.000Z",
+          "wordCount": 498,
+          "title": "when a web3 protocol writes a thread announcing they are going to launch a new feature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1627796215130718208",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @stephmui @DevDaoJobs",
+          "link": "https://twitter.com/developer_dao/status/1627796215130718208",
+          "publishedOn": "2023-02-20T22:23:55.000Z",
+          "wordCount": 498,
+          "title": "Re @stephmui @DevDaoJobs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1627749706204909593",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader (🧱, 🚀) | nader.lens\nThe new @gitcoinpassport API is simple to use - just a REST call w API Key\nThe new docs are beautiful & easy to understand 💅\nI've also created and open-sourced a project using @gitcoinpassport @nextjs & Rainbow KIT showing how to easily gate any app 🔐\n\nGitcoin Passport — Sybil Defense. Made Simple.: 🚨 BIG ANNOUNCEMENT 📣\nAfter months of hard work, we’re THRILLED to announce the launch of the @GitcoinPassport Scorer API, which makes it 10x easier than before to “Passport-gate” your web3 project.\nRead further to learn how to use this new API 🧵",
+          "link": "https://twitter.com/dabit3/status/1627749706204909593",
+          "publishedOn": "2023-02-20T19:19:06.000Z",
+          "wordCount": 498,
+          "title": "RT nader (🧱, 🚀) | nader.lens: The new @gitcoinpassport API is simple to use - just a REST call w API Key The new docs are beautiful & easy to un...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/gitcoinpassport/status/1627716829446832128",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Gitcoin Passport — Sybil Defense. Made Simple.\n🚨 BIG ANNOUNCEMENT 📣\nAfter months of hard work, we’re THRILLED to announce the launch of the @GitcoinPassport Scorer API, which makes it 10x easier than before to “Passport-gate” your web3 project.\nRead further to learn how to use this new API 🧵",
+          "link": "https://twitter.com/gitcoinpassport/status/1627716829446832128",
+          "publishedOn": "2023-02-20T17:08:28.000Z",
+          "wordCount": 498,
+          "title": "RT Gitcoin Passport — Sybil Defense. Made Simple.: 🚨 BIG ANNOUNCEMENT 📣 After months of hard work, we’re THRILLED to announce the launch of th...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1627710682186780672",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Presenting the 8th episode of the \"Humans of D_D\" podcast.\nPlugin as @K4y1s share all about his web3 journey, leading writers guild and blogs initiatives 🚀\n🫶 Thanks to our frens @QuickNode for sponsoring the podcast.\n🔗: https://youtu.be/3bpUD_W1oaI",
+          "link": "https://twitter.com/developer_dao/status/1627710682186780672",
+          "publishedOn": "2023-02-20T16:44:02.000Z",
+          "wordCount": 498,
+          "title": "Presenting the 8th episode of the \"Humans of D_D\" podcast. Plugin as @K4y1s share all about his web3 journey, leading writers guild and blogs initiati...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devntellxyz/status/1627699602005839873",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DevNTell\n🌈 GM frens!🌈\n🗣️: We're in for another treat this Friday during the \n@developer_dao #DevNTell where @nnnnicholas will be giving us an overview of Onchain SVG Smart Contracts 🚀\n👉: RSVP for event below https://lu.ma/8gmo97go",
+          "link": "https://twitter.com/devntellxyz/status/1627699602005839873",
+          "publishedOn": "2023-02-20T16:00:00.000Z",
+          "wordCount": 498,
+          "title": "RT DevNTell: 🌈 GM frens!🌈 🗣️: We're in for another treat this Friday during the @developer_dao #DevNTell where @nnnnicholas will be giving u...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/hedera/status/1627693221986947075",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Hedera\n1/ #Hedera is proud to partner with @Givethio and @HashportNetwork with #cryptogivesback -  an initiative that aims to make a positive impact in the local community while at @EthereumDenver. 🧵👇",
+          "link": "https://twitter.com/hedera/status/1627693221986947075",
+          "publishedOn": "2023-02-20T15:34:39.000Z",
+          "wordCount": 498,
+          "title": "RT Hedera: 1/ #Hedera is proud to partner with @Givethio and @HashportNetwork with #cryptogivesback - an initiative that aims to make a positive impac...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/defigirlxoxo/status/1627686663110656003",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT defigirlxo\n✨Super stoked to announce #CryptoGivesBack - an initiative enabling the @EthereumDenver community to make a positive impact on the local community! Not only will you give back, but you'll also have fun and win prizes. Here's how you can join us and spread some love:❤️",
+          "link": "https://twitter.com/defigirlxoxo/status/1627686663110656003",
+          "publishedOn": "2023-02-20T15:08:36.000Z",
+          "wordCount": 498,
+          "title": "RT defigirlxo: ✨Super stoked to announce #CryptoGivesBack - an initiative enabling the @EthereumDenver community to make a positive impact on the loc...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kayprasla/status/1627670784000016386",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krinza.eth (🧱, 🚀)\nWe just launched one of the biggest @getP3RKS for the devs @developer_dao 🎉 @ankr \n100b free API credits (whattttt)\naccess to 30+ blockchains\nup to 1.5k request/sec\nWSS connections\nbatch calls, archive requests and more ⚒️\nStart building now → https://p3rks.xyz/perks/ankr",
+          "link": "https://twitter.com/kayprasla/status/1627670784000016386",
+          "publishedOn": "2023-02-20T14:05:30.000Z",
+          "wordCount": 498,
+          "title": "RT krinza.eth (🧱, 🚀): We just launched one of the biggest @getP3RKS for the devs @developer_dao 🎉 @ankr 100b free API credits (whattttt) acce...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1627594131726823427",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Last reminder for our mentors & mentees:\nPairing sessions on Monday, we’ll work from east to west. \nCheck coordination channels on Discord:\nMentees: \nMentors: \nMentor sign-ups still open: https://buff.ly/3EixKT4 https://buff.ly/3KmyXwD https://buff.ly/3Ia4bpc",
+          "link": "https://twitter.com/developer_dao/status/1627594131726823427",
+          "publishedOn": "2023-02-20T09:00:54.000Z",
+          "wordCount": 498,
+          "title": "Last reminder for our mentors & mentees: Pairing sessions on Monday, we’ll work from east to west. Check coordination channels on Discord: Mentees: M...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/dabit3/status/1627410654209404929",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT nader (🧱, 🚀) | nader.lens\nI spent the weekend diving deeper into @fuellabs_ + @SwayLang, building a couple of apps with @nextjs using the improved Fuel TypeScript SDK + browser wallet ⚡️\nIf you've never looked into Fuel, here's the TLDR: 👇\nFuel is a new blockchain that labels https://github.com/FuelLabs/sway/tree/master/examples https://twitter.com/i/web/status/1627410654209404929",
@@ -174,106 +274,6 @@
           "publishedOn": "2023-02-17T20:38:51.000Z",
           "wordCount": 498,
           "title": "🚀 @DevDaoJobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. Featured jobs this week 👇 📜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1626662354896183312",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "You love to see it...\n@crypdoughdoteth dropping the first improvement proposal to the @fuellabs_ Fuel Network ⚡️ 🫡\nWell done ser.\n\ncrypdough.ethᵍᵐ⛪️🧬🦇🔊X 🏴: GM! I just authored FIP-1 with Furnic: Introducing Non-Fungible Tokens to the UTXO Set -\n https://forum.fuel.network/t/fip-1-introduce-non-fungible-tokens-to-the-utxo-set/1850",
-          "link": "https://twitter.com/developer_dao/status/1626662354896183312",
-          "publishedOn": "2023-02-17T19:18:21.000Z",
-          "wordCount": 498,
-          "title": "You love to see it... @crypdoughdoteth dropping the first improvement proposal to the @fuellabs_ Fuel Network ⚡️ 🫡 Well done ser.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1626620062135119872",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨\n🗣️ The Developer DAO #DevNTell is live 🔥 \n👉 Come check out all the action on Youtube now using the link below: https://buff.ly/3KaCUUW",
-          "link": "https://twitter.com/developer_dao/status/1626620062135119872",
-          "publishedOn": "2023-02-17T16:30:18.000Z",
-          "wordCount": 498,
-          "title": "✨ GM frens! ✨ 🗣️ The Developer DAO #DevNTell is live 🔥 👉 Come check out all the action on Youtube now using the link below:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abruzuc/status/1626600596169191429",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Abru Zucchi @ soon ETHDenver\nAnother Friday, another Build3rs Stack piece! This time we're talking about @ArweaveEco in depth: how to get started with this protocol and the value Arweave can provide to your dApps.  \nHappy to build these cool guides for the community :)\n\nFleek ⚡️: The Build3rs Stack, with @ArweaveEco ⚡\nIn this new web3 infrastructure overview, we dive into what #Arweave can be used for in your dApps!\nDecentralized permanent storage is one thing, but devs can achieve a lot more with SmartWeave contracts and DBs:\n https://blog.fleek.co/posts/builders-stack-arweave",
-          "link": "https://twitter.com/abruzuc/status/1626600596169191429",
-          "publishedOn": "2023-02-17T15:12:57.000Z",
-          "wordCount": 498,
-          "title": "RT Abru Zucchi @ soon ETHDenver: Another Friday, another Build3rs Stack piece! This time we're talking about @ArweaveEco in depth: how to get started ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thehapadev/status/1626474276244295681",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT The Hapa Dev\nRe @devdaowomen is building a space for women who love to build ❤️ \n@wiw3_community @womeninweb3 @BoysClubCrypto @wonderwomancode @CryptoTechWomen @ooh_jhay @blu3dao @surge_women @buildpr3tti @HaunaniPao \n#tagadev #wahinecoders\n\nkrystal (🧱, ✍🏻) theekrystallee.eth/.lens: SO good seeing @scarlett_spade join the dao today 🫡\nanyone want a sponsor to join @devdaowomen tonight? i will sponsor you, let me know ✨\nD_D women scholarship program coming soon…",
-          "link": "https://twitter.com/thehapadev/status/1626474276244295681",
-          "publishedOn": "2023-02-17T06:51:00.000Z",
-          "wordCount": 498,
-          "title": "RT The Hapa Dev: Re @devdaowomen is building a space for women who love to build ❤️ @wiw3_community @womeninweb3 @BoysClubCrypto @wonderwomancode @C...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1626419073176289286",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "king https://www.cryptotimes.io/keanu-reeves-says-principle-behind-cryptocurrency-is-amazing/",
-          "link": "https://twitter.com/developer_dao/status/1626419073176289286",
-          "publishedOn": "2023-02-17T03:11:39.000Z",
-          "wordCount": 498,
-          "title": "king",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devdaowomen/status/1626315705032527873",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT D_D Women\nIt's that time of the week again.✨\nJoin and vibe with us.🍃\nWho knows things might become more fun for y'all.👀",
-          "link": "https://twitter.com/devdaowomen/status/1626315705032527873",
-          "publishedOn": "2023-02-16T20:20:54.000Z",
-          "wordCount": 498,
-          "title": "RT D_D Women: It's that time of the week again.✨ Join and vibe with us.🍃 Who knows things might become more fun for y'all.👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1626250203362885634",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1dRKZMXgEDvxB",
-          "link": "https://twitter.com/developer_dao/status/1626250203362885634",
-          "publishedOn": "2023-02-16T16:00:37.000Z",
-          "wordCount": 498,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1626250100237279232",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨\nYou won't want to miss tomorrow’s #DevNTell with @0xYamen who'll be going over UniversalProfiles built with @lukso_io, hosted by @narb_s \n👉 Details and link to RSVP for this weeks episode: https://buff.ly/3E2QcPG",
-          "link": "https://twitter.com/developer_dao/status/1626250100237279232",
-          "publishedOn": "2023-02-16T16:00:12.000Z",
-          "wordCount": 498,
-          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s #DevNTell with @0xYamen who'll be going over UniversalProfiles built with @lukso_io, hosted by @nar...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/hedera/status/1626231515154903049",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Hedera\nUpcoming session w/ @developer_dao, @EthereumDenver:\n@BarcelonaWineba, CO | Feb 28 | 5PM MST\n‘Evening Blocktails & Dappetizers @ #ETHDenver’ Join the #Hedera DevRel team and DevDAO members for an evening of networking, drinks, and good vibes.\nRSVP 👉 https://www.eventbrite.com/e/hedera-x-developer-dao-evening-blocktails-dappetizers-tickets-536372704197?aff=DD",
-          "link": "https://twitter.com/hedera/status/1626231515154903049",
-          "publishedOn": "2023-02-16T14:46:21.000Z",
-          "wordCount": 498,
-          "title": "RT Hedera: Upcoming session w/ @developer_dao, @EthereumDenver: @BarcelonaWineba, CO | Feb 28 | 5PM MST ‘Evening Blocktails & Dappetizers @ #ETHDenve...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MinaProtocol/status/1625812166690639872",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Mina Protocol 🪶\n12 weeks. 1 life-changing opportunity.\nFrom ideation → technical mentorship → submitting a proposal for funding → earning a grant for your project or business\nzkIgnite, Cohort 1 starts TODAY ⚡️\nSign up to build and join the kickoff call: http://bit.ly/3Vhjlwr",
-          "link": "https://twitter.com/MinaProtocol/status/1625812166690639872",
-          "publishedOn": "2023-02-15T11:00:01.000Z",
-          "wordCount": 498,
-          "title": "RT Mina Protocol 🪶: 12 weeks. 1 life-changing opportunity. From ideation → technical mentorship → submitting a proposal for funding → earning a ...",
           "imageUrl": null
         }
       ]
