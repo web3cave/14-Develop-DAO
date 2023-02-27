@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T06:13:12.629Z</id>
+    <id>urn:2023-02-27T06:14:43.290Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-26T06:13:12.629Z</updated>
+    <updated>2023-02-27T06:14:43.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Please don't apply for a Senior dev position if your Github pfp doesn't look like this... https://t.co/XXdu7CeN5o]]></title>
+        <id>https://twitter.com/dabit3/status/1629852582205063168</id>
+        <link href="https://twitter.com/dabit3/status/1629852582205063168"/>
+        <updated>2023-02-26T14:35:11.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+Please don't apply for a Senior dev position if your Github pfp doesn't look like this... https://t.co/XXdu7CeN5o]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT with-heart: Hi friends! I'll be in Denver this week Monday-Saturday for @EthereumDenver! Hit me up if you want to hang out! Would especially love t...]]></title>
         <id>https://twitter.com/grow_love/status/1629525043460943872</id>
@@ -18,11 +29,11 @@ Hit me up if you want to hang out! Would especially love to meet fellow @develop
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D_D Friday's by @devdaowomen bringing those good end-of-week VIBES to the people 🫡 https://twitter.com/devdaowomen/status/1619014520479059969 https...]]></title>
+        <title type="html"><![CDATA[D_D Friday's by @devdaowomen bringing those good end-of-week VIBES to the people 🫡 https://t.co/TrAq2lSyKc]]></title>
         <id>https://twitter.com/developer_dao/status/1629172657131323393</id>
         <link href="https://twitter.com/developer_dao/status/1629172657131323393"/>
         <updated>2023-02-24T17:33:24.000Z</updated>
-        <summary type="html"><![CDATA[D_D Friday's by @devdaowomen bringing those good end-of-week VIBES to the people 🫡 https://twitter.com/devdaowomen/status/1619014520479059969 https://t.co/TrAq2lSyKc
+        <summary type="html"><![CDATA[D_D Friday's by @devdaowomen bringing those good end-of-week VIBES to the people 🫡 https://t.co/TrAq2lSyKc
 
 
 D_D Women: Come and Vibe with us.✨ https://t.co/uRwEUVoC6q]]></summary>
@@ -76,7 +87,7 @@ https://blog.fleek.xyz/post/builders-stack-akash/]]></summary>
         <updated>2023-02-24T15:27:25.000Z</updated>
         <summary type="html"><![CDATA[Let's gooo! @VenomFoundation🫡 
 We're HYPED to see what Members and the broader ecosystem build on Venom. Stay tuned for workshops, Twitter spaces, technical content and more...
-Subscribe for upcoming events - https://lu.ma/developer-dao https://twitter.com/VenomFoundation/status/1629137920887033857
+Subscribe for upcoming events - https://lu.ma/developer-dao
 
 Venom Foundation: Venom is pleased to announce a partnership with @developer_dao with the aim of driving growth and innovation to the Venom ecosystem, while unlocking the full potential of TVM by opening the boundaries for new developments on the Venom blockchain. https://twitter.com/i/web/status/1629137920887033857 https://t.co/tyE2DzUTqP]]></summary>
         <author>
@@ -94,12 +105,12 @@ Venom Foundation: Venom is pleased to announce a partnership with @developer_d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT nnnnicholas ⛱: Showing off a lil onchain svg code at 11:30am est at @developer_dao’s @devntellxyz. https://twitter.com/devntellxyz/status/1629134...]]></title>
+        <title type="html"><![CDATA[RT nnnnicholas ⛱: Showing off a lil onchain svg code at 11:30am est at @developer_dao’s @devntellxyz.]]></title>
         <id>https://twitter.com/nnnnicholas/status/1629136819471220736</id>
         <link href="https://twitter.com/nnnnicholas/status/1629136819471220736"/>
         <updated>2023-02-24T15:11:00.000Z</updated>
         <summary type="html"><![CDATA[RT nnnnicholas ⛱
-Showing off a lil onchain svg code at 11:30am est at @developer_dao’s @devntellxyz. https://twitter.com/devntellxyz/status/1629134054825009155
+Showing off a lil onchain svg code at 11:30am est at @developer_dao’s @devntellxyz.
 
 DevNTell: During todays #DevNTell @nnnnicholas will demo his contracts rendering live @juiceboxETH treasury data to onchain SVG NFTs, explain how the code works, and share template repos so you can get started making onchain SVGs in less than a minute! 
 Sign up 👉 https://lu.ma/8gmo97go]]></summary>
@@ -153,12 +164,12 @@ https://buff.ly/3XWN0vW https://t.co/eKpm3BzpSM]]></summary>
         <updated>2023-02-23T16:05:44.000Z</updated>
         <summary type="html"><![CDATA[𝟱 𝗱𝗮𝘆𝘀 𝗹𝗲𝗳𝘁 ❗️
 We’re switching over to a whole new set of 𝗿𝗼𝗹𝗲𝘀 and 𝗽𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝘀 in our Discord server on 𝟮𝟴𝘁𝗵 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆.
-So if you’re eligible, don’t forget to mint your new badge below ⇩ https://twitter.com/developer_dao/status/1625867526902288384
+So if you’re eligible, don’t forget to mint your new badge below ⇩
 
 Developer DAO (🧱, 🚀): 𝗛𝗼𝘄 𝗧𝗼 𝗖𝗹𝗮𝗶𝗺 𝗬𝗼𝘂𝗿 𝗡𝗲𝘄 𝗕𝗮𝗱𝗴𝗲
 https://forum.developerdao.com/t/developer-dao-badge-migration-how-to-guide
 ⇩⇩ 𝗠𝗶𝗻𝘁 𝗟𝗶𝗻𝗸 ⇩⇩
-http://bit.ly/3X9g3vQ https://twitter.com/comm_dd/status/1620892254276816896]]></summary>
+http://bit.ly/3X9g3vQ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -195,9 +206,9 @@ https://twitter.com/i/spaces/1BdxYyPddZBxX
         <link href="https://twitter.com/tonyolendo/status/1628526678845661184"/>
         <updated>2023-02-22T22:46:31.000Z</updated>
         <summary type="html"><![CDATA[RT tonyolendo.eth
-When I see paid testnets, what you're saying is you don't care about the global South. No one in the decision room knows what it means to not have a credit card, to pay a week's wages on gas fees, to have your access to USD limited due to forex controls and Western blacklisting https://twitter.com/PatrickAlphaC/status/1628504862890549249
+When I see paid testnets, what you're saying is you don't care about the global South. No one in the decision room knows what it means to not have a credit card, to pay a week's wages on gas fees, to have your access to USD limited due to forex controls and Western blacklisting
 
-Patrick Collins 🌪: I think this summaries my stance on paid testnets. https://twitter.com/PatrickAlphaC/status/1628504282700910592]]></summary>
+Patrick Collins 🌪: I think this summaries my stance on paid testnets.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -213,30 +224,18 @@ Patrick Collins 🌪: I think this summaries my stance on paid testnets. https
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last month, @Aayush_gupta_ji explained smart contracts on the @Filecoin network! 🗃 Check it out! 🕶 https://buff.ly/3ZJAm5S https://t.co/Jn9sjz79...]]></title>
-        <id>https://twitter.com/developer_dao/status/1628439480721100800</id>
-        <link href="https://twitter.com/developer_dao/status/1628439480721100800"/>
-        <updated>2023-02-22T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Last month, @Aayush_gupta_ji explained smart contracts on the @Filecoin network! 🗃
-Check it out! 🕶
-https://buff.ly/3ZJAm5S https://t.co/Jn9sjz79FB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Warp Contracts: So, who's about to join us besides @fwdresearch @dabit3 @divine_economy and the whole @ArweaveEco? 🏔️ 💭 @wenmint_nft @xrpcaf...]]></title>
+        <title type="html"><![CDATA[RT Warp Contracts | ETHDenver 🦬: So, who's about to join us besides @fwdresearch @dabit3 @divine_economy and the whole @ArweaveEco? 🏔️ 💭 @we...]]></title>
         <id>https://twitter.com/warp_contracts/status/1628412469671763970</id>
         <link href="https://twitter.com/warp_contracts/status/1628412469671763970"/>
         <updated>2023-02-22T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Warp Contracts
+        <summary type="html"><![CDATA[RT Warp Contracts | ETHDenver 🦬
 So, who's about to join us besides @fwdresearch @dabit3 @divine_economy and the whole @ArweaveEco? 🏔️
 💭 @wenmint_nft @xrpcafe @fleekxyz @developer_dao
 https://twitter.com/warp_contracts/status/1628045189083451394
 
-Warp Contracts: 📩 Pass it on to a friend who's new to Arweave!
+Warp Contracts | ETHDenver 🦬: 📩 Pass it on to a friend who's new to Arweave!
 Going to Denver?
-See you at Arweave Day! 🎉 https://twitter.com/Marcin_Kaz13/status/1624071954733887488]]></summary>
+See you at Arweave Day! 🎉]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -304,15 +303,6 @@ You'll go from a siloed & overwhelming Telegram inbox to a clear view of all you
         <summary type="html"><![CDATA[Szn 2: DAO boogaloo]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Permanent, Immutable, and Stateful Serverless Functions with EXM and Arweave]]></title>
-        <id>https://www.youtube.com/watch?v=lXkAx7XqR6A</id>
-        <link href="https://www.youtube.com/watch?v=lXkAx7XqR6A"/>
-        <updated>2023-01-28T16:16:55.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>
