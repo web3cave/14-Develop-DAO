@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T06:14:43.290Z</id>
+    <id>urn:2023-02-28T06:14:14.287Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-27T06:14:43.290Z</updated>
+    <updated>2023-02-28T06:14:14.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#59 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/59-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/59-probably-nothing"/>
+        <updated>2023-02-28T03:05:54.000Z</updated>
+        <summary type="html"><![CDATA[The calm before the Spork]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking to hire top talent in Web3? 🚀 Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. Post your job t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1630282733443219458</id>
+        <link href="https://twitter.com/developer_dao/status/1630282733443219458"/>
+        <updated>2023-02-27T19:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Looking to hire top talent in Web3? 🚀
+Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. 
+Post your job today and connect with the best candidates in the industry!
+https://developerdao.pallet.com/jobs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our member @omobukola_ wrote about the ethical and social implications of blockchain technology! 📚 Check it out if you want to learn more about how...]]></title>
+        <id>https://twitter.com/developer_dao/status/1630266850343829504</id>
+        <link href="https://twitter.com/developer_dao/status/1630266850343829504"/>
+        <updated>2023-02-27T18:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Our member @omobukola_  wrote about the ethical and social implications of blockchain technology! 📚
+Check it out if you want to learn more about how blockchains could change the world!
+https://buff.ly/3keo2tR https://t.co/bByXpEjXrs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happening now, folks ⇩]]></title>
+        <id>https://twitter.com/developer_dao/status/1630255515677736960</id>
+        <link href="https://twitter.com/developer_dao/status/1630255515677736960"/>
+        <updated>2023-02-27T17:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Happening now, folks ⇩
+
+community @ dd: 𝗪𝗘𝗟𝗟𝗡𝗘𝗦𝗦 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 🍵
+Taking place right now in our Discord server https://t.co/m8eTJaCMix]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#TheGraph announced Geo, a new browser for Web3! 🌐 Wanna know more? Read the latest piece by @PeterPanYes 🎓 https://buff.ly/3KKd3nd https://t.co...]]></title>
+        <id>https://twitter.com/developer_dao/status/1630208069375348741</id>
+        <link href="https://twitter.com/developer_dao/status/1630208069375348741"/>
+        <updated>2023-02-27T14:07:46.000Z</updated>
+        <summary type="html"><![CDATA[#TheGraph announced Geo, a new browser for Web3! 🌐 
+Wanna know more?
+Read the latest piece by @PeterPanYes 🎓 
+https://buff.ly/3KKd3nd https://t.co/ejcioeCSX1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Please don't apply for a Senior dev position if your Github pfp doesn't look like this... https://t.co/XXdu7CeN5o]]></title>
         <id>https://twitter.com/dabit3/status/1629852582205063168</id>
@@ -196,57 +257,6 @@ Join Twitter Space @fuellabs_  ⚡️
 TODAY 06:00 pm CET
 https://twitter.com/i/spaces/1BdxYyPddZBxX
 #Fuel #FuelLabs #blockchain #Web3 #DeFi https://t.co/n1xHADS83d]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth: When I see paid testnets, what you're saying is you don't care about the global South. No one in the decision room knows what it me...]]></title>
-        <id>https://twitter.com/tonyolendo/status/1628526678845661184</id>
-        <link href="https://twitter.com/tonyolendo/status/1628526678845661184"/>
-        <updated>2023-02-22T22:46:31.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth
-When I see paid testnets, what you're saying is you don't care about the global South. No one in the decision room knows what it means to not have a credit card, to pay a week's wages on gas fees, to have your access to USD limited due to forex controls and Western blacklisting
-
-Patrick Collins 🌪: I think this summaries my stance on paid testnets.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[caption this https://t.co/qtLhkztMyb]]></title>
-        <id>https://twitter.com/developer_dao/status/1628513392112664578</id>
-        <link href="https://twitter.com/developer_dao/status/1628513392112664578"/>
-        <updated>2023-02-22T21:53:43.000Z</updated>
-        <summary type="html"><![CDATA[caption this https://t.co/qtLhkztMyb]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Warp Contracts | ETHDenver 🦬: So, who's about to join us besides @fwdresearch @dabit3 @divine_economy and the whole @ArweaveEco? 🏔️ 💭 @we...]]></title>
-        <id>https://twitter.com/warp_contracts/status/1628412469671763970</id>
-        <link href="https://twitter.com/warp_contracts/status/1628412469671763970"/>
-        <updated>2023-02-22T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[RT Warp Contracts | ETHDenver 🦬
-So, who's about to join us besides @fwdresearch @dabit3 @divine_economy and the whole @ArweaveEco? 🏔️
-💭 @wenmint_nft @xrpcafe @fleekxyz @developer_dao
-https://twitter.com/warp_contracts/status/1628045189083451394
-
-Warp Contracts | ETHDenver 🦬: 📩 Pass it on to a friend who's new to Arweave!
-Going to Denver?
-See you at Arweave Day! 🎉]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT b3nnn.eth/lens: Presenting your proposal to the DAO https://t.co/FduNN36RTM]]></title>
-        <id>https://twitter.com/b3nnn21/status/1628235821441781760</id>
-        <link href="https://twitter.com/b3nnn21/status/1628235821441781760"/>
-        <updated>2023-02-22T03:30:45.000Z</updated>
-        <summary type="html"><![CDATA[RT b3nnn.eth/lens
-Presenting your proposal to the DAO https://t.co/FduNN36RTM]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
