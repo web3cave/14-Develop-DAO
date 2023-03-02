@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T06:14:49.226Z</id>
+    <id>urn:2023-03-02T06:14:02.126Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-01T06:14:49.226Z</updated>
+    <updated>2023-03-02T06:14:02.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Just to make sure you don't miss out! Last month @olanetsoft explained how to build an NFT DApp with Infura's new NFT SDK for TypeScript! ⚒️ https:/...]]></title>
+        <id>https://twitter.com/developer_dao/status/1630991464854421515</id>
+        <link href="https://twitter.com/developer_dao/status/1630991464854421515"/>
+        <updated>2023-03-01T18:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Just to make sure you don't miss out!
+Last month @olanetsoft explained how to build an NFT DApp with Infura's new NFT SDK for TypeScript! ⚒️ 
+https://buff.ly/3HtBQde https://t.co/3JauHEscoj]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT the luke 🏳️‍🌈: Not all the action is at EthDenver ... there's lots of cool stuff happening online too. Join me for this workshop later toda...]]></title>
         <id>https://twitter.com/spaceagente/status/1630811552491397122</id>
@@ -235,19 +247,6 @@ https://buff.ly/3KKd3nd https://t.co/ejcioeCSX1]]></summary>
         <summary type="html"><![CDATA[RT with-heart
 Hi friends! I'll be in Denver this week Monday-Saturday for @EthereumDenver!
 Hit me up if you want to hang out! Would especially love to meet fellow @developer_dao members 💖]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D_D Friday's by @devdaowomen bringing those good end-of-week VIBES to the people 🫡 https://twitter.com/devdaowomen/status/1619014520479059969 https...]]></title>
-        <id>https://twitter.com/developer_dao/status/1629172657131323393</id>
-        <link href="https://twitter.com/developer_dao/status/1629172657131323393"/>
-        <updated>2023-02-24T17:33:24.000Z</updated>
-        <summary type="html"><![CDATA[D_D Friday's by @devdaowomen bringing those good end-of-week VIBES to the people 🫡 https://twitter.com/devdaowomen/status/1619014520479059969 https://t.co/TrAq2lSyKc
-
-
-D_D Women: Come and Vibe with us.✨ https://t.co/uRwEUVoC6q]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
