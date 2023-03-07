@@ -1,10 +1,262 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T06:14:41.429Z</id>
+    <id>urn:2023-03-07T06:14:02.003Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T06:14:41.429Z</updated>
+    <updated>2023-03-07T06:14:02.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#60 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/60-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/60-probably-nothing"/>
+        <updated>2023-03-07T04:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Pretty big week, and not just in Denver...]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our MVP launch of D_D hackers was a great success🔥 at ETH Denver! @EthereumDenver This was just the start. We’ve got some exciting news for you on...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632908642813898752</id>
+        <link href="https://twitter.com/developer_dao/status/1632908642813898752"/>
+        <updated>2023-03-07T00:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Our MVP launch of D_D hackers was a great success🔥 at ETH Denver! @EthereumDenver 
+This was just the start. We’ve got some exciting news for you on the way 🇫🇷
+Thank you to our past sponsors @fuel_network @fluence_project]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Me and @StaniKulechov will be in San Francisco Wednesday at @Thehouseofweb3 Come learn about Lens Protocol and how...]]></title>
+        <id>https://twitter.com/dabit3/status/1632899357136547840</id>
+        <link href="https://twitter.com/dabit3/status/1632899357136547840"/>
+        <updated>2023-03-07T00:21:59.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+Me and @StaniKulechov will be in San Francisco Wednesday at @Thehouseofweb3 
+Come learn about Lens Protocol and how to partner, integrate, and build with us. We'll also be joined by teams like @orbwagmi @enso_collective & @xmtp_
+Wed Mar 8 6PM - 9PM PST
+https://lu.ma/r3d7a2hp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking to hire top talent in Web3? 🚀 Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. Post your job t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632818519757709314</id>
+        <link href="https://twitter.com/developer_dao/status/1632818519757709314"/>
+        <updated>2023-03-06T19:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Looking to hire top talent in Web3? 🚀 
+Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. 
+Post your job today and connect with the best candidates in the industry! 
+https://developerdao.pallet.com/jobs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @streamr we 🫶 it]]></title>
+        <id>https://twitter.com/developer_dao/status/1632814980268523523</id>
+        <link href="https://twitter.com/developer_dao/status/1632814980268523523"/>
+        <updated>2023-03-06T18:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @streamr we 🫶 it]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post denver build fever? 👀 Learn how to ship a blockchain explorer with @QuickNode's Core API in less than 15 mins. https://blog.developerdao.com/h...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632814476675149824</id>
+        <link href="https://twitter.com/developer_dao/status/1632814476675149824"/>
+        <updated>2023-03-06T18:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Post denver build fever? 👀
+Learn how to ship a blockchain explorer with @QuickNode's Core API in less than 15 mins. 
+https://blog.developerdao.com/how-to-build-your-first-dapp-using-quicknodes-api]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT wagmi-dev.eth: 🚨 Introducing viem – a TypeScript Interface for Ethereum with a focus on stability, developer experience, bundle size, and perfo...]]></title>
+        <id>https://twitter.com/wagmi_sh/status/1632814443972395010</id>
+        <link href="https://twitter.com/wagmi_sh/status/1632814443972395010"/>
+        <updated>2023-03-06T18:44:34.000Z</updated>
+        <summary type="html"><![CDATA[RT wagmi-dev.eth
+🚨 Introducing viem – a TypeScript Interface for Ethereum with a focus on stability, developer experience, bundle size, and performance. 
+An alternative to Ethers.js & web3.js.
+↳ http://viem.sh https://t.co/hmuOwzaDjR]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In case you missed it! @PeterPanYes explained #TheGraph's new Geo browser 🎓 https://buff.ly/3KKd3nd https://t.co/RsDh78nvA5]]></title>
+        <id>https://twitter.com/developer_dao/status/1632788666647998466</id>
+        <link href="https://twitter.com/developer_dao/status/1632788666647998466"/>
+        <updated>2023-03-06T17:02:08.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed it!
+@PeterPanYes explained #TheGraph's new Geo browser 🎓 
+https://buff.ly/3KKd3nd https://t.co/RsDh78nvA5]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Streamr Network: The http://thechat.app was created to showcase what can be built on the #Streamr protocol. We hope it inspires the @developer_dao ...]]></title>
+        <id>https://twitter.com/streamr/status/1632787026582880262</id>
+        <link href="https://twitter.com/streamr/status/1632787026582880262"/>
+        <updated>2023-03-06T16:55:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Streamr Network
+The http://thechat.app was created to showcase what can be built on the #Streamr protocol. We hope it inspires the @developer_dao community and welcome their feedback on the beta version!
+
+Developer DAO (🧱, 🚀): Our frens @streamr just went live with http://thechat.app 💬
+Don't say we didn't give alpha! 
+@mattofontana @nicoburkart
+https://www.youtube.com/watch?v=ertLe1s2orA&ab_channel=DeveloperDAO]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @geniusyinka @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @Aayush_gupta_ji @frankiefab100 https://t.co/SacXR6TwTb]]></title>
+        <id>https://twitter.com/developer_dao/status/1632776583600545794</id>
+        <link href="https://twitter.com/developer_dao/status/1632776583600545794"/>
+        <updated>2023-03-06T16:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @geniusyinka @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @Aayush_gupta_ji @frankiefab100 https://t.co/SacXR6TwTb]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Aayush_gupta_ji @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @frankiefab100 gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1632775594214653952</id>
+        <link href="https://twitter.com/developer_dao/status/1632775594214653952"/>
+        <updated>2023-03-06T16:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @Aayush_gupta_ji @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @frankiefab100 gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Erik_Knobl @pbillingsby_ @theekrystallee @narb_s @Aayush_gupta_ji @frankiefab100 https://t.co/EoJ6MzH7QE]]></title>
+        <id>https://twitter.com/developer_dao/status/1632775138218237957</id>
+        <link href="https://twitter.com/developer_dao/status/1632775138218237957"/>
+        <updated>2023-03-06T16:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @Erik_Knobl @pbillingsby_ @theekrystallee @narb_s @Aayush_gupta_ji @frankiefab100 https://t.co/EoJ6MzH7QE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @flooredApe @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @Aayush_gupta_ji @frankiefab100 👑s, everyone one of them]]></title>
+        <id>https://twitter.com/developer_dao/status/1632773735030697990</id>
+        <link href="https://twitter.com/developer_dao/status/1632773735030697990"/>
+        <updated>2023-03-06T16:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @flooredApe @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @Aayush_gupta_ji @frankiefab100 👑s, everyone one of them]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Gary Sheng 🌞: Are you a 🔥 developer who believes in the power of free-to-use, open source, modular software to lay the foundation for a far b...]]></title>
+        <id>https://twitter.com/garysheng/status/1632771441958752256</id>
+        <link href="https://twitter.com/garysheng/status/1632771441958752256"/>
+        <updated>2023-03-06T15:53:41.000Z</updated>
+        <summary type="html"><![CDATA[RT Gary Sheng 🌞
+Are you a 🔥 developer who believes in the power of free-to-use, open source, modular software to lay the foundation for a far better future?
+DM me 📧
+If you're not, please like and RT this post so I can get this in front of more people 🫡
+I am recruiting for some BIG things.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @Aayush_gupta_ji @frankiefab100 🫡 to @layer3xyz for gmBot #publicgoodsaregood]]></title>
+        <id>https://twitter.com/developer_dao/status/1632771117457743875</id>
+        <link href="https://twitter.com/developer_dao/status/1632771117457743875"/>
+        <updated>2023-03-06T15:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @pbillingsby_ @theekrystallee @Erik_Knobl @narb_s @Aayush_gupta_ji @frankiefab100 🫡 to @layer3xyz for gmBot
+#publicgoodsaregood]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @kirstenrpomales @TalentLayer @EthereumDenver @fluence_project @mannyornothing @boneyard935011 @eponomarev @mattiapomelli @mart1gone @quentdc043 @R...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632770734111051779</id>
+        <link href="https://twitter.com/developer_dao/status/1632770734111051779"/>
+        <updated>2023-03-06T15:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Re @kirstenrpomales @TalentLayer @EthereumDenver @fluence_project @mannyornothing @boneyard935011 @eponomarev @mattiapomelli @mart1gone @quentdc043 @Romain__TL @carllippert shippoooooooooors 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's always a good day to be on the gm leaderboard(s) gm https://t.co/d7ru7wXabO]]></title>
+        <id>https://twitter.com/developer_dao/status/1632770608684466176</id>
+        <link href="https://twitter.com/developer_dao/status/1632770608684466176"/>
+        <updated>2023-03-06T15:50:23.000Z</updated>
+        <summary type="html"><![CDATA[It's always a good day to be on the gm leaderboard(s)
+gm https://t.co/d7ru7wXabO]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our frens @streamr just went live with http://thechat.app 💬 Don't say we didn't give alpha! @mattofontana @nicoburkart https://www.youtube.com/watc...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632757944797261834</id>
+        <link href="https://twitter.com/developer_dao/status/1632757944797261834"/>
+        <updated>2023-03-06T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Our frens @streamr just went live with http://thechat.app 💬
+Don't say we didn't give alpha! 
+@mattofontana @nicoburkart
+https://www.youtube.com/watch?v=ertLe1s2orA&ab_channel=DeveloperDAO]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 𝗩𝗶𝘀𝘂𝗮𝗹 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗿 Now that the previous Guild system/model has been abolished, it’s so important that ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632724622343905280</id>
+        <link href="https://twitter.com/developer_dao/status/1632724622343905280"/>
+        <updated>2023-03-06T12:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Re 𝗩𝗶𝘀𝘂𝗮𝗹 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗿
+Now that the previous Guild system/model has been abolished, it’s so important that we cultivate far more intuitive and frictionless pathways that empower members to become contributors (if they choose)
+https://twitter.com/zanedraas/status/1609673473382834176?s=46&t=axKLIi4-MTKwAfOPO0ZP7g https://t.co/MC5X2QEcQ2
+
+
+
+Zane and Draas: Developer DAO currently operates under a ‘Guild’ model, and it’s largely optimized for contributors. Outside of this, there aren’t a lot of ways members can get involved.
+𝗢𝗕𝗦𝗘𝗥𝗩𝗔𝗧𝗜𝗢𝗡
+Guilds conflate contributors and non-contributors — often leading to some confusion. https://t.co/FEP8LMni0r]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The 𝗗𝗗 𝗟𝗮𝗯𝘀 section is officially live in Discord ✅ It is comprised of forum-based channels — and over time, tasks and roles un...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632724619114213376</id>
+        <link href="https://twitter.com/developer_dao/status/1632724619114213376"/>
+        <updated>2023-03-06T12:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Re The 𝗗𝗗 𝗟𝗮𝗯𝘀 section is officially live in Discord ✅
+It is comprised of forum-based channels — and over time, tasks and roles under DD Labs will be shared as forum posts. DAO members can then asks teams clarifying questions, and easily obtain context inside each post! ☺️ https://t.co/KTZ0yyv8uy]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝗦𝗘𝗥𝗩𝗘𝗥 𝗨𝗣𝗗𝗔𝗧𝗘: 𝗗𝗗 𝗟𝗮𝗯𝘀 With most operational teams being moved to a new Discord, and the push to...]]></title>
+        <id>https://twitter.com/developer_dao/status/1632724615817572352</id>
+        <link href="https://twitter.com/developer_dao/status/1632724615817572352"/>
+        <updated>2023-03-06T12:47:37.000Z</updated>
+        <summary type="html"><![CDATA[𝗦𝗘𝗥𝗩𝗘𝗥 𝗨𝗣𝗗𝗔𝗧𝗘: 𝗗𝗗 𝗟𝗮𝗯𝘀
+With most operational teams being moved to a new Discord, and the push to prioritize the 𝗻𝗼𝗻-𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 member experience in our server — it’s still important that members are presented with opportunities to contribute
+🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#59 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/59-probably-nothing</id>
