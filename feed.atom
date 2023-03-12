@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T06:12:18.827Z</id>
+    <id>urn:2023-03-12T06:12:34.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-11T06:12:18.827Z</updated>
+    <updated>2023-03-12T06:12:34.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1634579387143290880</id>
+        <link href="https://twitter.com/developer_dao/status/1634579387143290880"/>
+        <updated>2023-03-11T15:37:49.000Z</updated>
+        <summary type="html"><![CDATA[gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: Traditional Serverless infrastructure @twilio -> Communication @auth0 -> Auth & identity @supabase -> Postgres + m...]]></title>
         <id>https://twitter.com/dabit3/status/1634345241296732162</id>
@@ -112,15 +122,16 @@ https://lu.ma/glfnw8aq]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT DappaDan (🧱,🚀): 🚀Friday is for shipping! 🚀 Happy to launch my dev newsletter - Protocol. Protocol is a developer's field guide to help ...]]></title>
-        <id>https://twitter.com/DAppaDanDev/status/1634193250415259650</id>
-        <link href="https://twitter.com/DAppaDanDev/status/1634193250415259650"/>
-        <updated>2023-03-10T14:03:27.000Z</updated>
-        <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
-🚀Friday is for shipping! 🚀
-Happy to launch my dev newsletter - Protocol. 
-Protocol is a developer's field guide to help make sense of all of the Web3 protocols, tools, and ideas out there.  Learn more and subscribe here: https://protocol.dappadan.xyz/welcome-to-protocol 
-Hosted on @paragraph_xyz ♥️]]></summary>
+        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): gm buildooors! 🧱ᵍᵐ Learn how to send and receive real-time data via @Streamr's decentralized P2P Network⚒️ Join ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1634192569495339009</id>
+        <link href="https://twitter.com/developer_dao/status/1634192569495339009"/>
+        <updated>2023-03-10T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
+gm buildooors! 🧱ᵍᵐ 
+Learn how to send and receive real-time data via @Streamr's decentralized P2P Network⚒️ 
+Join @megabyte0x and @nicoburkart on Wednesday 15th, at 4:30pm UTC. 
+🔗 Sign up now:
+https://lu.ma/glfnw8aq]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -235,29 +246,6 @@ https://buff.ly/3SRK4zN]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @_sesire @reactjs @nextjs @tailwindcss @nodejs @DAOstructXYZ @awscloud @jokedao_ @fuel_network and check out more roles from our friend...]]></title>
-        <id>https://twitter.com/developer_dao/status/1633856681246326788</id>
-        <link href="https://twitter.com/developer_dao/status/1633856681246326788"/>
-        <updated>2023-03-09T15:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @_sesire @reactjs @nextjs @tailwindcss @nodejs @DAOstructXYZ @awscloud @jokedao_ @fuel_network and check out more roles from our friends ..and check out many more roles from our frens 
-@linera_io @BreederDAO @SuperRare @OffchainLabs @UpshotHQ @crowdmuse @Sismo_eth @WalletConnect @portals_fi @lagrangedev @NetworkSubspace @0xstation @llama]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @DevDaoJobs @_sesire @reactjs @nextjs @tailwindcss @nodejs @DAOstructXYZ @awscloud @jokedao_ Create the fastest modular #blockchain execution layer...]]></title>
-        <id>https://twitter.com/developer_dao/status/1633856680285880320</id>
-        <link href="https://twitter.com/developer_dao/status/1633856680285880320"/>
-        <updated>2023-03-09T15:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @DevDaoJobs @_sesire @reactjs @nextjs @tailwindcss @nodejs @DAOstructXYZ @awscloud @jokedao_ Create the fastest modular #blockchain execution layer w/ 
-@fuel_network
- 🥑  Developer Relations - https://buff.ly/3YxKqgU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#60 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/60-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/60-probably-nothing"/>
@@ -265,6 +253,19 @@ https://buff.ly/3SRK4zN]]></summary>
         <summary type="html"><![CDATA[Pretty big week, and not just in Denver...]]></summary>
         <author>
             <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Michael Robinson ⬡: 11 Things you can build with the new #Chainlink Functions 1/ @OpenAI API Create a smart contract that asks an AI for a daily i...]]></title>
+        <id>https://twitter.com/77MichaelR/status/1631409561327263746</id>
+        <link href="https://twitter.com/77MichaelR/status/1631409561327263746"/>
+        <updated>2023-03-02T21:42:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Michael Robinson ⬡
+11 Things you can build with the new #Chainlink Functions
+1/ @OpenAI API 
+Create a smart contract that asks an AI for a daily investment recommendation and then makes that trade. https://t.co/hM63HbGuEM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
