@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T06:12:34.910Z</id>
+    <id>urn:2023-03-13T06:13:52.485Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-12T06:12:34.910Z</updated>
+    <updated>2023-03-13T06:13:52.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[no shade. https://t.co/amncaxmgZf]]></title>
+        <id>https://twitter.com/developer_dao/status/1634958737567019008</id>
+        <link href="https://twitter.com/developer_dao/status/1634958737567019008"/>
+        <updated>2023-03-12T16:45:13.000Z</updated>
+        <summary type="html"><![CDATA[no shade. https://t.co/amncaxmgZf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gm]]></title>
         <id>https://twitter.com/developer_dao/status/1634579387143290880</id>
@@ -97,7 +107,7 @@ https://buff.ly/3ydfjMj]]></summary>
         <updated>2023-03-10T14:40:32.000Z</updated>
         <summary type="html"><![CDATA[🚨 Alpha alert 🚨
 Dan has shipped something, *anything*, so strong recommend all build000rs subscribe.
-History would tell this newsletter content will be 🔥
+History would tell this newsletter content will be 🔥 https://twitter.com/DAppaDanDev/status/1634193250415259650
 
 DappaDan (🧱,🚀): 🚀Friday is for shipping! 🚀
 Happy to launch my dev newsletter - Protocol. 
@@ -208,11 +218,11 @@ Being a mentor and guide for… https://twitter.com/i/web/status/163393895148340
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buidl with frens 🤝]]></title>
+        <title type="html"><![CDATA[Buidl with frens 🤝 https://twitter.com/fuel_network/status/1633863062007738368]]></title>
         <id>https://twitter.com/developer_dao/status/1633934015945220096</id>
         <link href="https://twitter.com/developer_dao/status/1633934015945220096"/>
         <updated>2023-03-09T20:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Buidl with frens 🤝
+        <summary type="html"><![CDATA[Buidl with frens 🤝 https://twitter.com/fuel_network/status/1633863062007738368
 
 Fuel: 🥈 2nd place: Fuel Bounty Board (by @texaglo_techno @protocolllo @crypdoughdoteth)
 A decentralized bounty board built using Fuel.
@@ -228,19 +238,6 @@ Demo: https://fuel-texaglo-bounty.vercel.app/ https://t.co/lv7nmWXggP]]></summar
         <link href="https://twitter.com/developer_dao/status/1633884134253953024"/>
         <updated>2023-03-09T17:35:08.000Z</updated>
         <summary type="html"><![CDATA[Re @MrMinter_eth @CryptoPowerGals @myz12371 @boyluan @comm_dd 🙏 ✨]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with VP of Learning @MrScottMeyer who will be giving us an overview of @metacraftersio...]]></title>
-        <id>https://twitter.com/developer_dao/status/1633860572369375233</id>
-        <link href="https://twitter.com/developer_dao/status/1633860572369375233"/>
-        <updated>2023-03-09T16:01:30.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-You won't want to miss tomorrow’s @devntellxyz with VP of Learning @MrScottMeyer who will be giving us an overview of @metacraftersio, hosted by @narb_s 
-👉 Details and link to RSVP for this weeks episode: 
-https://buff.ly/3SRK4zN]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
