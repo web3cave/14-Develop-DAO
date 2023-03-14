@@ -1,10 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-13T06:13:52.485Z</id>
+    <id>urn:2023-03-14T06:14:21.152Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-13T06:13:52.485Z</updated>
+    <updated>2023-03-14T06:14:21.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#61 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/61-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/61-probably-nothing"/>
+        <updated>2023-03-14T03:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Who needs banks anyways?]]></summary>
+        <author>
+            <name>Osikhena James Oshomah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DeForm - aka Web3 Typeform: Say hello to DeForm 🫠 Web3 forms and surveys for your token-enabled communities: https://t.co/BIA703Xf3Z]]></title>
+        <id>https://twitter.com/deformapp/status/1635430661325750272</id>
+        <link href="https://twitter.com/deformapp/status/1635430661325750272"/>
+        <updated>2023-03-14T00:00:29.000Z</updated>
+        <summary type="html"><![CDATA[RT DeForm - aka Web3 Typeform
+Say hello to DeForm 🫠
+Web3 forms and surveys for your token-enabled communities: https://t.co/BIA703Xf3Z]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @colomborkrdz Yes ! Chat with @mannyornothing]]></title>
+        <id>https://twitter.com/developer_dao/status/1635357571631710208</id>
+        <link href="https://twitter.com/developer_dao/status/1635357571631710208"/>
+        <updated>2023-03-13T19:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @colomborkrdz Yes ! Chat with @mannyornothing]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking to hire top talent in Web3? 🚀 Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. Post your job t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1635355047738642432</id>
+        <link href="https://twitter.com/developer_dao/status/1635355047738642432"/>
+        <updated>2023-03-13T19:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Looking to hire top talent in Web3? 🚀 
+Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. 
+Post your job today and connect with the best candidates in the industry! 
+https://developerdao.pallet.com/jobs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @omobukola_ @megabyte0x @routerprotocol @Hyperlane_xyz 🥉 How to Build Your First DApp using @QuickNode's API by @omobukola_ https://buff.ly/3mOm...]]></title>
+        <id>https://twitter.com/developer_dao/status/1635310387385208834</id>
+        <link href="https://twitter.com/developer_dao/status/1635310387385208834"/>
+        <updated>2023-03-13T16:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @omobukola_ @megabyte0x @routerprotocol @Hyperlane_xyz 🥉 How to Build Your First DApp using @QuickNode's API
+by @omobukola_   https://buff.ly/3mOmF6A]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @omobukola_ 🥈 Why is Chain Interoperability Required for Web3? by @megabyte0x (@routerprotocol @Hyperlane_xyz) https://buff.ly/3mImNV9]]></title>
+        <id>https://twitter.com/developer_dao/status/1635310383354265601</id>
+        <link href="https://twitter.com/developer_dao/status/1635310383354265601"/>
+        <updated>2023-03-13T16:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @omobukola_ 🥈 Why is Chain Interoperability Required for Web3? 
+by @megabyte0x 
+(@routerprotocol @Hyperlane_xyz)
+  https://buff.ly/3mImNV9]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's check out last week's top 3 articles on the D_D blog🎉 🥇 Building User-Friendly DApps: Tips for Founders by @omobukola_ https://buff.ly/3ST...]]></title>
+        <id>https://twitter.com/developer_dao/status/1635310381718732800</id>
+        <link href="https://twitter.com/developer_dao/status/1635310381718732800"/>
+        <updated>2023-03-13T16:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Let's check out last week's top 3 articles on the D_D blog🎉 
+🥇 Building User-Friendly DApps: Tips for Founders 
+by @omobukola_   https://buff.ly/3STzsAw]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[full support. https://twitter.com/kempsterrrr/status/1635290897612169217]]></title>
+        <id>https://twitter.com/developer_dao/status/1635291544872951816</id>
+        <link href="https://twitter.com/developer_dao/status/1635291544872951816"/>
+        <updated>2023-03-13T14:47:41.000Z</updated>
+        <summary type="html"><![CDATA[full support. https://twitter.com/kempsterrrr/status/1635290897612169217
+
+kempsterrrr.eth / lens | 🫂 🦇🔊: Petition to make it illegal to write DD > D_D when referring to @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build full-stack bitcoin dApps 👀 @KenTheRogers dropped a banger, making bitcoin def fun again. https://krgrs.dev/series/bitcoin]]></title>
+        <id>https://twitter.com/developer_dao/status/1635289212043034625</id>
+        <link href="https://twitter.com/developer_dao/status/1635289212043034625"/>
+        <updated>2023-03-13T14:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Build full-stack bitcoin dApps 👀
+@KenTheRogers dropped a banger, making bitcoin def fun again. 
+https://krgrs.dev/series/bitcoin]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode gm]]></title>
+        <id>https://twitter.com/developer_dao/status/1635287315521376261</id>
+        <link href="https://twitter.com/developer_dao/status/1635287315521376261"/>
+        <updated>2023-03-13T14:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode gm]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if you haven't registered for @nicoburkart's workshop - what are you even doing? 🔗: https://lu.ma/glfnw8aq https://twitter.com/nicoburkart/status/1...]]></title>
+        <id>https://twitter.com/developer_dao/status/1635200725495193602</id>
+        <link href="https://twitter.com/developer_dao/status/1635200725495193602"/>
+        <updated>2023-03-13T08:46:48.000Z</updated>
+        <summary type="html"><![CDATA[if you haven't registered for @nicoburkart's workshop - what are you even doing?
+🔗: https://lu.ma/glfnw8aq https://twitter.com/nicoburkart/status/1635085781063864320
+
+nicob.eth 📍 Kuala Lumpur: After a month of travelling it feels good to be back in productivity mode 🔥 working on that Wednesday D_D workshop 🧑‍💻 https://t.co/BqugxwQvWD]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 If you missed it, no worries you can watch it here https://buff.ly/3lnjBNQ Presented by @sensahil �...]]></title>
+        <id>https://twitter.com/developer_dao/status/1635166354939711493</id>
+        <link href="https://twitter.com/developer_dao/status/1635166354939711493"/>
+        <updated>2023-03-13T06:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 
+If you missed it, no worries you can watch it here
+ https://buff.ly/3lnjBNQ 
+Presented by @sensahil 🤩 
+Hosted by @megabyte0x ✨]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[no shade. https://t.co/amncaxmgZf]]></title>
         <id>https://twitter.com/developer_dao/status/1634958737567019008</id>
@@ -91,47 +233,6 @@ https://buff.ly/3ydfjMj]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @streamr @nicoburkart @megabyte0x gm]]></title>
-        <id>https://twitter.com/developer_dao/status/1634205381734825986</id>
-        <link href="https://twitter.com/developer_dao/status/1634205381734825986"/>
-        <updated>2023-03-10T14:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @streamr @nicoburkart @megabyte0x gm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 Alpha alert 🚨 Dan has shipped something, *anything*, so strong recommend all build000rs subscribe. History would tell this newsletter content ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1634202581718188033</id>
-        <link href="https://twitter.com/developer_dao/status/1634202581718188033"/>
-        <updated>2023-03-10T14:40:32.000Z</updated>
-        <summary type="html"><![CDATA[🚨 Alpha alert 🚨
-Dan has shipped something, *anything*, so strong recommend all build000rs subscribe.
-History would tell this newsletter content will be 🔥 https://twitter.com/DAppaDanDev/status/1634193250415259650
-
-DappaDan (🧱,🚀): 🚀Friday is for shipping! 🚀
-Happy to launch my dev newsletter - Protocol. 
-Protocol is a developer's field guide to help make sense of all of the Web3 protocols, tools, and ideas out there.  Learn more and subscribe here: https://protocol.dappadan.xyz/welcome-to-protocol 
-Hosted on @paragraph_xyz ♥️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Streamr Network: 🧰 Bring your Web3 toolkit with you on Wednesday for a @developer_dao workshop on how to build with the decentralized #Streamr N...]]></title>
-        <id>https://twitter.com/streamr/status/1634198377507291144</id>
-        <link href="https://twitter.com/streamr/status/1634198377507291144"/>
-        <updated>2023-03-10T14:23:49.000Z</updated>
-        <summary type="html"><![CDATA[RT Streamr Network
-🧰 Bring your Web3 toolkit with you on Wednesday for a @developer_dao workshop on how to build with the decentralized #Streamr Network 🦾 
-🗓️ 15th March 16:30 UTC
-Sign up to join @nicoburkart and @megabyte0x 👇 
-https://lu.ma/glfnw8aq]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): gm buildooors! 🧱ᵍᵐ Learn how to send and receive real-time data via @Streamr's decentralized P2P Network⚒️ Join ...]]></title>
         <id>https://twitter.com/developer_dao/status/1634192569495339009</id>
         <link href="https://twitter.com/developer_dao/status/1634192569495339009"/>
@@ -142,102 +243,6 @@ Learn how to send and receive real-time data via @Streamr's decentralized P2P Ne
 Join @megabyte0x and @nicoburkart on Wednesday 15th, at 4:30pm UTC. 
 🔗 Sign up now:
 https://lu.ma/glfnw8aq]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gm buildooors! 🧱ᵍᵐ Learn how to send and receive real-time data via @Streamr's decentralized P2P Network⚒️ Join @megabyte0x and @nicoburkart on...]]></title>
-        <id>https://twitter.com/developer_dao/status/1634192569495339009</id>
-        <link href="https://twitter.com/developer_dao/status/1634192569495339009"/>
-        <updated>2023-03-10T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[gm buildooors! 🧱ᵍᵐ 
-Learn how to send and receive real-time data via @Streamr's decentralized P2P Network⚒️ 
-Join @megabyte0x and @nicoburkart on Wednesday 15th, at 4:30pm UTC. 
-🔗 Sign up now:
-https://lu.ma/glfnw8aq]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New chains are popping up every day. If you want to get their benefits while leverageing your existing assets, chain interoperability is a must! D_D m...]]></title>
-        <id>https://twitter.com/developer_dao/status/1634192513333358594</id>
-        <link href="https://twitter.com/developer_dao/status/1634192513333358594"/>
-        <updated>2023-03-10T14:00:31.000Z</updated>
-        <summary type="html"><![CDATA[New chains are popping up every day. If you want to get their benefits while leverageing your existing assets, chain interoperability is a must!
-D_D member @megabyte0x tells  you the ins and outs of it! 🎓 
-@routerprotocol @Hyperlane_xyz 
-https://buff.ly/3mImNV9 https://t.co/7JFLVrZ7Oe]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TalentLayer @fluence_project @EthereumDenver lfg 👏]]></title>
-        <id>https://twitter.com/developer_dao/status/1634166473756377088</id>
-        <link href="https://twitter.com/developer_dao/status/1634166473756377088"/>
-        <updated>2023-03-10T12:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @TalentLayer @fluence_project @EthereumDenver lfg 👏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer DAO (🧱, 🚀)]]></title>
-        <id>https://twitter.com/developer_dao/status/1634151055733800963</id>
-        <link href="https://twitter.com/developer_dao/status/1634151055733800963"/>
-        <updated>2023-03-10T11:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Developer DAO (🧱, 🚀)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rahat.eth: You might have heard about Account Abstraction. Everyone is talking about it, but it's still hard to follow and figure out how we can ta...]]></title>
-        <id>https://twitter.com/Rahatcodes/status/1634027792747704321</id>
-        <link href="https://twitter.com/Rahatcodes/status/1634027792747704321"/>
-        <updated>2023-03-10T03:05:59.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth
-You might have heard about Account Abstraction. Everyone is talking about it, but it's still hard to follow and figure out how we can take advantage of it as developers. This is the first in a series of threads to get you up to speed on Account Abstraction! https://t.co/ypnEmDMkwK]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT rahat.eth: Something I see more in Web2 Devrel than in Web3 Devrel: Experimenting and building products yourself with the product or protocol you w...]]></title>
-        <id>https://twitter.com/Rahatcodes/status/1633938951483404290</id>
-        <link href="https://twitter.com/Rahatcodes/status/1633938951483404290"/>
-        <updated>2023-03-09T21:12:57.000Z</updated>
-        <summary type="html"><![CDATA[RT rahat.eth
-Something I see more in Web2 Devrel than in Web3 Devrel: 
-Experimenting and building products yourself with the product or protocol you work with. Going beyond the workshop code walkthroughs, really going in, being a builder, and hacking yourself. 
-Being a mentor and guide for… https://twitter.com/i/web/status/1633938951483404290]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buidl with frens 🤝 https://twitter.com/fuel_network/status/1633863062007738368]]></title>
-        <id>https://twitter.com/developer_dao/status/1633934015945220096</id>
-        <link href="https://twitter.com/developer_dao/status/1633934015945220096"/>
-        <updated>2023-03-09T20:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Buidl with frens 🤝 https://twitter.com/fuel_network/status/1633863062007738368
-
-Fuel: 🥈 2nd place: Fuel Bounty Board (by @texaglo_techno @protocolllo @crypdoughdoteth)
-A decentralized bounty board built using Fuel.
-GitHub: https://github.com/crypdoughdoteth/ETHDenver-Bounty-Board
-Demo: https://fuel-texaglo-bounty.vercel.app/ https://t.co/lv7nmWXggP]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MrMinter_eth @CryptoPowerGals @myz12371 @boyluan @comm_dd 🙏 ✨]]></title>
-        <id>https://twitter.com/developer_dao/status/1633884134253953024</id>
-        <link href="https://twitter.com/developer_dao/status/1633884134253953024"/>
-        <updated>2023-03-09T17:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Re @MrMinter_eth @CryptoPowerGals @myz12371 @boyluan @comm_dd 🙏 ✨]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
