@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F017c53de-835c-4cc3-9a29-255986adf97a_1188x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/57-probably-nothing",
-          "author": "Colin4ward",
-          "description": "New szn who dis?",
-          "link": "https://developerdao.substack.com/p/57-probably-nothing",
-          "publishedOn": "2023-02-15T03:40:21.000Z",
-          "wordCount": null,
-          "title": "#57 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6c6f675-766a-4e19-a54f-60578c336dce_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6c6f675-766a-4e19-a54f-60578c336dce_1188x668.png"
         }
       ]
     },
@@ -93,12 +77,92 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/me256ow/status/1636473914435207177",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT meowy-kun.eth🌱meowy.lens🌿\nI'm happy to announce that I will be joining @ConsenSys 🍃\nI'm truly thrilled to be part of this incredible team and really looking forward to start this exciting new chapter.",
+          "link": "https://twitter.com/me256ow/status/1636473914435207177",
+          "publishedOn": "2023-03-16T21:06:00.000Z",
+          "wordCount": 476,
+          "title": "RT meowy-kun.eth🌱meowy.lens🌿: I'm happy to announce that I will be joining @ConsenSys 🍃 I'm truly thrilled to be part of this incredible team...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1636393389670146053",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @DevDaoJobs @DAOstructXYZ @reactjs @nextjs @typescript @webaverse @threejs @unity ...and check out many more roles from our frens @RequestFinance @hypotenuse_labs @0xmetaschool @safe @ChainSafeth @clearmatics @linera_io @_sesire @SuperRare @OffchainLabs @UpshotHQ @crowdmuse @Sismo_eth @WalletConnect@lagrangedev  @0xstation \nhttps://buff.ly/3GD24de",
+          "link": "https://twitter.com/developer_dao/status/1636393389670146053",
+          "publishedOn": "2023-03-16T15:46:01.000Z",
+          "wordCount": 476,
+          "title": "Re @DevDaoJobs @DAOstructXYZ @reactjs @nextjs @typescript @webaverse @threejs @unity ...and check out many more roles from our frens @RequestFinance @...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1636393388759982081",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @DevDaoJobs @DAOstructXYZ @reactjs @nextjs @typescript Create a new world with @webaverse \n🧠 AI Intern - @threejs @unity - https://buff.ly/3yP6CYJ",
+          "link": "https://twitter.com/developer_dao/status/1636393388759982081",
+          "publishedOn": "2023-03-16T15:46:01.000Z",
+          "wordCount": 476,
+          "title": "Re @DevDaoJobs @DAOstructXYZ @reactjs @nextjs @typescript Create a new world with @webaverse 🧠 AI Intern - @threejs @unity - https://buff.ly/3yP6CY...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1636393387665289216",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @DevDaoJobs Help flks Discover, Invest & Participate in your favorite DAOs w/ \n@DAOstructXYZ\n🏗️ Backend Engineer w/ #NodeJS #AWS - https://buff.ly/3ZiW0Np \n⚛️ Front End Dev w/ @reactjs / @nextjs & @typescript - https://buff.ly/3Ltjony",
+          "link": "https://twitter.com/developer_dao/status/1636393387665289216",
+          "publishedOn": "2023-03-16T15:46:00.000Z",
+          "wordCount": 476,
+          "title": "Re @DevDaoJobs Help flks Discover, Invest & Participate in your favorite DAOs w/ @DAOstructXYZ 🏗️ Backend Engineer w/ #NodeJS #AWS - https://buff....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1636393386444828672",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚀  @DevDaoJobs of the Week 🚀\nCheck out the D_D Job Board for the latest #web3 #jobs from our partners. \nFeatured jobs 📜 below or head to our site for al 21...\nhttps://buff.ly/3ESPPr8",
+          "link": "https://twitter.com/developer_dao/status/1636393386444828672",
+          "publishedOn": "2023-03-16T15:46:00.000Z",
+          "wordCount": 476,
+          "title": "🚀 @DevDaoJobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. Featured jobs 📜 below or head to our si...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Ethereum_Brasil/status/1636383587355467779",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ethereum Brasil\nRe @dabit3  is the Director of Developer Relations at Aave Companies and is coming to #EthereumRio23 to talk even more about blockchain, GraphQL, and much more.\nWe are excited to announce so many cool names, are you? https://t.co/MJ00kqn75U",
+          "link": "https://twitter.com/Ethereum_Brasil/status/1636383587355467779",
+          "publishedOn": "2023-03-16T15:07:04.000Z",
+          "wordCount": 476,
+          "title": "RT Ethereum Brasil: Re @dabit3 is the Director of Developer Relations at Aave Companies and is coming to #EthereumRio23 to talk even more about blockc...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1636382400069656579",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @thatguyintech who will be giving us an overview of @deformapp, hosted by @narb_s \n👉 Details and link to RSVP for this weeks episode: \nhttps://buff.ly/4069Pie",
+          "link": "https://twitter.com/developer_dao/status/1636382400069656579",
+          "publishedOn": "2023-03-16T15:02:21.000Z",
+          "wordCount": 476,
+          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @thatguyintech who will be giving us an overview of @deformapp, hosted by @narb_s...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1636276408497348608",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "If you want the benefits of new chains while leveraging your existing assets on others, chain interoperability is a must!\nD_D member @megabyte0x tells  you the ins and outs of it! 🎓 \n@routerprotocol @Hyperlane_xyz \nhttps://buff.ly/3mImNV9",
+          "link": "https://twitter.com/developer_dao/status/1636276408497348608",
+          "publishedOn": "2023-03-16T08:01:10.000Z",
+          "wordCount": 476,
+          "title": "If you want the benefits of new chains while leveraging your existing assets on others, chain interoperability is a must! D_D member @megabyte0x tells...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/abruzuc/status/1636097177104547840",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Abru Zucchi\nIn this video I show you how to deploy a simple link profile website on IPFS using @fleekxyz sites CLI - powered by @eth_limo 👀 https://t.co/E13XWu3ezn",
           "link": "https://twitter.com/abruzuc/status/1636097177104547840",
           "publishedOn": "2023-03-15T20:08:58.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Abru Zucchi: In this video I show you how to deploy a simple link profile website on IPFS using @fleekxyz sites CLI - powered by @eth_limo 👀 htt...",
           "imageUrl": null
         },
@@ -108,7 +172,7 @@
           "description": "Re @RabbiGreenberg Wanna tell your Web3 or D_D story? ✍️ \nCome to the #blog channel on the D_D Discord, and we help you out! 🚀",
           "link": "https://twitter.com/developer_dao/status/1636065024132231168",
           "publishedOn": "2023-03-15T18:01:13.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @RabbiGreenberg Wanna tell your Web3 or D_D story? ✍️ Come to the #blog channel on the D_D Discord, and we help you out! 🚀",
           "imageUrl": null
         },
@@ -118,7 +182,7 @@
           "description": "It's WAGMI-Wednesday, where our members tell their web3 and D_D stories! 🎉 \nCheck out @RabbiGreenberg journey from bulletin boards to Polkadot! ⛓️ \nhttps://buff.ly/3WSYf9d",
           "link": "https://twitter.com/developer_dao/status/1636065023049998339",
           "publishedOn": "2023-03-15T18:01:12.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "It's WAGMI-Wednesday, where our members tell their web3 and D_D stories! 🎉 Check out @RabbiGreenberg journey from bulletin boards to Polkadot! ⛓️...",
           "imageUrl": null
         },
@@ -128,7 +192,7 @@
           "description": "RT marc | wolovim.eth 🐼\nimportant milestone for @developer_dao:\nfollowing a steward election, 4 of the original 6 multisig signers were rotated out yesterday - myself included.\n🧵",
           "link": "https://twitter.com/wolovim/status/1636064085539160065",
           "publishedOn": "2023-03-15T17:57:29.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT marc | wolovim.eth 🐼: important milestone for @developer_dao: following a steward election, 4 of the original 6 multisig signers were rotated ou...",
           "imageUrl": null
         },
@@ -138,7 +202,7 @@
           "description": "Re Sorry folks, due to some connectivity issues we're having to reschedule this workshop😢\nAll is not lost, though! We'll be back. Subscribe below and keep an eye on our Twitter for the new times.\nhttps://twitter.com/developer_dao/status/1636046248514920448\n\nDeveloper DAO (🧱, 🚀): There's has been some connectivity issues so we needed to reschedule the workshop. \nKeep an eye on the upcoming tweets👀  and RSVP on luma👇🏻\nhttps://buff.ly/3JcbBHK",
           "link": "https://twitter.com/developer_dao/status/1636048011812913163",
           "publishedOn": "2023-03-15T16:53:36.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re Sorry folks, due to some connectivity issues we're having to reschedule this workshop😢 All is not lost, though! We'll be back. Subscribe below a...",
           "imageUrl": null
         },
@@ -148,7 +212,7 @@
           "description": "Re @streamr Sorry folks. We had some connectivity issues on the stream, so we're rescheduling for another time.\nSubscribe below and keep an eye out on Twitter for updates!\nhttps://twitter.com/developer_dao/status/1636046248514920448\n\nDeveloper DAO (🧱, 🚀): There's has been some connectivity issues so we needed to reschedule the workshop. \nKeep an eye on the upcoming tweets👀  and RSVP on luma👇🏻\nhttps://buff.ly/3JcbBHK",
           "link": "https://twitter.com/developer_dao/status/1636047765519179777",
           "publishedOn": "2023-03-15T16:52:38.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @streamr Sorry folks. We had some connectivity issues on the stream, so we're rescheduling for another time. Subscribe below and keep an eye out on...",
           "imageUrl": null
         },
@@ -158,7 +222,7 @@
           "description": "There's has been some connectivity issues so we needed to reschedule the workshop. \nKeep an eye on the upcoming tweets👀  and RSVP on luma👇🏻\nhttps://buff.ly/3JcbBHK",
           "link": "https://twitter.com/developer_dao/status/1636046248514920448",
           "publishedOn": "2023-03-15T16:46:36.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "There's has been some connectivity issues so we needed to reschedule the workshop. Keep an eye on the upcoming tweets👀 and RSVP on luma👇🏻 htt...",
           "imageUrl": null
         },
@@ -168,7 +232,7 @@
           "description": "Re Come hang with us on YT to join the conversations with @megabyte0x & @nicoburkart \nhttps://www.youtube.com/watch?v=ghkWto6L5Zc",
           "link": "https://twitter.com/developer_dao/status/1636043181870514176",
           "publishedOn": "2023-03-15T16:34:25.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re Come hang with us on YT to join the conversations with @megabyte0x & @nicoburkart https://www.youtube.com/watch?v=ghkWto6L5Zc",
           "imageUrl": null
         },
@@ -178,7 +242,7 @@
           "description": "Send and Receive Real-time Data via Streamr's Decentralized P2P Network | Developer DAO Workshop https://twitter.com/i/broadcasts/1dRKZMnqwPDxB",
           "link": "https://twitter.com/developer_dao/status/1636042235488894976",
           "publishedOn": "2023-03-15T16:30:39.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Send and Receive Real-time Data via Streamr's Decentralized P2P Network | Developer DAO Workshop https://twitter.com/i/broadcasts/1dRKZMnqwPDxB",
           "imageUrl": null
         },
@@ -188,7 +252,7 @@
           "description": "RT Streamr Network\nFor any @developer_dao community members who are intrigued by what you hear in today's workshop with @nicoburkart—here's a list of 6⃣ Web3 use cases for the Streamr Protocol 🧵 https://t.co/YFLxWBIEwd",
           "link": "https://twitter.com/streamr/status/1636034992856858629",
           "publishedOn": "2023-03-15T16:01:53.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Streamr Network: For any @developer_dao community members who are intrigued by what you hear in today's workshop with @nicoburkart—here's a list o...",
           "imageUrl": null
         },
@@ -198,18 +262,8 @@
           "description": "RT Developer DAO (🧱, 🚀)\ngm gm gm!!! \nWake up! get on your desk  and setup your IDE👨🏻‍💻\nWe have @nicoburkart🤩  presenting a @developer_dao workshop on how to build with the decentralized #Streamr Network 🦾 \nHosted by @megabyte0x ✨ \nSign Up here👇🏻\nhttps://buff.ly/3ZHde7j https://t.co/8kCyP2E9b1",
           "link": "https://twitter.com/developer_dao/status/1636031002551173120",
           "publishedOn": "2023-03-15T15:46:01.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT Developer DAO (🧱, 🚀): gm gm gm!!! Wake up! get on your desk and setup your IDE👨🏻‍💻 We have @nicoburkart🤩 presenting a @developer...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1636031002551173120",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "gm gm gm!!! \nWake up! get on your desk  and setup your IDE👨🏻‍💻\nWe have @nicoburkart🤩  presenting a @developer_dao workshop on how to build with the decentralized #Streamr Network 🦾 \nHosted by @megabyte0x ✨ \nSign Up here👇🏻\nhttps://buff.ly/3ZHde7j https://t.co/8kCyP2E9b1",
-          "link": "https://twitter.com/developer_dao/status/1636031002551173120",
-          "publishedOn": "2023-03-15T15:46:01.000Z",
-          "wordCount": 509,
-          "title": "gm gm gm!!! Wake up! get on your desk and setup your IDE👨🏻‍💻 We have @nicoburkart🤩 presenting a @developer_dao workshop on how to build w...",
           "imageUrl": null
         },
         {
@@ -218,78 +272,8 @@
           "description": "RT WeaveDB 🧬\nTill this moment, you had to host your own node to interact with your @weave_db database.\nToday, we are excited to announce our Managed Nodes Service exclusively for @developer_dao members!  🔥\nStay tuned to learn how this works 🚀 https://t.co/fmptHNFfZV",
           "link": "https://twitter.com/weave_db/status/1636013052519743489",
           "publishedOn": "2023-03-15T14:34:42.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "RT WeaveDB 🧬: Till this moment, you had to host your own node to interact with your @weave_db database. Today, we are excited to announce our Manag...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1635943521327755267",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://t.co/0P1RQ2Tf2T",
-          "link": "https://twitter.com/developer_dao/status/1635943521327755267",
-          "publishedOn": "2023-03-15T09:58:24.000Z",
-          "wordCount": 509,
-          "title": "https://t.co/0P1RQ2Tf2T",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1635928929474150402",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @olanetsoft went into the nitty gritty of Solidity errors and explained them for you! 🤓\nIf you wanna keep your EVM bugs at bay, check it out!\nhttps://buff.ly/3F7wnHk",
-          "link": "https://twitter.com/developer_dao/status/1635928929474150402",
-          "publishedOn": "2023-03-15T09:00:25.000Z",
-          "wordCount": 509,
-          "title": "Re @olanetsoft went into the nitty gritty of Solidity errors and explained them for you! 🤓 If you wanna keep your EVM bugs at bay, check it out! ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1635898634238664708",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @nicoburkart Wanna tell your web3 or D_D story too? ✍\nCome to the #blog channel on the D_D Discord, and we will help you get it done! 🚀",
-          "link": "https://twitter.com/developer_dao/status/1635898634238664708",
-          "publishedOn": "2023-03-15T07:00:02.000Z",
-          "wordCount": 509,
-          "title": "Re @nicoburkart Wanna tell your web3 or D_D story too? ✍ Come to the #blog channel on the D_D Discord, and we will help you get it done! 🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1635898633185837056",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "It's WAGMI-Wednesday, where our members tell their web3 and D_D stories! 🎉 \nIf you haven't read how @nicoburkart became a digital nomad, you're missing out 🌴  \nhttps://buff.ly/3ZVBq5H",
-          "link": "https://twitter.com/developer_dao/status/1635898633185837056",
-          "publishedOn": "2023-03-15T07:00:02.000Z",
-          "wordCount": 509,
-          "title": "It's WAGMI-Wednesday, where our members tell their web3 and D_D stories! 🎉 If you haven't read how @nicoburkart became a digital nomad, you're miss...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1635867500461142016",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nAn in-demand and valuable skill for developers in web3 to have is being able to build sybil-resistance into their applications.\nIn this past this took a lot of work, usually involving building a custom server-side component from scratch.\nBefore ETH https://github.com/dabit3/sybil-form… https://twitter.com/i/web/status/1635867500461142016",
-          "link": "https://twitter.com/dabit3/status/1635867500461142016",
-          "publishedOn": "2023-03-15T04:56:19.000Z",
-          "wordCount": 509,
-          "title": "RT nader (🧱, 🚀) | nader.lens: An in-demand and valuable skill for developers in web3 to have is being able to build sybil-resistance into their ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1635853429678518272",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday March 17th at 3:30pm UTC for another episode of our long running @devntellxyz series\n👉 Details and link to RSVP for this weeks episode: \nhttps://buff.ly/4069Pie",
-          "link": "https://twitter.com/developer_dao/status/1635853429678518272",
-          "publishedOn": "2023-03-15T04:00:24.000Z",
-          "wordCount": 509,
-          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday March 17th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/devntellxyz/status/1635414351510396929",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🌈 GM frens!🌈\n🗣️: We're in for another treat this Friday during the \n@developer_dao #DevNTell where @thatguyintech will be giving us an overview of @deformapp 🫠\n 👉: RSVP for event below\nhttps://lu.ma/5t6107g6",
-          "link": "https://twitter.com/devntellxyz/status/1635414351510396929",
-          "publishedOn": "2023-03-13T22:55:40.000Z",
-          "wordCount": 509,
-          "title": "RT DevNTell: 🌈 GM frens!🌈 🗣️: We're in for another treat this Friday during the @developer_dao #DevNTell where @thatguyintech will be giving...",
           "imageUrl": null
         }
       ]
