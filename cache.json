@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1637118163325276160",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Looking for a Job?👀\nOur Developer Dao job board has 30 active job listings! 🔥\n https://buff.ly/3GD24de 🫦",
+          "link": "https://twitter.com/developer_dao/status/1637118163325276160",
+          "publishedOn": "2023-03-18T15:46:00.000Z",
+          "wordCount": 509,
+          "title": "Looking for a Job?👀 Our Developer Dao job board has 30 active job listings! 🔥 https://buff.ly/3GD24de 🫦",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/DevDaoJobs/status/1636823167812419605",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Jobs Team\nLooking for Smart Contract Developer for \n@API3DAO -   The Web3 API Economy 🔥\nhttps://developerdao.pallet.com/jobs/ff6de518-f343-4012-87ff-fc9579b454fa",
@@ -227,26 +237,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1636065024132231168",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @RabbiGreenberg Wanna tell your Web3 or D_D story? ✍️ \nCome to the #blog channel on the D_D Discord, and we help you out! 🚀",
-          "link": "https://twitter.com/developer_dao/status/1636065024132231168",
-          "publishedOn": "2023-03-15T18:01:13.000Z",
-          "wordCount": 509,
-          "title": "Re @RabbiGreenberg Wanna tell your Web3 or D_D story? ✍️ Come to the #blog channel on the D_D Discord, and we help you out! 🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1636065023049998339",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "It's WAGMI-Wednesday, where our members tell their web3 and D_D stories! 🎉 \nCheck out @RabbiGreenberg journey from bulletin boards to Polkadot! ⛓️ \nhttps://buff.ly/3WSYf9d",
-          "link": "https://twitter.com/developer_dao/status/1636065023049998339",
-          "publishedOn": "2023-03-15T18:01:12.000Z",
-          "wordCount": 509,
-          "title": "It's WAGMI-Wednesday, where our members tell their web3 and D_D stories! 🎉 Check out @RabbiGreenberg journey from bulletin boards to Polkadot! ⛓️...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/wolovim/status/1636064085539160065",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT marc | wolovim.eth 🐼\nimportant milestone for @developer_dao:\nfollowing a steward election, 4 of the original 6 multisig signers were rotated out yesterday - myself included.\n🧵",
@@ -274,6 +264,16 @@
           "publishedOn": "2023-03-15T14:34:42.000Z",
           "wordCount": 509,
           "title": "RT WeaveDB 🧬: Till this moment, you had to host your own node to interact with your @weave_db database. Today, we are excited to announce our Manag...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/scarlett_spade/status/1629277992630272001",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT SPADE\n.@DevrelUni asked me to pick a protocol, pretend I'm their developer advocate, and write an article about one of their products 🤔.\nHere's a no-code guide I'd write if I was devrel🥑 for @ourZORA! \nLink: https://scarlettspade.hashnode.dev/no-code-nfts-on-zora",
+          "link": "https://twitter.com/scarlett_spade/status/1629277992630272001",
+          "publishedOn": "2023-02-25T00:31:58.000Z",
+          "wordCount": 509,
+          "title": "RT SPADE: .@DevrelUni asked me to pick a protocol, pretend I'm their developer advocate, and write an article about one of their products 🤔. Here's...",
           "imageUrl": null
         }
       ]
