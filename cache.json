@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36d2dccc-95c3-4d9e-831d-f54451b7563e_1188x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/58-probably-nothing",
-          "author": "Colin4ward",
-          "description": "Countdown to Denver",
-          "link": "https://developerdao.substack.com/p/58-probably-nothing",
-          "publishedOn": "2023-02-22T01:18:59.000Z",
-          "wordCount": null,
-          "title": "#58 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F017c53de-835c-4cc3-9a29-255986adf97a_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F017c53de-835c-4cc3-9a29-255986adf97a_1188x668.png"
         }
       ]
     },
@@ -92,6 +76,66 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1639011346967674885",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @TalentLayer @kirstenrpomales @Romain__TL @mattiapomelli @EthereumDenver @fluence_project 😂🎉",
+          "link": "https://twitter.com/developer_dao/status/1639011346967674885",
+          "publishedOn": "2023-03-23T21:08:51.000Z",
+          "wordCount": 509,
+          "title": "Re @TalentLayer @kirstenrpomales @Romain__TL @mattiapomelli @EthereumDenver @fluence_project 😂🎉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1638918626735697920",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with founders @antmarshall and @RussLive215 who will be giving us an overview of @VibesProof , hosted by @narb_s\n👉 Details and link to RSVP for this weeks episode \nhttps://buff.ly/4015eym",
+          "link": "https://twitter.com/developer_dao/status/1638918626735697920",
+          "publishedOn": "2023-03-23T15:00:24.000Z",
+          "wordCount": 509,
+          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with founders @antmarshall and @RussLive215 who will be giving us an overview of @Vibe...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1638891724046049282",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @ericroupe @miral182000 ☝️",
+          "link": "https://twitter.com/developer_dao/status/1638891724046049282",
+          "publishedOn": "2023-03-23T13:13:30.000Z",
+          "wordCount": 509,
+          "title": "Re @ericroupe @miral182000 ☝️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1638887472284471296",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "https://twitter.com/kempsterrrr/status/1638876996875821057 https://t.co/LVB2NRXIgz\n\n\n\nkempsterrrr.eth / lens | 🫂 🦇🔊: The best of times 🥹 https://twitter.com/developer_dao/status/1638601848851406852",
+          "link": "https://twitter.com/developer_dao/status/1638887472284471296",
+          "publishedOn": "2023-03-23T12:56:37.000Z",
+          "wordCount": 509,
+          "title": "https://twitter.com/kempsterrrr/status/1638876996875821057 https://t.co/LVB2NRXIgz",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1638870918087823360",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @miral182000 @DevDaoJobs sleepin'",
+          "link": "https://twitter.com/developer_dao/status/1638870918087823360",
+          "publishedOn": "2023-03-23T11:50:50.000Z",
+          "wordCount": 509,
+          "title": "Re @miral182000 @DevDaoJobs sleepin'",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1638870835275374593",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": ".@miral182000 is 👑 ship000r.\nSomeone hire this man 👀 https://twitter.com/kempsterrrr/status/1638865782615441409\n\nkempsterrrr.eth / lens | 🫂 🦇🔊: Step 1 ✅ @miral182000 smashed it in 2 days with this PR - https://github.com/kempsterrrr/snapshot-raycast-extension/pull/4#event-8819232879\nStep 2 - Support actions for voting on all proposal options - https://github.com/kempsterrrr/snapshot-raycast-extension/issues/2\nHere is a @loom video showing current functionality - https://www.loom.com/share/5093647089bf4781b9eff500eb8c9b05\nHit us with feedback 🙏",
+          "link": "https://twitter.com/developer_dao/status/1638870835275374593",
+          "publishedOn": "2023-03-23T11:50:30.000Z",
+          "wordCount": 509,
+          "title": ".@miral182000 is 👑 ship000r. Someone hire this man 👀 https://twitter.com/kempsterrrr/status/1638865782615441409",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1638601849950314507",
           "author": "Developer DAO (🧱, 🚀)",
@@ -115,11 +159,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1638599775393140738",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "high quality fr0000ntend ⚒️\n\nNazeeh: Just published an article on how to ensure high-quality frontend development in web3! what are the right tools and libraries to use for a seamless user experience \nhttps://mirror.xyz/nazeeh.eth/GhQcKYRO9UmJM5ub-ycqbXBrpUzxVtV7JcrqLAIR9JE",
+          "description": "high quality fr0000ntend ⚒️ https://twitter.com/nazeeh21/status/1638559599300059138\n\nNazeeh: Just published an article on how to ensure high-quality frontend development in web3! what are the right tools and libraries to use for a seamless user experience \nhttps://mirror.xyz/nazeeh.eth/GhQcKYRO9UmJM5ub-ycqbXBrpUzxVtV7JcrqLAIR9JE",
           "link": "https://twitter.com/developer_dao/status/1638599775393140738",
           "publishedOn": "2023-03-22T17:53:24.000Z",
           "wordCount": 509,
-          "title": "high quality fr0000ntend ⚒️",
+          "title": "high quality fr0000ntend ⚒️ https://twitter.com/nazeeh21/status/1638559599300059138",
           "imageUrl": null
         },
         {
@@ -135,11 +179,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1638481587074392069",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "See y'all at the workshop! ⚒️\n\nDeveloper DAO (🧱, 🚀): Buildoors 👀 You asked for more workshops? \nHere we go!! 🛠️\nJoin @sensahil as he demo how to create dope NFT and token dApps using @quicknode. \n🔗 Sign up now: https://lu.ma/q04fnuos https://t.co/aWOZhpoI7o",
+          "description": "See y'all at the workshop! ⚒️ https://twitter.com/developer_dao/status/1637807134338437123\n\nDeveloper DAO (🧱, 🚀): Buildoors 👀 You asked for more workshops? \nHere we go!! 🛠️\nJoin @sensahil as he demo how to create dope NFT and token dApps using @quicknode. \n🔗 Sign up now: https://lu.ma/q04fnuos https://t.co/aWOZhpoI7o",
           "link": "https://twitter.com/developer_dao/status/1638481587074392069",
           "publishedOn": "2023-03-22T10:03:46.000Z",
           "wordCount": 509,
-          "title": "See y'all at the workshop! ⚒️",
+          "title": "See y'all at the workshop! ⚒️ https://twitter.com/developer_dao/status/1637807134338437123",
           "imageUrl": null
         },
         {
@@ -185,11 +229,11 @@
         {
           "id": "https://twitter.com/lalamaguire/status/1638292387595264000",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Angie\nLooking at you @developer_dao friends 👀💻\n\nClimate Collective: 📣 Reminder: There’s still $7,000 up for grabs for builders who focus on our prompts in the Sustainable Blockchain Hackathon!\nDon’t worry if you’re not a coder – this hackathon does not require deep technical expertise.\n👇 Here are the 3 prompts you can build towards:",
+          "description": "RT Angie\nLooking at you @developer_dao friends 👀💻 https://twitter.com/clim8collective/status/1638235130236903425\n\nClimate Collective: 📣 Reminder: There’s still $7,000 up for grabs for builders who focus on our prompts in the Sustainable Blockchain Hackathon!\nDon’t worry if you’re not a coder – this hackathon does not require deep technical expertise.\n👇 Here are the 3 prompts you can build towards:",
           "link": "https://twitter.com/lalamaguire/status/1638292387595264000",
           "publishedOn": "2023-03-21T21:31:57.000Z",
           "wordCount": 509,
-          "title": "RT Angie: Looking at you @developer_dao friends 👀💻",
+          "title": "RT Angie: Looking at you @developer_dao friends 👀💻 https://twitter.com/clim8collective/status/1638235130236903425",
           "imageUrl": null
         },
         {
@@ -230,56 +274,6 @@
           "publishedOn": "2023-03-21T14:00:01.000Z",
           "wordCount": 509,
           "title": "RT QuickNode: Get ready to join @sensahil as he demonstrates how to craft impressive NFT and token dApps using the power of QuickNode. 💡 Don't miss...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1638160473106403328",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🥹.... ❤️ you too\n\nDeForm - aka Web3 Typeform: Our early customers and partners are invaluable for us. They help us prioritize our roadmap and build the most useful product possible for the entire web3 ecosystem.\nThanks 🫠\n@CityDAO\n@DailyDose\n@mintplexnft\n@ensdomains\n@LensProtocol\n@optimismFND\n@AlchemyLearn\n@developer_dao",
-          "link": "https://twitter.com/developer_dao/status/1638160473106403328",
-          "publishedOn": "2023-03-21T12:47:46.000Z",
-          "wordCount": 509,
-          "title": "🥹.... ❤️ you too",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1638139642535981056",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Looking to hire top talent in Web3? 🚀 \nCheck out the Developer DAO job board, which attracts over 2000 skilled developers each week. \nPost your job today and connect with the best candidates in the industry! \nhttps://buff.ly/3GD24de",
-          "link": "https://twitter.com/developer_dao/status/1638139642535981056",
-          "publishedOn": "2023-03-21T11:25:00.000Z",
-          "wordCount": 509,
-          "title": "Looking to hire top talent in Web3? 🚀 Check out the Developer DAO job board, which attracts over 2000 skilled developers each week. Post your job t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wc49358/status/1637855707973443585",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Papi Billy\nSharing screens and getting work done in the CoWorking space in the Social Channels  @developer_dao .  Starting an initiative to just build and ship in the DAO 🚀.  Got an idea?  Let's build it together.  Will be making announcements soon.  Shout out to @pbillingsby_ @tchowd_ https://t.co/sVVj8uitnR",
-          "link": "https://twitter.com/wc49358/status/1637855707973443585",
-          "publishedOn": "2023-03-20T16:36:45.000Z",
-          "wordCount": 509,
-          "title": "RT Papi Billy: Sharing screens and getting work done in the CoWorking space in the Social Channels @developer_dao . Starting an initiative to just bui...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/K4y1s/status/1637850221492289536",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ϗ (🧱, 🚀)\nRe @hyggepunk, @grow_love, and I are at it again😵‍💫\nJoin our next  \"ADHD after 30\" space this Wednesday!\nThis time, we'll talk about the highs and lows of having ADHD as an adult. 📈📉\nhttps://twitter.com/i/spaces/1BdGYyWOOpBGX/",
-          "link": "https://twitter.com/K4y1s/status/1637850221492289536",
-          "publishedOn": "2023-03-20T16:14:57.000Z",
-          "wordCount": 509,
-          "title": "RT Ϗ (🧱, 🚀): Re @hyggepunk, @grow_love, and I are at it again😵‍💫 Join our next \"ADHD after 30\" space this Wednesday! This time, we'll ta...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1637807532075786247",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @sensahil @QuickNode @megabyte0x http://lu.ma/q04fnuos",
-          "link": "https://twitter.com/developer_dao/status/1637807532075786247",
-          "publishedOn": "2023-03-20T13:25:19.000Z",
-          "wordCount": 509,
-          "title": "Re @sensahil @QuickNode @megabyte0x http://lu.ma/q04fnuos",
           "imageUrl": null
         }
       ]
