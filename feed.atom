@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-25T06:11:56.133Z</id>
+    <id>urn:2023-03-26T06:11:46.109Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-25T06:11:56.133Z</updated>
+    <updated>2023-03-26T06:11:46.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT P3RKS: Discord notifications are coming to a @developer_dao near you soon 👀 https://t.co/o5d4jIIuj4]]></title>
+        <id>https://twitter.com/getP3RKS/status/1639724966940758018</id>
+        <link href="https://twitter.com/getP3RKS/status/1639724966940758018"/>
+        <updated>2023-03-25T20:24:31.000Z</updated>
+        <summary type="html"><![CDATA[RT P3RKS
+Discord notifications are coming to a @developer_dao near you soon 👀 https://t.co/o5d4jIIuj4]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for a challenge this weekend? 🚀 Check out the latest bounty on board by @API3DAO https://buff.ly/3GeK1cz]]></title>
+        <id>https://twitter.com/developer_dao/status/1639652098022477825</id>
+        <link href="https://twitter.com/developer_dao/status/1639652098022477825"/>
+        <updated>2023-03-25T15:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a challenge this weekend? 🚀 
+Check out the latest bounty on board by @API3DAO 
+https://buff.ly/3GeK1cz]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://t.co/bPCwR4Dqio]]></title>
+        <id>https://twitter.com/developer_dao/status/1639587578260205570</id>
+        <link href="https://twitter.com/developer_dao/status/1639587578260205570"/>
+        <updated>2023-03-25T11:18:35.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/bPCwR4Dqio]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re For this with feels/thoughts/feedback about recent Governance processes, please share them hurrr https://forum.developerdao.com/t/temp-check-retros...]]></title>
         <id>https://twitter.com/developer_dao/status/1639431939533709314</id>
@@ -187,17 +220,6 @@ https://buff.ly/3ZiW0Np]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></title>
-        <id>https://twitter.com/developer_dao/status/1639305281552392193</id>
-        <link href="https://twitter.com/developer_dao/status/1639305281552392193"/>
-        <updated>2023-03-24T16:36:50.000Z</updated>
-        <summary type="html"><![CDATA[🚀  D_D Jobs of the Week 🚀
-Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Ryan Gill (🧱, 🚀): Going to be reviewing how rewards are calculated within @developer_dao, what are the different models other DAOs have desig...]]></title>
         <id>https://twitter.com/_dropknowledge/status/1639304216585043975</id>
         <link href="https://twitter.com/_dropknowledge/status/1639304216585043975"/>
@@ -231,29 +253,6 @@ Re @developer_dao I've listened to the community and I hear you loud and clear. 
         <updated>2023-03-24T15:49:14.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ @devntellxyz is live with @VibesProof founders @antmarshall and @RussLive215, hosted by @narb_s 👉 Come check out all the act...]]></title>
-        <id>https://twitter.com/developer_dao/status/1639288476431417355</id>
-        <link href="https://twitter.com/developer_dao/status/1639288476431417355"/>
-        <updated>2023-03-24T15:30:03.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️ @devntellxyz is live with @VibesProof founders @antmarshall and @RussLive215, hosted by @narb_s 
-👉 Come check out all the action on Youtube now using the link below:
-https://buff.ly/3n7kknt]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @streamr @nicoburkart LFBUIDL]]></title>
-        <id>https://twitter.com/developer_dao/status/1639263553218592770</id>
-        <link href="https://twitter.com/developer_dao/status/1639263553218592770"/>
-        <updated>2023-03-24T13:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @streamr @nicoburkart LFBUIDL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
