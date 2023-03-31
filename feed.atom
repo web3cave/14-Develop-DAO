@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-30T06:13:12.589Z</id>
+    <id>urn:2023-03-31T06:13:06.699Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-30T06:13:12.589Z</updated>
+    <updated>2023-03-31T06:13:06.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[wagmi. https://t.co/MtMl0bTv0t]]></title>
+        <id>https://twitter.com/developer_dao/status/1641544469811023874</id>
+        <link href="https://twitter.com/developer_dao/status/1641544469811023874"/>
+        <updated>2023-03-30T20:54:34.000Z</updated>
+        <summary type="html"><![CDATA[wagmi. https://t.co/MtMl0bTv0t]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with the team from @sepana_io who will be treating us to an overview of their product,...]]></title>
+        <id>https://twitter.com/developer_dao/status/1641455335956262913</id>
+        <link href="https://twitter.com/developer_dao/status/1641455335956262913"/>
+        <updated>2023-03-30T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+You won't want to miss tomorrow’s @devntellxyz with the team from @sepana_io who will be treating us to an overview of their product, hosted by @narb_s 
+👉 Details and link to RSVP for this weeks episode
+https://buff.ly/40DNBo2]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re https://twitter.com/i/spaces/1OdKrzALkYnKX]]></title>
+        <id>https://twitter.com/developer_dao/status/1641429647593463808</id>
+        <link href="https://twitter.com/developer_dao/status/1641429647593463808"/>
+        <updated>2023-03-30T13:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Re https://twitter.com/i/spaces/1OdKrzALkYnKX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking to go fulltime in web3? 👀 Join us on our Twitter Space for hot discussions on job opportunities 🌈 and bounties 💸 in the @API3DAO ecos...]]></title>
+        <id>https://twitter.com/developer_dao/status/1641429480555290626</id>
+        <link href="https://twitter.com/developer_dao/status/1641429480555290626"/>
+        <updated>2023-03-30T13:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Looking to go fulltime in web3? 👀
+Join us on our Twitter Space for hot discussions on job opportunities 🌈 and bounties 💸 in the @API3DAO ecosystem. 
+Set Reminders, now: https://twitter.com/i/spaces/1OdKrzALkYnKX https://t.co/tKB9RPP2CL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @megabyte0x wrote about cross chain NFTs with @routerprotocol 🎓 Wanna move your assets around? Check it out! ⚡ https://buff.ly/3XWN0vW https://...]]></title>
+        <id>https://twitter.com/developer_dao/status/1641425754343743490</id>
+        <link href="https://twitter.com/developer_dao/status/1641425754343743490"/>
+        <updated>2023-03-30T13:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @megabyte0x wrote about cross chain NFTs with @routerprotocol 🎓 
+Wanna move your assets around? Check it out! ⚡
+https://buff.ly/3XWN0vW https://t.co/PhAJjmBUBG]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT rednemesis.eth: #DevsOnWheels with @Agenda_crypto @dabit3 @0ceans404 https://t.co/l8Acmuzno9]]></title>
         <id>https://twitter.com/NemesioPaula/status/1641237537048895490</id>
@@ -175,62 +232,6 @@ https://buff.ly/3GD24de]]></summary>
 This week we'll be test driving a new new of distributing POAPs that does away with standard Google Sheet. 
 Read on below for details (short thread we promise)
 0/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re See ya, building cool shit w/ @streamr 🎉]]></title>
-        <id>https://twitter.com/developer_dao/status/1640755709452206081</id>
-        <link href="https://twitter.com/developer_dao/status/1640755709452206081"/>
-        <updated>2023-03-28T16:40:19.000Z</updated>
-        <summary type="html"><![CDATA[Re See ya, building cool shit w/ @streamr 🎉]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 3. Readme: Submissions should include a readme that explains how and why the Streamr tech was used. In addition, it should point to the code snippe...]]></title>
-        <id>https://twitter.com/developer_dao/status/1640754948567695393</id>
-        <link href="https://twitter.com/developer_dao/status/1640754948567695393"/>
-        <updated>2023-03-28T16:37:18.000Z</updated>
-        <summary type="html"><![CDATA[Re 3. Readme: 
-Submissions should include a readme that explains how and why the Streamr tech was used. In addition, it should point to the code snippet where the Streamr tech got integrated.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 2. Technical Implementation: The submission should demonstrate technical proficiency, including using Streamr Network's features effectively, such ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1640754834373574656</id>
-        <link href="https://twitter.com/developer_dao/status/1640754834373574656"/>
-        <updated>2023-03-28T16:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Re 2. Technical Implementation: 
-The submission should demonstrate technical proficiency, including using Streamr Network's features effectively, such as decentralized data streams and the streamr-client SDK (https://www.npmjs.com/package/streamr-client).]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 1. Innovation: Submissions should showcase a unique and innovative idea that addresses a real-world problem or solves an existing challenge.]]></title>
-        <id>https://twitter.com/developer_dao/status/1640754713833398273</id>
-        <link href="https://twitter.com/developer_dao/status/1640754713833398273"/>
-        <updated>2023-03-28T16:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Re 1. Innovation: 
-Submissions should showcase a unique and innovative idea that addresses a real-world problem or solves an existing challenge.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Hackathon Submission Reqs: 💡 Innovation ⚒️ Technical Implementation 📕 Readme]]></title>
-        <id>https://twitter.com/developer_dao/status/1640754604982845442</id>
-        <link href="https://twitter.com/developer_dao/status/1640754604982845442"/>
-        <updated>2023-03-28T16:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Re Hackathon Submission Reqs: 
-💡 Innovation
-⚒️ Technical Implementation
-📕 Readme]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
