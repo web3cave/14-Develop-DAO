@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/65-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "Good news is good news",
+          "link": "https://developerdao.substack.com/p/65-probably-nothing",
+          "publishedOn": "2023-04-11T16:51:33.000Z",
+          "wordCount": null,
+          "title": "#65 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ca1d92-70ea-4ca4-a17e-6e4f5716bdc2_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5ca1d92-70ea-4ca4-a17e-6e4f5716bdc2_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/64-probably-nothing",
           "author": "myz1237",
           "description": "Hacker seeking hacker",
@@ -77,6 +93,136 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1646015412218351618",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "It's WAGMI-Wednesday again, where D_D members tell their Web3 stories! ✒️ \n@cuddleofdeath did her first hackathon and learned that sometimes you don't have to feel ready to try out new things. 🎓 \nhttps://buff.ly/41cRHUr",
+          "link": "https://twitter.com/developer_dao/status/1646015412218351618",
+          "publishedOn": "2023-04-12T05:00:30.000Z",
+          "wordCount": 476,
+          "title": "It's WAGMI-Wednesday again, where D_D members tell their Web3 stories! ✒️ @cuddleofdeath did her first hackathon and learned that sometimes you don'...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1646000186039185410",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday April 14th at 3:30pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for this weeks episode: \nhttps://buff.ly/41fqK2J",
+          "link": "https://twitter.com/developer_dao/status/1646000186039185410",
+          "publishedOn": "2023-04-12T04:00:00.000Z",
+          "wordCount": 476,
+          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday April 14th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645878567182684161",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @axelarcore @flipsidecrypto Set Reminders!\nhttps://twitter.com/i/spaces/1MnxnpelpjEGO?s=20",
+          "link": "https://twitter.com/developer_dao/status/1645878567182684161",
+          "publishedOn": "2023-04-11T19:56:44.000Z",
+          "wordCount": 476,
+          "title": "Re @axelarcore @flipsidecrypto Set Reminders! https://twitter.com/i/spaces/1MnxnpelpjEGO?s=20",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645878330019954688",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Want a $40,000 grand prize 💸 and the chance to get your project funded?   \nJoin the @Axelarcore x @flipsidecrypto Interchain Hackathon! ⚒️\nThursday at 1pm ET, we're talking about the benefits of going ⛓️ cross-chain for builders - and the best tips to help you win.… https://twitter.com/i/web/status/1645878330019954688",
+          "link": "https://twitter.com/developer_dao/status/1645878330019954688",
+          "publishedOn": "2023-04-11T19:55:47.000Z",
+          "wordCount": 476,
+          "title": "Want a $40,000 grand prize 💸 and the chance to get your project funded? Join the @Axelarcore x @flipsidecrypto Interchain Hackathon! ⚒️ Thursday ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645842840105123845",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @devdaowomen @ETHGlobal legends sending legends to do legendary things\nwe ❤️ it",
+          "link": "https://twitter.com/developer_dao/status/1645842840105123845",
+          "publishedOn": "2023-04-11T17:34:46.000Z",
+          "wordCount": 476,
+          "title": "Re @devdaowomen @ETHGlobal legends sending legends to do legendary things we ❤️ it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devdaowomen/status/1645834091617452056",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT D_D Women\nGuess what? 📣\nOur D_D Women Scholarship is sending 4 women to @ETHGlobal Lisbon in Portugal! Network, learn, and create with other women from May 12th - 14th. Giving $1,000 per scholar, apply here: https://notionforms.io/forms/d-d-women-ethglobal-lisbon-application \nDeadline: 4/16 ‼️ https://t.co/xYjYrUIq7w",
+          "link": "https://twitter.com/devdaowomen/status/1645834091617452056",
+          "publishedOn": "2023-04-11T17:00:00.000Z",
+          "wordCount": 476,
+          "title": "RT D_D Women: Guess what? 📣 Our D_D Women Scholarship is sending 4 women to @ETHGlobal Lisbon in Portugal! Network, learn, and create with other wo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645806554418130948",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @devdaowomen @codingwithmanny is going to be sad",
+          "link": "https://twitter.com/developer_dao/status/1645806554418130948",
+          "publishedOn": "2023-04-11T15:10:34.000Z",
+          "wordCount": 476,
+          "title": "Re @devdaowomen @codingwithmanny is going to be sad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645800371825287168",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "A New Developer’s Bullet-Point Guide to Blockchains and Cryptocurrencies by @devdaowomen Queen @0xfmoi \nhttps://buff.ly/41kJv4S",
+          "link": "https://twitter.com/developer_dao/status/1645800371825287168",
+          "publishedOn": "2023-04-11T14:46:00.000Z",
+          "wordCount": 476,
+          "title": "A New Developer’s Bullet-Point Guide to Blockchains and Cryptocurrencies by @devdaowomen Queen @0xfmoi https://buff.ly/41kJv4S",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/PSkinnerTech/status/1645771283542556672",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Doc™\nYesterday, @mannyornothing gave an impromptu masterclass on making career decisions in one of the @developer_dao voice channels.\nThe whole convo inspired me to put together an article on the Feynman Technique and how it applies to DevRel.\nhttps://blog.patrickskinner.tech/mastering-the-art-of-devrel-with-the-feynman-technique",
+          "link": "https://twitter.com/PSkinnerTech/status/1645771283542556672",
+          "publishedOn": "2023-04-11T12:50:25.000Z",
+          "wordCount": 476,
+          "title": "RT Doc™: Yesterday, @mannyornothing gave an impromptu masterclass on making career decisions in one of the @developer_dao voice channels. The whole c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645749295247765504",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @RoverX_io @getP3RKS RoverX is invite-only and available only to select communities.\nTo secure your 3-month free access as a D_D Member, head to @getP3RKS sign-up/login, connect your wallet and follow the instructions to redeem.\nhttps://buff.ly/3o1mntB https://t.co/MNkPVJfuQm",
+          "link": "https://twitter.com/developer_dao/status/1645749295247765504",
+          "publishedOn": "2023-04-11T11:23:03.000Z",
+          "wordCount": 476,
+          "title": "Re @RoverX_io @getP3RKS RoverX is invite-only and available only to select communities. To secure your 3-month free access as a D_D Member, head to @g...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645749294467563520",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @RoverX_io @getP3RKS 📊→ Track your NFT portfolio across multiple wallets in one place \n📉→ Set custom floor price alerts on any collection so that you never miss a trade \n👁️ → Discover new collections using our strategies like “Back from the Dead” & “Floor is Lava”",
+          "link": "https://twitter.com/developer_dao/status/1645749294467563520",
+          "publishedOn": "2023-04-11T11:23:03.000Z",
+          "wordCount": 476,
+          "title": "Re @RoverX_io @getP3RKS 📊→ Track your NFT portfolio across multiple wallets in one place 📉→ Set custom floor price alerts on any collection so...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645749293339537408",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @RoverX_io @getP3RKS 💎 What is @RoverX_io ?\nRoverX is a super-app for NFT degens, backed by YCombinator, and has raised $5.6M in the seed round. \nWith RoverX you can: \n🔔→ Get notifications about your portfolio changes like “Offer received”, “Listing expired” & more, all on your phone",
+          "link": "https://twitter.com/developer_dao/status/1645749293339537408",
+          "publishedOn": "2023-04-11T11:23:02.000Z",
+          "wordCount": 476,
+          "title": "Re @RoverX_io @getP3RKS 💎 What is @RoverX_io ? RoverX is a super-app for NFT degens, backed by YCombinator, and has raised $5.6M in the seed round....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1645749291783184386",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚨 New Membership Perk\nWe've partnered with @RoverX_io to bring NFTs to your mobile 👀\nAll Members have been whitelist for 3 months free access to the Roverx mobile app. \nHead to @getP3RKS, sign-up/login and follow the instructions to reddem 🎉\nhttps://buff.ly/3o1mntB \n📜 https://t.co/8c6ZYo5A6T",
+          "link": "https://twitter.com/developer_dao/status/1645749291783184386",
+          "publishedOn": "2023-04-11T11:23:02.000Z",
+          "wordCount": 476,
+          "title": "🚨 New Membership Perk We've partnered with @RoverX_io to bring NFTs to your mobile 👀 All Members have been whitelist for 3 months free access to...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1645631152458469376",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "𝐇𝐚𝐜𝐤𝐞𝐫𝐬 about 3 more days left for the D_D x Mailchain Hackathon. Submissions are due by 𝟖 𝐩𝐦 𝐔𝐓𝐂 𝐨𝐧 𝟏𝟒𝐭𝐡 𝐀𝐩𝐫𝐢𝐥 𝟐𝟎𝟐𝟑\nPrize Bounty: 1800 USDC prize pool\nDeveloper Components\n🥇 600 USDC\n🥈 400 USDC \n🥉 200 USDC\nPrize Bounty 2: \nDeveloper Tutorial… https://twitter.com/i/web/status/1645631152458469376",
@@ -92,7 +238,7 @@
           "description": "Re and @PatrickAlphaC 🫡",
           "link": "https://twitter.com/developer_dao/status/1645566086899695616",
           "publishedOn": "2023-04-10T23:15:02.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re and @PatrickAlphaC 🫡",
           "imageUrl": null
         },
@@ -102,7 +248,7 @@
           "description": "LETS GO COINBASE 🙌🙌\n\nPatrick Collins 🌪: 🌪️ What's happening with Tornado Cash and Coinbase is STILL one of the most important battles happening today in Web3. \nLet me explain, or just watch my video https://t.co/FtyKk7sYER",
           "link": "https://twitter.com/developer_dao/status/1645565127452655616",
           "publishedOn": "2023-04-10T23:11:14.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "LETS GO COINBASE 🙌🙌",
           "imageUrl": null
         },
@@ -112,7 +258,7 @@
           "description": "Re @streamr @Jamiescript 🥈 Scaling Your DApp with @QuickNode: Tips and Strategies for High-Performance Applications \nby @Jamiescript \nhttps://buff.ly/419kWrg",
           "link": "https://twitter.com/developer_dao/status/1645426541759799296",
           "publishedOn": "2023-04-10T14:00:32.000Z",
-          "wordCount": 509,
+          "wordCount": 476,
           "title": "Re @streamr @Jamiescript 🥈 Scaling Your DApp with @QuickNode: Tips and Strategies for High-Performance Applications by @Jamiescript https://buff.ly...",
           "imageUrl": null
         },
@@ -137,143 +283,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1645058264994914304",
+          "id": "https://twitter.com/web3afrika/status/1643643542579867649",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://t.co/sJhsdT5UUx",
-          "link": "https://twitter.com/developer_dao/status/1645058264994914304",
-          "publishedOn": "2023-04-09T13:37:08.000Z",
+          "description": "RT Web3 Afrika\n🔥👨‍💻🥁🥁🥁👩‍💻🔥\n📢Hackathon is Here!!!\nWe are calling all developers, innovators, and tech enthusiasts!🔊 Join us for the Web3 Afrika Hackathon and unleash your creativity!\n3000 USD Up for grabs! 😍\n#Web3Afrika\nRegister 👇 https://t.co/TMdzHebDu2",
+          "link": "https://twitter.com/web3afrika/status/1643643542579867649",
+          "publishedOn": "2023-04-05T15:55:32.000Z",
           "wordCount": 476,
-          "title": "https://t.co/sJhsdT5UUx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/PSkinnerTech/status/1644463839918845953",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Doc™\nCan we get some votes on this?\nHelp us with the colors for our new logo from @tonykipkemboi and I speed-running a decentralized IoT startup. 🤣\n\nTony Kipkemboi: @PSkinnerTech @kempsterrrr @streamr @developer_dao @ycombinator Niceeee! 🔥\nNot sure if this is the best description of the colors (can edit)😂",
-          "link": "https://twitter.com/PSkinnerTech/status/1644463839918845953",
-          "publishedOn": "2023-04-07T22:15:06.000Z",
-          "wordCount": 509,
-          "title": "RT Doc™: Can we get some votes on this? Help us with the colors for our new logo from @tonykipkemboi and I speed-running a decentralized IoT startup....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1644426115283316750",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "what a pair 👑s 👇 is how it's done\n\nDoc™: @tonykipkemboi and I took 1st & 2nd place at the @streamr Hackathon hosted by @developer_dao \nExactly 48 hours later...\n-We've combined our tech\n-Wrote a Whitepaper\n-Wrote a Grant Proposal\n-Shot a Founders Intro Video\nAnd now we're applying to @ycombinator.",
-          "link": "https://twitter.com/developer_dao/status/1644426115283316750",
-          "publishedOn": "2023-04-07T19:45:12.000Z",
-          "wordCount": 509,
-          "title": "what a pair 👑s 👇 is how it's done",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1644425775305871360",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @PSkinnerTech @tonykipkemboi @streamr @ycombinator https://t.co/VnNsMGgZY5",
-          "link": "https://twitter.com/developer_dao/status/1644425775305871360",
-          "publishedOn": "2023-04-07T19:43:51.000Z",
-          "wordCount": 509,
-          "title": "Re @PSkinnerTech @tonykipkemboi @streamr @ycombinator https://t.co/VnNsMGgZY5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1644361952179769346",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n🗣️ @devntellxyz is now live with @samnode_ and @nodeguardians, hosted by @narb_s \n👉 Come check out all the action on Youtube now using the link below:\nhttps://buff.ly/3nH9rcp",
-          "link": "https://twitter.com/developer_dao/status/1644361952179769346",
-          "publishedOn": "2023-04-07T15:30:14.000Z",
-          "wordCount": 476,
-          "title": "✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @samnode_ and @nodeguardians, hosted by @narb_s 👉 Come check out all the action on Youtube now...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1644086166365274112",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nAt ETH Denver one of the biggest challenges devs had was simply getting mobile wallet SDKs to actually work as intended.\nToday I tried @thirdweb new Mobile SDK for wallet connections and it was shockingly simple to set up and *just worked* the very first time. 🫡 https://t.co/j6MCDETddF",
-          "link": "https://twitter.com/dabit3/status/1644086166365274112",
-          "publishedOn": "2023-04-06T21:14:22.000Z",
-          "wordCount": 476,
-          "title": "RT nader (🧱, 🚀) | nader.lens: At ETH Denver one of the biggest challenges devs had was simply getting mobile wallet SDKs to actually work as int...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1644050842318667776",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @samnode_ who will be treating us to an overview of @nodeguardians, hosted by @narb_s \n👉 Details and link to RSVP for this weeks episode\nhttps://buff.ly/40Dr1N0",
-          "link": "https://twitter.com/developer_dao/status/1644050842318667776",
-          "publishedOn": "2023-04-06T18:54:00.000Z",
-          "wordCount": 509,
-          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @samnode_ who will be treating us to an overview of @nodeguardians, hosted by @na...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/QuickNode/status/1644037331496894464",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT QuickNode\nwhat are QuickAlerts?\nLets take a dive into the most powerful on-chain notification system\n👇 https://t.co/vlZTmZ8aoF",
-          "link": "https://twitter.com/QuickNode/status/1644037331496894464",
-          "publishedOn": "2023-04-06T18:00:19.000Z",
-          "wordCount": 476,
-          "title": "RT QuickNode: what are QuickAlerts? Lets take a dive into the most powerful on-chain notification system 👇 https://t.co/vlZTmZ8aoF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1644007062731456513",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "D_D Frens! The @Hedera team and Developer DAO invite you to an exclusive happy hour at @nft_nyc for an evening of networking, drinks, and light bites. Come by and grab some exclusive swag 😎\nSpace is limited, RSVP now 📍\nhttps://www.eventbrite.com/e/hedera-x-developer-dao-evening-blocktails-dappetizers-nftnyc-tickets-607523177177?aff=DD https://t.co/cgwn5JpAeO",
-          "link": "https://twitter.com/developer_dao/status/1644007062731456513",
-          "publishedOn": "2023-04-06T16:00:02.000Z",
-          "wordCount": 476,
-          "title": "D_D Frens! The @Hedera team and Developer DAO invite you to an exclusive happy hour at @nft_nyc for an evening of networking, drinks, and light bites....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1643991846211956739",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1gqxvyYagdaJB",
-          "link": "https://twitter.com/developer_dao/status/1643991846211956739",
-          "publishedOn": "2023-04-06T14:59:34.000Z",
-          "wordCount": 476,
-          "title": "https://twitter.com/i/spaces/1gqxvyYagdaJB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1643988179702394881",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "We're going live in 15 ... 👀\nCome hang w/@QuickNode to talk shipping... but faster 💨\nThen claim 2 months free QN Build Plan from @getP3RKS:\n- 10 total endpoints\n- 20M credits\n- RPC, NFT, Token API + QuickAlerts\n- Access to 19 chains\n#whatadaytobeadev https://t.co/LOuYiy7HGh\n\n\nDeveloper DAO (🧱, 🚀): We're talking 🛳️ing with the @QuickNode team on Thursday, anon.\nCome hang w/us.\nhttps://twitter.com/i/spaces/1gqxvyYagdaJB",
-          "link": "https://twitter.com/developer_dao/status/1643988179702394881",
-          "publishedOn": "2023-04-06T14:45:00.000Z",
-          "wordCount": 476,
-          "title": "We're going live in 15 ... 👀 Come hang w/@QuickNode to talk shipping... but faster 💨 Then claim 2 months free QN Build Plan from @getP3RKS: - 10...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1643970554821738501",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @PSkinnerTech @streamr ❤️",
-          "link": "https://twitter.com/developer_dao/status/1643970554821738501",
-          "publishedOn": "2023-04-06T13:34:58.000Z",
-          "wordCount": 509,
-          "title": "Re @PSkinnerTech @streamr ❤️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/streamr/status/1643961543900504066",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Streamr Network\nHow does one go about creating a decentralized air quality monitoring system in 72 hours? First place winner of the @developer_dao | #Streamr mini-hackathon, @PSkinnerTech, shares the process that led to AirGuardian.\nhttps://blog.patrickskinner.tech/from-volcano-ashes-to-victory-my-72-hour-hackathon-journey-creating-airguardian",
-          "link": "https://twitter.com/streamr/status/1643961543900504066",
-          "publishedOn": "2023-04-06T12:59:10.000Z",
-          "wordCount": 509,
-          "title": "RT Streamr Network: How does one go about creating a decentralized air quality monitoring system in 72 hours? First place winner of the @developer_dao...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1642218783140978690",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Developer DAO (🧱, 🚀)\nWe're talking 🛳️ing with the @QuickNode team on Thursday, anon.\nCome hang w/us.\nhttps://twitter.com/i/spaces/1gqxvyYagdaJB",
-          "link": "https://twitter.com/developer_dao/status/1642218783140978690",
-          "publishedOn": "2023-04-01T17:34:03.000Z",
-          "wordCount": 509,
-          "title": "RT Developer DAO (🧱, 🚀): We're talking 🛳️ing with the @QuickNode team on Thursday, anon. Come hang w/us. https://twitter.com/i/spaces/1gqxvy...",
+          "title": "RT Web3 Afrika: 🔥👨‍💻🥁🥁🥁👩‍💻🔥 📢Hackathon is Here!!! We are calling all developers, innovators, and tech enthusiasts!🔊...",
           "imageUrl": null
         }
       ]
