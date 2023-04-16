@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-15T06:11:25.320Z</id>
+    <id>urn:2023-04-16T06:11:33.181Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-15T06:11:25.320Z</updated>
+    <updated>2023-04-16T06:11:33.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT P3RKS: Who’s building on the weekend in @developer_dao and wants some free RPC credits? 👀 Signup and redeem offers @ http://p3rks.xyz]]></title>
+        <id>https://twitter.com/getP3RKS/status/1647263584169127937</id>
+        <link href="https://twitter.com/getP3RKS/status/1647263584169127937"/>
+        <updated>2023-04-15T15:40:17.000Z</updated>
+        <summary type="html"><![CDATA[RT P3RKS
+Who’s building on the weekend in @developer_dao and wants some free RPC credits? 👀
+Signup and redeem offers @ http://p3rks.xyz]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @touchey_phoenix Soon]]></title>
+        <id>https://twitter.com/developer_dao/status/1647226543104487426</id>
+        <link href="https://twitter.com/developer_dao/status/1647226543104487426"/>
+        <updated>2023-04-15T13:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @touchey_phoenix Soon]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @HAPPYS1NGH @wc49358 https://t.co/FppfuBkVkN]]></title>
         <id>https://twitter.com/developer_dao/status/1647047359434506240</id>
@@ -120,20 +142,6 @@ https://buff.ly/41cZtho]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Fleek ⚡️: Build3rs Stack, with @LitProtocol ⚡ Explore #LitProtocol: the decentralized key management network with signing, encryption, and compu...]]></title>
-        <id>https://twitter.com/fleekxyz/status/1646876505895469057</id>
-        <link href="https://twitter.com/fleekxyz/status/1646876505895469057"/>
-        <updated>2023-04-14T14:02:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Fleek ⚡️
-Build3rs Stack, with @LitProtocol ⚡
-Explore #LitProtocol: the decentralized key management network with signing, encryption, and compute capabilities!
-Learn how to leverage Lit Protocol to manage keys & ensure secure data transactions in your builds:
-https://blog.fleek.xyz/post/builders-stack-lit-protocol/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Doc™: Re @developer_dao is full of mentors. I’d almost say MOST of them that I’ve interacted with have mentored me in one way or another. My Sho...]]></title>
         <id>https://twitter.com/PSkinnerTech/status/1646674722585821186</id>
         <link href="https://twitter.com/PSkinnerTech/status/1646674722585821186"/>
@@ -222,18 +230,6 @@ Here are some projects built on Arweave that deserve to be highlighted 👇]]></
         <updated>2023-04-13T16:33:12.000Z</updated>
         <summary type="html"><![CDATA[Event Alert 🚨 T - 30 minutes. 
 https://twitter.com/i/spaces/1MnxnpelpjEGO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed it: @Jamiescript explained how to get started with @streamr 😎 https://buff.ly/3nPzONg]]></title>
-        <id>https://twitter.com/developer_dao/status/1646544320906813441</id>
-        <link href="https://twitter.com/developer_dao/status/1646544320906813441"/>
-        <updated>2023-04-13T16:02:12.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it:
-@Jamiescript explained how to get started with @streamr 😎
-https://buff.ly/3nPzONg]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
