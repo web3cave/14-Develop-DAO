@@ -1,10 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-18T06:12:53.108Z</id>
+    <id>urn:2023-04-19T06:12:49.579Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-18T06:12:53.108Z</updated>
+    <updated>2023-04-19T06:12:49.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday April 21st at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...]]></title>
+        <id>https://twitter.com/developer_dao/status/1648536927811903490</id>
+        <link href="https://twitter.com/developer_dao/status/1648536927811903490"/>
+        <updated>2023-04-19T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️: Join us this Friday April 21st at 3:30pm UTC for another episode of our long running @devntellxyz series 
+👉 Details and link to RSVP for this weeks episode:
+https://buff.ly/3A2LpeB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡️ New Snapshot Vote ⚡️ Title: D_D Blog Rewards Starts on: 20 Apr 23 17:00 UTC Ends on: 25 Apr 23 17:00 UTC Author: 0xd35D68Fe3F7Ae603d984B3b17C9d...]]></title>
+        <id>https://twitter.com/developer_dao/status/1648474760840622082</id>
+        <link href="https://twitter.com/developer_dao/status/1648474760840622082"/>
+        <updated>2023-04-18T23:53:04.000Z</updated>
+        <summary type="html"><![CDATA[⚡️ New Snapshot Vote ⚡️
+Title: D_D Blog Rewards
+Starts on: 20 Apr 23 17:00 UTC
+Ends on: 25 Apr 23 17:00 UTC
+Author: 0xd35D68Fe3F7Ae603d984B3b17C9dFe156B973Fd5
+Read the proposal here: https://snapshot.org/#/devdao.eth/proposal/0x5e79db7912dec229d72f0a66b6139e7bbd0eabb7053343b921d19ce1ee4dd5c9]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations @devdaowomen Scholars 🚀🚀🚀]]></title>
+        <id>https://twitter.com/developer_dao/status/1648389281193369605</id>
+        <link href="https://twitter.com/developer_dao/status/1648389281193369605"/>
+        <updated>2023-04-18T18:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations @devdaowomen Scholars 🚀🚀🚀
+
+D_D Women: Congratulations D_D Women Scholars 🎊🎊
+You're headed to Portugal for @ETHGlobal Lisbon @carolinekabat, @NenaRapsody, @Tisieo, and @iamsamcodes! We can't wait to tune in to your #ETHGlobalLisbon 🐚 experience. https://t.co/HcbHTqr7xp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎 VIBES Poppin' offffff in D_D https://t.co/m2ivncF6Mr]]></title>
+        <id>https://twitter.com/developer_dao/status/1648373357207859201</id>
+        <link href="https://twitter.com/developer_dao/status/1648373357207859201"/>
+        <updated>2023-04-18T17:10:08.000Z</updated>
+        <summary type="html"><![CDATA[😎 VIBES Poppin' offffff in D_D https://t.co/m2ivncF6Mr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#66 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/66-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/66-probably-nothing"/>
+        <updated>2023-04-18T16:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Like the Bat Signal, but for hackathons]]></summary>
+        <author>
+            <name>Osikhena James Oshomah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D_D member @omobukola_ gathered some thoughts on building DApps that really matter! 🚀 https://buff.ly/3STzsAw]]></title>
+        <id>https://twitter.com/developer_dao/status/1648341319192813568</id>
+        <link href="https://twitter.com/developer_dao/status/1648341319192813568"/>
+        <updated>2023-04-18T15:02:49.000Z</updated>
+        <summary type="html"><![CDATA[D_D member @omobukola_ gathered some thoughts on building DApps that really matter! 🚀 
+https://buff.ly/3STzsAw]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth: human-readable data https://t.co/wEnVlT6HH2]]></title>
+        <id>https://twitter.com/kayprasla/status/1648259932612091905</id>
+        <link href="https://twitter.com/kayprasla/status/1648259932612091905"/>
+        <updated>2023-04-18T09:39:25.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth
+human-readable data https://t.co/wEnVlT6HH2
+
+
+taytems.eth: the new ens app is live (in alpha) on mainnet!
+https://alpha.ens.domains]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 All of them free and some even pay YO...]]></title>
+        <id>https://twitter.com/developer_dao/status/1648220064326332416</id>
+        <link href="https://twitter.com/developer_dao/status/1648220064326332416"/>
+        <updated>2023-04-18T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 
+All of them free and some even pay YOU for learning 🤑 
+https://buff.ly/43KuGdB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @cookbook_dev gm 👩‍🍳]]></title>
         <id>https://twitter.com/developer_dao/status/1648101172098781192</id>
@@ -38,11 +137,11 @@ Register here → https://lu.ma/m4cnc7rf https://t.co/mcuWQ4Q1j4]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079]]></title>
+        <title type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round?]]></title>
         <id>https://twitter.com/developer_dao/status/1648083145156186115</id>
         <link href="https://twitter.com/developer_dao/status/1648083145156186115"/>
         <updated>2023-04-17T21:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079
+        <summary type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round?
 
 Gitcoin (🤖, 💚): ✨GRANTEES: This is the final week to apply for the Gitcoin Grants Beta Round✨
 Final day to apply is Friday, April 21st at 23:59 UTC
@@ -148,74 +247,6 @@ If there are any last-minute US tax fil000rs in @developer_dao you can claim a d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @kempsterrrr @jackson_felty @PSkinnerTech @cookbook_dev heard he got studio]]></title>
-        <id>https://twitter.com/developer_dao/status/1647638728003969024</id>
-        <link href="https://twitter.com/developer_dao/status/1647638728003969024"/>
-        <updated>2023-04-16T16:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @kempsterrrr @jackson_felty @PSkinnerTech @cookbook_dev heard he got studio]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @jackson_felty @PSkinnerTech @cookbook_dev https://lu.ma/m4cnc7rf]]></title>
-        <id>https://twitter.com/developer_dao/status/1647636816798052352</id>
-        <link href="https://twitter.com/developer_dao/status/1647636816798052352"/>
-        <updated>2023-04-16T16:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @jackson_felty @PSkinnerTech @cookbook_dev https://lu.ma/m4cnc7rf]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if we tell you, you don't have to start building your smart contracts from scratch? 👀 Join @jackson_felty and @PSkinnerTech to explore how to ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1647636765296168960</id>
-        <link href="https://twitter.com/developer_dao/status/1647636765296168960"/>
-        <updated>2023-04-16T16:23:11.000Z</updated>
-        <summary type="html"><![CDATA[What if we tell you, you don't have to start building your smart contracts from scratch? 👀
-Join @jackson_felty and @PSkinnerTech to explore how to get started with @cookbook_dev 👩‍🍳🛠️
-Sign up, now → https://lu.ma/m4cnc7rf https://t.co/0WI8nTxVqu]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT P3RKS: Who’s building on the weekend in @developer_dao and wants some free RPC credits? 👀 Signup and redeem offers @ http://p3rks.xyz]]></title>
-        <id>https://twitter.com/getP3RKS/status/1647263584169127937</id>
-        <link href="https://twitter.com/getP3RKS/status/1647263584169127937"/>
-        <updated>2023-04-15T15:40:17.000Z</updated>
-        <summary type="html"><![CDATA[RT P3RKS
-Who’s building on the weekend in @developer_dao and wants some free RPC credits? 👀
-Signup and redeem offers @ http://p3rks.xyz]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @touchey_phoenix Soon]]></title>
-        <id>https://twitter.com/developer_dao/status/1647226543104487426</id>
-        <link href="https://twitter.com/developer_dao/status/1647226543104487426"/>
-        <updated>2023-04-15T13:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Re @touchey_phoenix Soon]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Keshav Sharma: LFG🚀 Here's my blog link - https://0xkeshav.hashnode.dev/using-react-email-to-create-templates-for-mailchain Just submitted for @...]]></title>
-        <id>https://twitter.com/skeshav25/status/1646941848697724929</id>
-        <link href="https://twitter.com/skeshav25/status/1646941848697724929"/>
-        <updated>2023-04-14T18:21:50.000Z</updated>
-        <summary type="html"><![CDATA[RT Keshav Sharma
-LFG🚀
-Here's my blog link - https://0xkeshav.hashnode.dev/using-react-email-to-create-templates-for-mailchain
- Just submitted for @Mailchain_xyz  Mini Hack by @developer_dao (🧱,🚀)
-#d_dminihack #mailchain]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Haz Æ 41: How @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs It creates an end-to-end encrypted tunnel between your computer and...]]></title>
         <id>https://twitter.com/hazae41/status/1646827631634010113</id>
         <link href="https://twitter.com/hazae41/status/1646827631634010113"/>
@@ -224,20 +255,6 @@ Here's my blog link - https://0xkeshav.hashnode.dev/using-react-email-to-create-
 How @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs
 It creates an end-to-end encrypted tunnel between your computer and the Ethereum RPC
 This tunnel is in fact a path of 3 Tor nodes that encrypt and route your packets back-and-forth between your computer and… https://twitter.com/i/web/status/1646827631634010113 https://t.co/y7QyVn3isP]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Megabyte ᵍᵐ (🧱,🚀): Reddit partnered with Polygon to bring NFTs to 7+ million people 🤯 How? They didn’t require users to know anything a...]]></title>
-        <id>https://twitter.com/megabyte0x/status/1646507252885631008</id>
-        <link href="https://twitter.com/megabyte0x/status/1646507252885631008"/>
-        <updated>2023-04-13T13:34:54.000Z</updated>
-        <summary type="html"><![CDATA[RT Megabyte ᵍᵐ (🧱,🚀)
-Reddit partnered with Polygon to bring NFTs to 7+ million people 🤯
-How? They didn’t require users to know anything about crypto.
-I just released a guide on how you can recreate the @Reddit Marketplace on @0xPolygon. 👇
-It allows email signup and gasless transfer of NFTs 🤩]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

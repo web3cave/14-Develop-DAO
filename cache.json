@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/66-probably-nothing",
+          "author": "Osikhena James Oshomah",
+          "description": "Like the Bat Signal, but for hackathons",
+          "link": "https://developerdao.substack.com/p/66-probably-nothing",
+          "publishedOn": "2023-04-18T16:54:59.000Z",
+          "wordCount": null,
+          "title": "#66 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6862ab1e-e340-4fab-badd-d9580bf5d427_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6862ab1e-e340-4fab-badd-d9580bf5d427_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/65-probably-nothing",
           "author": "Sylvia R.",
           "description": "Good news is good news",
@@ -77,6 +93,76 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1648536927811903490",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday April 21st at 3:30pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for this weeks episode:\nhttps://buff.ly/3A2LpeB",
+          "link": "https://twitter.com/developer_dao/status/1648536927811903490",
+          "publishedOn": "2023-04-19T04:00:06.000Z",
+          "wordCount": 509,
+          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday April 21st at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1648474760840622082",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "⚡️ New Snapshot Vote ⚡️\nTitle: D_D Blog Rewards\nStarts on: 20 Apr 23 17:00 UTC\nEnds on: 25 Apr 23 17:00 UTC\nAuthor: 0xd35D68Fe3F7Ae603d984B3b17C9dFe156B973Fd5\nRead the proposal here: https://snapshot.org/#/devdao.eth/proposal/0x5e79db7912dec229d72f0a66b6139e7bbd0eabb7053343b921d19ce1ee4dd5c9",
+          "link": "https://twitter.com/developer_dao/status/1648474760840622082",
+          "publishedOn": "2023-04-18T23:53:04.000Z",
+          "wordCount": 509,
+          "title": "⚡️ New Snapshot Vote ⚡️ Title: D_D Blog Rewards Starts on: 20 Apr 23 17:00 UTC Ends on: 25 Apr 23 17:00 UTC Author: 0xd35D68Fe3F7Ae603d984B3b17C9d...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1648389281193369605",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Congratulations @devdaowomen Scholars 🚀🚀🚀\n\nD_D Women: Congratulations D_D Women Scholars 🎊🎊\nYou're headed to Portugal for @ETHGlobal Lisbon @carolinekabat, @NenaRapsody, @Tisieo, and @iamsamcodes! We can't wait to tune in to your #ETHGlobalLisbon 🐚 experience. https://t.co/HcbHTqr7xp",
+          "link": "https://twitter.com/developer_dao/status/1648389281193369605",
+          "publishedOn": "2023-04-18T18:13:24.000Z",
+          "wordCount": 509,
+          "title": "Congratulations @devdaowomen Scholars 🚀🚀🚀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1648373357207859201",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "😎 VIBES Poppin' offffff in D_D https://t.co/m2ivncF6Mr",
+          "link": "https://twitter.com/developer_dao/status/1648373357207859201",
+          "publishedOn": "2023-04-18T17:10:08.000Z",
+          "wordCount": 509,
+          "title": "😎 VIBES Poppin' offffff in D_D https://t.co/m2ivncF6Mr",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1648341319192813568",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "D_D member @omobukola_ gathered some thoughts on building DApps that really matter! 🚀 \nhttps://buff.ly/3STzsAw",
+          "link": "https://twitter.com/developer_dao/status/1648341319192813568",
+          "publishedOn": "2023-04-18T15:02:49.000Z",
+          "wordCount": 509,
+          "title": "D_D member @omobukola_ gathered some thoughts on building DApps that really matter! 🚀 https://buff.ly/3STzsAw",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kayprasla/status/1648259932612091905",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT krinza.eth\nhuman-readable data https://t.co/wEnVlT6HH2\n\n\ntaytems.eth: the new ens app is live (in alpha) on mainnet!\nhttps://alpha.ens.domains",
+          "link": "https://twitter.com/kayprasla/status/1648259932612091905",
+          "publishedOn": "2023-04-18T09:39:25.000Z",
+          "wordCount": 509,
+          "title": "RT krinza.eth: human-readable data https://t.co/wEnVlT6HH2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1648220064326332416",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 \nAll of them free and some even pay YOU for learning 🤑 \nhttps://buff.ly/43KuGdB",
+          "link": "https://twitter.com/developer_dao/status/1648220064326332416",
+          "publishedOn": "2023-04-18T07:01:00.000Z",
+          "wordCount": 509,
+          "title": "D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 All of them free and some even pay YO...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1648101172098781192",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @cookbook_dev gm 👩‍🍳",
@@ -109,11 +195,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1648083145156186115",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079\n\nGitcoin (🤖, 💚): ✨GRANTEES: This is the final week to apply for the Gitcoin Grants Beta Round✨\nFinal day to apply is Friday, April 21st at 23:59 UTC\nLearn more below ⤵️ https://t.co/zRdM7d48Fo",
+          "description": "Which projects by D_D Members are applying for the @gitcoin beta grants round?\n\nGitcoin (🤖, 💚): ✨GRANTEES: This is the final week to apply for the Gitcoin Grants Beta Round✨\nFinal day to apply is Friday, April 21st at 23:59 UTC\nLearn more below ⤵️ https://t.co/zRdM7d48Fo",
           "link": "https://twitter.com/developer_dao/status/1648083145156186115",
           "publishedOn": "2023-04-17T21:56:56.000Z",
           "wordCount": 509,
-          "title": "Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079",
+          "title": "Which projects by D_D Members are applying for the @gitcoin beta grants round?",
           "imageUrl": null
         },
         {
@@ -197,66 +283,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1647638728003969024",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @kempsterrrr @jackson_felty @PSkinnerTech @cookbook_dev heard he got studio",
-          "link": "https://twitter.com/developer_dao/status/1647638728003969024",
-          "publishedOn": "2023-04-16T16:30:59.000Z",
-          "wordCount": 509,
-          "title": "Re @kempsterrrr @jackson_felty @PSkinnerTech @cookbook_dev heard he got studio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1647636816798052352",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @jackson_felty @PSkinnerTech @cookbook_dev https://lu.ma/m4cnc7rf",
-          "link": "https://twitter.com/developer_dao/status/1647636816798052352",
-          "publishedOn": "2023-04-16T16:23:23.000Z",
-          "wordCount": 509,
-          "title": "Re @jackson_felty @PSkinnerTech @cookbook_dev https://lu.ma/m4cnc7rf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1647636765296168960",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "What if we tell you, you don't have to start building your smart contracts from scratch? 👀\nJoin @jackson_felty and @PSkinnerTech to explore how to get started with @cookbook_dev 👩‍🍳🛠️\nSign up, now → https://lu.ma/m4cnc7rf https://t.co/0WI8nTxVqu",
-          "link": "https://twitter.com/developer_dao/status/1647636765296168960",
-          "publishedOn": "2023-04-16T16:23:11.000Z",
-          "wordCount": 509,
-          "title": "What if we tell you, you don't have to start building your smart contracts from scratch? 👀 Join @jackson_felty and @PSkinnerTech to explore how to ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/getP3RKS/status/1647263584169127937",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT P3RKS\nWho’s building on the weekend in @developer_dao and wants some free RPC credits? 👀\nSignup and redeem offers @ http://p3rks.xyz",
-          "link": "https://twitter.com/getP3RKS/status/1647263584169127937",
-          "publishedOn": "2023-04-15T15:40:17.000Z",
-          "wordCount": 509,
-          "title": "RT P3RKS: Who’s building on the weekend in @developer_dao and wants some free RPC credits? 👀 Signup and redeem offers @ http://p3rks.xyz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1647226543104487426",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @touchey_phoenix Soon",
-          "link": "https://twitter.com/developer_dao/status/1647226543104487426",
-          "publishedOn": "2023-04-15T13:13:06.000Z",
-          "wordCount": 509,
-          "title": "Re @touchey_phoenix Soon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/skeshav25/status/1646941848697724929",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Keshav Sharma\nLFG🚀\nHere's my blog link - https://0xkeshav.hashnode.dev/using-react-email-to-create-templates-for-mailchain\n Just submitted for @Mailchain_xyz  Mini Hack by @developer_dao (🧱,🚀)\n#d_dminihack #mailchain",
-          "link": "https://twitter.com/skeshav25/status/1646941848697724929",
-          "publishedOn": "2023-04-14T18:21:50.000Z",
-          "wordCount": 509,
-          "title": "RT Keshav Sharma: LFG🚀 Here's my blog link - https://0xkeshav.hashnode.dev/using-react-email-to-create-templates-for-mailchain Just submitted for @...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/hazae41/status/1646827631634010113",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Haz Æ 41\nHow @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs\nIt creates an end-to-end encrypted tunnel between your computer and the Ethereum RPC\nThis tunnel is in fact a path of 3 Tor nodes that encrypt and route your packets back-and-forth between your computer and… https://twitter.com/i/web/status/1646827631634010113 https://t.co/y7QyVn3isP",
@@ -264,16 +290,6 @@
           "publishedOn": "2023-04-14T10:47:58.000Z",
           "wordCount": 509,
           "title": "RT Haz Æ 41: How @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs It creates an end-to-end encrypted tunnel between your computer and...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/megabyte0x/status/1646507252885631008",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Megabyte ᵍᵐ (🧱,🚀)\nReddit partnered with Polygon to bring NFTs to 7+ million people 🤯\nHow? They didn’t require users to know anything about crypto.\nI just released a guide on how you can recreate the @Reddit Marketplace on @0xPolygon. 👇\nIt allows email signup and gasless transfer of NFTs 🤩",
-          "link": "https://twitter.com/megabyte0x/status/1646507252885631008",
-          "publishedOn": "2023-04-13T13:34:54.000Z",
-          "wordCount": 509,
-          "title": "RT Megabyte ᵍᵐ (🧱,🚀): Reddit partnered with Polygon to bring NFTs to 7+ million people 🤯 How? They didn’t require users to know anything a...",
           "imageUrl": null
         }
       ]
