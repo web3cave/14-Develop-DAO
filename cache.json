@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f84806a-6caf-4534-a375-50512efb04f4_1188x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/62-probably-nothing",
-          "author": "Osikhena James Oshomah",
-          "description": "Still written by humans!",
-          "link": "https://developerdao.substack.com/p/62-probably-nothing",
-          "publishedOn": "2023-03-21T03:25:51.000Z",
-          "wordCount": null,
-          "title": "#62 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb0dd28-82e6-421a-b3f4-d6927391ec28_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb0dd28-82e6-421a-b3f4-d6927391ec28_1188x668.png"
         }
       ]
     },
@@ -92,6 +76,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1648740353670004736",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Using @cookbook_dev to find smart contracts for your next dApp | Workshop 22 https://twitter.com/i/broadcasts/1nAKErQVLWgGL",
+          "link": "https://twitter.com/developer_dao/status/1648740353670004736",
+          "publishedOn": "2023-04-19T17:28:27.000Z",
+          "wordCount": 509,
+          "title": "Using @cookbook_dev to find smart contracts for your next dApp | Workshop 22 https://twitter.com/i/broadcasts/1nAKErQVLWgGL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1648703803267465219",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @olanetsoft went into the nitty gritty of Solidity errors and explained them for you! 🤓\nIf you wanna keep your bugs at bay, check it out!\nhttps://buff.ly/3F7wnHk",
+          "link": "https://twitter.com/developer_dao/status/1648703803267465219",
+          "publishedOn": "2023-04-19T15:03:12.000Z",
+          "wordCount": 509,
+          "title": "Re @olanetsoft went into the nitty gritty of Solidity errors and explained them for you! 🤓 If you wanna keep your bugs at bay, check it out! https:...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/fleekxyz/status/1648688052460748800",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Fleek ⚡️\nThe Web3 Developer Stack ⚡️\nWeb3 is full of noise and hype, sift through it with help from @dabit3 & @abruzuc!\nDive in as we lay out the most useful and mature protocols, tools, and SDKs for devs looking to build end-to-end web3 apps today 🧵\n👉 https://blog.fleek.xyz/post/web3-stack/ https://t.co/vW4tceAR49",
+          "link": "https://twitter.com/fleekxyz/status/1648688052460748800",
+          "publishedOn": "2023-04-19T14:00:37.000Z",
+          "wordCount": 509,
+          "title": "RT Fleek ⚡️: The Web3 Developer Stack ⚡️ Web3 is full of noise and hype, sift through it with help from @dabit3 & @abruzuc! Dive in as we lay out ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1648536927811903490",
           "author": "Developer DAO (🧱, 🚀)",
@@ -115,11 +129,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1648389281193369605",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Congratulations @devdaowomen Scholars 🚀🚀🚀\n\nD_D Women: Congratulations D_D Women Scholars 🎊🎊\nYou're headed to Portugal for @ETHGlobal Lisbon @carolinekabat, @NenaRapsody, @Tisieo, and @iamsamcodes! We can't wait to tune in to your #ETHGlobalLisbon 🐚 experience. https://t.co/HcbHTqr7xp",
+          "description": "Congratulations @devdaowomen Scholars 🚀🚀🚀 https://twitter.com/devdaowomen/status/1648378358861029376\n\nD_D Women: Congratulations D_D Women Scholars 🎊🎊\nYou're headed to Portugal for @ETHGlobal Lisbon @carolinekabat, @NenaRapsody, @Tisieo, and @iamsamcodes! We can't wait to tune in to your #ETHGlobalLisbon 🐚 experience. https://t.co/HcbHTqr7xp",
           "link": "https://twitter.com/developer_dao/status/1648389281193369605",
           "publishedOn": "2023-04-18T18:13:24.000Z",
           "wordCount": 509,
-          "title": "Congratulations @devdaowomen Scholars 🚀🚀🚀",
+          "title": "Congratulations @devdaowomen Scholars 🚀🚀🚀 https://twitter.com/devdaowomen/status/1648378358861029376",
           "imageUrl": null
         },
         {
@@ -145,11 +159,11 @@
         {
           "id": "https://twitter.com/kayprasla/status/1648259932612091905",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT krinza.eth\nhuman-readable data https://t.co/wEnVlT6HH2\n\n\ntaytems.eth: the new ens app is live (in alpha) on mainnet!\nhttps://alpha.ens.domains",
+          "description": "RT krinza.eth\nhuman-readable data https://twitter.com/taytemss/status/1648157280804929536 https://t.co/wEnVlT6HH2\n\n\ntaytems.eth: the new ens app is live (in alpha) on mainnet!\nhttps://alpha.ens.domains",
           "link": "https://twitter.com/kayprasla/status/1648259932612091905",
           "publishedOn": "2023-04-18T09:39:25.000Z",
           "wordCount": 509,
-          "title": "RT krinza.eth: human-readable data https://t.co/wEnVlT6HH2",
+          "title": "RT krinza.eth: human-readable data https://twitter.com/taytemss/status/1648157280804929536 https://t.co/wEnVlT6HH2",
           "imageUrl": null
         },
         {
@@ -173,16 +187,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/cookbook_dev/status/1648100899355598848",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 🧑‍🍳 Cookbook\nWe're incredibly excited for this upcoming workshop with Developer DAO! 🚀🧑‍🍳 \nRegister here → https://lu.ma/m4cnc7rf https://t.co/mcuWQ4Q1j4",
-          "link": "https://twitter.com/cookbook_dev/status/1648100899355598848",
-          "publishedOn": "2023-04-17T23:07:29.000Z",
-          "wordCount": 509,
-          "title": "RT 🧑‍🍳 Cookbook: We're incredibly excited for this upcoming workshop with Developer DAO! 🚀🧑‍🍳 Register here → https://lu.ma/m4cnc7rf...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1648083787031404549",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @GuardianD_D @joinedenxyz @storedat_io @woop_pay @web3afrika @womenbuildweb3 @getP3RKS wys 👀",
@@ -195,21 +199,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1648083145156186115",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Which projects by D_D Members are applying for the @gitcoin beta grants round?\n\nGitcoin (🤖, 💚): ✨GRANTEES: This is the final week to apply for the Gitcoin Grants Beta Round✨\nFinal day to apply is Friday, April 21st at 23:59 UTC\nLearn more below ⤵️ https://t.co/zRdM7d48Fo",
+          "description": "Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079\n\nGitcoin (🤖, 💚): ✨GRANTEES: This is the final week to apply for the Gitcoin Grants Beta Round✨\nFinal day to apply is Friday, April 21st at 23:59 UTC\nLearn more below ⤵️ https://t.co/zRdM7d48Fo",
           "link": "https://twitter.com/developer_dao/status/1648083145156186115",
           "publishedOn": "2023-04-17T21:56:56.000Z",
           "wordCount": 509,
-          "title": "Which projects by D_D Members are applying for the @gitcoin beta grants round?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/HAPPYS1NGH/status/1648046387643432960",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Harpreet Singh | happysingh.lens | .crypto\nBeing a part of @developer_dao has been one of the best decisions I made! Just had my first pull request merged 🚀, thanks to @wc49358 and @crypdoughdoteth for the opportunity to contribute. I'm learning and progressing a lot!",
-          "link": "https://twitter.com/HAPPYS1NGH/status/1648046387643432960",
-          "publishedOn": "2023-04-17T19:30:52.000Z",
-          "wordCount": 509,
-          "title": "RT Harpreet Singh | happysingh.lens | .crypto: Being a part of @developer_dao has been one of the best decisions I made! Just had my first pull reques...",
+          "title": "Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079",
           "imageUrl": null
         },
         {
@@ -243,16 +237,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1647993628810260481",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Check out our top 3 blog articles of the last week! 🎉 \n🥇 How to build Reddit's NFT Marketplace using Polygon and Paper\nby @megabyte0x \nhttps://buff.ly/3KyIe3k",
-          "link": "https://twitter.com/developer_dao/status/1647993628810260481",
-          "publishedOn": "2023-04-17T16:01:14.000Z",
-          "wordCount": 509,
-          "title": "Check out our top 3 blog articles of the last week! 🎉 🥇 How to build Reddit's NFT Marketplace using Polygon and Paper by @megabyte0x https://buf...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/codingwithmanny/status/1647986583973265408",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Manny (🧱,🚀)\nThought I'd create a video before the community Twitter Spaces with @SpruceID happening today. \nThis is an implementation @signinwitheth with the t3 stack. https://t.co/hPWkRxNv5u",
@@ -263,33 +247,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1647978806278234120",
+          "id": "https://twitter.com/thatguyintech/status/1647865698159587330",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @scarlett_spade @PSkinnerTech @kempsterrrr This is dope 🔥🔥🔥",
-          "link": "https://twitter.com/developer_dao/status/1647978806278234120",
-          "publishedOn": "2023-04-17T15:02:20.000Z",
+          "description": "RT albert\nIntroducing ⛩️ GaaS - Gating as a Service\nGate your dapp using ANY on-chain data and txns.\n1. Create a gate using a contract and an ABI\n2. Select Events and Functions\n3. Integrate your gate via SDK\n4. No need to rely on simple token gating 🫠\nWant to try it? Comment below 👇🏻 https://t.co/eATuu1oXUZ",
+          "link": "https://twitter.com/thatguyintech/status/1647865698159587330",
+          "publishedOn": "2023-04-17T07:32:52.000Z",
           "wordCount": 509,
-          "title": "Re @scarlett_spade @PSkinnerTech @kempsterrrr This is dope 🔥🔥🔥",
+          "title": "RT albert: Introducing ⛩️ GaaS - Gating as a Service Gate your dapp using ANY on-chain data and txns. 1. Create a gate using a contract and an ABI 2...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/getP3RKS/status/1647676134107107328",
+          "id": "https://twitter.com/LucemansNL/status/1647600349505802240",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT P3RKS\nIf there are any last-minute US tax fil000rs in @developer_dao you can claim a discount to @koinly at http://p3rks.xyz 👀",
-          "link": "https://twitter.com/getP3RKS/status/1647676134107107328",
-          "publishedOn": "2023-04-16T18:59:37.000Z",
+          "description": "RT luc.eth | luc.computer\n✨ Over the last 48 hours @AnaArsonist & I built WorldName;\nAn on-chain ENS subname registry that leverages the @worldcoin protocol for sybil-resistance to issue subnames to anyone who is a verified human ✅\nHere is a short thread on what this means 🧵 https://t.co/zPno7Iw8qk",
+          "link": "https://twitter.com/LucemansNL/status/1647600349505802240",
+          "publishedOn": "2023-04-16T13:58:28.000Z",
           "wordCount": 509,
-          "title": "RT P3RKS: If there are any last-minute US tax fil000rs in @developer_dao you can claim a discount to @koinly at http://p3rks.xyz 👀",
+          "title": "RT luc.eth | luc.computer: ✨ Over the last 48 hours @AnaArsonist & I built WorldName; An on-chain ENS subname registry that leverages the @worldcoin ...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/hazae41/status/1646827631634010113",
+          "id": "https://twitter.com/pe4enable/status/1643970863849705473",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Haz Æ 41\nHow @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs\nIt creates an end-to-end encrypted tunnel between your computer and the Ethereum RPC\nThis tunnel is in fact a path of 3 Tor nodes that encrypt and route your packets back-and-forth between your computer and… https://twitter.com/i/web/status/1646827631634010113 https://t.co/y7QyVn3isP",
-          "link": "https://twitter.com/hazae41/status/1646827631634010113",
-          "publishedOn": "2023-04-14T10:47:58.000Z",
+          "description": "RT Arsenii Pechenkin\n/0 Article about ecosystems part 3: service providers in  #web3 #ecosystem development. Discover how they can assist with legal support, marketing, and more to help accelerate growth.\nhttps://medium.com/@arspechen/ecosystem-mastery-part-3-service-companies-afd481957286",
+          "link": "https://twitter.com/pe4enable/status/1643970863849705473",
+          "publishedOn": "2023-04-06T13:36:12.000Z",
           "wordCount": 509,
-          "title": "RT Haz Æ 41: How @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs It creates an end-to-end encrypted tunnel between your computer and...",
+          "title": "RT Arsenii Pechenkin: /0 Article about ecosystems part 3: service providers in #web3 #ecosystem development. Discover how they can assist with legal s...",
           "imageUrl": null
         }
       ]

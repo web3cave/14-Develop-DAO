@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T06:12:49.579Z</id>
+    <id>urn:2023-04-20T06:12:42.859Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-19T06:12:49.579Z</updated>
+    <updated>2023-04-20T06:12:42.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using @cookbook_dev to find smart contracts for your next dApp | Workshop 22 https://twitter.com/i/broadcasts/1nAKErQVLWgGL]]></title>
+        <id>https://twitter.com/developer_dao/status/1648740353670004736</id>
+        <link href="https://twitter.com/developer_dao/status/1648740353670004736"/>
+        <updated>2023-04-19T17:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Using @cookbook_dev to find smart contracts for your next dApp | Workshop 22 https://twitter.com/i/broadcasts/1nAKErQVLWgGL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @olanetsoft went into the nitty gritty of Solidity errors and explained them for you! 🤓 If you wanna keep your bugs at bay, check it out! https:...]]></title>
+        <id>https://twitter.com/developer_dao/status/1648703803267465219</id>
+        <link href="https://twitter.com/developer_dao/status/1648703803267465219"/>
+        <updated>2023-04-19T15:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @olanetsoft went into the nitty gritty of Solidity errors and explained them for you! 🤓
+If you wanna keep your bugs at bay, check it out!
+https://buff.ly/3F7wnHk]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Fleek ⚡️: The Web3 Developer Stack ⚡️ Web3 is full of noise and hype, sift through it with help from @dabit3 & @abruzuc! Dive in as we lay out ...]]></title>
+        <id>https://twitter.com/fleekxyz/status/1648688052460748800</id>
+        <link href="https://twitter.com/fleekxyz/status/1648688052460748800"/>
+        <updated>2023-04-19T14:00:37.000Z</updated>
+        <summary type="html"><![CDATA[RT Fleek ⚡️
+The Web3 Developer Stack ⚡️
+Web3 is full of noise and hype, sift through it with help from @dabit3 & @abruzuc!
+Dive in as we lay out the most useful and mature protocols, tools, and SDKs for devs looking to build end-to-end web3 apps today 🧵
+👉 https://blog.fleek.xyz/post/web3-stack/ https://t.co/vW4tceAR49]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday April 21st at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...]]></title>
         <id>https://twitter.com/developer_dao/status/1648536927811903490</id>
@@ -34,11 +70,11 @@ Read the proposal here: https://snapshot.org/#/devdao.eth/proposal/0x5e79db7912d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Congratulations @devdaowomen Scholars 🚀🚀🚀]]></title>
+        <title type="html"><![CDATA[Congratulations @devdaowomen Scholars 🚀🚀🚀 https://twitter.com/devdaowomen/status/1648378358861029376]]></title>
         <id>https://twitter.com/developer_dao/status/1648389281193369605</id>
         <link href="https://twitter.com/developer_dao/status/1648389281193369605"/>
         <updated>2023-04-18T18:13:24.000Z</updated>
-        <summary type="html"><![CDATA[Congratulations @devdaowomen Scholars 🚀🚀🚀
+        <summary type="html"><![CDATA[Congratulations @devdaowomen Scholars 🚀🚀🚀 https://twitter.com/devdaowomen/status/1648378358861029376
 
 D_D Women: Congratulations D_D Women Scholars 🎊🎊
 You're headed to Portugal for @ETHGlobal Lisbon @carolinekabat, @NenaRapsody, @Tisieo, and @iamsamcodes! We can't wait to tune in to your #ETHGlobalLisbon 🐚 experience. https://t.co/HcbHTqr7xp]]></summary>
@@ -78,12 +114,12 @@ https://buff.ly/3STzsAw]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT krinza.eth: human-readable data https://t.co/wEnVlT6HH2]]></title>
+        <title type="html"><![CDATA[RT krinza.eth: human-readable data https://twitter.com/taytemss/status/1648157280804929536 https://t.co/wEnVlT6HH2]]></title>
         <id>https://twitter.com/kayprasla/status/1648259932612091905</id>
         <link href="https://twitter.com/kayprasla/status/1648259932612091905"/>
         <updated>2023-04-18T09:39:25.000Z</updated>
         <summary type="html"><![CDATA[RT krinza.eth
-human-readable data https://t.co/wEnVlT6HH2
+human-readable data https://twitter.com/taytemss/status/1648157280804929536 https://t.co/wEnVlT6HH2
 
 
 taytems.eth: the new ens app is live (in alpha) on mainnet!
@@ -115,18 +151,6 @@ https://buff.ly/43KuGdB]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT 🧑‍🍳 Cookbook: We're incredibly excited for this upcoming workshop with Developer DAO! 🚀🧑‍🍳 Register here → https://lu.ma/m4cnc7rf...]]></title>
-        <id>https://twitter.com/cookbook_dev/status/1648100899355598848</id>
-        <link href="https://twitter.com/cookbook_dev/status/1648100899355598848"/>
-        <updated>2023-04-17T23:07:29.000Z</updated>
-        <summary type="html"><![CDATA[RT 🧑‍🍳 Cookbook
-We're incredibly excited for this upcoming workshop with Developer DAO! 🚀🧑‍🍳 
-Register here → https://lu.ma/m4cnc7rf https://t.co/mcuWQ4Q1j4]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @GuardianD_D @joinedenxyz @storedat_io @woop_pay @web3afrika @womenbuildweb3 @getP3RKS wys 👀]]></title>
         <id>https://twitter.com/developer_dao/status/1648083787031404549</id>
         <link href="https://twitter.com/developer_dao/status/1648083787031404549"/>
@@ -137,26 +161,15 @@ Register here → https://lu.ma/m4cnc7rf https://t.co/mcuWQ4Q1j4]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round?]]></title>
+        <title type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079]]></title>
         <id>https://twitter.com/developer_dao/status/1648083145156186115</id>
         <link href="https://twitter.com/developer_dao/status/1648083145156186115"/>
         <updated>2023-04-17T21:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round?
+        <summary type="html"><![CDATA[Which projects by D_D Members are applying for the @gitcoin beta grants round? https://twitter.com/gitcoin/status/1648062506517123079
 
 Gitcoin (🤖, 💚): ✨GRANTEES: This is the final week to apply for the Gitcoin Grants Beta Round✨
 Final day to apply is Friday, April 21st at 23:59 UTC
 Learn more below ⤵️ https://t.co/zRdM7d48Fo]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Harpreet Singh | happysingh.lens | .crypto: Being a part of @developer_dao has been one of the best decisions I made! Just had my first pull reques...]]></title>
-        <id>https://twitter.com/HAPPYS1NGH/status/1648046387643432960</id>
-        <link href="https://twitter.com/HAPPYS1NGH/status/1648046387643432960"/>
-        <updated>2023-04-17T19:30:52.000Z</updated>
-        <summary type="html"><![CDATA[RT Harpreet Singh | happysingh.lens | .crypto
-Being a part of @developer_dao has been one of the best decisions I made! Just had my first pull request merged 🚀, thanks to @wc49358 and @crypdoughdoteth for the opportunity to contribute. I'm learning and progressing a lot!]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -201,19 +214,6 @@ Link your favourite proposals below👇]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Check out our top 3 blog articles of the last week! 🎉 🥇 How to build Reddit's NFT Marketplace using Polygon and Paper by @megabyte0x https://buf...]]></title>
-        <id>https://twitter.com/developer_dao/status/1647993628810260481</id>
-        <link href="https://twitter.com/developer_dao/status/1647993628810260481"/>
-        <updated>2023-04-17T16:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Check out our top 3 blog articles of the last week! 🎉 
-🥇 How to build Reddit's NFT Marketplace using Polygon and Paper
-by @megabyte0x 
-https://buff.ly/3KyIe3k]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Manny (🧱,🚀): Thought I'd create a video before the community Twitter Spaces with @SpruceID happening today. This is an implementation @signin...]]></title>
         <id>https://twitter.com/codingwithmanny/status/1647986583973265408</id>
         <link href="https://twitter.com/codingwithmanny/status/1647986583973265408"/>
@@ -226,35 +226,31 @@ This is an implementation @signinwitheth with the t3 stack. https://t.co/hPWkRxN
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @scarlett_spade @PSkinnerTech @kempsterrrr This is dope 🔥🔥🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1647978806278234120</id>
-        <link href="https://twitter.com/developer_dao/status/1647978806278234120"/>
-        <updated>2023-04-17T15:02:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @scarlett_spade @PSkinnerTech @kempsterrrr This is dope 🔥🔥🔥]]></summary>
+        <title type="html"><![CDATA[RT albert: Introducing ⛩️ GaaS - Gating as a Service Gate your dapp using ANY on-chain data and txns. 1. Create a gate using a contract and an ABI 2...]]></title>
+        <id>https://twitter.com/thatguyintech/status/1647865698159587330</id>
+        <link href="https://twitter.com/thatguyintech/status/1647865698159587330"/>
+        <updated>2023-04-17T07:32:52.000Z</updated>
+        <summary type="html"><![CDATA[RT albert
+Introducing ⛩️ GaaS - Gating as a Service
+Gate your dapp using ANY on-chain data and txns.
+1. Create a gate using a contract and an ABI
+2. Select Events and Functions
+3. Integrate your gate via SDK
+4. No need to rely on simple token gating 🫠
+Want to try it? Comment below 👇🏻 https://t.co/eATuu1oXUZ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT P3RKS: If there are any last-minute US tax fil000rs in @developer_dao you can claim a discount to @koinly at http://p3rks.xyz 👀]]></title>
-        <id>https://twitter.com/getP3RKS/status/1647676134107107328</id>
-        <link href="https://twitter.com/getP3RKS/status/1647676134107107328"/>
-        <updated>2023-04-16T18:59:37.000Z</updated>
-        <summary type="html"><![CDATA[RT P3RKS
-If there are any last-minute US tax fil000rs in @developer_dao you can claim a discount to @koinly at http://p3rks.xyz 👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Haz Æ 41: How @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs It creates an end-to-end encrypted tunnel between your computer and...]]></title>
-        <id>https://twitter.com/hazae41/status/1646827631634010113</id>
-        <link href="https://twitter.com/hazae41/status/1646827631634010113"/>
-        <updated>2023-04-14T10:47:58.000Z</updated>
-        <summary type="html"><![CDATA[RT Haz Æ 41
-How @BrumeWallet uses Tor to hide your IP address from Ethereum RPCs
-It creates an end-to-end encrypted tunnel between your computer and the Ethereum RPC
-This tunnel is in fact a path of 3 Tor nodes that encrypt and route your packets back-and-forth between your computer and… https://twitter.com/i/web/status/1646827631634010113 https://t.co/y7QyVn3isP]]></summary>
+        <title type="html"><![CDATA[RT luc.eth | luc.computer: ✨ Over the last 48 hours @AnaArsonist & I built WorldName; An on-chain ENS subname registry that leverages the @worldcoin ...]]></title>
+        <id>https://twitter.com/LucemansNL/status/1647600349505802240</id>
+        <link href="https://twitter.com/LucemansNL/status/1647600349505802240"/>
+        <updated>2023-04-16T13:58:28.000Z</updated>
+        <summary type="html"><![CDATA[RT luc.eth | luc.computer
+✨ Over the last 48 hours @AnaArsonist & I built WorldName;
+An on-chain ENS subname registry that leverages the @worldcoin protocol for sybil-resistance to issue subnames to anyone who is a verified human ✅
+Here is a short thread on what this means 🧵 https://t.co/zPno7Iw8qk]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -276,6 +272,18 @@ This tunnel is in fact a path of 3 Tor nodes that encrypt and route your packets
         <updated>2023-04-10T13:51:52.000Z</updated>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Arsenii Pechenkin: /0 Article about ecosystems part 3: service providers in #web3 #ecosystem development. Discover how they can assist with legal s...]]></title>
+        <id>https://twitter.com/pe4enable/status/1643970863849705473</id>
+        <link href="https://twitter.com/pe4enable/status/1643970863849705473"/>
+        <updated>2023-04-06T13:36:12.000Z</updated>
+        <summary type="html"><![CDATA[RT Arsenii Pechenkin
+/0 Article about ecosystems part 3: service providers in  #web3 #ecosystem development. Discover how they can assist with legal support, marketing, and more to help accelerate growth.
+https://medium.com/@arspechen/ecosystem-mastery-part-3-service-companies-afd481957286]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -305,16 +313,6 @@ This tunnel is in fact a path of 3 Tor nodes that encrypt and route your packets
         <updated>2023-03-24T15:49:14.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#62 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/62-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/62-probably-nothing"/>
-        <updated>2023-03-21T03:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Still written by humans!]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
         </author>
     </entry>
 </feed>
