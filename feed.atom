@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-24T06:12:59.199Z</id>
+    <id>urn:2023-04-25T06:12:38.157Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-24T06:12:59.199Z</updated>
+    <updated>2023-04-25T06:12:38.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT turja.eth 🕺: Been an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline So I put togethe...]]></title>
+        <id>https://twitter.com/tchowd_/status/1650632501046411265</id>
+        <link href="https://twitter.com/tchowd_/status/1650632501046411265"/>
+        <updated>2023-04-24T22:47:10.000Z</updated>
+        <summary type="html"><![CDATA[RT turja.eth 🕺
+Been an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline
+So I put together some scripts to let me download over 9000 blogs in PDF, CSV, MOBI and EPUB
+Dive in or download or contribute 🤠
+https://github.com/tchowd/avc.com]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pin a file to IPFS in 2 minutes with @fleekxyz 🔥 https://twitter.com/abruzuc/status/1650577892026490880]]></title>
+        <id>https://twitter.com/developer_dao/status/1650580052302520361</id>
+        <link href="https://twitter.com/developer_dao/status/1650580052302520361"/>
+        <updated>2023-04-24T19:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Pin a file to IPFS in 2 minutes with @fleekxyz 🔥 https://twitter.com/abruzuc/status/1650577892026490880
+
+Abru Zucchi: How to pin a file on IPFS with @fleekxyz's CLI. Super quick guide - the complete tutorial with IPNS pinning can find it in: https://youtu.be/moWjk68kIdw   
+Feel free to send me your questions! https://t.co/4IoxcwQeMX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @shrirajpawar04 @NeonLabsOrg @kayprasla @goldkostya @FalaleevAndrew Solid]]></title>
+        <id>https://twitter.com/developer_dao/status/1650569876359073793</id>
+        <link href="https://twitter.com/developer_dao/status/1650569876359073793"/>
+        <updated>2023-04-24T18:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Re @shrirajpawar04 @NeonLabsOrg @kayprasla @goldkostya @FalaleevAndrew Solid]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "Solana vs Ethereum" debate never goes out of fashion. Let's settle the narrative & explore building with the best of both chains using @NeonLabsO...]]></title>
+        <id>https://twitter.com/developer_dao/status/1650554974751928325</id>
+        <link href="https://twitter.com/developer_dao/status/1650554974751928325"/>
+        <updated>2023-04-24T17:39:06.000Z</updated>
+        <summary type="html"><![CDATA[The "Solana vs Ethereum" debate never goes out of fashion. 
+Let's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪
+Set reminder to join @kayprasla chatting with @goldkostya & @FalaleevAndrew. 
+https://twitter.com/i/spaces/1DXxyvYjRgnKM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Gitcoin Passport — Sybil Defense. Made Simple.: 📣 BIG NEWS 🎉 We just launched the new & improved Gitcoin Passport Scorer App! https://scorer...]]></title>
+        <id>https://twitter.com/gitcoinpassport/status/1650548097401991190</id>
+        <link href="https://twitter.com/gitcoinpassport/status/1650548097401991190"/>
+        <updated>2023-04-24T17:11:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Gitcoin Passport — Sybil Defense. Made Simple.
+📣 BIG NEWS 🎉
+We just launched the new & improved Gitcoin Passport Scorer App!
+https://scorer.gitcoin.co
+With the Scorer app, you can easily give your users a “Unique Humanity Score,” which determines who gets access to your application.
+📺 Watch our new Quickstart video by… https://twitter.com/i/web/status/1650548097401991190 https://t.co/Z0To1kg08Q]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM FRENS 😎 Our membership scholarship program is back powered by @devdaowomen!! Apply to receive a membership to officially join the D_D community ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1650545149393481738</id>
+        <link href="https://twitter.com/developer_dao/status/1650545149393481738"/>
+        <updated>2023-04-24T17:00:03.000Z</updated>
+        <summary type="html"><![CDATA[GM FRENS 😎
+Our membership scholarship program is back powered by @devdaowomen!! 
+Apply to receive a membership to officially join the D_D community 🚀
+Application is LIVE 📍 https://app.deform.cc/form/20cee3e7-0394-49ee-b2d1-bc7c2489fa0e/ https://t.co/7AQWAZSAsc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your First Sybil-Resistant Web App with Gitcoin Passport & Next.js: A Step-by-Step Guide]]></title>
+        <id>https://www.youtube.com/watch?v=bfkalDSvRDc</id>
+        <link href="https://www.youtube.com/watch?v=bfkalDSvRDc"/>
+        <updated>2023-04-24T16:45:02.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out the top 3 articles of last week! 🎉 🥇 40 Free Online Learning Platforms for Web3 Enthusiasts by @frankiefab100 https://buff.ly/43KuGdB]]></title>
+        <id>https://twitter.com/developer_dao/status/1650515570301837317</id>
+        <link href="https://twitter.com/developer_dao/status/1650515570301837317"/>
+        <updated>2023-04-24T15:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Check out the top 3 articles of last week! 🎉 
+🥇 40 Free Online Learning Platforms for Web3 Enthusiasts 
+by @frankiefab100 
+https://buff.ly/43KuGdB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Kirsten ❤️ TalentLayer (🍀,🦝): Re @EthereumDenver FT: @developer_dao @mattiapomelli @Romain__TL @mart1gone @carllippert @quentdc043 & me htt...]]></title>
         <id>https://twitter.com/kirstenrpomales/status/1650256724262100992</id>
@@ -72,6 +172,21 @@ Signup now - https://lu.ma/dh3syznu https://t.co/luCDCosflE]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT shriraj.eth/shree.lens: Here's a deep dive into @NeonLabsOrg architecture. A fully EVM compatible environment on Solana. This is first part of seri...]]></title>
+        <id>https://twitter.com/shrirajpawar04/status/1650152223668846594</id>
+        <link href="https://twitter.com/shrirajpawar04/status/1650152223668846594"/>
+        <updated>2023-04-23T14:58:43.000Z</updated>
+        <summary type="html"><![CDATA[RT shriraj.eth/shree.lens
+Here's a deep dive into @NeonLabsOrg architecture. 
+A fully EVM compatible environment on Solana. 
+This is first part of series focusing on components, features and vision of @NeonLabsOrg and @NeonFndn
+ Will be writing more on it's workflow and solution
+https://medium.com/@shriiii/neon-evm-a-comprehensive-reference-guide-to-solanas-ethereum-virtual-machine-architecture-db4bd88f2dc8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT Papi Billy 🛸: How it sounds like when @crypdoughdoteth and I cowork on solidity together in @developer_dao VC5 channel. Foundry this, hardhat th...]]></title>
         <id>https://twitter.com/wc49358/status/1650138319987294211</id>
         <link href="https://twitter.com/wc49358/status/1650138319987294211"/>
@@ -104,92 +219,6 @@ gm https://t.co/DSNvKxbDun]]></summary>
 Built this a little while back, but figured it's worth the share for anyone interested to try it out!
 A trustless secret number guessing game built on @zksync ∎
 https://dub.sh/ZeYN6HR https://t.co/eBIvy6UEzq]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ottalabotta In case you missed it, here is @ottalabotta's awesome article on on DAOs Give them a follow 🤝 https://buff.ly/41NpAf1]]></title>
-        <id>https://twitter.com/developer_dao/status/1649786641039368192</id>
-        <link href="https://twitter.com/developer_dao/status/1649786641039368192"/>
-        <updated>2023-04-22T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @ottalabotta In case you missed it, here is @ottalabotta's awesome article on on DAOs
-Give them a follow 🤝
-https://buff.ly/41NpAf1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharing is caring 🫂 Elevating other's Contributions to the space is the easiest way to reward and encourage folks to continue building a better fut...]]></title>
-        <id>https://twitter.com/developer_dao/status/1649786639755911171</id>
-        <link href="https://twitter.com/developer_dao/status/1649786639755911171"/>
-        <updated>2023-04-22T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Sharing is caring 🫂
-Elevating other's Contributions to the space is the easiest way to reward and encourage folks to continue building a better future.
-Lifting one of us up lifts us all 🌍
-Thank YOU @ottalabotta for your efforts, we're excited to see what you share next. https://t.co/R04UNeDgH1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tom | Impactbilli.lens - building Eden Protocol: 📩 Want to be part of the Eden private beta? It's as easy as sending us a DM! Join the movement ...]]></title>
-        <id>https://twitter.com/hussontomm/status/1649771284983627783</id>
-        <link href="https://twitter.com/hussontomm/status/1649771284983627783"/>
-        <updated>2023-04-22T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Tom | Impactbilli.lens - building Eden Protocol
-📩 Want to be part of the Eden private beta? It's as easy as sending us a DM! Join the movement that's empowering #freelancers to find meaningful work with AI-driven matchmaking and trustless credibility building. 🌟 Don't miss out - DM us to request your invite! #EdenBeta]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 Don't forget to re-collect your @gitcoin passport stamps before the Beta Round goes live on Tuesday. Doing this ensures you're support has the ma...]]></title>
-        <id>https://twitter.com/developer_dao/status/1649735551484932096</id>
-        <link href="https://twitter.com/developer_dao/status/1649735551484932096"/>
-        <updated>2023-04-22T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[🚨 Don't forget to re-collect your @gitcoin passport stamps before the Beta Round goes live on Tuesday.
-Doing this ensures you're support has the maximum QF matching impact for any project you choose to support.
-Support Public Goods 🤝 💚 https://twitter.com/gitcoin/status/1649729984955666436]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨 Governance Votes in Progress on Snapshot Please exercise you're Governance rights in the DAO and cast your votes 🤝 Votes close in 1 and 3 days...]]></title>
-        <id>https://twitter.com/developer_dao/status/1649730627854319617</id>
-        <link href="https://twitter.com/developer_dao/status/1649730627854319617"/>
-        <updated>2023-04-22T11:03:26.000Z</updated>
-        <summary type="html"><![CDATA[🚨 Governance Votes in Progress on Snapshot
-Please exercise you're Governance rights in the DAO and cast your votes 🤝
-Votes close in 1 and 3 days, respectively. https://twitter.com/developer_dao/status/1649394539931615233
-
-Developer DAO (🧱, 🚀): 👩🏽‍⚖️ Calling D_D Guvn000rs
-Two proposals are live for voting on @SnapshotLabs ⚡️⚡️
-1️⃣ vibesIRL (in-person events) - https://snapshot.org/#/devdao.eth/proposal/0xa2d14a277ac14b56a79a0ff3627d4d61dd83ea06034b9801f97512159713910b
-2️⃣ Blog Rewards (Retroactive & On-going Rewards for authors) - https://snapshot.org/#/devdao.eth/proposal/0x5e79db7912dec229d72f0a66b6139e7bbd0eabb7053343b921d19ce1ee4dd5c9
-Members, please exercise your voting rights 🤝]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://t.co/cm4I3CZJ1I]]></title>
-        <id>https://twitter.com/developer_dao/status/1649583278620278785</id>
-        <link href="https://twitter.com/developer_dao/status/1649583278620278785"/>
-        <updated>2023-04-22T01:17:56.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/cm4I3CZJ1I]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @theekrystallee @SnapshotLabs Queen 🤝]]></title>
-        <id>https://twitter.com/developer_dao/status/1649567001474486273</id>
-        <link href="https://twitter.com/developer_dao/status/1649567001474486273"/>
-        <updated>2023-04-22T00:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @theekrystallee @SnapshotLabs Queen 🤝]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -232,18 +261,6 @@ When we need to make a request, we take a random… https://twitter.com/i/web/st
 Just like Ethereum is a protocol and Uniswap, MetaMask, and OpenSea are apps to interact with it, Star Wars, Lord of the Rings, MARVEL, and all other universes are protocols as well. 
 And movies, books, and games are apps to interact with these worlds.
 👇👇👇 https://t.co/IgHJXHffYi]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT otta: i've loved seeing what certain #DAOs have been able to accomplish with an active community, so I wrote a little piece on them to learn more a...]]></title>
-        <id>https://twitter.com/ottalabotta/status/1648861957666246661</id>
-        <link href="https://twitter.com/ottalabotta/status/1648861957666246661"/>
-        <updated>2023-04-20T01:31:39.000Z</updated>
-        <summary type="html"><![CDATA[RT otta
-i've loved seeing what certain #DAOs  have been able to accomplish with an active community, so I wrote a little piece on them to learn more about them👇
-https://ottalabotta-crypto.beehiiv.com/p/decentralised-autonomous-organisations]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
