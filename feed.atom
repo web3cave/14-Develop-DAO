@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T06:12:38.157Z</id>
+    <id>urn:2023-04-26T06:12:30.735Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-25T06:12:38.157Z</updated>
+    <updated>2023-04-26T06:12:30.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday April 28th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...]]></title>
+        <id>https://twitter.com/developer_dao/status/1651073742548738052</id>
+        <link href="https://twitter.com/developer_dao/status/1651073742548738052"/>
+        <updated>2023-04-26T04:00:30.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️: Join us this Friday April 28th at 3:30pm UTC for another episode of our long running @devntellxyz series
+👉 Details and link to RSVP for this weeks episode:
+https://buff.ly/40eUdIW]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a ChatGPT Plugin with TypeScript and Next.js: a Step-by-Step Guide]]></title>
+        <id>https://www.youtube.com/watch?v=oedDOaqjPgo</id>
+        <link href="https://www.youtube.com/watch?v=oedDOaqjPgo"/>
+        <updated>2023-04-26T01:16:36.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens: New Video - Creating an @OpenAI ChatGPT Plugin with TypeScript & @nextjs: Step-by-Step Guide 👟 Learn everything...]]></title>
+        <id>https://twitter.com/dabit3/status/1651032430608785409</id>
+        <link href="https://twitter.com/dabit3/status/1651032430608785409"/>
+        <updated>2023-04-26T01:16:20.000Z</updated>
+        <summary type="html"><![CDATA[RT nader (🧱, 🚀) | nader.lens
+New Video - Creating an @OpenAI ChatGPT Plugin with TypeScript & @nextjs: Step-by-Step Guide 👟
+Learn everything you need to know to start building ChatGPT Plugins with TypeScript in less than 26 minutes 🕕
+🔗 Video
+https://www.youtube.com/watch?v=oedDOaqjPgo
+🔗 Codebase
+https://github.com/dabit3/nextjs-chatgpt-plugin-starter https://t.co/7XtWsZs2CI]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re The @Bitquery_io team are hosting a Product session with @MetricsDAO tomorrow @ 12pm ET. Sign-up here https://twitter.com/MetricsDAO/status/1650847...]]></title>
+        <id>https://twitter.com/developer_dao/status/1650970357484904455</id>
+        <link href="https://twitter.com/developer_dao/status/1650970357484904455"/>
+        <updated>2023-04-25T21:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Re The @Bitquery_io team are hosting a Product session with @MetricsDAO tomorrow @ 12pm ET.
+Sign-up here https://twitter.com/MetricsDAO/status/1650847013838233604
+
+MetricsDAO: Build your skills ▶️ build your portfolio ▶️ build your network 🟰 build your Web3 Analytics career.
+⏰ Tomorrow at 12p ET is our @Bitquery_io Product Session!
+Learn more & sign up here: 
+https://www.eventbrite.com/e/bitquery-product-session-with-metricsdao-tickets-619234455927?aff=tw24hr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨 New Membership Perk We're partnering @Bitquery_io to offer Members 3-months of free access to their Team Plan 🔥🔥 🔥 Access data for 40+ B...]]></title>
+        <id>https://twitter.com/developer_dao/status/1650970356000104449</id>
+        <link href="https://twitter.com/developer_dao/status/1650970356000104449"/>
+        <updated>2023-04-25T21:09:41.000Z</updated>
+        <summary type="html"><![CDATA[🚨  New Membership Perk  
+We're partnering @Bitquery_io to offer Members 3-months of free access to their Team Plan 🔥🔥 🔥   
+Access data for 40+ Blockchains via a GraphQL API: transfers, balances, holders, & trades, including NFTs.
+Head to http://p3rks.xyz to redeem https://t.co/f9PA2tbrej]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://t.co/0MwzZJkrQ2]]></title>
+        <id>https://twitter.com/developer_dao/status/1650919538421035008</id>
+        <link href="https://twitter.com/developer_dao/status/1650919538421035008"/>
+        <updated>2023-04-25T17:47:45.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/0MwzZJkrQ2]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#67 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/67-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/67-probably-nothing"/>
+        <updated>2023-04-25T17:14:15.000Z</updated>
+        <summary type="html"><![CDATA['Lotta winning in this one]]></summary>
+        <author>
+            <name>wolovim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😎 VIBES starting now Come hang on dev-voice https://t.co/5z937x9JND]]></title>
+        <id>https://twitter.com/developer_dao/status/1650907456527122450</id>
+        <link href="https://twitter.com/developer_dao/status/1650907456527122450"/>
+        <updated>2023-04-25T16:59:44.000Z</updated>
+        <summary type="html"><![CDATA[😎 VIBES starting now
+Come hang on dev-voice https://t.co/5z937x9JND]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ~vibesIRL~: 🪩 in 🇫🇷 🤫]]></title>
+        <id>https://twitter.com/vibesIRL/status/1650840375047667712</id>
+        <link href="https://twitter.com/vibesIRL/status/1650840375047667712"/>
+        <updated>2023-04-25T12:33:11.000Z</updated>
+        <summary type="html"><![CDATA[RT ~vibesIRL~
+🪩 in 🇫🇷 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Gitcoin (🤖, 💚): 📣 GITCOIN GRANTS BETA ROUND IS LIVE! 🚀 ✨ To view and support projects, visit http://grants.gitcoin.co ✨ 🤝 Funding ...]]></title>
+        <id>https://twitter.com/gitcoin/status/1650833874250002434</id>
+        <link href="https://twitter.com/gitcoin/status/1650833874250002434"/>
+        <updated>2023-04-25T12:07:21.000Z</updated>
+        <summary type="html"><![CDATA[RT Gitcoin (🤖, 💚)
+📣 GITCOIN GRANTS BETA ROUND IS LIVE! 🚀
+✨ To view and support projects, visit http://grants.gitcoin.co ✨
+🤝 Funding What Matters
+🤝 Community building
+🤝 Collaboration
+🤝 Impact https://t.co/3kCAXOHMNB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Mailchain: 1/8 🎉 Congratulations to the winners of the Mailchain & @developer_dao Hackathon! We were blown away by the creativity and innovation...]]></title>
+        <id>https://twitter.com/Mailchain_xyz/status/1650832131105656833</id>
+        <link href="https://twitter.com/Mailchain_xyz/status/1650832131105656833"/>
+        <updated>2023-04-25T12:00:25.000Z</updated>
+        <summary type="html"><![CDATA[RT Mailchain
+1/8 🎉 Congratulations to the winners of the Mailchain & @developer_dao Hackathon! We were blown away by the creativity and innovation displayed by all participants in building communication components for Web3 using the Mailchain SDK.
+Let's take a look at the winners 👇🏆 https://t.co/S0V28I6wpb]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna get started with Web3 but don't know how? D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for...]]></title>
+        <id>https://twitter.com/developer_dao/status/1650756656991543297</id>
+        <link href="https://twitter.com/developer_dao/status/1650756656991543297"/>
+        <updated>2023-04-25T07:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Wanna get started with Web3 but don't know how?
+D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 
+All of them free and some even pay YOU for learning 🤑 
+https://buff.ly/43KuGdB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT turja.eth 🕺: Been an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline So I put togethe...]]></title>
         <id>https://twitter.com/tchowd_/status/1650632501046411265</id>
@@ -128,50 +278,6 @@ Created a thread in the general channel for @developer_dao members that are goin
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀 Looking for a job in web3?🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. https://buff.ly/3GD24de https://t.co/eGm...]]></title>
-        <id>https://twitter.com/developer_dao/status/1650213747594600449</id>
-        <link href="https://twitter.com/developer_dao/status/1650213747594600449"/>
-        <updated>2023-04-23T19:03:11.000Z</updated>
-        <summary type="html"><![CDATA[🚀  Looking for a job in web3?🚀 
-Check out the D_D Job Board for the latest #web3 #jobs from our partners.
-https://buff.ly/3GD24de https://t.co/eGm0jYjvH2]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @calebbenjin @ConsenSysAudits @joranhonig @megabyte0x 🐐🧑‍💻]]></title>
-        <id>https://twitter.com/developer_dao/status/1650196097493774338</id>
-        <link href="https://twitter.com/developer_dao/status/1650196097493774338"/>
-        <updated>2023-04-23T17:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @calebbenjin @ConsenSysAudits @joranhonig @megabyte0x 🐐🧑‍💻]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @ConsenSysAudits @joranhonig @megabyte0x https://lu.ma/dh3syznu]]></title>
-        <id>https://twitter.com/developer_dao/status/1650194662941151233</id>
-        <link href="https://twitter.com/developer_dao/status/1650194662941151233"/>
-        <updated>2023-04-23T17:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @ConsenSysAudits @joranhonig @megabyte0x https://lu.ma/dh3syznu]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As hacks 🔓 become more frequent in web3, it’s critical to keep contract code secure. Let's explore the smartest fuzzer we know 👀 @ConsenSysAudi...]]></title>
-        <id>https://twitter.com/developer_dao/status/1650194580497895424</id>
-        <link href="https://twitter.com/developer_dao/status/1650194580497895424"/>
-        <updated>2023-04-23T17:47:01.000Z</updated>
-        <summary type="html"><![CDATA[As hacks 🔓 become more frequent in web3, it’s critical to keep contract code secure. 
-Let's explore the smartest fuzzer we know 👀 @ConsenSysAudits with @joranhonig 👨‍💻
-Signup now - https://lu.ma/dh3syznu https://t.co/luCDCosflE]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT shriraj.eth/shree.lens: Here's a deep dive into @NeonLabsOrg architecture. A fully EVM compatible environment on Solana. This is first part of seri...]]></title>
         <id>https://twitter.com/shrirajpawar04/status/1650152223668846594</id>
         <link href="https://twitter.com/shrirajpawar04/status/1650152223668846594"/>
@@ -182,85 +288,6 @@ A fully EVM compatible environment on Solana.
 This is first part of series focusing on components, features and vision of @NeonLabsOrg and @NeonFndn
  Will be writing more on it's workflow and solution
 https://medium.com/@shriiii/neon-evm-a-comprehensive-reference-guide-to-solanas-ethereum-virtual-machine-architecture-db4bd88f2dc8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Papi Billy 🛸: How it sounds like when @crypdoughdoteth and I cowork on solidity together in @developer_dao VC5 channel. Foundry this, hardhat th...]]></title>
-        <id>https://twitter.com/wc49358/status/1650138319987294211</id>
-        <link href="https://twitter.com/wc49358/status/1650138319987294211"/>
-        <updated>2023-04-23T14:03:28.000Z</updated>
-        <summary type="html"><![CDATA[RT Papi Billy 🛸
-How it sounds like when @crypdoughdoteth and I cowork on solidity together in @developer_dao VC5 channel.  Foundry this, hardhat that, vyper this 🤣🤣🤣 https://twitter.com/barstoolsports/status/1649566190266638336
-
-Barstool Sports: These two dudes doing Yu-Gi-Oh! battles on TikTok live is an electric factory. @LightsCameraPod https://t.co/y6ZWti4cgX]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Tyler Angert: gm https://t.co/DSNvKxbDun]]></title>
-        <id>https://twitter.com/tylerangert/status/1649939718971314176</id>
-        <link href="https://twitter.com/tylerangert/status/1649939718971314176"/>
-        <updated>2023-04-23T00:54:18.000Z</updated>
-        <summary type="html"><![CDATA[RT Tyler Angert
-gm https://t.co/DSNvKxbDun]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT turja.eth 🕺: Built this a little while back, but figured it's worth the share for anyone interested to try it out! A trustless secret number gue...]]></title>
-        <id>https://twitter.com/tchowd_/status/1649849912949985282</id>
-        <link href="https://twitter.com/tchowd_/status/1649849912949985282"/>
-        <updated>2023-04-22T18:57:26.000Z</updated>
-        <summary type="html"><![CDATA[RT turja.eth 🕺
-Built this a little while back, but figured it's worth the share for anyone interested to try it out!
-A trustless secret number guessing game built on @zksync ∎
-https://dub.sh/ZeYN6HR https://t.co/eBIvy6UEzq]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mailchain: Could these builders be more inspiring? Thank you to each and every participant of our Hackathon. Together, we are making the next gener...]]></title>
-        <id>https://twitter.com/Mailchain_xyz/status/1649467950209077248</id>
-        <link href="https://twitter.com/Mailchain_xyz/status/1649467950209077248"/>
-        <updated>2023-04-21T17:39:39.000Z</updated>
-        <summary type="html"><![CDATA[RT Mailchain
-Could these builders be more inspiring?
-Thank you to each and every participant of our Hackathon.
-Together, we are making the next generation of the Internet! https://twitter.com/developer_dao/status/1649442021076246530
-
-Developer DAO (🧱, 🚀): Developer DAO x @Mailchain_xyz Hackathon Winners 🎉
-A thread  🧵:]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Haz Æ 41: All these Ethereum requests used a different Tor circuit and IP address, thanks to a new "just-in-time" pooling mechanism 🤯 This mean...]]></title>
-        <id>https://twitter.com/hazae41/status/1649442433548054528</id>
-        <link href="https://twitter.com/hazae41/status/1649442433548054528"/>
-        <updated>2023-04-21T15:58:15.000Z</updated>
-        <summary type="html"><![CDATA[RT Haz Æ 41
-All these Ethereum requests used a different Tor circuit and IP address, thanks to a new "just-in-time" pooling mechanism 🤯
-This means that when using @BrumeWallet, every single wallet address can use a different IP address
-When we need to make a request, we take a random… https://twitter.com/i/web/status/1649442433548054528 https://t.co/mJANMLjcGR]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mac Budkowski: Just like Ethereum is a protocol and Uniswap, MetaMask, and OpenSea are apps to interact with it, Star Wars, Lord of the Rings, MARV...]]></title>
-        <id>https://twitter.com/MacBudkowski/status/1649089973843529729</id>
-        <link href="https://twitter.com/MacBudkowski/status/1649089973843529729"/>
-        <updated>2023-04-20T16:37:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Mac Budkowski
-Just like Ethereum is a protocol and Uniswap, MetaMask, and OpenSea are apps to interact with it, Star Wars, Lord of the Rings, MARVEL, and all other universes are protocols as well. 
-And movies, books, and games are apps to interact with these worlds.
-👇👇👇 https://t.co/IgHJXHffYi]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
