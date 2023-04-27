@@ -93,23 +93,93 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1651369460014411779",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "https://t.co/roMF13Kdbp",
+          "link": "https://twitter.com/developer_dao/status/1651369460014411779",
+          "publishedOn": "2023-04-26T23:35:34.000Z",
+          "wordCount": 480,
+          "title": "https://t.co/roMF13Kdbp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651333462073176065",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS Yo",
+          "link": "https://twitter.com/developer_dao/status/1651333462073176065",
+          "publishedOn": "2023-04-26T21:12:32.000Z",
+          "wordCount": 480,
+          "title": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS Yo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651333392619667457",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS You are here currently?",
+          "link": "https://twitter.com/developer_dao/status/1651333392619667457",
+          "publishedOn": "2023-04-26T21:12:15.000Z",
+          "wordCount": 480,
+          "title": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS You are here currently?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651325197335625729",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Throw a 👋 if you’re at @consensus2023\nAdd a 🤝 if you secured a free ticket from our friends @CoinDesk via @getP3RKS ❤️\nLets coordinate some good IRL vibes https://twitter.com/i/web/status/1651325197335625729\n\nDeveloper DAO (🧱, 🚀): 🚨 STOP WHAT YOU'RE DOING\nWe've partnered with @CoinDesk to offer 50 free tickets for Members to @consensus2023 \nYes we said free. Pro Passes as well 😱\nHead to @getP3RKS, connect your wallet and follow instructions to redeem -  https://buff.ly/3nFIXYN https://t.co/LyQUiFfJlS",
+          "link": "https://twitter.com/developer_dao/status/1651325197335625729",
+          "publishedOn": "2023-04-26T20:39:41.000Z",
+          "wordCount": 480,
+          "title": "Throw a 👋 if you’re at @consensus2023 Add a 🤝 if you secured a free ticket from our friends @CoinDesk via @getP3RKS ❤️ Lets coordinate some g...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651322830582161409",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @wc49358 @consensus2023 @CoinDesk @getP3RKS 🤝",
+          "link": "https://twitter.com/developer_dao/status/1651322830582161409",
+          "publishedOn": "2023-04-26T20:30:17.000Z",
+          "wordCount": 480,
+          "title": "Re @wc49358 @consensus2023 @CoinDesk @getP3RKS 🤝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651263881447378945",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "We are live 🔒👨‍💻\nhttps://www.youtube.com/watch?v=PmRLTXpvmMI\n\nDeveloper DAO (🧱, 🚀): As hacks 🔓 become more frequent in web3, it’s critical to keep contract code secure. \nLet's explore the smartest fuzzer we know 👀 @ConsenSysAudits with @joranhonig 👨‍💻\nSignup now - https://lu.ma/dh3syznu https://t.co/luCDCosflE",
+          "link": "https://twitter.com/developer_dao/status/1651263881447378945",
+          "publishedOn": "2023-04-26T16:36:02.000Z",
+          "wordCount": 480,
+          "title": "We are live 🔒👨‍💻 https://www.youtube.com/watch?v=PmRLTXpvmMI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/dabit3/status/1651225617977999360",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader dabit | nader.lens\nNew video - Build Your First Sybil-Resistant Web App with @gitcoinpassport and @nextjs: A Step-by-Step Guide 🛂\nThe new scorer API makes it easy to secure your applications against Sybil attacks. This tutorial will get you up and running in 23 minutes.\nhttps://www.youtube.com/watch?v=bfkalDSvRDc https://twitter.com/i/web/status/1651225617977999360",
+          "link": "https://twitter.com/dabit3/status/1651225617977999360",
+          "publishedOn": "2023-04-26T14:04:00.000Z",
+          "wordCount": 480,
+          "title": "RT nader dabit | nader.lens: New video - Build Your First Sybil-Resistant Web App with @gitcoinpassport and @nextjs: A Step-by-Step Guide 🛂 The new...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651119090491088898",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "It's WAGMI-Wednesday again, where D_D members tell their Web3 stories! ✒️ \nHow my DAO experience changed my life - leaving home for the first time with Developer DAO for EthDubai \nby @dhaiwat10 \nhttps://buff.ly/3oGaaLg",
+          "link": "https://twitter.com/developer_dao/status/1651119090491088898",
+          "publishedOn": "2023-04-26T07:00:42.000Z",
+          "wordCount": 480,
+          "title": "It's WAGMI-Wednesday again, where D_D members tell their Web3 stories! ✒️ How my DAO experience changed my life - leaving home for the first time wi...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1651073742548738052",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday April 28th at 3:30pm UTC for another episode of our long running @devntellxyz series\n👉 Details and link to RSVP for this weeks episode:\nhttps://buff.ly/40eUdIW",
           "link": "https://twitter.com/developer_dao/status/1651073742548738052",
           "publishedOn": "2023-04-26T04:00:30.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "✨ GM frens! ✨ 🗣️: Join us this Friday April 28th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1651032430608785409",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader (🧱, 🚀) | nader.lens\nNew Video - Creating an @OpenAI ChatGPT Plugin with TypeScript & @nextjs: Step-by-Step Guide 👟\nLearn everything you need to know to start building ChatGPT Plugins with TypeScript in less than 26 minutes 🕕\n🔗 Video\nhttps://www.youtube.com/watch?v=oedDOaqjPgo\n🔗 Codebase\nhttps://github.com/dabit3/nextjs-chatgpt-plugin-starter https://t.co/7XtWsZs2CI",
-          "link": "https://twitter.com/dabit3/status/1651032430608785409",
-          "publishedOn": "2023-04-26T01:16:20.000Z",
-          "wordCount": 509,
-          "title": "RT nader (🧱, 🚀) | nader.lens: New Video - Creating an @OpenAI ChatGPT Plugin with TypeScript & @nextjs: Step-by-Step Guide 👟 Learn everything...",
           "imageUrl": null
         },
         {
@@ -118,7 +188,7 @@
           "description": "Re The @Bitquery_io team are hosting a Product session with @MetricsDAO tomorrow @ 12pm ET.\nSign-up here https://twitter.com/MetricsDAO/status/1650847013838233604\n\nMetricsDAO: Build your skills ▶️ build your portfolio ▶️ build your network 🟰 build your Web3 Analytics career.\n⏰ Tomorrow at 12p ET is our @Bitquery_io Product Session!\nLearn more & sign up here: \nhttps://www.eventbrite.com/e/bitquery-product-session-with-metricsdao-tickets-619234455927?aff=tw24hr",
           "link": "https://twitter.com/developer_dao/status/1650970357484904455",
           "publishedOn": "2023-04-25T21:09:41.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "Re The @Bitquery_io team are hosting a Product session with @MetricsDAO tomorrow @ 12pm ET. Sign-up here https://twitter.com/MetricsDAO/status/1650847...",
           "imageUrl": null
         },
@@ -128,7 +198,7 @@
           "description": "🚨  New Membership Perk  \nWe're partnering @Bitquery_io to offer Members 3-months of free access to their Team Plan 🔥🔥 🔥   \nAccess data for 40+ Blockchains via a GraphQL API: transfers, balances, holders, & trades, including NFTs.\nHead to http://p3rks.xyz to redeem https://t.co/f9PA2tbrej",
           "link": "https://twitter.com/developer_dao/status/1650970356000104449",
           "publishedOn": "2023-04-25T21:09:41.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "🚨 New Membership Perk We're partnering @Bitquery_io to offer Members 3-months of free access to their Team Plan 🔥🔥 🔥 Access data for 40+ B...",
           "imageUrl": null
         },
@@ -138,7 +208,7 @@
           "description": "https://t.co/0MwzZJkrQ2",
           "link": "https://twitter.com/developer_dao/status/1650919538421035008",
           "publishedOn": "2023-04-25T17:47:45.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "https://t.co/0MwzZJkrQ2",
           "imageUrl": null
         },
@@ -148,7 +218,7 @@
           "description": "😎 VIBES starting now\nCome hang on dev-voice https://t.co/5z937x9JND",
           "link": "https://twitter.com/developer_dao/status/1650907456527122450",
           "publishedOn": "2023-04-25T16:59:44.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "😎 VIBES starting now Come hang on dev-voice https://t.co/5z937x9JND",
           "imageUrl": null
         },
@@ -158,18 +228,8 @@
           "description": "RT ~vibesIRL~\n🪩 in 🇫🇷 🤫",
           "link": "https://twitter.com/vibesIRL/status/1650840375047667712",
           "publishedOn": "2023-04-25T12:33:11.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "RT ~vibesIRL~: 🪩 in 🇫🇷 🤫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gitcoin/status/1650833874250002434",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Gitcoin (🤖, 💚)\n📣 GITCOIN GRANTS BETA ROUND IS LIVE! 🚀\n✨ To view and support projects, visit http://grants.gitcoin.co ✨\n🤝 Funding What Matters\n🤝 Community building\n🤝 Collaboration\n🤝 Impact https://t.co/3kCAXOHMNB",
-          "link": "https://twitter.com/gitcoin/status/1650833874250002434",
-          "publishedOn": "2023-04-25T12:07:21.000Z",
-          "wordCount": 509,
-          "title": "RT Gitcoin (🤖, 💚): 📣 GITCOIN GRANTS BETA ROUND IS LIVE! 🚀 ✨ To view and support projects, visit http://grants.gitcoin.co ✨ 🤝 Funding ...",
           "imageUrl": null
         },
         {
@@ -178,7 +238,7 @@
           "description": "RT Mailchain\n1/8 🎉 Congratulations to the winners of the Mailchain & @developer_dao Hackathon! We were blown away by the creativity and innovation displayed by all participants in building communication components for Web3 using the Mailchain SDK.\nLet's take a look at the winners 👇🏆 https://t.co/S0V28I6wpb",
           "link": "https://twitter.com/Mailchain_xyz/status/1650832131105656833",
           "publishedOn": "2023-04-25T12:00:25.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "RT Mailchain: 1/8 🎉 Congratulations to the winners of the Mailchain & @developer_dao Hackathon! We were blown away by the creativity and innovation...",
           "imageUrl": null
         },
@@ -188,7 +248,7 @@
           "description": "Wanna get started with Web3 but don't know how?\nD_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 \nAll of them free and some even pay YOU for learning 🤑 \nhttps://buff.ly/43KuGdB",
           "link": "https://twitter.com/developer_dao/status/1650756656991543297",
           "publishedOn": "2023-04-25T07:00:31.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "Wanna get started with Web3 but don't know how? D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for...",
           "imageUrl": null
         },
@@ -198,98 +258,28 @@
           "description": "RT turja.eth 🕺\nBeen an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline\nSo I put together some scripts to let me download over 9000 blogs in PDF, CSV, MOBI and EPUB\nDive in or download or contribute 🤠\nhttps://github.com/tchowd/avc.com",
           "link": "https://twitter.com/tchowd_/status/1650632501046411265",
           "publishedOn": "2023-04-24T22:47:10.000Z",
-          "wordCount": 509,
+          "wordCount": 480,
           "title": "RT turja.eth 🕺: Been an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline So I put togethe...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/developer_dao/status/1650580052302520361",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Pin a file to IPFS in 2 minutes with @fleekxyz 🔥 https://twitter.com/abruzuc/status/1650577892026490880\n\nAbru Zucchi: How to pin a file on IPFS with @fleekxyz's CLI. Super quick guide - the complete tutorial with IPNS pinning can find it in: https://youtu.be/moWjk68kIdw   \nFeel free to send me your questions! https://t.co/4IoxcwQeMX",
+          "description": "Pin a file to IPFS in 2 minutes with @fleekxyz 🔥\n\nAbru Zucchi: How to pin a file on IPFS with @fleekxyz's CLI. Super quick guide - the complete tutorial with IPNS pinning can find it in: https://youtu.be/moWjk68kIdw   \nFeel free to send me your questions! https://t.co/4IoxcwQeMX",
           "link": "https://twitter.com/developer_dao/status/1650580052302520361",
           "publishedOn": "2023-04-24T19:18:45.000Z",
-          "wordCount": 509,
-          "title": "Pin a file to IPFS in 2 minutes with @fleekxyz 🔥 https://twitter.com/abruzuc/status/1650577892026490880",
+          "wordCount": 480,
+          "title": "Pin a file to IPFS in 2 minutes with @fleekxyz 🔥",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1650569876359073793",
+          "id": "https://twitter.com/LensProtocol/status/1648571875419881472",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @shrirajpawar04 @NeonLabsOrg @kayprasla @goldkostya @FalaleevAndrew Solid",
-          "link": "https://twitter.com/developer_dao/status/1650569876359073793",
-          "publishedOn": "2023-04-24T18:38:19.000Z",
-          "wordCount": 509,
-          "title": "Re @shrirajpawar04 @NeonLabsOrg @kayprasla @goldkostya @FalaleevAndrew Solid",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1650554974751928325",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The \"Solana vs Ethereum\" debate never goes out of fashion. \nLet's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪\nSet reminder to join @kayprasla chatting with @goldkostya & @FalaleevAndrew. \nhttps://twitter.com/i/spaces/1DXxyvYjRgnKM",
-          "link": "https://twitter.com/developer_dao/status/1650554974751928325",
-          "publishedOn": "2023-04-24T17:39:06.000Z",
-          "wordCount": 509,
-          "title": "The \"Solana vs Ethereum\" debate never goes out of fashion. Let's settle the narrative & explore building with the best of both chains using @NeonLabsO...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gitcoinpassport/status/1650548097401991190",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Gitcoin Passport — Sybil Defense. Made Simple.\n📣 BIG NEWS 🎉\nWe just launched the new & improved Gitcoin Passport Scorer App!\nhttps://scorer.gitcoin.co\nWith the Scorer app, you can easily give your users a “Unique Humanity Score,” which determines who gets access to your application.\n📺 Watch our new Quickstart video by… https://twitter.com/i/web/status/1650548097401991190 https://t.co/Z0To1kg08Q",
-          "link": "https://twitter.com/gitcoinpassport/status/1650548097401991190",
-          "publishedOn": "2023-04-24T17:11:46.000Z",
-          "wordCount": 509,
-          "title": "RT Gitcoin Passport — Sybil Defense. Made Simple.: 📣 BIG NEWS 🎉 We just launched the new & improved Gitcoin Passport Scorer App! https://scorer...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1650545149393481738",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "GM FRENS 😎\nOur membership scholarship program is back powered by @devdaowomen!! \nApply to receive a membership to officially join the D_D community 🚀\nApplication is LIVE 📍 https://app.deform.cc/form/20cee3e7-0394-49ee-b2d1-bc7c2489fa0e/ https://t.co/7AQWAZSAsc",
-          "link": "https://twitter.com/developer_dao/status/1650545149393481738",
-          "publishedOn": "2023-04-24T17:00:03.000Z",
-          "wordCount": 509,
-          "title": "GM FRENS 😎 Our membership scholarship program is back powered by @devdaowomen!! Apply to receive a membership to officially join the D_D community ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1650515570301837317",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Check out the top 3 articles of last week! 🎉 \n🥇 40 Free Online Learning Platforms for Web3 Enthusiasts \nby @frankiefab100 \nhttps://buff.ly/43KuGdB",
-          "link": "https://twitter.com/developer_dao/status/1650515570301837317",
-          "publishedOn": "2023-04-24T15:02:31.000Z",
-          "wordCount": 509,
-          "title": "Check out the top 3 articles of last week! 🎉 🥇 40 Free Online Learning Platforms for Web3 Enthusiasts by @frankiefab100 https://buff.ly/43KuGdB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kirstenrpomales/status/1650256724262100992",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Kirsten ❤️ TalentLayer (🍀,🦝)\nRe @EthereumDenver FT: @developer_dao @mattiapomelli @Romain__TL @mart1gone @carllippert @quentdc043 & me https://t.co/Gn5NE9TJYl",
-          "link": "https://twitter.com/kirstenrpomales/status/1650256724262100992",
-          "publishedOn": "2023-04-23T21:53:58.000Z",
-          "wordCount": 509,
-          "title": "RT Kirsten ❤️ TalentLayer (🍀,🦝): Re @EthereumDenver FT: @developer_dao @mattiapomelli @Romain__TL @mart1gone @carllippert @quentdc043 & me htt...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wc49358/status/1650240504926470144",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Papi Billy 🛸\nCreated a thread in the general channel for @developer_dao members that are going to @consensus2023 .  Vibes - General Chat .  Will most likely have a meetup 🤙 https://t.co/AaHq1C1PDk",
-          "link": "https://twitter.com/wc49358/status/1650240504926470144",
-          "publishedOn": "2023-04-23T20:49:31.000Z",
-          "wordCount": 509,
-          "title": "RT Papi Billy 🛸: Created a thread in the general channel for @developer_dao members that are going to @consensus2023 . Vibes - General Chat . Will ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/shrirajpawar04/status/1650152223668846594",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT shriraj.eth/shree.lens\nHere's a deep dive into @NeonLabsOrg architecture. \nA fully EVM compatible environment on Solana. \nThis is first part of series focusing on components, features and vision of @NeonLabsOrg and @NeonFndn\n Will be writing more on it's workflow and solution\nhttps://medium.com/@shriiii/neon-evm-a-comprehensive-reference-guide-to-solanas-ethereum-virtual-machine-architecture-db4bd88f2dc8",
-          "link": "https://twitter.com/shrirajpawar04/status/1650152223668846594",
-          "publishedOn": "2023-04-23T14:58:43.000Z",
-          "wordCount": 509,
-          "title": "RT shriraj.eth/shree.lens: Here's a deep dive into @NeonLabsOrg architecture. A fully EVM compatible environment on Solana. This is first part of seri...",
+          "description": "RT Lens Protocol\nAll Lens hackers at @ETHGlobal Lisbon get a @letsraave ticket. We don’t make the rules. 🫡",
+          "link": "https://twitter.com/LensProtocol/status/1648571875419881472",
+          "publishedOn": "2023-04-19T06:18:58.000Z",
+          "wordCount": 480,
+          "title": "RT Lens Protocol: All Lens hackers at @ETHGlobal Lisbon get a @letsraave ticket. We don’t make the rules. 🫡",
           "imageUrl": null
         }
       ]
@@ -299,6 +289,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=qw83M7f1LI0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qw83M7f1LI0",
+          "publishedOn": "2023-04-26T07:00:20.000Z",
+          "wordCount": null,
+          "title": "Building a Custom Module with Lens Protocol from Scratch",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=oedDOaqjPgo",
           "author": null,
