@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1a0c323-a0bf-440c-abc1-a4c2a6bdd089_1188x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/63-probably-nothing",
-          "author": "Sylvia R.",
-          "description": "Lil Knowledge Proof",
-          "link": "https://developerdao.substack.com/p/63-probably-nothing",
-          "publishedOn": "2023-03-29T16:57:52.000Z",
-          "wordCount": null,
-          "title": "#63 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f84806a-6caf-4534-a375-50512efb04f4_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f84806a-6caf-4534-a375-50512efb04f4_1188x668.png"
         }
       ]
     },
@@ -93,12 +77,62 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1651647778584494080",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @kirstenrpomales who will be giving us to an overview of @talentlayer, hosted by @narb_s \n👉 Details and link to RSVP for this weeks episode:\nhttps://buff.ly/40eUdIW",
+          "link": "https://twitter.com/developer_dao/status/1651647778584494080",
+          "publishedOn": "2023-04-27T18:01:31.000Z",
+          "wordCount": 513,
+          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @kirstenrpomales who will be giving us to an overview of @talentlayer, hosted by ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/web3afrika/status/1651632017132462093",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Web3 Afrika\n📢🥁🔥🥁🔥🥁🔥🥁\nWe are thrilled to announce that our project has been accepted as one of the recipients of the Web3 Community and Education grant focus on @gitcoin.\nhttps://explorer.gitcoin.co/#/round/1/0xaa40e2e5c8df03d792a52b5458959c320f86ca18/0xaa40e2e5c8df03d792a52b5458959c320f86ca18-45\n🧵👇 https://t.co/zM0VIVZgbj",
+          "link": "https://twitter.com/web3afrika/status/1651632017132462093",
+          "publishedOn": "2023-04-27T16:58:53.000Z",
+          "wordCount": 513,
+          "title": "RT Web3 Afrika: 📢🥁🔥🥁🔥🥁🔥🥁 We are thrilled to announce that our project has been accepted as one of the recipients of the Web3 C...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651625204592910337",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Calling all Senior Front End Developers👀\nhttps://developerdao.pallet.com",
+          "link": "https://twitter.com/developer_dao/status/1651625204592910337",
+          "publishedOn": "2023-04-27T16:31:49.000Z",
+          "wordCount": 513,
+          "title": "Calling all Senior Front End Developers👀 https://developerdao.pallet.com",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651605884747882496",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Solana developers we heard you!!!\n@solana_devs https://twitter.com/developer_dao/status/1650554974751928325\n\nDeveloper DAO (🧱, 🚀): The \"Solana vs Ethereum\" debate never goes out of fashion. \nLet's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪\nSet reminder to join @kayprasla chatting with @goldkostya & @FalaleevAndrew. \nhttps://twitter.com/i/spaces/1DXxyvYjRgnKM",
+          "link": "https://twitter.com/developer_dao/status/1651605884747882496",
+          "publishedOn": "2023-04-27T15:15:02.000Z",
+          "wordCount": 513,
+          "title": "Solana developers we heard you!!! @solana_devs https://twitter.com/developer_dao/status/1650554974751928325",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1651601428543156224",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "https://twitter.com/i/spaces/1DXxyvYjRgnKM",
+          "link": "https://twitter.com/developer_dao/status/1651601428543156224",
+          "publishedOn": "2023-04-27T14:57:20.000Z",
+          "wordCount": 513,
+          "title": "https://twitter.com/i/spaces/1DXxyvYjRgnKM",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1651369460014411779",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "https://t.co/roMF13Kdbp",
           "link": "https://twitter.com/developer_dao/status/1651369460014411779",
           "publishedOn": "2023-04-26T23:35:34.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "https://t.co/roMF13Kdbp",
           "imageUrl": null
         },
@@ -108,7 +142,7 @@
           "description": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS Yo",
           "link": "https://twitter.com/developer_dao/status/1651333462073176065",
           "publishedOn": "2023-04-26T21:12:32.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS Yo",
           "imageUrl": null
         },
@@ -118,7 +152,7 @@
           "description": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS You are here currently?",
           "link": "https://twitter.com/developer_dao/status/1651333392619667457",
           "publishedOn": "2023-04-26T21:12:15.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Re @thorabbasi @consensus2023 @CoinDesk @getP3RKS You are here currently?",
           "imageUrl": null
         },
@@ -128,7 +162,7 @@
           "description": "Throw a 👋 if you’re at @consensus2023\nAdd a 🤝 if you secured a free ticket from our friends @CoinDesk via @getP3RKS ❤️\nLets coordinate some good IRL vibes https://twitter.com/i/web/status/1651325197335625729\n\nDeveloper DAO (🧱, 🚀): 🚨 STOP WHAT YOU'RE DOING\nWe've partnered with @CoinDesk to offer 50 free tickets for Members to @consensus2023 \nYes we said free. Pro Passes as well 😱\nHead to @getP3RKS, connect your wallet and follow instructions to redeem -  https://buff.ly/3nFIXYN https://t.co/LyQUiFfJlS",
           "link": "https://twitter.com/developer_dao/status/1651325197335625729",
           "publishedOn": "2023-04-26T20:39:41.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Throw a 👋 if you’re at @consensus2023 Add a 🤝 if you secured a free ticket from our friends @CoinDesk via @getP3RKS ❤️ Lets coordinate some g...",
           "imageUrl": null
         },
@@ -138,18 +172,18 @@
           "description": "Re @wc49358 @consensus2023 @CoinDesk @getP3RKS 🤝",
           "link": "https://twitter.com/developer_dao/status/1651322830582161409",
           "publishedOn": "2023-04-26T20:30:17.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Re @wc49358 @consensus2023 @CoinDesk @getP3RKS 🤝",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/developer_dao/status/1651263881447378945",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "We are live 🔒👨‍💻\nhttps://www.youtube.com/watch?v=PmRLTXpvmMI\n\nDeveloper DAO (🧱, 🚀): As hacks 🔓 become more frequent in web3, it’s critical to keep contract code secure. \nLet's explore the smartest fuzzer we know 👀 @ConsenSysAudits with @joranhonig 👨‍💻\nSignup now - https://lu.ma/dh3syznu https://t.co/luCDCosflE",
+          "description": "We are live 🔒👨‍💻\nhttps://www.youtube.com/watch?v=PmRLTXpvmMI https://twitter.com/developer_dao/status/1650194580497895424\n\nDeveloper DAO (🧱, 🚀): As hacks 🔓 become more frequent in web3, it’s critical to keep contract code secure. \nLet's explore the smartest fuzzer we know 👀 @ConsenSysAudits with @joranhonig 👨‍💻\nSignup now - https://lu.ma/dh3syznu https://t.co/luCDCosflE",
           "link": "https://twitter.com/developer_dao/status/1651263881447378945",
           "publishedOn": "2023-04-26T16:36:02.000Z",
-          "wordCount": 480,
-          "title": "We are live 🔒👨‍💻 https://www.youtube.com/watch?v=PmRLTXpvmMI",
+          "wordCount": 513,
+          "title": "We are live 🔒👨‍💻 https://www.youtube.com/watch?v=PmRLTXpvmMI https://twitter.com/developer_dao/status/1650194580497895424",
           "imageUrl": null
         },
         {
@@ -158,8 +192,18 @@
           "description": "RT nader dabit | nader.lens\nNew video - Build Your First Sybil-Resistant Web App with @gitcoinpassport and @nextjs: A Step-by-Step Guide 🛂\nThe new scorer API makes it easy to secure your applications against Sybil attacks. This tutorial will get you up and running in 23 minutes.\nhttps://www.youtube.com/watch?v=bfkalDSvRDc https://twitter.com/i/web/status/1651225617977999360",
           "link": "https://twitter.com/dabit3/status/1651225617977999360",
           "publishedOn": "2023-04-26T14:04:00.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "RT nader dabit | nader.lens: New video - Build Your First Sybil-Resistant Web App with @gitcoinpassport and @nextjs: A Step-by-Step Guide 🛂 The new...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/guildxyz/status/1651218249575550976",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Guild\nHow has @developer_dao created such a smooth and customized onboarding experience?\nSat down with the brilliant mind behind the design, and unpacked it all.\nFull details and magic recipes in the article below (you can also collect it ;)\nhttps://guild.mirror.xyz/A_hzlKfwleK5l3zkILJ6qlF98oE_h4kz_BofksjpaaA\n1/6",
+          "link": "https://twitter.com/guildxyz/status/1651218249575550976",
+          "publishedOn": "2023-04-26T13:34:43.000Z",
+          "wordCount": 513,
+          "title": "RT Guild: How has @developer_dao created such a smooth and customized onboarding experience? Sat down with the brilliant mind behind the design, and u...",
           "imageUrl": null
         },
         {
@@ -168,7 +212,7 @@
           "description": "It's WAGMI-Wednesday again, where D_D members tell their Web3 stories! ✒️ \nHow my DAO experience changed my life - leaving home for the first time with Developer DAO for EthDubai \nby @dhaiwat10 \nhttps://buff.ly/3oGaaLg",
           "link": "https://twitter.com/developer_dao/status/1651119090491088898",
           "publishedOn": "2023-04-26T07:00:42.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "It's WAGMI-Wednesday again, where D_D members tell their Web3 stories! ✒️ How my DAO experience changed my life - leaving home for the first time wi...",
           "imageUrl": null
         },
@@ -178,7 +222,7 @@
           "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday April 28th at 3:30pm UTC for another episode of our long running @devntellxyz series\n👉 Details and link to RSVP for this weeks episode:\nhttps://buff.ly/40eUdIW",
           "link": "https://twitter.com/developer_dao/status/1651073742548738052",
           "publishedOn": "2023-04-26T04:00:30.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "✨ GM frens! ✨ 🗣️: Join us this Friday April 28th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link...",
           "imageUrl": null
         },
@@ -188,7 +232,7 @@
           "description": "Re The @Bitquery_io team are hosting a Product session with @MetricsDAO tomorrow @ 12pm ET.\nSign-up here https://twitter.com/MetricsDAO/status/1650847013838233604\n\nMetricsDAO: Build your skills ▶️ build your portfolio ▶️ build your network 🟰 build your Web3 Analytics career.\n⏰ Tomorrow at 12p ET is our @Bitquery_io Product Session!\nLearn more & sign up here: \nhttps://www.eventbrite.com/e/bitquery-product-session-with-metricsdao-tickets-619234455927?aff=tw24hr",
           "link": "https://twitter.com/developer_dao/status/1650970357484904455",
           "publishedOn": "2023-04-25T21:09:41.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "Re The @Bitquery_io team are hosting a Product session with @MetricsDAO tomorrow @ 12pm ET. Sign-up here https://twitter.com/MetricsDAO/status/1650847...",
           "imageUrl": null
         },
@@ -198,88 +242,28 @@
           "description": "🚨  New Membership Perk  \nWe're partnering @Bitquery_io to offer Members 3-months of free access to their Team Plan 🔥🔥 🔥   \nAccess data for 40+ Blockchains via a GraphQL API: transfers, balances, holders, & trades, including NFTs.\nHead to http://p3rks.xyz to redeem https://t.co/f9PA2tbrej",
           "link": "https://twitter.com/developer_dao/status/1650970356000104449",
           "publishedOn": "2023-04-25T21:09:41.000Z",
-          "wordCount": 480,
+          "wordCount": 513,
           "title": "🚨 New Membership Perk We're partnering @Bitquery_io to offer Members 3-months of free access to their Team Plan 🔥🔥 🔥 Access data for 40+ B...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1650919538421035008",
+          "id": "https://twitter.com/VenomFoundation/status/1650883852238299137",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://t.co/0MwzZJkrQ2",
-          "link": "https://twitter.com/developer_dao/status/1650919538421035008",
-          "publishedOn": "2023-04-25T17:47:45.000Z",
-          "wordCount": 480,
-          "title": "https://t.co/0MwzZJkrQ2",
+          "description": "RT Venom Foundation\nTestnet is live!\nGet ready for a few months of acquiring users, onboarding projects, and attracting developers\nStart collecting your early member NFTs: http://Venom.network https://t.co/PKzDUZwBUs",
+          "link": "https://twitter.com/VenomFoundation/status/1650883852238299137",
+          "publishedOn": "2023-04-25T15:25:56.000Z",
+          "wordCount": 513,
+          "title": "RT Venom Foundation: Testnet is live! Get ready for a few months of acquiring users, onboarding projects, and attracting developers Start collecting y...",
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1650907456527122450",
+          "id": "https://twitter.com/developer_dao/status/1650554974751928325",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "😎 VIBES starting now\nCome hang on dev-voice https://t.co/5z937x9JND",
-          "link": "https://twitter.com/developer_dao/status/1650907456527122450",
-          "publishedOn": "2023-04-25T16:59:44.000Z",
-          "wordCount": 480,
-          "title": "😎 VIBES starting now Come hang on dev-voice https://t.co/5z937x9JND",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/vibesIRL/status/1650840375047667712",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ~vibesIRL~\n🪩 in 🇫🇷 🤫",
-          "link": "https://twitter.com/vibesIRL/status/1650840375047667712",
-          "publishedOn": "2023-04-25T12:33:11.000Z",
-          "wordCount": 480,
-          "title": "RT ~vibesIRL~: 🪩 in 🇫🇷 🤫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Mailchain_xyz/status/1650832131105656833",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Mailchain\n1/8 🎉 Congratulations to the winners of the Mailchain & @developer_dao Hackathon! We were blown away by the creativity and innovation displayed by all participants in building communication components for Web3 using the Mailchain SDK.\nLet's take a look at the winners 👇🏆 https://t.co/S0V28I6wpb",
-          "link": "https://twitter.com/Mailchain_xyz/status/1650832131105656833",
-          "publishedOn": "2023-04-25T12:00:25.000Z",
-          "wordCount": 480,
-          "title": "RT Mailchain: 1/8 🎉 Congratulations to the winners of the Mailchain & @developer_dao Hackathon! We were blown away by the creativity and innovation...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1650756656991543297",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Wanna get started with Web3 but don't know how?\nD_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for you! 🤯 \nAll of them free and some even pay YOU for learning 🤑 \nhttps://buff.ly/43KuGdB",
-          "link": "https://twitter.com/developer_dao/status/1650756656991543297",
-          "publishedOn": "2023-04-25T07:00:31.000Z",
-          "wordCount": 480,
-          "title": "Wanna get started with Web3 but don't know how? D_D member @frankiefab100 took some time and compiled a giant list of free Web3 learning resources for...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tchowd_/status/1650632501046411265",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT turja.eth 🕺\nBeen an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline\nSo I put together some scripts to let me download over 9000 blogs in PDF, CSV, MOBI and EPUB\nDive in or download or contribute 🤠\nhttps://github.com/tchowd/avc.com",
-          "link": "https://twitter.com/tchowd_/status/1650632501046411265",
-          "publishedOn": "2023-04-24T22:47:10.000Z",
-          "wordCount": 480,
-          "title": "RT turja.eth 🕺: Been an avid reader of http://avc.com by @fredwilson but always found it tough whenever I'm on the move or offline So I put togethe...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1650580052302520361",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Pin a file to IPFS in 2 minutes with @fleekxyz 🔥\n\nAbru Zucchi: How to pin a file on IPFS with @fleekxyz's CLI. Super quick guide - the complete tutorial with IPNS pinning can find it in: https://youtu.be/moWjk68kIdw   \nFeel free to send me your questions! https://t.co/4IoxcwQeMX",
-          "link": "https://twitter.com/developer_dao/status/1650580052302520361",
-          "publishedOn": "2023-04-24T19:18:45.000Z",
-          "wordCount": 480,
-          "title": "Pin a file to IPFS in 2 minutes with @fleekxyz 🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/LensProtocol/status/1648571875419881472",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Lens Protocol\nAll Lens hackers at @ETHGlobal Lisbon get a @letsraave ticket. We don’t make the rules. 🫡",
-          "link": "https://twitter.com/LensProtocol/status/1648571875419881472",
-          "publishedOn": "2023-04-19T06:18:58.000Z",
-          "wordCount": 480,
-          "title": "RT Lens Protocol: All Lens hackers at @ETHGlobal Lisbon get a @letsraave ticket. We don’t make the rules. 🫡",
+          "description": "RT Developer DAO (🧱, 🚀)\nThe \"Solana vs Ethereum\" debate never goes out of fashion. \nLet's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪\nSet reminder to join @kayprasla chatting with @goldkostya & @FalaleevAndrew. \nhttps://twitter.com/i/spaces/1DXxyvYjRgnKM",
+          "link": "https://twitter.com/developer_dao/status/1650554974751928325",
+          "publishedOn": "2023-04-24T17:39:06.000Z",
+          "wordCount": 513,
+          "title": "RT Developer DAO (🧱, 🚀): The \"Solana vs Ethereum\" debate never goes out of fashion. Let's settle the narrative & explore building with the best ...",
           "imageUrl": null
         }
       ]
