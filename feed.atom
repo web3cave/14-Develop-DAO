@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T06:11:20.200Z</id>
+    <id>urn:2023-04-30T06:11:36.041Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-29T06:11:20.200Z</updated>
+    <updated>2023-04-30T06:11:36.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[🚀 Looking for a job in web3?🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. https://buff.ly/3GD24de https://t.co/R9T...]]></title>
+        <id>https://twitter.com/developer_dao/status/1652359998205304834</id>
+        <link href="https://twitter.com/developer_dao/status/1652359998205304834"/>
+        <updated>2023-04-29T17:11:37.000Z</updated>
+        <summary type="html"><![CDATA[🚀  Looking for a job in web3?🚀 
+Check out the D_D Job Board for the latest #web3 #jobs from our partners.
+https://buff.ly/3GD24de https://t.co/R9Ty4I7PdN]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader dabit | nader.lens: Wrapping up a video tutorial for building a full stack app with @SwayLang + @nextjs + @fuel_network and wanted to share a...]]></title>
         <id>https://twitter.com/dabit3/status/1652088632579174400</id>
@@ -23,19 +35,19 @@ https://fuelbook.fuel.network/master/for-developers/running-a-local-node.html ht
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Well done to all the build000rs in the @web3afrika hackathon, and special congrats to the winners 👏👏 🫡 https://twitter.com/web3afrika/status/...]]></title>
+        <title type="html"><![CDATA[Well done to all the build000rs in the @web3afrika hackathon, and special congrats to the winners 👏👏 🫡]]></title>
         <id>https://twitter.com/developer_dao/status/1651986722148720642</id>
         <link href="https://twitter.com/developer_dao/status/1651986722148720642"/>
         <updated>2023-04-28T16:28:21.000Z</updated>
         <summary type="html"><![CDATA[Well done to all the build000rs in the @web3afrika hackathon, and special congrats to the winners 👏👏
-🫡 https://twitter.com/web3afrika/status/1651980108637298689
+🫡
 
 Web3 Afrika: 🔥Announcing the winners of the Web3 Afrika Hackathon!
 We received many amazing submissions & our judges had difficulty deciding on the top projects.
 Without further ado, here are the winners:
 1st http://manor-cyan.vercel.app
 2nd http://tipx.vercel.app
-3rd http://web3afrikan-blog.vercel.app https://twitter.com/BunzzDev/status/1651966335826493441 https://t.co/C36dqY4cTa]]></summary>
+3rd http://web3afrikan-blog.vercel.app https://t.co/C36dqY4cTa]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -90,23 +102,9 @@ https://buff.ly/3KZmkaS]]></summary>
         <link href="https://twitter.com/skeshav25/status/1651962093644697601"/>
         <updated>2023-04-28T14:50:29.000Z</updated>
         <summary type="html"><![CDATA[RT Keshav Sharma
-I'm grateful ❤️to @Mailchain_xyz and @developer_dao for hosting such an amazing hackathon! I used React-Email with the Mailchain to create a seamless way to design custom email templates using Mailchain. I hope it enhances the UX when communicating with users through Mailchain. https://twitter.com/Mailchain_xyz/status/1651949471444656129
+I'm grateful ❤️to @Mailchain_xyz and @developer_dao for hosting such an amazing hackathon! I used React-Email with the Mailchain to create a seamless way to design custom email templates using Mailchain. I hope it enhances the UX when communicating with users through Mailchain.
 
 Mailchain: 1/6 🏆Congrats to @skeshav25, the first place winner of our hackathon with @developer_dao! They used React-Email with the Mailchain SDK to make it easy for all developers to create custom email templates for Mailchain 🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Fleek ⚡️: The Build3rs Stack, with @radicle ⚡ Want an alternative to traditional centralized code collab platforms? Look no further than #Radicl...]]></title>
-        <id>https://twitter.com/fleekxyz/status/1651950483383398400</id>
-        <link href="https://twitter.com/fleekxyz/status/1651950483383398400"/>
-        <updated>2023-04-28T14:04:21.000Z</updated>
-        <summary type="html"><![CDATA[RT Fleek ⚡️
-The Build3rs Stack, with @radicle ⚡
-Want an alternative to traditional centralized code collab platforms? Look no further than #Radicle– an open-source, peer-to-peer network for code collaboration!
-Get started with our latest web3 infra overview:
-https://blog.fleek.xyz/post/builders-stack-radicle]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -170,12 +168,12 @@ https://developerdao.pallet.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solana developers we heard you!!! @solana_devs https://twitter.com/developer_dao/status/1650554974751928325]]></title>
+        <title type="html"><![CDATA[Solana developers we heard you!!! @solana_devs]]></title>
         <id>https://twitter.com/developer_dao/status/1651605884747882496</id>
         <link href="https://twitter.com/developer_dao/status/1651605884747882496"/>
         <updated>2023-04-27T15:15:02.000Z</updated>
         <summary type="html"><![CDATA[Solana developers we heard you!!!
-@solana_devs https://twitter.com/developer_dao/status/1650554974751928325
+@solana_devs
 
 Developer DAO (🧱, 🚀): The "Solana vs Ethereum" debate never goes out of fashion. 
 Let's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪
