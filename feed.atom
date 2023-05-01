@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T06:11:36.041Z</id>
+    <id>urn:2023-05-01T06:12:44.510Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-30T06:11:36.041Z</updated>
+    <updated>2023-05-01T06:12:44.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -35,19 +35,19 @@ https://fuelbook.fuel.network/master/for-developers/running-a-local-node.html ht
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Well done to all the build000rs in the @web3afrika hackathon, and special congrats to the winners 👏👏 🫡]]></title>
+        <title type="html"><![CDATA[Well done to all the build000rs in the @web3afrika hackathon, and special congrats to the winners 👏👏 🫡 https://twitter.com/web3afrika/status/...]]></title>
         <id>https://twitter.com/developer_dao/status/1651986722148720642</id>
         <link href="https://twitter.com/developer_dao/status/1651986722148720642"/>
         <updated>2023-04-28T16:28:21.000Z</updated>
         <summary type="html"><![CDATA[Well done to all the build000rs in the @web3afrika hackathon, and special congrats to the winners 👏👏
-🫡
+🫡 https://twitter.com/web3afrika/status/1651980108637298689
 
 Web3 Afrika: 🔥Announcing the winners of the Web3 Afrika Hackathon!
 We received many amazing submissions & our judges had difficulty deciding on the top projects.
 Without further ado, here are the winners:
 1st http://manor-cyan.vercel.app
 2nd http://tipx.vercel.app
-3rd http://web3afrikan-blog.vercel.app https://t.co/C36dqY4cTa]]></summary>
+3rd http://web3afrikan-blog.vercel.app https://twitter.com/BunzzDev/status/1651966335826493441 https://t.co/C36dqY4cTa]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -102,7 +102,7 @@ https://buff.ly/3KZmkaS]]></summary>
         <link href="https://twitter.com/skeshav25/status/1651962093644697601"/>
         <updated>2023-04-28T14:50:29.000Z</updated>
         <summary type="html"><![CDATA[RT Keshav Sharma
-I'm grateful ❤️to @Mailchain_xyz and @developer_dao for hosting such an amazing hackathon! I used React-Email with the Mailchain to create a seamless way to design custom email templates using Mailchain. I hope it enhances the UX when communicating with users through Mailchain.
+I'm grateful ❤️to @Mailchain_xyz and @developer_dao for hosting such an amazing hackathon! I used React-Email with the Mailchain to create a seamless way to design custom email templates using Mailchain. I hope it enhances the UX when communicating with users through Mailchain. https://twitter.com/Mailchain_xyz/status/1651949471444656129
 
 Mailchain: 1/6 🏆Congrats to @skeshav25, the first place winner of our hackathon with @developer_dao! They used React-Email with the Mailchain SDK to make it easy for all developers to create custom email templates for Mailchain 🔥]]></summary>
         <author>
@@ -168,12 +168,12 @@ https://developerdao.pallet.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solana developers we heard you!!! @solana_devs]]></title>
+        <title type="html"><![CDATA[Solana developers we heard you!!! @solana_devs https://twitter.com/developer_dao/status/1650554974751928325]]></title>
         <id>https://twitter.com/developer_dao/status/1651605884747882496</id>
         <link href="https://twitter.com/developer_dao/status/1651605884747882496"/>
         <updated>2023-04-27T15:15:02.000Z</updated>
         <summary type="html"><![CDATA[Solana developers we heard you!!!
-@solana_devs
+@solana_devs https://twitter.com/developer_dao/status/1650554974751928325
 
 Developer DAO (🧱, 🚀): The "Solana vs Ethereum" debate never goes out of fashion. 
 Let's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪
@@ -208,14 +208,11 @@ http://hackathon.venom.network https://t.co/d4wuxPNAh0]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT otta: Thank you to @marablossom for your thread on #DeSci, which introduced me to the narrative. 👇 It inspired me to write a brief article about...]]></title>
-        <id>https://twitter.com/ottalabotta/status/1651588429334073344</id>
-        <link href="https://twitter.com/ottalabotta/status/1651588429334073344"/>
-        <updated>2023-04-27T14:05:41.000Z</updated>
-        <summary type="html"><![CDATA[RT otta
-Thank you to @marablossom for your thread on #DeSci, which introduced me to the narrative.
-👇 It inspired me to write a brief article about it in an effort to learn more. I've attempted to cover what it is and some use cases for DeSci projects.
-https://ottalabotta-crypto.beehiiv.com/p/decentralized-science]]></summary>
+        <title type="html"><![CDATA[https://t.co/roMF13Kdbp]]></title>
+        <id>https://twitter.com/developer_dao/status/1651369460014411779</id>
+        <link href="https://twitter.com/developer_dao/status/1651369460014411779"/>
+        <updated>2023-04-26T23:35:34.000Z</updated>
+        <summary type="html"><![CDATA[https://t.co/roMF13Kdbp]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
