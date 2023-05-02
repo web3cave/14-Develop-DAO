@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T06:12:44.510Z</id>
+    <id>urn:2023-05-02T06:12:13.314Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-01T06:12:44.510Z</updated>
+    <updated>2023-05-02T06:12:13.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @tchowd_ @DIMIDJ You both rocked 🫡]]></title>
+        <id>https://twitter.com/developer_dao/status/1653147578391838723</id>
+        <link href="https://twitter.com/developer_dao/status/1653147578391838723"/>
+        <updated>2023-05-01T21:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Re @tchowd_ @DIMIDJ You both rocked 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today, we have something more visual for you. 📷 Our very own design OG @Erik_Knobl explains how to prompt Midjourney for well-known camera angles! ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1653066752438173697</id>
+        <link href="https://twitter.com/developer_dao/status/1653066752438173697"/>
+        <updated>2023-05-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we have something more visual for you. 📷 
+Our very own design OG @Erik_Knobl explains how to prompt Midjourney for well-known camera angles! 
+https://buff.ly/3LonITp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How would you improve the developer relations at your favorite project? 🤔 D_D member @PeterPanYes wrote down their musings about DevRel at @graphpr...]]></title>
+        <id>https://twitter.com/developer_dao/status/1653006553010655235</id>
+        <link href="https://twitter.com/developer_dao/status/1653006553010655235"/>
+        <updated>2023-05-01T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[How would you improve the developer relations at your favorite project? 🤔 
+D_D member @PeterPanYes wrote down their musings about DevRel at @graphprotocol 🚀 
+Totally worth a read! 🎓 
+https://buff.ly/3LTae3G]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @frankiefab100 @Jamiescript @megabyte0x Since our latest blog proposal passed, members can get rewarded with $CODE tokens if they provide exclusive...]]></title>
+        <id>https://twitter.com/developer_dao/status/1652961410152792070</id>
+        <link href="https://twitter.com/developer_dao/status/1652961410152792070"/>
+        <updated>2023-05-01T09:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @frankiefab100 @Jamiescript @megabyte0x Since our latest blog proposal passed, members can get rewarded with $CODE tokens if they provide exclusive content for the D_D blog. ⚡
+And each month the top 3 articles win even more $CODE! 🥇🥈🥉
+So, drop your knowledge on the D_D blog! 🚀
+https://buff.ly/42dTY2a]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @frankiefab100 @Jamiescript 150 $CODE tokens go to 🥉How to build Reddit's NFT Marketplace using Polygon and Paper A DApp tutorial that leverages...]]></title>
+        <id>https://twitter.com/developer_dao/status/1652961409360068617</id>
+        <link href="https://twitter.com/developer_dao/status/1652961409360068617"/>
+        <updated>2023-05-01T09:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Re @frankiefab100 @Jamiescript 150 $CODE tokens go to
+🥉How to build Reddit's NFT Marketplace using Polygon and Paper 
+A DApp tutorial that leverages account abstraction by @megabyte0x  🗞
+https://buff.ly/3KyIe3k]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @frankiefab100 300 $CODE tokens go to 🥈 Getting Started with Streamr A beginners guide created by @Jamiescript 🤓 https://buff.ly/3nPzONg]]></title>
+        <id>https://twitter.com/developer_dao/status/1652961408441565184</id>
+        <link href="https://twitter.com/developer_dao/status/1652961408441565184"/>
+        <updated>2023-05-01T09:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @frankiefab100 300 $CODE tokens go to
+🥈 Getting Started with Streamr 
+A beginners guide created by @Jamiescript 🤓 
+https://buff.ly/3nPzONg]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out the top 3 articles of April on the D_D blog! 🎉 450 $CODE tokens go to: 🥇 40 Free Online Learning Platforms for Web3 Enthusiasts A quit...]]></title>
+        <id>https://twitter.com/developer_dao/status/1652961407640428545</id>
+        <link href="https://twitter.com/developer_dao/status/1652961407640428545"/>
+        <updated>2023-05-01T09:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Check out the top 3 articles of April on the D_D blog! 🎉 
+450 $CODE tokens go to:
+🥇 40 Free Online Learning Platforms for Web3 Enthusiasts 
+A quite comprehensive list of Web3 learning resources distilled by @frankiefab100 📜 
+https://buff.ly/43KuGdB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚀 Looking for a job in web3?🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. https://buff.ly/3GD24de https://t.co/R9T...]]></title>
         <id>https://twitter.com/developer_dao/status/1652359998205304834</id>
@@ -97,19 +185,6 @@ https://buff.ly/3KZmkaS]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Keshav Sharma: I'm grateful ❤️to @Mailchain_xyz and @developer_dao for hosting such an amazing hackathon! I used React-Email with the Mailchain t...]]></title>
-        <id>https://twitter.com/skeshav25/status/1651962093644697601</id>
-        <link href="https://twitter.com/skeshav25/status/1651962093644697601"/>
-        <updated>2023-04-28T14:50:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Keshav Sharma
-I'm grateful ❤️to @Mailchain_xyz and @developer_dao for hosting such an amazing hackathon! I used React-Email with the Mailchain to create a seamless way to design custom email templates using Mailchain. I hope it enhances the UX when communicating with users through Mailchain. https://twitter.com/Mailchain_xyz/status/1651949471444656129
-
-Mailchain: 1/6 🏆Congrats to @skeshav25, the first place winner of our hackathon with @developer_dao! They used React-Email with the Mailchain SDK to make it easy for all developers to create custom email templates for Mailchain 🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[testing something (drop gm).]]></title>
         <id>https://twitter.com/developer_dao/status/1651929982019723264</id>
         <link href="https://twitter.com/developer_dao/status/1651929982019723264"/>
@@ -168,32 +243,6 @@ https://developerdao.pallet.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solana developers we heard you!!! @solana_devs https://twitter.com/developer_dao/status/1650554974751928325]]></title>
-        <id>https://twitter.com/developer_dao/status/1651605884747882496</id>
-        <link href="https://twitter.com/developer_dao/status/1651605884747882496"/>
-        <updated>2023-04-27T15:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Solana developers we heard you!!!
-@solana_devs https://twitter.com/developer_dao/status/1650554974751928325
-
-Developer DAO (🧱, 🚀): The "Solana vs Ethereum" debate never goes out of fashion. 
-Let's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪
-Set reminder to join @kayprasla chatting with @goldkostya & @FalaleevAndrew. 
-https://twitter.com/i/spaces/1DXxyvYjRgnKM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://twitter.com/i/spaces/1DXxyvYjRgnKM]]></title>
-        <id>https://twitter.com/developer_dao/status/1651601428543156224</id>
-        <link href="https://twitter.com/developer_dao/status/1651601428543156224"/>
-        <updated>2023-04-27T14:57:20.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1DXxyvYjRgnKM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Venom Foundation: Join our first online Hackathon in collaboration with @DoraHacks! To honor our commitment of onboarding developers, Venom has all...]]></title>
         <id>https://twitter.com/VenomFoundation/status/1651591538189713413</id>
         <link href="https://twitter.com/VenomFoundation/status/1651591538189713413"/>
@@ -203,31 +252,6 @@ Join our first online Hackathon in collaboration with @DoraHacks!
 To honor our commitment of onboarding developers, Venom has allocated a prize pool of $225,000.
 Secure your spot and start building on Venom:
 http://hackathon.venom.network https://t.co/d4wuxPNAh0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://t.co/roMF13Kdbp]]></title>
-        <id>https://twitter.com/developer_dao/status/1651369460014411779</id>
-        <link href="https://twitter.com/developer_dao/status/1651369460014411779"/>
-        <updated>2023-04-26T23:35:34.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/roMF13Kdbp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Guild: How has @developer_dao created such a smooth and customized onboarding experience? Sat down with the brilliant mind behind the design, and u...]]></title>
-        <id>https://twitter.com/guildxyz/status/1651218249575550976</id>
-        <link href="https://twitter.com/guildxyz/status/1651218249575550976"/>
-        <updated>2023-04-26T13:34:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Guild
-How has @developer_dao created such a smooth and customized onboarding experience?
-Sat down with the brilliant mind behind the design, and unpacked it all.
-Full details and magic recipes in the article below (you can also collect it ;)
-https://guild.mirror.xyz/A_hzlKfwleK5l3zkILJ6qlF98oE_h4kz_BofksjpaaA
-1/6]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -258,33 +282,6 @@ https://guild.mirror.xyz/A_hzlKfwleK5l3zkILJ6qlF98oE_h4kz_BofksjpaaA
         <summary type="html"><![CDATA['Lotta winning in this one]]></summary>
         <author>
             <name>wolovim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Venom Foundation: Testnet is live! Get ready for a few months of acquiring users, onboarding projects, and attracting developers Start collecting y...]]></title>
-        <id>https://twitter.com/VenomFoundation/status/1650883852238299137</id>
-        <link href="https://twitter.com/VenomFoundation/status/1650883852238299137"/>
-        <updated>2023-04-25T15:25:56.000Z</updated>
-        <summary type="html"><![CDATA[RT Venom Foundation
-Testnet is live!
-Get ready for a few months of acquiring users, onboarding projects, and attracting developers
-Start collecting your early member NFTs: http://Venom.network https://t.co/PKzDUZwBUs]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): The "Solana vs Ethereum" debate never goes out of fashion. Let's settle the narrative & explore building with the best ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1650554974751928325</id>
-        <link href="https://twitter.com/developer_dao/status/1650554974751928325"/>
-        <updated>2023-04-24T17:39:06.000Z</updated>
-        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
-The "Solana vs Ethereum" debate never goes out of fashion. 
-Let's settle the narrative & explore building with the best of both chains using @NeonLabsOrg 🧪
-Set reminder to join @kayprasla chatting with @goldkostya & @FalaleevAndrew. 
-https://twitter.com/i/spaces/1DXxyvYjRgnKM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
