@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T06:12:22.271Z</id>
+    <id>urn:2023-05-04T06:12:06.800Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-03T06:12:22.271Z</updated>
+    <updated>2023-05-04T06:12:06.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[hackathon idea to IRL setup pipeline is real ⛰️🌋🚶‍♂️ https://twitter.com/i/web/status/1653995030804037632]]></title>
+        <id>https://twitter.com/developer_dao/status/1653995030804037632</id>
+        <link href="https://twitter.com/developer_dao/status/1653995030804037632"/>
+        <updated>2023-05-04T05:28:39.000Z</updated>
+        <summary type="html"><![CDATA[hackathon idea to IRL setup pipeline is real 
+⛰️🌋🚶‍♂️ https://twitter.com/i/web/status/1653995030804037632
+
+nicob.eth 📍 Bali: So I heard you guys plan to hike a volcano in Colombia to set up IoT devices and send data via @streamr?🌋
+Let us help make it happen! How about we support you with your flights? 💸 @PSkinnerTech @tonykipkemboi @kempsterrrr @wc49358]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Woop Pay: Woop Pay Bot is on Telegram 🤖🚀 You can now create a cryptocurrency payment request with just a few clicks on Telegram. Head to http...]]></title>
+        <id>https://twitter.com/woop_pay/status/1653786008092016641</id>
+        <link href="https://twitter.com/woop_pay/status/1653786008092016641"/>
+        <updated>2023-05-03T15:38:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Woop Pay
+Woop Pay Bot is on Telegram 🤖🚀
+You can now create a cryptocurrency payment request with just a few clicks on Telegram. 
+Head to https://t.me/woop_pay_bot and let us know what you think! https://t.co/iup8DmmH00]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's WAGMI Wednesday! 🥳 This time with some advice on how you gonna make it! 🤓 https://buff.ly/3Lp7sSa]]></title>
+        <id>https://twitter.com/developer_dao/status/1653776474736869378</id>
+        <link href="https://twitter.com/developer_dao/status/1653776474736869378"/>
+        <updated>2023-05-03T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[It's WAGMI Wednesday! 🥳
+This time with some advice on how you gonna make it! 🤓
+https://buff.ly/3Lp7sSa]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are you're wondering how to migrate your DApp to Sepolia, now that Goerli is deprecated? 😖 Our member @Aayush_gupta_ji got you covered with a guide...]]></title>
+        <id>https://twitter.com/developer_dao/status/1653753215563833345</id>
+        <link href="https://twitter.com/developer_dao/status/1653753215563833345"/>
+        <updated>2023-05-03T13:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Are you're wondering how to migrate your DApp to Sepolia, now that Goerli is deprecated? 😖
+Our member @Aayush_gupta_ji got you covered with a guide that leverage @QuickNode 🚀
+https://buff.ly/44muIc3]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build 🧪 Ship 🤝 Win $225,000 Want to learn more? 👀 Tune in and find us chatting with the @VenomFoundation team and explore building on Venom. ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1653669256062435328</id>
+        <link href="https://twitter.com/developer_dao/status/1653669256062435328"/>
+        <updated>2023-05-03T07:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Build 🧪 Ship  🤝  Win $225,000
+Want to learn more? 👀 
+Tune in and find us chatting with the @VenomFoundation team and explore building on Venom. 
+ https://twitter.com/i/spaces/1kvJpmEWAgZxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday May 5th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link to...]]></title>
         <id>https://twitter.com/developer_dao/status/1653610333099966464</id>
@@ -150,28 +214,6 @@ https://www.youtube.com/watch?v=cOacn81scoE https://t.co/b1vmttJ1Rf]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you ever wanted to do a deep dive into blocks, transactions, and log ABI translation, we have just the article for you! 🤓 https://buff.ly/41YHUl...]]></title>
-        <id>https://twitter.com/developer_dao/status/1653474708275249175</id>
-        <link href="https://twitter.com/developer_dao/status/1653474708275249175"/>
-        <updated>2023-05-02T19:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you ever wanted to do a deep dive into blocks, transactions, and log ABI translation, we have just the article for you! 🤓 
-https://buff.ly/41YHUlI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😎 VIBES is kicking off in the DAO Come hang on dev voice and claim your @mintkudosXYZ https://t.co/uaEdJkAB5S]]></title>
-        <id>https://twitter.com/developer_dao/status/1653450459611385856</id>
-        <link href="https://twitter.com/developer_dao/status/1653450459611385856"/>
-        <updated>2023-05-02T17:24:43.000Z</updated>
-        <summary type="html"><![CDATA[😎 VIBES is kicking off in the DAO
-Come hang on dev voice and claim your @mintkudosXYZ https://t.co/uaEdJkAB5S]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#68 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/68-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/68-probably-nothing"/>
@@ -182,72 +224,24 @@ Come hang on dev voice and claim your @mintkudosXYZ https://t.co/uaEdJkAB5S]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understand the EVM Development from the D_D workshops ✨ Intro To EVM Development🚀 by @crypdoughdoteth Watch it here👇 https://youtu.be/ereNG_-Az...]]></title>
-        <id>https://twitter.com/developer_dao/status/1653281917460987904</id>
-        <link href="https://twitter.com/developer_dao/status/1653281917460987904"/>
-        <updated>2023-05-02T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Understand the EVM Development from the D_D workshops ✨
-Intro To EVM Development🚀 by @crypdoughdoteth 
-Watch it here👇
-https://youtu.be/ereNG_-Azyc]]></summary>
+        <title type="html"><![CDATA[RT conner 🚄 ✺ ⌐◨-◨: TBAs + SBTs = TBTs The union of token-bound accounts and soul-bound tokens create *token-bound tokens*, a perfect primitive...]]></title>
+        <id>https://twitter.com/symmtry69/status/1653094650633424900</id>
+        <link href="https://twitter.com/symmtry69/status/1653094650633424900"/>
+        <updated>2023-05-01T17:50:52.000Z</updated>
+        <summary type="html"><![CDATA[RT conner 🚄 ✺ ⌐◨-◨
+TBAs + SBTs = TBTs
+The union of token-bound accounts and soul-bound tokens create *token-bound tokens*, a perfect primitive for adding reputation on top of token-based membership for DAOs.
+Don't lock up your rep in a single EOA indefinitely, attach it to your NFT with ERC-6551. https://t.co/Vz2A2XeYT6]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @tchowd_ @DIMIDJ You both rocked 🫡]]></title>
-        <id>https://twitter.com/developer_dao/status/1653147578391838723</id>
-        <link href="https://twitter.com/developer_dao/status/1653147578391838723"/>
-        <updated>2023-05-01T21:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Re @tchowd_ @DIMIDJ You both rocked 🫡]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today, we have something more visual for you. 📷 Our very own design OG @Erik_Knobl explains how to prompt Midjourney for well-known camera angles! ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1653066752438173697</id>
-        <link href="https://twitter.com/developer_dao/status/1653066752438173697"/>
-        <updated>2023-05-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we have something more visual for you. 📷 
-Our very own design OG @Erik_Knobl explains how to prompt Midjourney for well-known camera angles! 
-https://buff.ly/3LonITp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How would you improve the developer relations at your favorite project? 🤔 D_D member @PeterPanYes wrote down their musings about DevRel at @graphpr...]]></title>
-        <id>https://twitter.com/developer_dao/status/1653006553010655235</id>
-        <link href="https://twitter.com/developer_dao/status/1653006553010655235"/>
-        <updated>2023-05-01T12:00:48.000Z</updated>
-        <summary type="html"><![CDATA[How would you improve the developer relations at your favorite project? 🤔 
-D_D member @PeterPanYes wrote down their musings about DevRel at @graphprotocol 🚀 
-Totally worth a read! 🎓 
-https://buff.ly/3LTae3G]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT otta: I love that in the Web3 community total strangers can come together and help each other build something massive. My next Web3 narrative piece...]]></title>
-        <id>https://twitter.com/ottalabotta/status/1652960602938298371</id>
-        <link href="https://twitter.com/ottalabotta/status/1652960602938298371"/>
-        <updated>2023-05-01T08:58:12.000Z</updated>
-        <summary type="html"><![CDATA[RT otta
-I love that in the Web3 community total strangers can come together and help each other build something massive.
-My next Web3 narrative piece was on DAOs covering some interesting ones including @developer_dao , @RDNTCapital , and @Popcorn_DAO 👇
-https://ottalabotta-crypto.beehiiv.com/p/decentralised-autonmous-organisations-in-web3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Hola Metaverso - Blockchain Web3 Events 🎪: Los Angeles, join us during LA Tech Week! 🌆@coinbase @BuildOnBase @developer_dao @Razorfish & @hol...]]></title>
+        <title type="html"><![CDATA[RT Hola Metaverso-Blockchain & New Web Tech Events 🎪: Los Angeles, join us during LA Tech Week! 🌆@coinbase @BuildOnBase @developer_dao @Razorfis...]]></title>
         <id>https://twitter.com/holametaverso/status/1652096242527371264</id>
         <link href="https://twitter.com/holametaverso/status/1652096242527371264"/>
         <updated>2023-04-28T23:43:33.000Z</updated>
-        <summary type="html"><![CDATA[RT Hola Metaverso - Blockchain Web3 Events 🎪
+        <summary type="html"><![CDATA[RT Hola Metaverso-Blockchain & New Web Tech Events 🎪
 Los Angeles, join us during LA Tech Week! 🌆@coinbase @BuildOnBase @developer_dao  @Razorfish & @holametaverso  are bringing you BaseD_D
 Connect. Learn. Build.
 A developer workshop like no other.
@@ -321,16 +315,6 @@ Keep an eye out for details!
         <updated>2023-04-10T13:51:52.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#64 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/64-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/64-probably-nothing"/>
-        <updated>2023-04-04T16:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Hacker seeking hacker]]></summary>
-        <author>
-            <name>myz1237</name>
         </author>
     </entry>
 </feed>
