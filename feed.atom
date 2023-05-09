@@ -1,16 +1,168 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T06:12:39.175Z</id>
+    <id>urn:2023-05-09T06:12:41.323Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-08T06:12:39.175Z</updated>
+    <updated>2023-05-09T06:12:41.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[so who's down to hack for $225k, huh? 👀 https://twitter.com/developer_dao/status/1653669256062435328]]></title>
+        <title type="html"><![CDATA[⚡️ New Snapshot Proposal & Twitter Space $15k + 400 CODE tokens 8 Fellowship Spots available Vote, join the space, and let us know if you're applyin...]]></title>
+        <id>https://twitter.com/developer_dao/status/1655711586164547585</id>
+        <link href="https://twitter.com/developer_dao/status/1655711586164547585"/>
+        <updated>2023-05-08T23:09:38.000Z</updated>
+        <summary type="html"><![CDATA[⚡️ New Snapshot Proposal & Twitter Space
+$15k + 400 CODE tokens
+8 Fellowship Spots available
+Vote, join the space, and let us know if you're applying below 👇 
+snapshot: https://buff.ly/3pndMCp 
+twitter space Q&A: https://buff.ly/42s29Z0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drop a 👋 if you're joining us tomorrow with @VenomFoundation 👇]]></title>
+        <id>https://twitter.com/developer_dao/status/1655675304206008320</id>
+        <link href="https://twitter.com/developer_dao/status/1655675304206008320"/>
+        <updated>2023-05-08T20:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Drop a 👋 if you're joining us tomorrow with @VenomFoundation 👇
+
+Developer DAO (🧱, 🚀): Build 🧪 Ship  🤝  Win $225,000
+Want to learn more? 👀 
+Tune in and find us chatting with the @VenomFoundation team and explore building on Venom. 
+ https://twitter.com/i/spaces/1kvJpmEWAgZxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @VenomDev @DoraHacks @hackenclub (🧱, 🚀)]]></title>
+        <id>https://twitter.com/developer_dao/status/1655637571811295232</id>
+        <link href="https://twitter.com/developer_dao/status/1655637571811295232"/>
+        <updated>2023-05-08T18:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Re @VenomDev @DoraHacks @hackenclub (🧱, 🚀)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT QuickNode: We're excited to announce the launch of Graph API on our platform! Built with web3 developers in mind, our Graph API provides a comprehe...]]></title>
+        <id>https://twitter.com/QuickNode/status/1655632807987642370</id>
+        <link href="https://twitter.com/QuickNode/status/1655632807987642370"/>
+        <updated>2023-05-08T17:56:36.000Z</updated>
+        <summary type="html"><![CDATA[RT QuickNode
+We're excited to announce the launch of Graph API on our platform! 
+Built with web3 developers in mind, our Graph API provides a comprehensive, multi-chain solution for querying and fetching the blockchain data that matters the most. https://t.co/RYNSLgUGO1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In case you missed it! @Erik_Knobl explained camera angle prompting with Midjourney! 📷 https://buff.ly/3LonITp]]></title>
+        <id>https://twitter.com/developer_dao/status/1655618565024759808</id>
+        <link href="https://twitter.com/developer_dao/status/1655618565024759808"/>
+        <updated>2023-05-08T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed it!
+@Erik_Knobl explained camera angle prompting with Midjourney! 📷 
+https://buff.ly/3LonITp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developers, if you are in the LA area June 8th. Please join us for our first Los Angeles meet up. One of our very own community managers @wc49358 will...]]></title>
+        <id>https://twitter.com/developer_dao/status/1655613771673395202</id>
+        <link href="https://twitter.com/developer_dao/status/1655613771673395202"/>
+        <updated>2023-05-08T16:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Developers, if you are in the LA area June 8th.  Please join us for our first Los Angeles meet up.  One of our very own community managers @wc49358 will be providing a dev workshop and developer focused speaker panel about opportunities in the industry.  https://lu.ma/BaseD_D
+
+Hola Metaverso-Blockchain & New Web Tech Events 🎪: Get ready for BaseD_D at #LATechWeek in a month!
+Join us & @coinbase @BuildOnBase, @developer_dao, @WeAreRazorfish  for an exclusive workshop!
+Guest Speakers:
+@wc49358 
+@lizabazurto 
+@samkazemian 
+@mmeigooni 
+@EmanFT_ 
+Network, learn, & grow! 🌟 Secure your spot now! 🎟️💥 https://t.co/zHCYFvzato]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @midjourney @Erik_Knobl 🥉 Building a Tokengated Community for Live Concerts with @QuickNode: A Step-by-Step Tutorial by @PSkinnerTech https://bu...]]></title>
+        <id>https://twitter.com/developer_dao/status/1655588878558937090</id>
+        <link href="https://twitter.com/developer_dao/status/1655588878558937090"/>
+        <updated>2023-05-08T15:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @midjourney @Erik_Knobl 🥉 Building a Tokengated Community for Live Concerts with @QuickNode: A Step-by-Step Tutorial 
+by @PSkinnerTech 
+https://buff.ly/3NO2lO5]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 🥈 Mastering @Midjourney: Camera Angles by @Erik_Knobl https://buff.ly/3LonITp]]></title>
+        <id>https://twitter.com/developer_dao/status/1655588877422276610</id>
+        <link href="https://twitter.com/developer_dao/status/1655588877422276610"/>
+        <updated>2023-05-08T15:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 🥈 Mastering @Midjourney: Camera Angles
+by @Erik_Knobl 
+https://buff.ly/3LonITp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's check out last week's top 3 articles on our blog! 🎉 🎉 🎉 🥇 Decoding Decentralization by Pisymbol (https://buff.ly/3HP8hCz) https://bu...]]></title>
+        <id>https://twitter.com/developer_dao/status/1655588876247875588</id>
+        <link href="https://twitter.com/developer_dao/status/1655588876247875588"/>
+        <updated>2023-05-08T15:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Let's check out last week's top 3 articles on our blog! 🎉 🎉 🎉 
+🥇 Decoding Decentralization 
+by Pisymbol (https://buff.ly/3HP8hCz)
+https://buff.ly/41YHUlI]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT P3RKS: gm! @RoverX_io is offering 3 months access to their NFT Mobile App if you're a @developer_dao member! 🔥 - Track NFT portfolio across mult...]]></title>
+        <id>https://twitter.com/getP3RKS/status/1655574189892403203</id>
+        <link href="https://twitter.com/getP3RKS/status/1655574189892403203"/>
+        <updated>2023-05-08T14:03:40.000Z</updated>
+        <summary type="html"><![CDATA[RT P3RKS
+gm! 
+@RoverX_io is offering 3 months access to their NFT Mobile App if you're a @developer_dao member! 🔥
+- Track NFT portfolio across multiple wallets
+- Set floor price alerts
+- Get notifications about portfolio changes & more!  
+Sign in to claim 👉 https://p3rks.xyz]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚡️ New Snapshot Vote ⚡️ Title: Developer DAO Fellowship w/ Press Start Capital Starts on: 08 May 23 06:42 UTC Ends on: 13 May 23 06:42 UTC Author:...]]></title>
+        <id>https://twitter.com/developer_dao/status/1655463673610076160</id>
+        <link href="https://twitter.com/developer_dao/status/1655463673610076160"/>
+        <updated>2023-05-08T06:44:31.000Z</updated>
+        <summary type="html"><![CDATA[⚡️ New Snapshot Vote ⚡️
+Title: Developer DAO Fellowship w/ Press Start Capital
+Starts on: 08 May 23 06:42 UTC
+Ends on: 13 May 23 06:42 UTC
+Author: 0xe0450b049F70841aEC78Ac6e3db7b0a753e22357
+Read the proposal here: https://snapshot.org/#/devdao.eth/proposal/0x56f858100b12f20d02c1a1606350c74153508791c4d4978aee9c5e93bce2753e]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[so who's down to hack for $225k, huh? 👀]]></title>
         <id>https://twitter.com/developer_dao/status/1655449465292218369</id>
         <link href="https://twitter.com/developer_dao/status/1655449465292218369"/>
         <updated>2023-05-08T05:48:03.000Z</updated>
-        <summary type="html"><![CDATA[so who's down to hack for $225k, huh? 👀 https://twitter.com/developer_dao/status/1653669256062435328
+        <summary type="html"><![CDATA[so who's down to hack for $225k, huh? 👀
 
 Developer DAO (🧱, 🚀): Build 🧪 Ship  🤝  Win $225,000
 Want to learn more? 👀 
@@ -117,132 +269,6 @@ https://twitter.com/i/spaces/1lDGLnModnkxm]]></summary>
         <link href="https://twitter.com/developer_dao/status/1654512593233408000"/>
         <updated>2023-05-05T15:45:16.000Z</updated>
         <summary type="html"><![CDATA[Re @deformapp @thatguyintech @pressstartcap Wen http://p3rks.xyz listing ?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT P3RKS: gm @developer_dao members! 👋 Stressing over crypto taxes? @koinly has you covered. Available in over 30 countries, have your crypto tax r...]]></title>
-        <id>https://twitter.com/getP3RKS/status/1654511788770091009</id>
-        <link href="https://twitter.com/getP3RKS/status/1654511788770091009"/>
-        <updated>2023-05-05T15:42:04.000Z</updated>
-        <summary type="html"><![CDATA[RT P3RKS
-gm @developer_dao members! 👋
-Stressing over crypto taxes? @koinly has you covered. Available in over 30 countries, have your crypto tax reports in under 20 minutes!
-Enjoy 35% off Koinly's annual pro plan by heading to https://p3rks.xyz & sign in to claim your perk! 🚀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @GeryPollak and @blocktorch, hosted by @narb_s 👉 Come check out all the action on YouTube now:...]]></title>
-        <id>https://twitter.com/developer_dao/status/1654508927315222530</id>
-        <link href="https://twitter.com/developer_dao/status/1654508927315222530"/>
-        <updated>2023-05-05T15:30:42.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️ @devntellxyz is now live with @GeryPollak and @blocktorch, hosted by @narb_s 
-👉 Come check out all the action on YouTube now:
-https://buff.ly/3VgsKWm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D_D Town Hall is TOMORROW! New Hackathons! New Partnerships! Don’t miss out! ( 🧱, 🚀 ) https://twitter.com/i/spaces/1lDGLnModnkxm]]></title>
-        <id>https://twitter.com/developer_dao/status/1654252479268126726</id>
-        <link href="https://twitter.com/developer_dao/status/1654252479268126726"/>
-        <updated>2023-05-04T22:31:40.000Z</updated>
-        <summary type="html"><![CDATA[D_D Town Hall is TOMORROW!
-New Hackathons!
-New Partnerships!
-Don’t miss out!
-( 🧱, 🚀 )
-https://twitter.com/i/spaces/1lDGLnModnkxm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work louder.]]></title>
-        <id>https://twitter.com/developer_dao/status/1654237446681313283</id>
-        <link href="https://twitter.com/developer_dao/status/1654237446681313283"/>
-        <updated>2023-05-04T21:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Work louder.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @GeryPollak who will be giving us an overview of @blocktorch, hosted by @narb_s ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1654184282942758912</id>
-        <link href="https://twitter.com/developer_dao/status/1654184282942758912"/>
-        <updated>2023-05-04T18:00:40.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-You won't want to miss tomorrow’s @devntellxyz with @GeryPollak who will be giving us an overview of @blocktorch, hosted by @narb_s 
-👉 Details and link to RSVP for this weeks episode:
-https://buff.ly/40Xzie4]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re If you’re looking for jobs with some of the best teams in #web3 be sure to sign-up - http://developerdao.pallet.com/jobs]]></title>
-        <id>https://twitter.com/developer_dao/status/1654181959000633345</id>
-        <link href="https://twitter.com/developer_dao/status/1654181959000633345"/>
-        <updated>2023-05-04T17:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Re If you’re looking for jobs with some of the best teams in #web3 be sure to sign-up - http://developerdao.pallet.com/jobs]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ⚛️ Junior Frontend Developer @sesame_labs: https://developerdao.pallet.com/jobs/0e352b34-dfb2-48e2-bca8-2a1c27d88c7f]]></title>
-        <id>https://twitter.com/developer_dao/status/1654181953610891264</id>
-        <link href="https://twitter.com/developer_dao/status/1654181953610891264"/>
-        <updated>2023-05-04T17:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Re ⚛️ Junior Frontend Developer @sesame_labs: 
-https://developerdao.pallet.com/jobs/0e352b34-dfb2-48e2-bca8-2a1c27d88c7f]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ⚛️ Mobile Frontend Developer (React Native) @sesame_labs: https://developerdao.pallet.com/jobs/7313fb18-7638-4fbc-aa1e-2fc277a906cc]]></title>
-        <id>https://twitter.com/developer_dao/status/1654181951614459906</id>
-        <link href="https://twitter.com/developer_dao/status/1654181951614459906"/>
-        <updated>2023-05-04T17:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Re ⚛️ Mobile Frontend Developer (React Native) @sesame_labs: https://developerdao.pallet.com/jobs/7313fb18-7638-4fbc-aa1e-2fc277a906cc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ⚛️ Frontend Developer Experience @sesame_labs: https://developerdao.pallet.com/jobs/1a44ce37-89cc-47f8-9817-0c176a21378c]]></title>
-        <id>https://twitter.com/developer_dao/status/1654181949827579904</id>
-        <link href="https://twitter.com/developer_dao/status/1654181949827579904"/>
-        <updated>2023-05-04T17:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Re ⚛️ Frontend Developer Experience @sesame_labs: https://developerdao.pallet.com/jobs/1a44ce37-89cc-47f8-9817-0c176a21378c]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re ⚛️ Head of Developer Relations @VenomVentures : https://developerdao.pallet.com/jobs/cdfb8200-90eb-44c1-bab2-5db79700ad4c]]></title>
-        <id>https://twitter.com/developer_dao/status/1654181948028342282</id>
-        <link href="https://twitter.com/developer_dao/status/1654181948028342282"/>
-        <updated>2023-05-04T17:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Re ⚛️ Head of Developer Relations @VenomVentures : https://developerdao.pallet.com/jobs/cdfb8200-90eb-44c1-bab2-5db79700ad4c]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 D_D Jobs of the Week 🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></title>
-        <id>https://twitter.com/developer_dao/status/1654181942558969865</id>
-        <link href="https://twitter.com/developer_dao/status/1654181942558969865"/>
-        <updated>2023-05-04T17:51:22.000Z</updated>
-        <summary type="html"><![CDATA[🚀  D_D Jobs of the Week 🚀
-Check out the D_D Job Board for the latest #web3 #jobs from our partners.]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
