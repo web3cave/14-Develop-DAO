@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/69-probably-nothing",
+          "author": "Colin4ward",
+          "description": "Read us in Chinese! This Week Upcoming EventsThanks for reading Developer DAO! Subscribe for free to receive new posts and support my work. D_D DevNTell – Hashleap, Friday, May 12, 3:30pm UTC. Register here. Coinbase x D_D – a Coinbase Base developer workshop, June 8, 2pm-7pm, Los Angeles. Registration details coming soon.",
+          "link": "https://developerdao.substack.com/p/69-probably-nothing",
+          "publishedOn": "2023-05-10T02:15:17.000Z",
+          "wordCount": null,
+          "title": "#69 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e9e790f-e5af-4a3a-b62e-60f8c553a932_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e9e790f-e5af-4a3a-b62e-60f8c553a932_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/68-probably-nothing",
           "author": "Colin4ward",
           "description": "But also, Hackathons",
@@ -76,6 +92,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1656159921044422656",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their projects to new heights!\nhttps://twitter.com/i/spaces/1BdxYyAawYMxX",
+          "link": "https://twitter.com/developer_dao/status/1656159921044422656",
+          "publishedOn": "2023-05-10T04:51:09.000Z",
+          "wordCount": null,
+          "title": "Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their proj...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1656158211110584320",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "$120,000 in Fellowship Dollars!?\nThis Partnership with @pressstartcap is going to be EPIC!\n🚀🚀🚀 \nhttps://twitter.com/i/spaces/1BdxYyAawYMxX https://t.co/ekRQe4dvkR",
+          "link": "https://twitter.com/developer_dao/status/1656158211110584320",
+          "publishedOn": "2023-05-10T04:44:22.000Z",
+          "wordCount": null,
+          "title": "$120,000 in Fellowship Dollars!? This Partnership with @pressstartcap is going to be EPIC! 🚀🚀🚀 https://twitter.com/i/spaces/1BdxYyAawYMxX htt...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1656147155348848642",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday May 12th at 3:30pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for this weeks episode:\nhttps://buff.ly/3VzV1aP",
+          "link": "https://twitter.com/developer_dao/status/1656147155348848642",
+          "publishedOn": "2023-05-10T04:00:26.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday May 12th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1656041682658312193",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Set those reminders for tomorrow's space with the @pressstartcap team.  \nWe're discussing the inflight D_D Fellowship proposal...  \n✨ $15k + CODE tokens in grants \n✨ 8 Fellowship spots are available  \nWho's coming/applying, and what do you want to hear from the team?\n\nDeveloper DAO (🧱, 🚀): ⚡️ New Snapshot Proposal & Twitter Space\n$15k + 400 CODE tokens\n8 Fellowship Spots available\nVote, join the space, and let us know if you're applying below 👇 \nsnapshot: https://buff.ly/3pndMCp \ntwitter space Q&A: https://buff.ly/42s29Z0",
+          "link": "https://twitter.com/developer_dao/status/1656041682658312193",
+          "publishedOn": "2023-05-09T21:01:19.000Z",
+          "wordCount": null,
+          "title": "Set those reminders for tomorrow's space with the @pressstartcap team. We're discussing the inflight D_D Fellowship proposal... ✨ $15k + CODE tokens ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pressstartcap/status/1656027801491996672",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Press Start Cap 👉🎮\nRe We've designed our MultiPlayer Fellowships to be the most builder-friendly programs in the space:\n💵 First checks up to $25k\n🦸 Mentorship from battle-tested founders\n🫂 Safe space for like-minded buidlers\nhttps://twitter.com/developer_dao/status/1653514875589611521\n\nDeveloper DAO (🧱, 🚀): 📢 Exciting proposal for the Developer DAO community!📢\nWe're thrilled to announce a proposed-partnership with @pressstartcap to launch our first Fellowship Program for Web3 builders and entrepreneurs! 🚀\nSee the full proposal here -> https://buff.ly/3VnIIOI https://t.co/9DE0Xqh1oL",
+          "link": "https://twitter.com/pressstartcap/status/1656027801491996672",
+          "publishedOn": "2023-05-09T20:06:10.000Z",
+          "wordCount": null,
+          "title": "RT Press Start Cap 👉🎮: Re We've designed our MultiPlayer Fellowships to be the most builder-friendly programs in the space: 💵 First checks up...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/pressstartcap/status/1656027760975052800",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Press Start Cap 👉🎮\n🎮 🎬 🎵 🎨 The \"New Golden Age of Entertainment\" has arrived!\nWeb3 unlocks epic opportunities for game devs, creators, brand/community managers, gamers, and fans.\nOur thesis on how Web3 will kickstart a new creative renaissance: 🧵👇 https://t.co/c3V1yNPR3J",
+          "link": "https://twitter.com/pressstartcap/status/1656027760975052800",
+          "publishedOn": "2023-05-09T20:06:00.000Z",
+          "wordCount": null,
+          "title": "RT Press Start Cap 👉🎮: 🎮 🎬 🎵 🎨 The \"New Golden Age of Entertainment\" has arrived! Web3 unlocks epic opportunities for game devs, cre...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1655980951623565323",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Wanna show off your precious NFTs?😎 \n@Aayush_gupta_ji will show you how with @QuickNode's NFT API! 🚀 \nhttps://buff.ly/3B9O8n7",
+          "link": "https://twitter.com/developer_dao/status/1655980951623565323",
+          "publishedOn": "2023-05-09T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Wanna show off your precious NFTs?😎 @Aayush_gupta_ji will show you how with @QuickNode's NFT API! 🚀 https://buff.ly/3B9O8n7",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1655976625270398978",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "😎 VIBES in 20 mins in the DAO Discord!  Come hang on dev voice and claim your @mintkudosXYZ!\nStarts at (5pm UTC/12pm CST). https://t.co/M4hCLzGXO6",
+          "link": "https://twitter.com/developer_dao/status/1655976625270398978",
+          "publishedOn": "2023-05-09T16:42:48.000Z",
+          "wordCount": null,
+          "title": "😎 VIBES in 20 mins in the DAO Discord! Come hang on dev voice and claim your @mintkudosXYZ! Starts at (5pm UTC/12pm CST). https://t.co/M4hCLzGXO6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1655949876650467329",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "https://twitter.com/i/spaces/1kvJpmEWAgZxE",
+          "link": "https://twitter.com/developer_dao/status/1655949876650467329",
+          "publishedOn": "2023-05-09T14:56:31.000Z",
+          "wordCount": null,
+          "title": "https://twitter.com/i/spaces/1kvJpmEWAgZxE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1655909393659994112",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @thatguyintech https://t.co/np9J4NhLfc",
+          "link": "https://twitter.com/developer_dao/status/1655909393659994112",
+          "publishedOn": "2023-05-09T12:15:39.000Z",
+          "wordCount": null,
+          "title": "Re @thatguyintech https://t.co/np9J4NhLfc",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1655820393872064512",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Learn How to use Frontend Tools through one of the D_D Workshops🔥\nIntro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀\nw/\n@wc49358✨\nWatch it here👇\nhttps://youtu.be/fYpxsAYO7Oc",
+          "link": "https://twitter.com/developer_dao/status/1655820393872064512",
+          "publishedOn": "2023-05-09T06:22:00.000Z",
+          "wordCount": null,
+          "title": "Learn How to use Frontend Tools through one of the D_D Workshops🔥 Intro to Rainbow Kit and Wagmi Libraries - From Web2 to Web3🚀 w/ @wc49358✨ Wa...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1655711586164547585",
           "author": "Developer DAO (🧱, 🚀)",
@@ -165,116 +291,6 @@
           "wordCount": null,
           "title": "Let's check out last week's top 3 articles on our blog! 🎉 🎉 🎉 🥇 Decoding Decentralization by Pisymbol (https://buff.ly/3HP8hCz) https://bu...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/getP3RKS/status/1655574189892403203",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT P3RKS\ngm! \n@RoverX_io is offering 3 months access to their NFT Mobile App if you're a @developer_dao member! 🔥\n- Track NFT portfolio across multiple wallets\n- Set floor price alerts\n- Get notifications about portfolio changes & more!  \nSign in to claim 👉 https://p3rks.xyz",
-          "link": "https://twitter.com/getP3RKS/status/1655574189892403203",
-          "publishedOn": "2023-05-08T14:03:40.000Z",
-          "wordCount": null,
-          "title": "RT P3RKS: gm! @RoverX_io is offering 3 months access to their NFT Mobile App if you're a @developer_dao member! 🔥 - Track NFT portfolio across mult...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1655463673610076160",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "⚡️ New Snapshot Vote ⚡️\nTitle: Developer DAO Fellowship w/ Press Start Capital\nStarts on: 08 May 23 06:42 UTC\nEnds on: 13 May 23 06:42 UTC\nAuthor: 0xe0450b049F70841aEC78Ac6e3db7b0a753e22357\nRead the proposal here: https://snapshot.org/#/devdao.eth/proposal/0x56f858100b12f20d02c1a1606350c74153508791c4d4978aee9c5e93bce2753e",
-          "link": "https://twitter.com/developer_dao/status/1655463673610076160",
-          "publishedOn": "2023-05-08T06:44:31.000Z",
-          "wordCount": null,
-          "title": "⚡️ New Snapshot Vote ⚡️ Title: Developer DAO Fellowship w/ Press Start Capital Starts on: 08 May 23 06:42 UTC Ends on: 13 May 23 06:42 UTC Author:...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1655449465292218369",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "so who's down to hack for $225k, huh? 👀\n\nDeveloper DAO (🧱, 🚀): Build 🧪 Ship  🤝  Win $225,000\nWant to learn more? 👀 \nTune in and find us chatting with the @VenomFoundation team and explore building on Venom. \n https://twitter.com/i/spaces/1kvJpmEWAgZxE",
-          "link": "https://twitter.com/developer_dao/status/1655449465292218369",
-          "publishedOn": "2023-05-08T05:48:03.000Z",
-          "wordCount": null,
-          "title": "so who's down to hack for $225k, huh? 👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1655319487841722368",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @getP3RKS @kayprasla @canva",
-          "link": "https://twitter.com/developer_dao/status/1655319487841722368",
-          "publishedOn": "2023-05-07T21:11:34.000Z",
-          "wordCount": null,
-          "title": "Re @getP3RKS @kayprasla @canva",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/getP3RKS/status/1655316066124587008",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT P3RKS\nWe need your help @developer_dao members! 🆘\nWe'd love to hear about the tools and subscriptions you use in your every day life. Are there any that you think would benefit you with more affordable pricing or discounts?\nLet us know and we'll try our best 🫡",
-          "link": "https://twitter.com/getP3RKS/status/1655316066124587008",
-          "publishedOn": "2023-05-07T20:57:59.000Z",
-          "wordCount": null,
-          "title": "RT P3RKS: We need your help @developer_dao members! 🆘 We'd love to hear about the tools and subscriptions you use in your every day life. Are there...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1655205196270653442",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader dabit | nader.lens\nNew Video - Full Stack Introduction to @fuel_network - The World's Fastest Modular Execution Layer \nFuel beta-3 is out, along with the Fuel Wallet & a new quickstart guide. I cover a concise intro to Fuel + build a full stack app with TypeScript & React\nhttps://www.youtube.com/watch?v=S6Fln4SreeQ https://t.co/BmMF67eZfC",
-          "link": "https://twitter.com/dabit3/status/1655205196270653442",
-          "publishedOn": "2023-05-07T13:37:25.000Z",
-          "wordCount": null,
-          "title": "RT nader dabit | nader.lens: New Video - Full Stack Introduction to @fuel_network - The World's Fastest Modular Execution Layer Fuel beta-3 is out, al...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1654563450415087616",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Developer DAO (🧱, 🚀)\n🚀  Looking for a job in web3?🚀 \nCheck out the D_D Job Board for the latest #web3 #jobs from our partners.\nhttps://buff.ly/3GD24de https://t.co/yOQX20FD1C",
-          "link": "https://twitter.com/developer_dao/status/1654563450415087616",
-          "publishedOn": "2023-05-05T19:07:21.000Z",
-          "wordCount": null,
-          "title": "RT Developer DAO (🧱, 🚀): 🚀 Looking for a job in web3?🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. https://b...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1654563450415087616",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚀  Looking for a job in web3?🚀 \nCheck out the D_D Job Board for the latest #web3 #jobs from our partners.\nhttps://buff.ly/3GD24de https://t.co/yOQX20FD1C",
-          "link": "https://twitter.com/developer_dao/status/1654563450415087616",
-          "publishedOn": "2023-05-05T19:07:21.000Z",
-          "wordCount": null,
-          "title": "🚀 Looking for a job in web3?🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. https://buff.ly/3GD24de https://t.co/yOQ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1654531397334323201",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Developer DAO (🧱, 🚀)\nhttps://twitter.com/i/spaces/1lDGLnModnkxm",
-          "link": "https://twitter.com/developer_dao/status/1654531397334323201",
-          "publishedOn": "2023-05-05T16:59:59.000Z",
-          "wordCount": null,
-          "title": "RT Developer DAO (🧱, 🚀): https://twitter.com/i/spaces/1lDGLnModnkxm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1654531397334323201",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1lDGLnModnkxm",
-          "link": "https://twitter.com/developer_dao/status/1654531397334323201",
-          "publishedOn": "2023-05-05T16:59:59.000Z",
-          "wordCount": null,
-          "title": "https://twitter.com/i/spaces/1lDGLnModnkxm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1654512593233408000",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @deformapp @thatguyintech @pressstartcap Wen http://p3rks.xyz listing ?",
-          "link": "https://twitter.com/developer_dao/status/1654512593233408000",
-          "publishedOn": "2023-05-05T15:45:16.000Z",
-          "wordCount": null,
-          "title": "Re @deformapp @thatguyintech @pressstartcap Wen http://p3rks.xyz listing ?",
-          "imageUrl": null
         }
       ]
     },
@@ -321,16 +337,6 @@
           "publishedOn": "2023-04-24T16:45:02.000Z",
           "wordCount": null,
           "title": "Build Your First Sybil-Resistant Web App with Gitcoin Passport & Next.js: A Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=b98UZ0Bqr7E",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=b98UZ0Bqr7E",
-          "publishedOn": "2023-04-10T13:51:52.000Z",
-          "wordCount": null,
-          "title": "In Bulk and On Demand Queries with Lens BigQuery",
           "imageUrl": null
         }
       ]
