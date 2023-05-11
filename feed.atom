@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T06:12:14.878Z</id>
+    <id>urn:2023-05-11T06:12:16.395Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T06:12:14.878Z</updated>
+    <updated>2023-05-11T06:12:16.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Want an opportunity to join a $120,000 fellowship? Applications are now officially open! https://twitter.com/i/web/status/1656463300899610624]]></title>
+        <id>https://twitter.com/developer_dao/status/1656463300899610624</id>
+        <link href="https://twitter.com/developer_dao/status/1656463300899610624"/>
+        <updated>2023-05-11T00:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Want an opportunity to join a $120,000 fellowship?
+Applications are now officially open! https://twitter.com/i/web/status/1656463300899610624
+
+Press Start Cap 👉🎮: ⚡️ Press Start x Developer DAO Fellowship APPLICATIONS ARE OPEN ⚡️
+Apply here: https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d
+Deadline Sunday May 21st, 11:59pm PT
+Cohort begins week of June 5th]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COHORT 2 ANNOUNCED! Registration Link Below 👇👇👇 https://minaprotocol.com/join-zkignite-cohort-2?utm_medium=social&utm_source=kol&utm_campaign...]]></title>
+        <id>https://twitter.com/developer_dao/status/1656422798410108928</id>
+        <link href="https://twitter.com/developer_dao/status/1656422798410108928"/>
+        <updated>2023-05-10T22:15:44.000Z</updated>
+        <summary type="html"><![CDATA[COHORT 2 ANNOUNCED!
+Registration Link Below
+👇👇👇
+ https://minaprotocol.com/join-zkignite-cohort-2?utm_medium=social&utm_source=kol&utm_campaign=developerdao https://twitter.com/i/web/status/1656422798410108928
+
+Mina Protocol 🪶: You can build decentralized applications that solve real-world problems and leverage ZK proofs in zkIgnite, Cohort 2 ⚡️
+Here are 3 things you need to know about the Mina incubator program 🧵
+Read the blog for full details → https://bit.ly/3nRLTBK https://t.co/S58sqw35VN]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): https://twitter.com/i/spaces/1BdxYyAawYMxX]]></title>
+        <id>https://twitter.com/developer_dao/status/1656343418425966598</id>
+        <link href="https://twitter.com/developer_dao/status/1656343418425966598"/>
+        <updated>2023-05-10T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
+https://twitter.com/i/spaces/1BdxYyAawYMxX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://twitter.com/i/spaces/1BdxYyAawYMxX]]></title>
+        <id>https://twitter.com/developer_dao/status/1656343418425966598</id>
+        <link href="https://twitter.com/developer_dao/status/1656343418425966598"/>
+        <updated>2023-05-10T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1BdxYyAawYMxX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still wondering how to migrate your DApp to Sepolia, now that Goerli is deprecated? 😖 Check out the latest guide by @Aayush_gupta_ji 🚀 https://b...]]></title>
+        <id>https://twitter.com/developer_dao/status/1656192398249062401</id>
+        <link href="https://twitter.com/developer_dao/status/1656192398249062401"/>
+        <updated>2023-05-10T07:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Still wondering how to migrate your DApp to Sepolia, now that Goerli is deprecated? 😖
+Check out the latest guide by @Aayush_gupta_ji  🚀
+https://buff.ly/44muIc3]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their proj...]]></title>
         <id>https://twitter.com/developer_dao/status/1656159921044422656</id>
@@ -47,7 +113,7 @@ https://buff.ly/3VzV1aP]]></summary>
         <id>https://developerdao.substack.com/p/69-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/69-probably-nothing"/>
         <updated>2023-05-10T02:15:17.000Z</updated>
-        <summary type="html"><![CDATA[Read us in Chinese! This Week Upcoming EventsThanks for reading Developer DAO! Subscribe for free to receive new posts and support my work. D_D DevNTell – Hashleap, Friday, May 12, 3:30pm UTC. Register here. Coinbase x D_D – a Coinbase Base developer workshop, June 8, 2pm-7pm, Los Angeles. Registration details coming soon.]]></summary>
+        <summary type="html"><![CDATA[We got the koin]]></summary>
         <author>
             <name>Colin4ward</name>
         </author>
@@ -101,6 +167,18 @@ See the full proposal here -> https://buff.ly/3VnIIOI https://t.co/9DE0Xqh1oL]]>
 🎮 🎬 🎵 🎨 The "New Golden Age of Entertainment" has arrived!
 Web3 unlocks epic opportunities for game devs, creators, brand/community managers, gamers, and fans.
 Our thesis on how Web3 will kickstart a new creative renaissance: 🧵👇 https://t.co/c3V1yNPR3J]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Raisin Labs: ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stac...]]></title>
+        <id>https://twitter.com/Raisin_Labs/status/1656007708653367297</id>
+        <link href="https://twitter.com/Raisin_Labs/status/1656007708653367297"/>
+        <updated>2023-05-09T18:46:19.000Z</updated>
+        <summary type="html"><![CDATA[RT Raisin Labs
+ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stack to support public goods & charity! 
+https://forum.developerdao.com/t/raisin-sub-dao-formation-budget-proposal/2744]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -194,16 +272,6 @@ Tune in and find us chatting with the @VenomFoundation team and explore building
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @VenomDev @DoraHacks @hackenclub (🧱, 🚀)]]></title>
-        <id>https://twitter.com/developer_dao/status/1655637571811295232</id>
-        <link href="https://twitter.com/developer_dao/status/1655637571811295232"/>
-        <updated>2023-05-08T18:15:32.000Z</updated>
-        <summary type="html"><![CDATA[Re @VenomDev @DoraHacks @hackenclub (🧱, 🚀)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT QuickNode: We're excited to announce the launch of Graph API on our platform! Built with web3 developers in mind, our Graph API provides a comprehe...]]></title>
         <id>https://twitter.com/QuickNode/status/1655632807987642370</id>
         <link href="https://twitter.com/QuickNode/status/1655632807987642370"/>
@@ -211,75 +279,6 @@ Tune in and find us chatting with the @VenomFoundation team and explore building
         <summary type="html"><![CDATA[RT QuickNode
 We're excited to announce the launch of Graph API on our platform! 
 Built with web3 developers in mind, our Graph API provides a comprehensive, multi-chain solution for querying and fetching the blockchain data that matters the most. https://t.co/RYNSLgUGO1]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed it! @Erik_Knobl explained camera angle prompting with Midjourney! 📷 https://buff.ly/3LonITp]]></title>
-        <id>https://twitter.com/developer_dao/status/1655618565024759808</id>
-        <link href="https://twitter.com/developer_dao/status/1655618565024759808"/>
-        <updated>2023-05-08T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it!
-@Erik_Knobl explained camera angle prompting with Midjourney! 📷 
-https://buff.ly/3LonITp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developers, if you are in the LA area June 8th. Please join us for our first Los Angeles meet up. One of our very own community managers @wc49358 will...]]></title>
-        <id>https://twitter.com/developer_dao/status/1655613771673395202</id>
-        <link href="https://twitter.com/developer_dao/status/1655613771673395202"/>
-        <updated>2023-05-08T16:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Developers, if you are in the LA area June 8th.  Please join us for our first Los Angeles meet up.  One of our very own community managers @wc49358 will be providing a dev workshop and developer focused speaker panel about opportunities in the industry.  https://lu.ma/BaseD_D
-
-Hola Metaverso-Blockchain & New Web Tech Events 🎪: Get ready for BaseD_D at #LATechWeek in a month!
-Join us & @coinbase @BuildOnBase, @developer_dao, @WeAreRazorfish  for an exclusive workshop!
-Guest Speakers:
-@wc49358 
-@lizabazurto 
-@samkazemian 
-@mmeigooni 
-@EmanFT_ 
-Network, learn, & grow! 🌟 Secure your spot now! 🎟️💥 https://t.co/zHCYFvzato]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @midjourney @Erik_Knobl 🥉 Building a Tokengated Community for Live Concerts with @QuickNode: A Step-by-Step Tutorial by @PSkinnerTech https://bu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1655588878558937090</id>
-        <link href="https://twitter.com/developer_dao/status/1655588878558937090"/>
-        <updated>2023-05-08T15:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @midjourney @Erik_Knobl 🥉 Building a Tokengated Community for Live Concerts with @QuickNode: A Step-by-Step Tutorial 
-by @PSkinnerTech 
-https://buff.ly/3NO2lO5]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 🥈 Mastering @Midjourney: Camera Angles by @Erik_Knobl https://buff.ly/3LonITp]]></title>
-        <id>https://twitter.com/developer_dao/status/1655588877422276610</id>
-        <link href="https://twitter.com/developer_dao/status/1655588877422276610"/>
-        <updated>2023-05-08T15:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Re 🥈 Mastering @Midjourney: Camera Angles
-by @Erik_Knobl 
-https://buff.ly/3LonITp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's check out last week's top 3 articles on our blog! 🎉 🎉 🎉 🥇 Decoding Decentralization by Pisymbol (https://buff.ly/3HP8hCz) https://bu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1655588876247875588</id>
-        <link href="https://twitter.com/developer_dao/status/1655588876247875588"/>
-        <updated>2023-05-08T15:02:02.000Z</updated>
-        <summary type="html"><![CDATA[Let's check out last week's top 3 articles on our blog! 🎉 🎉 🎉 
-🥇 Decoding Decentralization 
-by Pisymbol (https://buff.ly/3HP8hCz)
-https://buff.ly/41YHUlI]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -348,16 +347,6 @@ https://buff.ly/41YHUlI]]></summary>
         <summary type="html"><![CDATA[Like the Bat Signal, but for hackathons]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#65 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/65-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/65-probably-nothing"/>
-        <updated>2023-04-11T16:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Good news is good news]]></summary>
-        <author>
-            <name>Sylvia R.</name>
         </author>
     </entry>
 </feed>
