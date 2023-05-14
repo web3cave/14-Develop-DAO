@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-13T06:11:26.468Z</id>
+    <id>urn:2023-05-14T06:11:20.605Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-13T06:11:26.468Z</updated>
+    <updated>2023-05-14T06:11:20.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO]]></title>
+        <id>https://twitter.com/NenaRapsody/status/1657472967062831105</id>
+        <link href="https://twitter.com/NenaRapsody/status/1657472967062831105"/>
+        <updated>2023-05-13T19:48:44.000Z</updated>
+        <summary type="html"><![CDATA[RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓
+We are (def) having fun
+@ETHGlobal @developer_dao @devdaowomen @_HerDAO
+
+krinza.eth 📍 EthLisbon: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT krinza.eth 📍 EthLisbon: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/165744315348...]]></title>
+        <id>https://twitter.com/kayprasla/status/1657443153480400897</id>
+        <link href="https://twitter.com/kayprasla/status/1657443153480400897"/>
+        <updated>2023-05-13T17:50:16.000Z</updated>
+        <summary type="html"><![CDATA[RT krinza.eth 📍 EthLisbon
+day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT kempsterrrr.eth 🔜 🇵🇹 | 🫂 🦇🔊: If you’re at @ETHGlobal Lisbon, come find me or @kayprasla and claim this @mintkudosXYZ NFT. If you...]]></title>
         <id>https://twitter.com/kempsterrrr/status/1657119102404644881</id>
@@ -243,19 +268,6 @@ See the full proposal here -> https://buff.ly/3VnIIOI https://t.co/9DE0Xqh1oL]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Press Start Cap 👉🎮: 🎮 🎬 🎵 🎨 The "New Golden Age of Entertainment" has arrived! Web3 unlocks epic opportunities for game devs, cre...]]></title>
-        <id>https://twitter.com/pressstartcap/status/1656027760975052800</id>
-        <link href="https://twitter.com/pressstartcap/status/1656027760975052800"/>
-        <updated>2023-05-09T20:06:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Press Start Cap 👉🎮
-🎮 🎬 🎵 🎨 The "New Golden Age of Entertainment" has arrived!
-Web3 unlocks epic opportunities for game devs, creators, brand/community managers, gamers, and fans.
-Our thesis on how Web3 will kickstart a new creative renaissance: 🧵👇 https://t.co/c3V1yNPR3J]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Raisin Labs: ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stac...]]></title>
         <id>https://twitter.com/Raisin_Labs/status/1656007708653367297</id>
         <link href="https://twitter.com/Raisin_Labs/status/1656007708653367297"/>
@@ -263,18 +275,6 @@ Our thesis on how Web3 will kickstart a new creative renaissance: 🧵👇 https
         <summary type="html"><![CDATA[RT Raisin Labs
 ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stack to support public goods & charity! 
 https://forum.developerdao.com/t/raisin-sub-dao-formation-budget-proposal/2744]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna show off your precious NFTs?😎 @Aayush_gupta_ji will show you how with @QuickNode's NFT API! 🚀 https://buff.ly/3B9O8n7]]></title>
-        <id>https://twitter.com/developer_dao/status/1655980951623565323</id>
-        <link href="https://twitter.com/developer_dao/status/1655980951623565323"/>
-        <updated>2023-05-09T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wanna show off your precious NFTs?😎 
-@Aayush_gupta_ji will show you how with @QuickNode's NFT API! 🚀 
-https://buff.ly/3B9O8n7]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
