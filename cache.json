@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/70-probably-nothing",
+          "author": "Colin4ward",
+          "description": "↑ ↑ ↓ ↓ ← → ← → B A + .....",
+          "link": "https://developerdao.substack.com/p/70-probably-nothing",
+          "publishedOn": "2023-05-16T03:16:52.000Z",
+          "wordCount": null,
+          "title": "#70 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F658cd836-c204-4122-b002-4267fe5cb7e7_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F658cd836-c204-4122-b002-4267fe5cb7e7_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/69-probably-nothing",
           "author": "Colin4ward",
           "description": "We got the koin",
@@ -77,13 +93,63 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1658181703326916608",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Cohort 2 Announced!  \nRegistration Link Below!\n👇👇👇 https://twitter.com/MinaProtocol/status/1656307628195168257\n\nMina Protocol 🪶: You can build decentralized applications that solve real-world problems and leverage ZK proofs in zkIgnite, Cohort 2 ⚡️\nHere are 3 things you need to know about the Mina incubator program 🧵\nRead the blog for full details → https://bit.ly/3nRLTBK https://t.co/S58sqw35VN",
+          "link": "https://twitter.com/developer_dao/status/1658181703326916608",
+          "publishedOn": "2023-05-15T18:45:00.000Z",
+          "wordCount": null,
+          "title": "Cohort 2 Announced! Registration Link Below! 👇👇👇 https://twitter.com/MinaProtocol/status/1656307628195168257",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/devdaowomen/status/1658118982392586240",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT D_D Women\nwow our scholars at @ethglobal Lisbon truly excelled! the prizes they proudly won:\n🎖️ @tisieo - Best AI Project @gnosischain\n🎖️ @iamsamcodes @nenarapsody - Best Public Good w/ Account Abstraction  @polygon\n🎖️ @carolinekabat - @thegraph pool prizes\n📸 by @kayprasla https://t.co/oruVmTeifM",
+          "link": "https://twitter.com/devdaowomen/status/1658118982392586240",
+          "publishedOn": "2023-05-15T14:35:46.000Z",
+          "wordCount": null,
+          "title": "RT D_D Women: wow our scholars at @ethglobal Lisbon truly excelled! the prizes they proudly won: 🎖️ @tisieo - Best AI Project @gnosischain 🎖️ ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1658052751555690497",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @QuickNode @Aayush_gupta_ji 🥈 Maximizing Your AI Experience: How to Prompt Effectively in @Midjourney \nby @Erik_Knobl \nhttps://buff.ly/3M1lnhg",
+          "link": "https://twitter.com/developer_dao/status/1658052751555690497",
+          "publishedOn": "2023-05-15T10:12:35.000Z",
+          "wordCount": null,
+          "title": "Re @QuickNode @Aayush_gupta_ji 🥈 Maximizing Your AI Experience: How to Prompt Effectively in @Midjourney by @Erik_Knobl https://buff.ly/3M1lnhg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1658052750217756675",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Check out last week's top three articles on the D_D blog! 🎉 \n🥇 How to Build an NFT Gallery Using @QuickNode's GraphQL NFT API \nby @Aayush_gupta_ji \nhttps://buff.ly/3B9O8n7",
+          "link": "https://twitter.com/developer_dao/status/1658052750217756675",
+          "publishedOn": "2023-05-15T10:12:35.000Z",
+          "wordCount": null,
+          "title": "Check out last week's top three articles on the D_D blog! 🎉 🥇 How to Build an NFT Gallery Using @QuickNode's GraphQL NFT API by @Aayush_gupta_ji...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1657996736143450113",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @QuickNode's workshop on QuickAlerts was 🔥 \nIf you missed it, no worries you can watch it here\nhttps://buff.ly/3lnjBNQ \nPresented by @sensahil 🤩 \nHosted by @megabyte0x ✨",
+          "link": "https://twitter.com/developer_dao/status/1657996736143450113",
+          "publishedOn": "2023-05-15T06:30:00.000Z",
+          "wordCount": null,
+          "title": "Re @QuickNode's workshop on QuickAlerts was 🔥 If you missed it, no worries you can watch it here https://buff.ly/3lnjBNQ Presented by @sensahil �...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/NenaRapsody/status/1657472967062831105",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓\nWe are (def) having fun\n@ETHGlobal @developer_dao @devdaowomen @_HerDAO\n\nkrinza.eth: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs",
+          "description": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓\nWe are (def) having fun\n@ETHGlobal @developer_dao @devdaowomen @_HerDAO https://twitter.com/kayprasla/status/1657443153480400897\n\nkrinza.eth: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs",
           "link": "https://twitter.com/NenaRapsody/status/1657472967062831105",
           "publishedOn": "2023-05-13T19:48:44.000Z",
           "wordCount": null,
-          "title": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO",
+          "title": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO https://twitter.com/kayprasla/status...",
           "imageUrl": null
         },
         {
@@ -179,7 +245,7 @@
         {
           "id": "https://twitter.com/developer_dao/status/1656463300899610624",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Want an opportunity to join a $120,000 fellowship?\nApplications are now officially open! https://twitter.com/i/web/status/1656463300899610624\n\nPress Start Cap 👉🎮: ⚡️ Press Start x Developer DAO Fellowship APPLICATIONS ARE OPEN ⚡️\nApply here: https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d\nDeadline Sunday May 21st, 11:59pm PT\nCohort begins week of June 5th",
+          "description": "Want an opportunity to join a $120,000 fellowship?\nApplications are now officially open! https://twitter.com/i/web/status/1656463300899610624\n\nPress Start Cap 👉🎮: ⚡️ Press Start x Developer DAO Fellowship APPLICATIONS ARE OPEN ⚡️\nApply here: https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d\nDeadline Sunday May 21st, 11:59pm PT\nCohort begins week of June 5th https://twitter.com/developer_dao/status/1655711586164547585",
           "link": "https://twitter.com/developer_dao/status/1656463300899610624",
           "publishedOn": "2023-05-11T00:56:41.000Z",
           "wordCount": null,
@@ -224,56 +290,6 @@
           "publishedOn": "2023-05-10T07:00:12.000Z",
           "wordCount": null,
           "title": "Still wondering how to migrate your DApp to Sepolia, now that Goerli is deprecated? 😖 Check out the latest guide by @Aayush_gupta_ji 🚀 https://b...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1656159921044422656",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their projects to new heights!\nhttps://twitter.com/i/spaces/1BdxYyAawYMxX",
-          "link": "https://twitter.com/developer_dao/status/1656159921044422656",
-          "publishedOn": "2023-05-10T04:51:09.000Z",
-          "wordCount": null,
-          "title": "Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their proj...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1656158211110584320",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "$120,000 in Fellowship Dollars!?\nThis Partnership with @pressstartcap is going to be EPIC!\n🚀🚀🚀 \nhttps://twitter.com/i/spaces/1BdxYyAawYMxX https://t.co/ekRQe4dvkR",
-          "link": "https://twitter.com/developer_dao/status/1656158211110584320",
-          "publishedOn": "2023-05-10T04:44:22.000Z",
-          "wordCount": null,
-          "title": "$120,000 in Fellowship Dollars!? This Partnership with @pressstartcap is going to be EPIC! 🚀🚀🚀 https://twitter.com/i/spaces/1BdxYyAawYMxX htt...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1656147155348848642",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday May 12th at 3:30pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for this weeks episode:\nhttps://buff.ly/3VzV1aP",
-          "link": "https://twitter.com/developer_dao/status/1656147155348848642",
-          "publishedOn": "2023-05-10T04:00:26.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday May 12th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pressstartcap/status/1656027801491996672",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Press Start Cap 👉🎮\nRe We've designed our MultiPlayer Fellowships to be the most builder-friendly programs in the space:\n💵 First checks up to $25k\n🦸 Mentorship from battle-tested founders\n🫂 Safe space for like-minded buidlers\nhttps://twitter.com/developer_dao/status/1653514875589611521\n\nDeveloper DAO (🧱, 🚀): 📢 Exciting proposal for the Developer DAO community!📢\nWe're thrilled to announce a proposed-partnership with @pressstartcap to launch our first Fellowship Program for Web3 builders and entrepreneurs! 🚀\nSee the full proposal here -> https://buff.ly/3VnIIOI https://t.co/9DE0Xqh1oL",
-          "link": "https://twitter.com/pressstartcap/status/1656027801491996672",
-          "publishedOn": "2023-05-09T20:06:10.000Z",
-          "wordCount": null,
-          "title": "RT Press Start Cap 👉🎮: Re We've designed our MultiPlayer Fellowships to be the most builder-friendly programs in the space: 💵 First checks up...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Raisin_Labs/status/1656007708653367297",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Raisin Labs\nICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stack to support public goods & charity! \nhttps://forum.developerdao.com/t/raisin-sub-dao-formation-budget-proposal/2744",
-          "link": "https://twitter.com/Raisin_Labs/status/1656007708653367297",
-          "publishedOn": "2023-05-09T18:46:19.000Z",
-          "wordCount": null,
-          "title": "RT Raisin Labs: ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stac...",
           "imageUrl": null
         }
       ]

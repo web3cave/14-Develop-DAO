@@ -1,18 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-15T06:13:04.673Z</id>
+    <id>urn:2023-05-16T06:12:11.866Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-15T06:13:04.673Z</updated>
+    <updated>2023-05-16T06:12:11.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO]]></title>
+        <title type="html"><![CDATA[#70 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/70-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/70-probably-nothing"/>
+        <updated>2023-05-16T03:16:52.000Z</updated>
+        <summary type="html"><![CDATA[↑ ↑ ↓ ↓ ← → ← → B A + .....]]></summary>
+        <author>
+            <name>Colin4ward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cohort 2 Announced! Registration Link Below! 👇👇👇 https://twitter.com/MinaProtocol/status/1656307628195168257]]></title>
+        <id>https://twitter.com/developer_dao/status/1658181703326916608</id>
+        <link href="https://twitter.com/developer_dao/status/1658181703326916608"/>
+        <updated>2023-05-15T18:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cohort 2 Announced!  
+Registration Link Below!
+👇👇👇 https://twitter.com/MinaProtocol/status/1656307628195168257
+
+Mina Protocol 🪶: You can build decentralized applications that solve real-world problems and leverage ZK proofs in zkIgnite, Cohort 2 ⚡️
+Here are 3 things you need to know about the Mina incubator program 🧵
+Read the blog for full details → https://bit.ly/3nRLTBK https://t.co/S58sqw35VN]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT D_D Women: wow our scholars at @ethglobal Lisbon truly excelled! the prizes they proudly won: 🎖️ @tisieo - Best AI Project @gnosischain 🎖️ ...]]></title>
+        <id>https://twitter.com/devdaowomen/status/1658118982392586240</id>
+        <link href="https://twitter.com/devdaowomen/status/1658118982392586240"/>
+        <updated>2023-05-15T14:35:46.000Z</updated>
+        <summary type="html"><![CDATA[RT D_D Women
+wow our scholars at @ethglobal Lisbon truly excelled! the prizes they proudly won:
+🎖️ @tisieo - Best AI Project @gnosischain
+🎖️ @iamsamcodes @nenarapsody - Best Public Good w/ Account Abstraction  @polygon
+🎖️ @carolinekabat - @thegraph pool prizes
+📸 by @kayprasla https://t.co/oruVmTeifM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode @Aayush_gupta_ji 🥈 Maximizing Your AI Experience: How to Prompt Effectively in @Midjourney by @Erik_Knobl https://buff.ly/3M1lnhg]]></title>
+        <id>https://twitter.com/developer_dao/status/1658052751555690497</id>
+        <link href="https://twitter.com/developer_dao/status/1658052751555690497"/>
+        <updated>2023-05-15T10:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode @Aayush_gupta_ji 🥈 Maximizing Your AI Experience: How to Prompt Effectively in @Midjourney 
+by @Erik_Knobl 
+https://buff.ly/3M1lnhg]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out last week's top three articles on the D_D blog! 🎉 🥇 How to Build an NFT Gallery Using @QuickNode's GraphQL NFT API by @Aayush_gupta_ji...]]></title>
+        <id>https://twitter.com/developer_dao/status/1658052750217756675</id>
+        <link href="https://twitter.com/developer_dao/status/1658052750217756675"/>
+        <updated>2023-05-15T10:12:35.000Z</updated>
+        <summary type="html"><![CDATA[Check out last week's top three articles on the D_D blog! 🎉 
+🥇 How to Build an NFT Gallery Using @QuickNode's GraphQL NFT API 
+by @Aayush_gupta_ji 
+https://buff.ly/3B9O8n7]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 If you missed it, no worries you can watch it here https://buff.ly/3lnjBNQ Presented by @sensahil �...]]></title>
+        <id>https://twitter.com/developer_dao/status/1657996736143450113</id>
+        <link href="https://twitter.com/developer_dao/status/1657996736143450113"/>
+        <updated>2023-05-15T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @QuickNode's workshop on QuickAlerts was 🔥 
+If you missed it, no worries you can watch it here
+https://buff.ly/3lnjBNQ 
+Presented by @sensahil 🤩 
+Hosted by @megabyte0x ✨]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO https://twitter.com/kayprasla/status...]]></title>
         <id>https://twitter.com/NenaRapsody/status/1657472967062831105</id>
         <link href="https://twitter.com/NenaRapsody/status/1657472967062831105"/>
         <updated>2023-05-13T19:48:44.000Z</updated>
         <summary type="html"><![CDATA[RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓
 We are (def) having fun
-@ETHGlobal @developer_dao @devdaowomen @_HerDAO
+@ETHGlobal @developer_dao @devdaowomen @_HerDAO https://twitter.com/kayprasla/status/1657443153480400897
 
 krinza.eth: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs]]></summary>
         <author>
@@ -138,7 +218,7 @@ Applications are now officially open! https://twitter.com/i/web/status/165646330
 Press Start Cap 👉🎮: ⚡️ Press Start x Developer DAO Fellowship APPLICATIONS ARE OPEN ⚡️
 Apply here: https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d
 Deadline Sunday May 21st, 11:59pm PT
-Cohort begins week of June 5th]]></summary>
+Cohort begins week of June 5th https://twitter.com/developer_dao/status/1655711586164547585]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -194,43 +274,6 @@ https://buff.ly/44muIc3]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their proj...]]></title>
-        <id>https://twitter.com/developer_dao/status/1656159921044422656</id>
-        <link href="https://twitter.com/developer_dao/status/1656159921044422656"/>
-        <updated>2023-05-10T04:51:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @pressstartcap Join us as @PSkinnerTech meets with @stevenmeets to discuss the newest D_D partnership that's going to help builders take their projects to new heights!
-https://twitter.com/i/spaces/1BdxYyAawYMxX]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$120,000 in Fellowship Dollars!? This Partnership with @pressstartcap is going to be EPIC! 🚀🚀🚀 https://twitter.com/i/spaces/1BdxYyAawYMxX htt...]]></title>
-        <id>https://twitter.com/developer_dao/status/1656158211110584320</id>
-        <link href="https://twitter.com/developer_dao/status/1656158211110584320"/>
-        <updated>2023-05-10T04:44:22.000Z</updated>
-        <summary type="html"><![CDATA[$120,000 in Fellowship Dollars!?
-This Partnership with @pressstartcap is going to be EPIC!
-🚀🚀🚀 
-https://twitter.com/i/spaces/1BdxYyAawYMxX https://t.co/ekRQe4dvkR]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday May 12th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link t...]]></title>
-        <id>https://twitter.com/developer_dao/status/1656147155348848642</id>
-        <link href="https://twitter.com/developer_dao/status/1656147155348848642"/>
-        <updated>2023-05-10T04:00:26.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️: Join us this Friday May 12th at 3:30pm UTC for another episode of our long running @devntellxyz series 
-👉 Details and link to RSVP for this weeks episode:
-https://buff.ly/3VzV1aP]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#69 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/69-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/69-probably-nothing"/>
@@ -238,37 +281,6 @@ https://buff.ly/3VzV1aP]]></summary>
         <summary type="html"><![CDATA[We got the koin]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Press Start Cap 👉🎮: Re We've designed our MultiPlayer Fellowships to be the most builder-friendly programs in the space: 💵 First checks up...]]></title>
-        <id>https://twitter.com/pressstartcap/status/1656027801491996672</id>
-        <link href="https://twitter.com/pressstartcap/status/1656027801491996672"/>
-        <updated>2023-05-09T20:06:10.000Z</updated>
-        <summary type="html"><![CDATA[RT Press Start Cap 👉🎮
-Re We've designed our MultiPlayer Fellowships to be the most builder-friendly programs in the space:
-💵 First checks up to $25k
-🦸 Mentorship from battle-tested founders
-🫂 Safe space for like-minded buidlers
-https://twitter.com/developer_dao/status/1653514875589611521
-
-Developer DAO (🧱, 🚀): 📢 Exciting proposal for the Developer DAO community!📢
-We're thrilled to announce a proposed-partnership with @pressstartcap to launch our first Fellowship Program for Web3 builders and entrepreneurs! 🚀
-See the full proposal here -> https://buff.ly/3VnIIOI https://t.co/9DE0Xqh1oL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Raisin Labs: ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stac...]]></title>
-        <id>https://twitter.com/Raisin_Labs/status/1656007708653367297</id>
-        <link href="https://twitter.com/Raisin_Labs/status/1656007708653367297"/>
-        <updated>2023-05-09T18:46:19.000Z</updated>
-        <summary type="html"><![CDATA[RT Raisin Labs
-ICYMI: @developer_dao Sub-DAO proposal by @crypdoughdoteth to create a fundraising platform based on Raisin's modular fundraising stack to support public goods & charity! 
-https://forum.developerdao.com/t/raisin-sub-dao-formation-budget-proposal/2744]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
