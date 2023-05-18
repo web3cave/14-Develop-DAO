@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff92de915-a786-470f-8038-ea41481513e5_1188x664.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/66-probably-nothing",
-          "author": "Osikhena James Oshomah",
-          "description": "Like the Bat Signal, but for hackathons",
-          "link": "https://developerdao.substack.com/p/66-probably-nothing",
-          "publishedOn": "2023-04-18T16:54:59.000Z",
-          "wordCount": null,
-          "title": "#66 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6862ab1e-e340-4fab-badd-d9580bf5d427_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6862ab1e-e340-4fab-badd-d9580bf5d427_1188x668.png"
         }
       ]
     },
@@ -92,6 +76,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1658962346608324608",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "https://t.co/Z11pGyPZx3",
+          "link": "https://twitter.com/developer_dao/status/1658962346608324608",
+          "publishedOn": "2023-05-17T22:27:00.000Z",
+          "wordCount": null,
+          "title": "https://t.co/Z11pGyPZx3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/BuildOnBase/status/1658845417927311362",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Base 🛡️\nIntroducing Base Camp – a self-paced learning program for smart contract development, designed to empower experienced developers & onchain enthusiasts alike 📚\nhttps://docs.base.org/base-camp/docs/welcome/ https://t.co/WZ5jsF49tC",
+          "link": "https://twitter.com/BuildOnBase/status/1658845417927311362",
+          "publishedOn": "2023-05-17T14:42:22.000Z",
+          "wordCount": null,
+          "title": "RT Base 🛡️: Introducing Base Camp – a self-paced learning program for smart contract development, designed to empower experienced developers & on...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/GigaHierz/status/1658815516558127104",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT gigahierz.eth\nRe Love goes out to my incredible team 🎈 🎉\nFE: @iamsamcodes\nSmartContract: @NenaRapsody\nBackend: @v1rv5k\nPM: @ZoeZ_Fleischer.\nI've learned so much!! 🤓\nThank's to @devdaowomen and @scarlett_spade for bringing two of my team members to @ETHGlobal  💗 https://t.co/e3ffUV6q4P",
+          "link": "https://twitter.com/GigaHierz/status/1658815516558127104",
+          "publishedOn": "2023-05-17T12:43:33.000Z",
+          "wordCount": null,
+          "title": "RT gigahierz.eth: Re Love goes out to my incredible team 🎈 🎉 FE: @iamsamcodes SmartContract: @NenaRapsody Backend: @v1rv5k PM: @ZoeZ_Fleischer. ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1658713961359982593",
           "author": "Developer DAO (🧱, 🚀)",
@@ -125,7 +139,7 @@
         {
           "id": "https://twitter.com/_dropknowledge/status/1658554769416552448",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ryan Gill (🧱, 🚀)\nAbsolutely incredible opportunity for @developer_dao members (and non-members 🥳)! \nReach out to me if you have any questions!\n\nPress Start Cap 👉🎮 Fellowship applications OPEN: Ready to build the future of Web3?\nHere's 9 reasons why you should apply for the Press Start x Developer DAO Fellowship\n👇 https://t.co/40voX8ahF1",
+          "description": "RT Ryan Gill (🧱, 🚀)\nAbsolutely incredible opportunity for @developer_dao members (and non-members 🥳)! \nReach out to me if you have any questions! https://twitter.com/pressstartcap/status/1658527395241144320\n\nPress Start Cap 👉🎮 Fellowship applications OPEN: Ready to build the future of Web3?\nHere's 9 reasons why you should apply for the Press Start x Developer DAO Fellowship\n👇 https://t.co/40voX8ahF1",
           "link": "https://twitter.com/_dropknowledge/status/1658554769416552448",
           "publishedOn": "2023-05-16T19:27:26.000Z",
           "wordCount": null,
@@ -135,11 +149,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1658547004916523031",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Only 5 Days Left to Apply to the Press Start x D_D Fellowship!\n\nPress Start Cap 👉🎮 Fellowship applications OPEN: Ready to build the future of Web3?\nHere's 9 reasons why you should apply for the Press Start x Developer DAO Fellowship\n👇 https://t.co/40voX8ahF1",
+          "description": "Only 5 Days Left to Apply to the Press Start x D_D Fellowship! https://twitter.com/pressstartcap/status/1658527395241144320\n\nPress Start Cap 👉🎮 Fellowship applications OPEN: Ready to build the future of Web3?\nHere's 9 reasons why you should apply for the Press Start x Developer DAO Fellowship\n👇 https://t.co/40voX8ahF1",
           "link": "https://twitter.com/developer_dao/status/1658547004916523031",
           "publishedOn": "2023-05-16T18:56:34.000Z",
           "wordCount": null,
-          "title": "Only 5 Days Left to Apply to the Press Start x D_D Fellowship!",
+          "title": "Only 5 Days Left to Apply to the Press Start x D_D Fellowship! https://twitter.com/pressstartcap/status/1658527395241144320",
           "imageUrl": null
         },
         {
@@ -173,13 +187,23 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/QuickNode/status/1658210516664451072",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT QuickNode\n$80,000+ in prizes ✨\n10 minutes of your time 🚀\nPresented by QuickNode, @coinbase, @AWSstartups, and @chainlink\nTwitter Spaces on June 15th, 2023\nSign up here  👉  https://go.quicknode.com/quickpitch-4 https://t.co/yIHqs6mozP",
+          "link": "https://twitter.com/QuickNode/status/1658210516664451072",
+          "publishedOn": "2023-05-15T20:39:29.000Z",
+          "wordCount": null,
+          "title": "RT QuickNode: $80,000+ in prizes ✨ 10 minutes of your time 🚀 Presented by QuickNode, @coinbase, @AWSstartups, and @chainlink Twitter Spaces on Jun...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1658181703326916608",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Cohort 2 Announced!  \nRegistration Link Below!\n👇👇👇\n\nMina Protocol 🪶: You can build decentralized applications that solve real-world problems and leverage ZK proofs in zkIgnite, Cohort 2 ⚡️\nHere are 3 things you need to know about the Mina incubator program 🧵\nRead the blog for full details → https://bit.ly/3nRLTBK https://t.co/S58sqw35VN",
+          "description": "Cohort 2 Announced!  \nRegistration Link Below!\n👇👇👇 https://twitter.com/MinaProtocol/status/1656307628195168257\n\nMina Protocol 🪶: You can build decentralized applications that solve real-world problems and leverage ZK proofs in zkIgnite, Cohort 2 ⚡️\nHere are 3 things you need to know about the Mina incubator program 🧵\nRead the blog for full details → https://bit.ly/3nRLTBK https://t.co/S58sqw35VN",
           "link": "https://twitter.com/developer_dao/status/1658181703326916608",
           "publishedOn": "2023-05-15T18:45:00.000Z",
           "wordCount": null,
-          "title": "Cohort 2 Announced! Registration Link Below! 👇👇👇",
+          "title": "Cohort 2 Announced! Registration Link Below! 👇👇👇 https://twitter.com/MinaProtocol/status/1656307628195168257",
           "imageUrl": null
         },
         {
@@ -225,11 +249,11 @@
         {
           "id": "https://twitter.com/NenaRapsody/status/1657472967062831105",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓\nWe are (def) having fun\n@ETHGlobal @developer_dao @devdaowomen @_HerDAO\n\nkrinza.eth: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs",
+          "description": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓\nWe are (def) having fun\n@ETHGlobal @developer_dao @devdaowomen @_HerDAO https://twitter.com/kayprasla/status/1657443153480400897\n\nkrinza.eth: day 2 @ETHGlobal stack: stress eating 🍛, free massage and chatgpt (ofc) https://twitter.com/i/web/status/1657443153480400897 https://t.co/TkZMnaIqUs",
           "link": "https://twitter.com/NenaRapsody/status/1657472967062831105",
           "publishedOn": "2023-05-13T19:48:44.000Z",
           "wordCount": null,
-          "title": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO",
+          "title": "RT Irene 🔜 EthGlobal Lisbon🇵🇹⚓: We are (def) having fun @ETHGlobal @developer_dao @devdaowomen @_HerDAO https://twitter.com/kayprasla/status...",
           "imageUrl": null
         },
         {
@@ -243,16 +267,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/kempsterrrr/status/1657119102404644881",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kempsterrrr.eth 🔜 🇵🇹 | 🫂 🦇🔊\nIf you’re at @ETHGlobal Lisbon, come find me or @kayprasla and claim this @mintkudosXYZ NFT.\nIf you’re not already a @developer_dao Member I’ll airdrop you tokens to join after the conference 👀 https://t.co/IJzKusD9uJ",
-          "link": "https://twitter.com/kempsterrrr/status/1657119102404644881",
-          "publishedOn": "2023-05-12T20:22:36.000Z",
-          "wordCount": null,
-          "title": "RT kempsterrrr.eth 🔜 🇵🇹 | 🫂 🦇🔊: If you’re at @ETHGlobal Lisbon, come find me or @kayprasla and claim this @mintkudosXYZ NFT. If you...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/0xMarkeljan/status/1657088140144947200",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Markeljan\nAwesome meeting with @developer_dao crew in Lisbon 😎!! \n@mintkudosXYZ 🎉\nhttps://mintkudos.xyz/profile/0x68e08371d1d0311b7c81961c431d71f71a94dd1a?tokenId=15411&tab=Received",
@@ -260,36 +274,6 @@
           "publishedOn": "2023-05-12T18:19:34.000Z",
           "wordCount": null,
           "title": "RT Markeljan: Awesome meeting with @developer_dao crew in Lisbon 😎!! @mintkudosXYZ 🎉 https://mintkudos.xyz/profile/0x68e08371d1d0311b7c81961c431...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1657072191345655829",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The Community Workshop \"Teach Anything\" starts in 45 mins!\nhttps://www.youtube.com/watch?v=cLgBnW9w6Vc https://t.co/HY6nqjjZLl",
-          "link": "https://twitter.com/developer_dao/status/1657072191345655829",
-          "publishedOn": "2023-05-12T17:16:11.000Z",
-          "wordCount": null,
-          "title": "The Community Workshop \"Teach Anything\" starts in 45 mins! https://www.youtube.com/watch?v=cLgBnW9w6Vc https://t.co/HY6nqjjZLl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1657069839075115025",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "😎 VIBES is live in the DAO Discord!  Come hang on dev voice!\nThe \"Teach Anything\" Workshop starts in 1 hr on Youtube!\nhttps://www.youtube.com/watch?v=cLgBnW9w6Vc https://t.co/gDWpDncHnc",
-          "link": "https://twitter.com/developer_dao/status/1657069839075115025",
-          "publishedOn": "2023-05-12T17:06:51.000Z",
-          "wordCount": null,
-          "title": "😎 VIBES is live in the DAO Discord! Come hang on dev voice! The \"Teach Anything\" Workshop starts in 1 hr on Youtube! https://www.youtube.com/watch?...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kayprasla/status/1657054253662322689",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT krinza.eth\nday 1: co-hacking cool shit with the @developer_dao peeps 🧪 https://t.co/XK38M9M54O",
-          "link": "https://twitter.com/kayprasla/status/1657054253662322689",
-          "publishedOn": "2023-05-12T16:04:55.000Z",
-          "wordCount": null,
-          "title": "RT krinza.eth: day 1: co-hacking cool shit with the @developer_dao peeps 🧪 https://t.co/XK38M9M54O",
           "imageUrl": null
         }
       ]
