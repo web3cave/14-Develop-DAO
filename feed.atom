@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T06:11:20.958Z</id>
+    <id>urn:2023-05-22T06:12:55.256Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-21T06:11:20.958Z</updated>
+    <updated>2023-05-22T06:12:55.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT turja.eth 🕺: With so many *revolutionary* blockchains coming out, cross-chain interactions will inevitably be a necessity Built this example hig...]]></title>
+        <id>https://twitter.com/tchowd_/status/1660400574070661122</id>
+        <link href="https://twitter.com/tchowd_/status/1660400574070661122"/>
+        <updated>2023-05-21T21:42:00.000Z</updated>
+        <summary type="html"><![CDATA[RT turja.eth 🕺
+With so many *revolutionary* blockchains coming out, cross-chain interactions will inevitably be a necessity
+Built this example highlighting cross-chain messaging with @LayerZero_Labs
+You'll be able to send messages from OP to Goerli and vice versa 
+https://dub.sh/crosschain https://t.co/R3Fq7IsRP4]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚨🚨🚨 FELLOWSHIP APPLICATIONS ARE DUE BY 5/21 at 11:59pm PST Don't miss out on your opportunity to win $15k and mentorship from incredible entr...]]></title>
         <id>https://twitter.com/developer_dao/status/1660116629462630401</id>
@@ -252,21 +266,6 @@ https://docs.base.org/base-camp/docs/welcome/ https://t.co/WZ5jsF49tC]]></summar
         <summary type="html"><![CDATA[↑ ↑ ↓ ↓ ← → ← → B A + .....]]></summary>
         <author>
             <name>Colin4ward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT QuickNode: $80,000+ in prizes ✨ 10 minutes of your time 🚀 Presented by QuickNode, @coinbase, @AWSstartups, and @chainlink Twitter Spaces on Jun...]]></title>
-        <id>https://twitter.com/QuickNode/status/1658210516664451072</id>
-        <link href="https://twitter.com/QuickNode/status/1658210516664451072"/>
-        <updated>2023-05-15T20:39:29.000Z</updated>
-        <summary type="html"><![CDATA[RT QuickNode
-$80,000+ in prizes ✨
-10 minutes of your time 🚀
-Presented by QuickNode, @coinbase, @AWSstartups, and @chainlink
-Twitter Spaces on June 15th, 2023
-Sign up here  👉  https://go.quicknode.com/quickpitch-4 https://t.co/yIHqs6mozP]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>

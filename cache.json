@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/tchowd_/status/1660400574070661122",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT turja.eth 🕺\nWith so many *revolutionary* blockchains coming out, cross-chain interactions will inevitably be a necessity\nBuilt this example highlighting cross-chain messaging with @LayerZero_Labs\nYou'll be able to send messages from OP to Goerli and vice versa \nhttps://dub.sh/crosschain https://t.co/R3Fq7IsRP4",
+          "link": "https://twitter.com/tchowd_/status/1660400574070661122",
+          "publishedOn": "2023-05-21T21:42:00.000Z",
+          "wordCount": null,
+          "title": "RT turja.eth 🕺: With so many *revolutionary* blockchains coming out, cross-chain interactions will inevitably be a necessity Built this example hig...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1660116629462630401",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "🚨🚨🚨\nFELLOWSHIP APPLICATIONS ARE DUE BY 5/21 at 11:59pm PST\nDon't miss out on your opportunity to win $15k and mentorship from incredible entrepreneurs in web3!\nReach out to @_dropknowledge with any questions or for a review of your application!\n https://buff.ly/3Oz1t0l",
@@ -264,16 +274,6 @@
           "publishedOn": "2023-05-17T14:42:22.000Z",
           "wordCount": null,
           "title": "RT Base 🛡️: Introducing Base Camp – a self-paced learning program for smart contract development, designed to empower experienced developers & on...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/QuickNode/status/1658210516664451072",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT QuickNode\n$80,000+ in prizes ✨\n10 minutes of your time 🚀\nPresented by QuickNode, @coinbase, @AWSstartups, and @chainlink\nTwitter Spaces on June 15th, 2023\nSign up here  👉  https://go.quicknode.com/quickpitch-4 https://t.co/yIHqs6mozP",
-          "link": "https://twitter.com/QuickNode/status/1658210516664451072",
-          "publishedOn": "2023-05-15T20:39:29.000Z",
-          "wordCount": null,
-          "title": "RT QuickNode: $80,000+ in prizes ✨ 10 minutes of your time 🚀 Presented by QuickNode, @coinbase, @AWSstartups, and @chainlink Twitter Spaces on Jun...",
           "imageUrl": null
         }
       ]
