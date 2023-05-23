@@ -1,10 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-22T06:12:55.256Z</id>
+    <id>urn:2023-05-23T06:12:23.113Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-22T06:12:55.256Z</updated>
+    <updated>2023-05-23T06:12:23.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Mina Developers 🪶: zkIgnite, Cohort 2 starts on June 14 ⚡️ Participants will form teams, brainstorm ideas, get mentorship, and submit proposal...]]></title>
+        <id>https://twitter.com/MinaDevelopers/status/1660778421444567043</id>
+        <link href="https://twitter.com/MinaDevelopers/status/1660778421444567043"/>
+        <updated>2023-05-22T22:43:26.000Z</updated>
+        <summary type="html"><![CDATA[RT Mina Developers 🪶
+zkIgnite, Cohort 2 starts on June 14 ⚡️
+Participants will form teams, brainstorm ideas, get mentorship, and submit proposals for funding their ZK projects.
+Founders, developers, tooling experts, and builders of all kinds welcome!
+Sign up today → http://bit.ly/41G7fAm https://t.co/sCbRCo379F]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: New Video - Fast and Secure Permanent File Storage on @ArweaveEco with @nextjs Route Handlers & @BundlrNetwork ✨ This is...]]></title>
+        <id>https://twitter.com/dabit3/status/1660738901122732034</id>
+        <link href="https://twitter.com/dabit3/status/1660738901122732034"/>
+        <updated>2023-05-22T20:06:23.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+New Video - Fast and Secure Permanent File Storage on @ArweaveEco with @nextjs Route Handlers & @BundlrNetwork ✨
+This is a simple, secure, and quick setup for a file server for your next app! 
+🎥 Video - https://www.youtube.com/watch?v=SnglWpCPVaE 
+🔢 Codebase - https://github.com/dabit3/nextjs-route-handlers-permanent-file-storage https://t.co/Q3KPq1RqWC]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast and Secure Permanent File Storage on Arweave with Next.js Route Handlers and Bundlr Network]]></title>
+        <id>https://www.youtube.com/watch?v=SnglWpCPVaE</id>
+        <link href="https://www.youtube.com/watch?v=SnglWpCPVaE"/>
+        <updated>2023-05-22T20:00:27.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT cami - beware of impersonator accounts of me: Re @iamsamcodes @tchowd_ @pbillingsby_ <-- three really good devrel candidates looking for their next...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1660711002516889600</id>
+        <link href="https://twitter.com/camiinthisthang/status/1660711002516889600"/>
+        <updated>2023-05-22T18:15:32.000Z</updated>
+        <summary type="html"><![CDATA[RT cami - beware of impersonator accounts of me
+Re @iamsamcodes @tchowd_ @pbillingsby_ <-- three really good devrel candidates looking for their next project that I highly recommend and come highly recommended from their former teams: 
+All are engineers who consistently ship and have deep ties to the dev community 🫡]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT luke 🏳️‍🌈 lukecd.lens ☮️: Spent Sunday exploring, beautiful walk from Trafaria to Almada, Portugal. Love this country so much. https://t....]]></title>
+        <id>https://twitter.com/spaceagente/status/1660700703331893253</id>
+        <link href="https://twitter.com/spaceagente/status/1660700703331893253"/>
+        <updated>2023-05-22T17:34:36.000Z</updated>
+        <summary type="html"><![CDATA[RT luke 🏳️‍🌈 lukecd.lens ☮️
+Spent Sunday exploring, beautiful walk from Trafaria to Almada, Portugal. Love this country so much. https://t.co/Jon3mouWfX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT cami - beware of impersonator accounts of me: Shout out to the people still actively contributing to a DAO in 2023 y’all in the trenches fr fr ❤...]]></title>
+        <id>https://twitter.com/camiinthisthang/status/1660696757251223554</id>
+        <link href="https://twitter.com/camiinthisthang/status/1660696757251223554"/>
+        <updated>2023-05-22T17:18:55.000Z</updated>
+        <summary type="html"><![CDATA[RT cami - beware of impersonator accounts of me
+Shout out to the people still actively contributing to a DAO in 2023 y’all in the trenches fr fr ❤️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT pbillingsby: Im currently looking for dev or devrel work. Fulltime, part time or freelance. Can start immediately. DM me if you know of anything or...]]></title>
+        <id>https://twitter.com/pbillingsby_/status/1660652388317818883</id>
+        <link href="https://twitter.com/pbillingsby_/status/1660652388317818883"/>
+        <updated>2023-05-22T14:22:37.000Z</updated>
+        <summary type="html"><![CDATA[RT pbillingsby
+Im currently looking for dev or devrel work. Fulltime, part time or freelance. Can start immediately. 
+DM me if you know of anything or want to have a chat!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT natedev.eth 🦇🔊: and we made it! we just submitted our application to the @pressstartcap x @developer_dao fellowship LFG! @7i7o @sarthacketh t...]]></title>
+        <id>https://twitter.com/natedevxyz/status/1660447747806208001</id>
+        <link href="https://twitter.com/natedevxyz/status/1660447747806208001"/>
+        <updated>2023-05-22T00:49:27.000Z</updated>
+        <summary type="html"><![CDATA[RT natedev.eth 🦇🔊
+and we made it! we just submitted our application to the @pressstartcap x @developer_dao fellowship
+LFG! @7i7o @sarthacketh 
+thank you @PSkinnerTech and @_dropknowledge for the support!
+also nice UX @deformapp 🫡 https://t.co/mbqi4RHz3G]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT turja.eth 🕺: With so many *revolutionary* blockchains coming out, cross-chain interactions will inevitably be a necessity Built this example hig...]]></title>
         <id>https://twitter.com/tchowd_/status/1660400574070661122</id>
@@ -65,7 +162,7 @@ Why not have the @pressstartcap team teach you the ins and outs of applying for 
 D_D Members get FREE TICKETS to the @3XPgg Web3 Gaming Expo!  
 Enjoy 2 days of interactive booths, announcements, showcases, tournaments & quests!  
 June 8th-9th at the Pasadena Conv. Center.  
-Head to https://p3rks.xyz, sign in & claim!
+Head to https://p3rks.xyz, sign in & claim! https://twitter.com/3XPgg/status/1659636027395284994
 
 3XP Web3 Gaming Expo - Powered by Game7: 3XP has partnered with @developer_dao! 
 Dev DAO is a community that empowers developers in the Web3 space to offer their developers free attendance to @3XPgg and support in their careers. https://t.co/SFeFmDboR6]]></summary>
@@ -82,7 +179,7 @@ Dev DAO is a community that empowers developers in the Web3 space to offer their
 Check out this absolutely STACKED list of mentors for the @pressstartcap x D_D fellowship program!
 DO NOT MISS OUT!
 To apply, peak the @deformapp link below, 👇
-https://app.deform.cc/edit/d7547d9f-e795-44de-868d-ed903d24859d/
+https://app.deform.cc/edit/d7547d9f-e795-44de-868d-ed903d24859d/ https://twitter.com/pressstartcap/status/1659650739839590402
 
 Press Start Cap 👉🎮 Fellowship applications OPEN: Mentors are critical for entrepreneurial success.
 Introducing your mentors and speakers for the @pressstartcap x @developer_dao Fellowship 
@@ -156,7 +253,7 @@ https://www.youtube.com/live/Y5KgA5vJ2PY?feature=share https://t.co/xNs9vCZINN]]
         <updated>2023-05-18T23:41:00.000Z</updated>
         <summary type="html"><![CDATA[If you applied to the @pressstartcap x D_D Fellowship and want an in-depth review of your application, tweet the hashtag #ReviewMyApp below. 👇👇👇
 If you haven't applied yet, you have until 11:59pm on May 21st (this Sunday).
-Here's the link to apply:  https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d/
+Here's the link to apply:  https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d/ https://twitter.com/developer_dao/status/1659243817936240640
 
 Developer DAO (🧱, 🚀): PressStart Capital x D_D: Application Review https://twitter.com/i/broadcasts/1vOGwMqjqloxB]]></summary>
         <author>
@@ -171,89 +268,6 @@ Developer DAO (🧱, 🚀): PressStart Capital x D_D: Application Review https
         <summary type="html"><![CDATA[Wanna build DApps with greate UX, but users drop off before they even sign up? 🤔 
 Learn it from D_D member @megabyte0x who explains how @papercheckout can improve onboarding! 📜 
 https://buff.ly/3KyIe3k]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE ARE LIVE! If you want to have your application reviewed, comment "REVIEW MY APP" below! 👇 https://www.youtube.com/live/WAbSFKnt4U8?feature=share]]></title>
-        <id>https://twitter.com/developer_dao/status/1659244785868193792</id>
-        <link href="https://twitter.com/developer_dao/status/1659244785868193792"/>
-        <updated>2023-05-18T17:09:18.000Z</updated>
-        <summary type="html"><![CDATA[WE ARE LIVE!
-If you want to have your application reviewed, comment "REVIEW MY APP" below! 👇 
-https://www.youtube.com/live/WAbSFKnt4U8?feature=share]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PressStart Capital x D_D: Application Review https://twitter.com/i/broadcasts/1vOGwMqjqloxB]]></title>
-        <id>https://twitter.com/developer_dao/status/1659243817936240640</id>
-        <link href="https://twitter.com/developer_dao/status/1659243817936240640"/>
-        <updated>2023-05-18T17:05:28.000Z</updated>
-        <summary type="html"><![CDATA[PressStart Capital x D_D: Application Review https://twitter.com/i/broadcasts/1vOGwMqjqloxB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @alerex_eth who will be giving us an overview of @woop_pay, hosted by @narb_s �...]]></title>
-        <id>https://twitter.com/developer_dao/status/1659242766025490441</id>
-        <link href="https://twitter.com/developer_dao/status/1659242766025490441"/>
-        <updated>2023-05-18T17:01:17.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-You won't want to miss tomorrow’s @devntellxyz with @alerex_eth who will be giving us an overview of @woop_pay, hosted by @narb_s 
-👉 Details and link to RSVP for this weeks event:
-https://buff.ly/41JCfzi]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to learn the ins and outs of applying for funding, accelerators, and fellowship programs? Tune in as @PSkinnerTech & @_dropknowledge do a Live Ap...]]></title>
-        <id>https://twitter.com/developer_dao/status/1659224353597259777</id>
-        <link href="https://twitter.com/developer_dao/status/1659224353597259777"/>
-        <updated>2023-05-18T15:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Want to learn the ins and outs of applying for funding, accelerators, and fellowship programs?
-Tune in as @PSkinnerTech & @_dropknowledge do a Live Application Review for the @pressstartcap  x D_D Fellowship Program!
-TODAY @ 12pm CST / 5pm UTC
-https://lu.ma/ghj3udqs https://t.co/4wOU82GWYG]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT WeaveDB 🧬: 🔊 We are thrilled to announce the launch of WeaveDB Fellows! A collaborative opportunity in partnership with @ArweaveEco, @fleekxy...]]></title>
-        <id>https://twitter.com/weave_db/status/1659192453830963200</id>
-        <link href="https://twitter.com/weave_db/status/1659192453830963200"/>
-        <updated>2023-05-18T13:41:21.000Z</updated>
-        <summary type="html"><![CDATA[RT WeaveDB 🧬
-🔊 We are thrilled to announce the launch of WeaveDB Fellows!
-A collaborative opportunity in partnership with @ArweaveEco, @fleekxyz , @LensProtocol, @LitProtocol, and @realMaskNetwork for developers to contribute to the advancement of web3🔥
-🧵👇 https://twitter.com/i/web/status/1659192453830963200 https://t.co/llQYCkZdKq]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://t.co/Z11pGyPZx3]]></title>
-        <id>https://twitter.com/developer_dao/status/1658962346608324608</id>
-        <link href="https://twitter.com/developer_dao/status/1658962346608324608"/>
-        <updated>2023-05-17T22:27:00.000Z</updated>
-        <summary type="html"><![CDATA[https://t.co/Z11pGyPZx3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Base 🛡️: Introducing Base Camp – a self-paced learning program for smart contract development, designed to empower experienced developers & on...]]></title>
-        <id>https://twitter.com/BuildOnBase/status/1658845417927311362</id>
-        <link href="https://twitter.com/BuildOnBase/status/1658845417927311362"/>
-        <updated>2023-05-17T14:42:22.000Z</updated>
-        <summary type="html"><![CDATA[RT Base 🛡️
-Introducing Base Camp – a self-paced learning program for smart contract development, designed to empower experienced developers & onchain enthusiasts alike 📚
-https://docs.base.org/base-camp/docs/welcome/ https://t.co/WZ5jsF49tC]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
