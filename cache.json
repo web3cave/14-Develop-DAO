@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/71-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "Winner winner hacker dinner",
+          "link": "https://developerdao.substack.com/p/71-probably-nothing",
+          "publishedOn": "2023-05-23T14:54:05.000Z",
+          "wordCount": null,
+          "title": "#71 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe904c31-589f-4f81-bc49-165ea93ecc77_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe904c31-589f-4f81-bc49-165ea93ecc77_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/70-probably-nothing",
           "author": "Colin4ward",
           "description": "↑ ↑ ↓ ↓ ← → ← → B A + .....",
@@ -77,6 +93,56 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1661220512561807360",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday May 26th at 3:00pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for the event:\nhttps://buff.ly/43bAk7C",
+          "link": "https://twitter.com/developer_dao/status/1661220512561807360",
+          "publishedOn": "2023-05-24T04:00:08.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday May 26th at 3:00pm UTC for another episode of our long running @devntellxyz series 👉 Details and link t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/narb_s/status/1661120587903959043",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Narb | narbeh.eth\n📣 Big announcements today for @goodpeopleclick on the heels of the @_buildspace @_nightsweekends IRL event in SF\nFirstly 🥁🥁🥁…\n@matthew_paish and I have officially registered @goodpeopleclick as a business out of Canada 🇨🇦 🎉\nBut wait there’s more 👀👇",
+          "link": "https://twitter.com/narb_s/status/1661120587903959043",
+          "publishedOn": "2023-05-23T21:23:04.000Z",
+          "wordCount": null,
+          "title": "RT Narb | narbeh.eth: 📣 Big announcements today for @goodpeopleclick on the heels of the @_buildspace @_nightsweekends IRL event in SF Firstly 🥁...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1661057928831418371",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @thatguyintech @deformapp @unhappiimochii @kempsterrrr @wc49358 wen regular demo day in D_D Discord so buidl000rs can get feedback from their frens",
+          "link": "https://twitter.com/developer_dao/status/1661057928831418371",
+          "publishedOn": "2023-05-23T17:14:05.000Z",
+          "wordCount": null,
+          "title": "Re @thatguyintech @deformapp @unhappiimochii @kempsterrrr @wc49358 wen regular demo day in D_D Discord so buidl000rs can get feedback from their frens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1661053651706691602",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "VIBES 😎🌴\nKicking off in ~5 mins in Discord, come hangout and claim your @mintkudosXYZ https://t.co/7iauthYuKJ",
+          "link": "https://twitter.com/developer_dao/status/1661053651706691602",
+          "publishedOn": "2023-05-23T16:57:06.000Z",
+          "wordCount": null,
+          "title": "VIBES 😎🌴 Kicking off in ~5 mins in Discord, come hangout and claim your @mintkudosXYZ https://t.co/7iauthYuKJ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/thatguyintech/status/1661045840218296320",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT albert\ndemo day in vc5 with @developer_dao and @deformapp  🫠 https://t.co/iiOHWfF0qq",
+          "link": "https://twitter.com/thatguyintech/status/1661045840218296320",
+          "publishedOn": "2023-05-23T16:26:03.000Z",
+          "wordCount": null,
+          "title": "RT albert: demo day in vc5 with @developer_dao and @deformapp 🫠 https://t.co/iiOHWfF0qq",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/MinaDevelopers/status/1660778421444567043",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Mina Developers 🪶\nzkIgnite, Cohort 2 starts on June 14 ⚡️\nParticipants will form teams, brainstorm ideas, get mentorship, and submit proposals for funding their ZK projects.\nFounders, developers, tooling experts, and builders of all kinds welcome!\nSign up today → http://bit.ly/41G7fAm https://t.co/sCbRCo379F",
@@ -104,16 +170,6 @@
           "publishedOn": "2023-05-22T18:15:32.000Z",
           "wordCount": null,
           "title": "RT cami - beware of impersonator accounts of me: Re @iamsamcodes @tchowd_ @pbillingsby_ <-- three really good devrel candidates looking for their next...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/spaceagente/status/1660700703331893253",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT luke 🏳️‍🌈 lukecd.lens ☮️\nSpent Sunday exploring, beautiful walk from Trafaria to Almada, Portugal. Love this country so much. https://t.co/Jon3mouWfX",
-          "link": "https://twitter.com/spaceagente/status/1660700703331893253",
-          "publishedOn": "2023-05-22T17:34:36.000Z",
-          "wordCount": null,
-          "title": "RT luke 🏳️‍🌈 lukecd.lens ☮️: Spent Sunday exploring, beautiful walk from Trafaria to Almada, Portugal. Love this country so much. https://t....",
           "imageUrl": null
         },
         {
@@ -235,46 +291,6 @@
           "wordCount": null,
           "title": "Did you read the latest piece of D_D OG @Erik_Knobl? If not, your missing out on valuable prompting skills for @Midjourney! https://buff.ly/3M1lnhg",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1659405543088463872",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Are you trying to get started working with OpenAI? Please join us for our Community Workshop this Fri, May 19th @ 6pm UTC \n w/ @ericroupe\nhttps://www.youtube.com/live/Y5KgA5vJ2PY?feature=share https://t.co/xNs9vCZINN",
-          "link": "https://twitter.com/developer_dao/status/1659405543088463872",
-          "publishedOn": "2023-05-19T03:48:06.000Z",
-          "wordCount": null,
-          "title": "Are you trying to get started working with OpenAI? Please join us for our Community Workshop this Fri, May 19th @ 6pm UTC w/ @ericroupe https://www.yo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1659343362539782148",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Be sure to check out the in-depth review of @PSkinnerTech's fellowship application by @Lukex, @stevenmeets, and @_dropknowledge!",
-          "link": "https://twitter.com/developer_dao/status/1659343362539782148",
-          "publishedOn": "2023-05-18T23:41:01.000Z",
-          "wordCount": null,
-          "title": "Re Be sure to check out the in-depth review of @PSkinnerTech's fellowship application by @Lukex, @stevenmeets, and @_dropknowledge!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1659343359054315521",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "If you applied to the @pressstartcap x D_D Fellowship and want an in-depth review of your application, tweet the hashtag #ReviewMyApp below. 👇👇👇\nIf you haven't applied yet, you have until 11:59pm on May 21st (this Sunday).\nHere's the link to apply:  https://app.deform.cc/form/d7547d9f-e795-44de-868d-ed903d24859d/ https://twitter.com/developer_dao/status/1659243817936240640\n\nDeveloper DAO (🧱, 🚀): PressStart Capital x D_D: Application Review https://twitter.com/i/broadcasts/1vOGwMqjqloxB",
-          "link": "https://twitter.com/developer_dao/status/1659343359054315521",
-          "publishedOn": "2023-05-18T23:41:00.000Z",
-          "wordCount": null,
-          "title": "If you applied to the @pressstartcap x D_D Fellowship and want an in-depth review of your application, tweet the hashtag #ReviewMyApp below. 👇👇...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1659272706259394583",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Wanna build DApps with greate UX, but users drop off before they even sign up? 🤔 \nLearn it from D_D member @megabyte0x who explains how @papercheckout can improve onboarding! 📜 \nhttps://buff.ly/3KyIe3k",
-          "link": "https://twitter.com/developer_dao/status/1659272706259394583",
-          "publishedOn": "2023-05-18T19:00:15.000Z",
-          "wordCount": null,
-          "title": "Wanna build DApps with greate UX, but users drop off before they even sign up? 🤔 Learn it from D_D member @megabyte0x who explains how @paperchecko...",
-          "imageUrl": null
         }
       ]
     },
@@ -321,16 +337,6 @@
           "publishedOn": "2023-04-26T01:16:36.000Z",
           "wordCount": null,
           "title": "Building a ChatGPT Plugin with TypeScript and Next.js: a Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bfkalDSvRDc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bfkalDSvRDc",
-          "publishedOn": "2023-04-24T16:45:02.000Z",
-          "wordCount": null,
-          "title": "Build Your First Sybil-Resistant Web App with Gitcoin Passport & Next.js: A Step-by-Step Guide",
           "imageUrl": null
         }
       ]
