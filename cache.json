@@ -77,6 +77,36 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1662155975565152256",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368\n\nDeveloper DAO (🧱, 🚀): Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to \"Learning Rust\" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8",
+          "link": "https://twitter.com/developer_dao/status/1662155975565152256",
+          "publishedOn": "2023-05-26T17:57:20.000Z",
+          "wordCount": null,
+          "title": "Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1662147761142218772",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Build 🧪 Ship 🤝 Win part of $225,000 \nListen back to our Twitter Space with the @VenomFoundation team on their live online hackathon here - https://youtu.be/rOvbTu1-g_0\nJoin the other buidl00rs 🛳️ing this w/e here - https://devdao.to/venom-hack https://t.co/fRniLJcClt",
+          "link": "https://twitter.com/developer_dao/status/1662147761142218772",
+          "publishedOn": "2023-05-26T17:24:42.000Z",
+          "wordCount": null,
+          "title": "Build 🧪 Ship 🤝 Win part of $225,000 Listen back to our Twitter Space with the @VenomFoundation team on their live online hackathon here - https:...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1662111629943734272",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️ @devntellxyz is now live with @JoshCStein giving us an overview of Modular Blockchains, hosted by @narb_s \n👉 Come check out all the action on YouTube now:\nhttps://buff.ly/3Iu0YRd",
+          "link": "https://twitter.com/developer_dao/status/1662111629943734272",
+          "publishedOn": "2023-05-26T15:01:07.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @JoshCStein giving us an overview of Modular Blockchains, hosted by @narb_s 👉 Come check out a...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1661836554241978368",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to \"Learning Rust\" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8",
@@ -229,21 +259,11 @@
         {
           "id": "https://twitter.com/pressstartcap/status/1661457123858055170",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Press Start Cap 👉🎮\n🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨\nCheck your spam folder if you don't see it.\nAs promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week.\n\nPress Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨\n💵$15k SAFE\n🧙‍♂️9+ GIGA-BRAINED mentors\n🌁Bridge to accelerators, investors, L1s\n🫂Safe space to ship with frens\n📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao \nApp link 👇",
+          "description": "RT Press Start Cap 👉🎮\n🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨\nCheck your spam folder if you don't see it.\nAs promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week. https://twitter.com/pressstartcap/status/1660367893572501504\n\nPress Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨\n💵$15k SAFE\n🧙‍♂️9+ GIGA-BRAINED mentors\n🌁Bridge to accelerators, investors, L1s\n🫂Safe space to ship with frens\n📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao \nApp link 👇 https://twitter.com/pressstartcap/status/1658527395241144320",
           "link": "https://twitter.com/pressstartcap/status/1661457123858055170",
           "publishedOn": "2023-05-24T19:40:21.000Z",
           "wordCount": null,
           "title": "RT Press Start Cap 👉🎮: 🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨 Check your spam folder if you don't...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DAppaDanDev/status/1661416333282508811",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DappaDan (🧱,🚀)\nI am building my deck for my @developer_dao workshop on Technical Writing next week.  \nI'm struggling to choose a theme. Maybe you can help?",
-          "link": "https://twitter.com/DAppaDanDev/status/1661416333282508811",
-          "publishedOn": "2023-05-24T16:58:16.000Z",
-          "wordCount": null,
-          "title": "RT DappaDan (🧱,🚀): I am building my deck for my @developer_dao workshop on Technical Writing next week. I'm struggling to choose a theme. Maybe ...",
           "imageUrl": null
         },
         {
@@ -254,26 +274,6 @@
           "publishedOn": "2023-05-24T15:45:13.000Z",
           "wordCount": null,
           "title": "RT kempsterrrr.eth | 🫂 🦇🔊: We FINALLY have a crypto on/off-ramp @developer_dao thanks to @circle 🙏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1661390193964769280",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Calling all front end developers 👑🥵👀\nhttps://developerdao.pallet.com/jobs https://t.co/85gxdRXTep",
-          "link": "https://twitter.com/developer_dao/status/1661390193964769280",
-          "publishedOn": "2023-05-24T15:14:24.000Z",
-          "wordCount": null,
-          "title": "Calling all front end developers 👑🥵👀 https://developerdao.pallet.com/jobs https://t.co/85gxdRXTep",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MinaProtocol/status/1661012819645714435",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Mina Protocol 🪶\n✅ 850+ builders have already signed up for Cohort 2, have you?\n🏆 There’s 500,000 USDC and 500,000 MINA available in grants!\nIt’s not too late to register: http://bit.ly/41G7fAm https://t.co/XRefk2KTYr",
-          "link": "https://twitter.com/MinaProtocol/status/1661012819645714435",
-          "publishedOn": "2023-05-23T14:14:50.000Z",
-          "wordCount": null,
-          "title": "RT Mina Protocol 🪶: ✅ 850+ builders have already signed up for Cohort 2, have you? 🏆 There’s 500,000 USDC and 500,000 MINA available in grants...",
           "imageUrl": null
         }
       ]

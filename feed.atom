@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-26T06:12:14.523Z</id>
+    <id>urn:2023-05-27T06:11:27.040Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-26T06:12:14.523Z</updated>
+    <updated>2023-05-27T06:11:27.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368]]></title>
+        <id>https://twitter.com/developer_dao/status/1662155975565152256</id>
+        <link href="https://twitter.com/developer_dao/status/1662155975565152256"/>
+        <updated>2023-05-26T17:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368
+
+Developer DAO (🧱, 🚀): Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to "Learning Rust" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build 🧪 Ship 🤝 Win part of $225,000 Listen back to our Twitter Space with the @VenomFoundation team on their live online hackathon here - https:...]]></title>
+        <id>https://twitter.com/developer_dao/status/1662147761142218772</id>
+        <link href="https://twitter.com/developer_dao/status/1662147761142218772"/>
+        <updated>2023-05-26T17:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Build 🧪 Ship 🤝 Win part of $225,000 
+Listen back to our Twitter Space with the @VenomFoundation team on their live online hackathon here - https://youtu.be/rOvbTu1-g_0
+Join the other buidl00rs 🛳️ing this w/e here - https://devdao.to/venom-hack https://t.co/fRniLJcClt]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @JoshCStein giving us an overview of Modular Blockchains, hosted by @narb_s 👉 Come check out a...]]></title>
+        <id>https://twitter.com/developer_dao/status/1662111629943734272</id>
+        <link href="https://twitter.com/developer_dao/status/1662111629943734272"/>
+        <updated>2023-05-26T15:01:07.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️ @devntellxyz is now live with @JoshCStein giving us an overview of Modular Blockchains, hosted by @narb_s 
+👉 Come check out all the action on YouTube now:
+https://buff.ly/3Iu0YRd]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr...]]></title>
         <id>https://twitter.com/developer_dao/status/1661836554241978368</id>
@@ -198,7 +235,7 @@ https://twitter.com/i/spaces/1MnGnpEXaOoxO https://twitter.com/i/web/status/1661
         <summary type="html"><![CDATA[RT Press Start Cap 👉🎮
 🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨
 Check your spam folder if you don't see it.
-As promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week.
+As promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week. https://twitter.com/pressstartcap/status/1660367893572501504
 
 Press Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨
 💵$15k SAFE
@@ -206,19 +243,7 @@ Press Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @
 🌁Bridge to accelerators, investors, L1s
 🫂Safe space to ship with frens
 📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao 
-App link 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT DappaDan (🧱,🚀): I am building my deck for my @developer_dao workshop on Technical Writing next week. I'm struggling to choose a theme. Maybe ...]]></title>
-        <id>https://twitter.com/DAppaDanDev/status/1661416333282508811</id>
-        <link href="https://twitter.com/DAppaDanDev/status/1661416333282508811"/>
-        <updated>2023-05-24T16:58:16.000Z</updated>
-        <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
-I am building my deck for my @developer_dao workshop on Technical Writing next week.  
-I'm struggling to choose a theme. Maybe you can help?]]></summary>
+App link 👇 https://twitter.com/pressstartcap/status/1658527395241144320]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -235,17 +260,6 @@ We FINALLY have a crypto on/off-ramp @developer_dao  thanks to @circle 🙏]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calling all front end developers 👑🥵👀 https://developerdao.pallet.com/jobs https://t.co/85gxdRXTep]]></title>
-        <id>https://twitter.com/developer_dao/status/1661390193964769280</id>
-        <link href="https://twitter.com/developer_dao/status/1661390193964769280"/>
-        <updated>2023-05-24T15:14:24.000Z</updated>
-        <summary type="html"><![CDATA[Calling all front end developers 👑🥵👀
-https://developerdao.pallet.com/jobs https://t.co/85gxdRXTep]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#71 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/71-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/71-probably-nothing"/>
@@ -253,19 +267,6 @@ https://developerdao.pallet.com/jobs https://t.co/85gxdRXTep]]></summary>
         <summary type="html"><![CDATA[Winner winner hacker dinner]]></summary>
         <author>
             <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Mina Protocol 🪶: ✅ 850+ builders have already signed up for Cohort 2, have you? 🏆 There’s 500,000 USDC and 500,000 MINA available in grants...]]></title>
-        <id>https://twitter.com/MinaProtocol/status/1661012819645714435</id>
-        <link href="https://twitter.com/MinaProtocol/status/1661012819645714435"/>
-        <updated>2023-05-23T14:14:50.000Z</updated>
-        <summary type="html"><![CDATA[RT Mina Protocol 🪶
-✅ 850+ builders have already signed up for Cohort 2, have you?
-🏆 There’s 500,000 USDC and 500,000 MINA available in grants!
-It’s not too late to register: http://bit.ly/41G7fAm https://t.co/XRefk2KTYr]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
