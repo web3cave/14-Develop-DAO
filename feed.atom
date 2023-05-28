@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-27T06:11:27.040Z</id>
+    <id>urn:2023-05-28T06:11:52.761Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-27T06:11:27.040Z</updated>
+    <updated>2023-05-28T06:11:52.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368]]></title>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: Re @developer_dao contingent invaded @_buildspace for the week. Tons of good vibes and even recruited some new folks too 🙌 @r...]]></title>
+        <id>https://twitter.com/narb_s/status/1662349909063008257</id>
+        <link href="https://twitter.com/narb_s/status/1662349909063008257"/>
+        <updated>2023-05-27T06:47:57.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+Re @developer_dao contingent invaded @_buildspace for the week.  Tons of good vibes and even recruited some new folks too 🙌
+@run4pancakes @web3djen @kithkui @aMichaelLyons @0xastro98 @0xRampey @StefLikeCurry https://twitter.com/i/web/status/1662349909063008257 https://t.co/pZBRSgPiP1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting in 4 minutes 👇]]></title>
         <id>https://twitter.com/developer_dao/status/1662155975565152256</id>
         <link href="https://twitter.com/developer_dao/status/1662155975565152256"/>
         <updated>2023-05-26T17:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368
+        <summary type="html"><![CDATA[Starting in 4 minutes 👇
 
 Developer DAO (🧱, 🚀): Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to "Learning Rust" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8]]></summary>
         <author>
@@ -235,7 +247,7 @@ https://twitter.com/i/spaces/1MnGnpEXaOoxO https://twitter.com/i/web/status/1661
         <summary type="html"><![CDATA[RT Press Start Cap 👉🎮
 🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨
 Check your spam folder if you don't see it.
-As promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week. https://twitter.com/pressstartcap/status/1660367893572501504
+As promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week.
 
 Press Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨
 💵$15k SAFE
@@ -243,18 +255,7 @@ Press Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @
 🌁Bridge to accelerators, investors, L1s
 🫂Safe space to ship with frens
 📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao 
-App link 👇 https://twitter.com/pressstartcap/status/1658527395241144320]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊: We FINALLY have a crypto on/off-ramp @developer_dao thanks to @circle 🙏]]></title>
-        <id>https://twitter.com/kempsterrrr/status/1661397951686533121</id>
-        <link href="https://twitter.com/kempsterrrr/status/1661397951686533121"/>
-        <updated>2023-05-24T15:45:13.000Z</updated>
-        <summary type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊
-We FINALLY have a crypto on/off-ramp @developer_dao  thanks to @circle 🙏]]></summary>
+App link 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
