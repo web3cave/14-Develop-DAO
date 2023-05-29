@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-28T06:11:52.761Z</id>
+    <id>urn:2023-05-29T06:13:22.418Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-28T06:11:52.761Z</updated>
+    <updated>2023-05-29T06:13:22.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: New starter codebase for anyone interested in building AI-enabled semantic search w/ TypeScript + @nextjs Embeds arbitrar...]]></title>
+        <id>https://twitter.com/dabit3/status/1662835091440115713</id>
+        <link href="https://twitter.com/dabit3/status/1662835091440115713"/>
+        <updated>2023-05-28T14:55:54.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+New starter codebase for anyone interested in building AI-enabled semantic search w/ TypeScript + @nextjs
+Embeds arbitrary text files into vectors, stores them on @pinecone, and enables semantic search using @OpenAI GPT3 and @LangChainAI in a @nextjs UI
+https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Narb | narbeh.eth: Re @developer_dao contingent invaded @_buildspace for the week. Tons of good vibes and even recruited some new folks too 🙌 @r...]]></title>
         <id>https://twitter.com/narb_s/status/1662349909063008257</id>
@@ -18,11 +31,11 @@ Re @developer_dao contingent invaded @_buildspace for the week.  Tons of good vi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starting in 4 minutes 👇]]></title>
+        <title type="html"><![CDATA[Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368]]></title>
         <id>https://twitter.com/developer_dao/status/1662155975565152256</id>
         <link href="https://twitter.com/developer_dao/status/1662155975565152256"/>
         <updated>2023-05-26T17:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Starting in 4 minutes 👇
+        <summary type="html"><![CDATA[Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368
 
 Developer DAO (🧱, 🚀): Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to "Learning Rust" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8]]></summary>
         <author>
@@ -75,33 +88,6 @@ https://buff.ly/3Iu0YRd]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Forward Research: What if the web guaranteed fundamental rights to empower everyone who used it, without needing centralized controllers? At Forwar...]]></title>
-        <id>https://twitter.com/fwdresearch/status/1661828102681657344</id>
-        <link href="https://twitter.com/fwdresearch/status/1661828102681657344"/>
-        <updated>2023-05-25T20:14:29.000Z</updated>
-        <summary type="html"><![CDATA[RT Forward Research
-What if the web guaranteed fundamental rights to empower everyone who used it, without needing centralized controllers?
-At Forward Research, we are building a better web on top of Arweave.
-We call it the permaweb. What is it, and how does it work? Let's explore. 👇 https://t.co/3VgmiGihbt]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ben South: Looking for an excellent (staff) designer to work with me on new social stuff @LensProtocol I promise, it'll be fun: https://jobs.eu.lev...]]></title>
-        <id>https://twitter.com/bnj/status/1661820328144953344</id>
-        <link href="https://twitter.com/bnj/status/1661820328144953344"/>
-        <updated>2023-05-25T19:43:36.000Z</updated>
-        <summary type="html"><![CDATA[RT Ben South
-Looking for an excellent (staff) designer to work with me on new social stuff @LensProtocol
-I promise, it'll be fun:
-https://jobs.eu.lever.co/aave/525823fd-ef0c-4cf9-b839-88095ff58295
-DMs/leads greatly appreciated 🙏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On D_D YouTube channel there is a lot of knowledge to be found! 🤓 Do you still remember the third workshop on fundraising made by D_D Fundraising O...]]></title>
         <id>https://twitter.com/developer_dao/status/1661794264156700685</id>
         <link href="https://twitter.com/developer_dao/status/1661794264156700685"/>
@@ -123,17 +109,6 @@ https://www.youtube.com/watch?v=z0xqty_fvJg https://t.co/DGpAq4PiiK]]></summary>
         <summary type="html"><![CDATA[VIBES 😎
 Kicking off in dev-voice in Discord right about now 🚀
 Come hang out, share some memes, chat, whatever, and make some frens and claim this NFT 👀 https://t.co/yMpHUxYSib]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Fuel: https://twitter.com/i/spaces/1MnxnpvPMNkGO]]></title>
-        <id>https://twitter.com/fuel_network/status/1661771899947368449</id>
-        <link href="https://twitter.com/fuel_network/status/1661771899947368449"/>
-        <updated>2023-05-25T16:31:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Fuel
-https://twitter.com/i/spaces/1MnxnpvPMNkGO]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -247,7 +222,7 @@ https://twitter.com/i/spaces/1MnGnpEXaOoxO https://twitter.com/i/web/status/1661
         <summary type="html"><![CDATA[RT Press Start Cap 👉🎮
 🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨
 Check your spam folder if you don't see it.
-As promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week.
+As promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week. https://twitter.com/pressstartcap/status/1660367893572501504
 
 Press Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨
 💵$15k SAFE
@@ -255,7 +230,30 @@ Press Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @
 🌁Bridge to accelerators, investors, L1s
 🫂Safe space to ship with frens
 📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao 
-App link 👇]]></summary>
+App link 👇 https://twitter.com/pressstartcap/status/1658527395241144320]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT DappaDan (🧱,🚀): I am building my deck for my @developer_dao workshop on Technical Writing next week. I'm struggling to choose a theme. Maybe ...]]></title>
+        <id>https://twitter.com/DAppaDanDev/status/1661416333282508811</id>
+        <link href="https://twitter.com/DAppaDanDev/status/1661416333282508811"/>
+        <updated>2023-05-24T16:58:16.000Z</updated>
+        <summary type="html"><![CDATA[RT DappaDan (🧱,🚀)
+I am building my deck for my @developer_dao workshop on Technical Writing next week.  
+I'm struggling to choose a theme. Maybe you can help?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊: We FINALLY have a crypto on/off-ramp @developer_dao thanks to @circle 🙏]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1661397951686533121</id>
+        <link href="https://twitter.com/kempsterrrr/status/1661397951686533121"/>
+        <updated>2023-05-24T15:45:13.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊
+We FINALLY have a crypto on/off-ramp @developer_dao  thanks to @circle 🙏]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/dabit3/status/1662835091440115713",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader dabit | nader.lens\nNew starter codebase for anyone interested in building AI-enabled semantic search w/ TypeScript + @nextjs\nEmbeds arbitrary text files into vectors, stores them on @pinecone, and enables semantic search using @OpenAI GPT3 and @LangChainAI in a @nextjs UI\nhttps://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt",
+          "link": "https://twitter.com/dabit3/status/1662835091440115713",
+          "publishedOn": "2023-05-28T14:55:54.000Z",
+          "wordCount": null,
+          "title": "RT nader dabit | nader.lens: New starter codebase for anyone interested in building AI-enabled semantic search w/ TypeScript + @nextjs Embeds arbitrar...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/narb_s/status/1662349909063008257",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Narb | narbeh.eth\nRe @developer_dao contingent invaded @_buildspace for the week.  Tons of good vibes and even recruited some new folks too 🙌\n@run4pancakes @web3djen @kithkui @aMichaelLyons @0xastro98 @0xRampey @StefLikeCurry https://twitter.com/i/web/status/1662349909063008257 https://t.co/pZBRSgPiP1",
@@ -89,11 +99,11 @@
         {
           "id": "https://twitter.com/developer_dao/status/1662155975565152256",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Starting in 4 minutes 👇\n\nDeveloper DAO (🧱, 🚀): Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to \"Learning Rust\" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8",
+          "description": "Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368\n\nDeveloper DAO (🧱, 🚀): Please join us for our next Community Workshop. This Friday @ 6 PM UTC (Just after D_D Fridays), join us on https://www.youtube.com/watch?v=OQN_TCKahr4  as we cover how to \"Learning Rust\" with @crypdoughdoteth . Topic will be getting started in Rust and understanding concepts. The workshops will be… https://twitter.com/i/web/status/1661836554241978368 https://t.co/40in7uOoQ8",
           "link": "https://twitter.com/developer_dao/status/1662155975565152256",
           "publishedOn": "2023-05-26T17:57:20.000Z",
           "wordCount": null,
-          "title": "Starting in 4 minutes 👇",
+          "title": "Starting in 4 minutes 👇 https://twitter.com/developer_dao/status/1661836554241978368",
           "imageUrl": null
         },
         {
@@ -137,26 +147,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/fwdresearch/status/1661828102681657344",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Forward Research\nWhat if the web guaranteed fundamental rights to empower everyone who used it, without needing centralized controllers?\nAt Forward Research, we are building a better web on top of Arweave.\nWe call it the permaweb. What is it, and how does it work? Let's explore. 👇 https://t.co/3VgmiGihbt",
-          "link": "https://twitter.com/fwdresearch/status/1661828102681657344",
-          "publishedOn": "2023-05-25T20:14:29.000Z",
-          "wordCount": null,
-          "title": "RT Forward Research: What if the web guaranteed fundamental rights to empower everyone who used it, without needing centralized controllers? At Forwar...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/bnj/status/1661820328144953344",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ben South\nLooking for an excellent (staff) designer to work with me on new social stuff @LensProtocol\nI promise, it'll be fun:\nhttps://jobs.eu.lever.co/aave/525823fd-ef0c-4cf9-b839-88095ff58295\nDMs/leads greatly appreciated 🙏",
-          "link": "https://twitter.com/bnj/status/1661820328144953344",
-          "publishedOn": "2023-05-25T19:43:36.000Z",
-          "wordCount": null,
-          "title": "RT Ben South: Looking for an excellent (staff) designer to work with me on new social stuff @LensProtocol I promise, it'll be fun: https://jobs.eu.lev...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1661794264156700685",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "On D_D YouTube channel there is a lot of knowledge to be found! 🤓\nDo you still remember the third workshop on fundraising made by D_D Fundraising Operators @mr_cgc & @Wikist_? 👀\nPresent Your Path to Sustainability and Scale\nIf you missed it:\nhttps://www.youtube.com/watch?v=z0xqty_fvJg https://t.co/DGpAq4PiiK",
@@ -174,16 +164,6 @@
           "publishedOn": "2023-05-25T17:05:10.000Z",
           "wordCount": null,
           "title": "VIBES 😎 Kicking off in dev-voice in Discord right about now 🚀 Come hang out, share some memes, chat, whatever, and make some frens and claim thi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/fuel_network/status/1661771899947368449",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Fuel\nhttps://twitter.com/i/spaces/1MnxnpvPMNkGO",
-          "link": "https://twitter.com/fuel_network/status/1661771899947368449",
-          "publishedOn": "2023-05-25T16:31:09.000Z",
-          "wordCount": null,
-          "title": "RT Fuel: https://twitter.com/i/spaces/1MnxnpvPMNkGO",
           "imageUrl": null
         },
         {
@@ -269,11 +249,31 @@
         {
           "id": "https://twitter.com/pressstartcap/status/1661457123858055170",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Press Start Cap 👉🎮\n🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨\nCheck your spam folder if you don't see it.\nAs promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week.\n\nPress Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨\n💵$15k SAFE\n🧙‍♂️9+ GIGA-BRAINED mentors\n🌁Bridge to accelerators, investors, L1s\n🫂Safe space to ship with frens\n📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao \nApp link 👇",
+          "description": "RT Press Start Cap 👉🎮\n🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨\nCheck your spam folder if you don't see it.\nAs promised, every single applicant will receive personalized application feedback. Be on the lookout for that next week. https://twitter.com/pressstartcap/status/1660367893572501504\n\nPress Start Cap 👉🎮: 🚨12 hours left to apply to the @pressstartcap x @developer_dao Fellowship!🚨\n💵$15k SAFE\n🧙‍♂️9+ GIGA-BRAINED mentors\n🌁Bridge to accelerators, investors, L1s\n🫂Safe space to ship with frens\n📝Every applicant gets 1:1 feedback & 🪙CODE to join @developer_dao \nApp link 👇 https://twitter.com/pressstartcap/status/1658527395241144320",
           "link": "https://twitter.com/pressstartcap/status/1661457123858055170",
           "publishedOn": "2023-05-24T19:40:21.000Z",
           "wordCount": null,
           "title": "RT Press Start Cap 👉🎮: 🚨The 1st batch of interview notices have been emailed to Fellowship applicants🚨 Check your spam folder if you don't...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DAppaDanDev/status/1661416333282508811",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT DappaDan (🧱,🚀)\nI am building my deck for my @developer_dao workshop on Technical Writing next week.  \nI'm struggling to choose a theme. Maybe you can help?",
+          "link": "https://twitter.com/DAppaDanDev/status/1661416333282508811",
+          "publishedOn": "2023-05-24T16:58:16.000Z",
+          "wordCount": null,
+          "title": "RT DappaDan (🧱,🚀): I am building my deck for my @developer_dao workshop on Technical Writing next week. I'm struggling to choose a theme. Maybe ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1661397951686533121",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth | 🫂 🦇🔊\nWe FINALLY have a crypto on/off-ramp @developer_dao  thanks to @circle 🙏",
+          "link": "https://twitter.com/kempsterrrr/status/1661397951686533121",
+          "publishedOn": "2023-05-24T15:45:13.000Z",
+          "wordCount": null,
+          "title": "RT kempsterrrr.eth | 🫂 🦇🔊: We FINALLY have a crypto on/off-ramp @developer_dao thanks to @circle 🙏",
           "imageUrl": null
         }
       ]
