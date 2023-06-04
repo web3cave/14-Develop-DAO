@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/dabit3/status/1664979090074468354",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT nader dabit | nader.lens\nNew Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI ChatGPT - Full TypeScript Course ✨\nHow to build full stack apps w/ the ultimate AI stack 🫡\n🔗 Video\nhttps://www.youtube.com/watch?v=6_mfYPPcZ60\n🔗 Code\nhttps://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt https://t.co/IxGigohXTQ",
+          "link": "https://twitter.com/dabit3/status/1664979090074468354",
+          "publishedOn": "2023-06-03T12:55:23.000Z",
+          "wordCount": null,
+          "title": "RT nader dabit | nader.lens: New Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI Ch...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/hal2001/status/1664683317780676634",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Hart Lambur\nyes intents is overhyped. but no one has said out loud how intents can *solve DeFi composability in a multi-chain world*\nbelow: my explanation of why intents can do this (+ why arbitrary messaging can't), illustrated with an example from my tardfi past trading US Treasuries 1/n\n\nGeorgios Konstantopoulos: NEW post with @0xQuintus from Flashbots!\nWhat is an intent? What are they good for? What are their risks?\nIn this post, we seek to unpack this new (or not so new?) exciting transacting paradigm.\nhttps://www.paradigm.xyz/2023/06/intents 1/n",
@@ -257,16 +267,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1664300853841256451",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚀 🚀  D_D Jobs of the Week  🚀🚀 \nCheck out the D_D Job Board for the latest #web3 #jobs from our partners.\n👇👇👇 https://t.co/ezqBHwR2mu",
-          "link": "https://twitter.com/developer_dao/status/1664300853841256451",
-          "publishedOn": "2023-06-01T16:00:19.000Z",
-          "wordCount": null,
-          "title": "🚀 🚀 D_D Jobs of the Week 🚀🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. 👇👇👇 https://t.co/ezqBHwR2mu",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/frankiefab100/status/1664048719019356160",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Frankie | frankiefab.eth/.lens (🧱, 🚀)\nHey👋🏽, I just published a new blog post on the topic:\n\"Beginner's Guide to NFTs: An Introduction to Non-Fungible Tokens\"\nDiscover the world of NFTs and digital ownership.\nhttps://frankiefab.hashnode.dev/beginners-guide-to-nfts-an-introduction-to-non-fungible-tokens",
@@ -283,6 +283,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6_mfYPPcZ60",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6_mfYPPcZ60",
+          "publishedOn": "2023-06-03T12:54:16.000Z",
+          "wordCount": null,
+          "title": "Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=SnglWpCPVaE",
           "author": null,

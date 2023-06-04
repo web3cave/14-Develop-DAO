@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-03T06:11:22.461Z</id>
+    <id>urn:2023-06-04T06:11:20.831Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-03T06:11:22.461Z</updated>
+    <updated>2023-06-04T06:11:20.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: New Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI Ch...]]></title>
+        <id>https://twitter.com/dabit3/status/1664979090074468354</id>
+        <link href="https://twitter.com/dabit3/status/1664979090074468354"/>
+        <updated>2023-06-03T12:55:23.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+New Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI ChatGPT - Full TypeScript Course ✨
+How to build full stack apps w/ the ultimate AI stack 🫡
+🔗 Video
+https://www.youtube.com/watch?v=6_mfYPPcZ60
+🔗 Code
+https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt https://t.co/IxGigohXTQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course]]></title>
+        <id>https://www.youtube.com/watch?v=6_mfYPPcZ60</id>
+        <link href="https://www.youtube.com/watch?v=6_mfYPPcZ60"/>
+        <updated>2023-06-03T12:54:16.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Hart Lambur: yes intents is overhyped. but no one has said out loud how intents can *solve DeFi composability in a multi-chain world* below: my exp...]]></title>
         <id>https://twitter.com/hal2001/status/1664683317780676634</id>
@@ -213,18 +238,6 @@ https://buff.ly/3GD24de]]></summary>
         <updated>2023-06-01T16:00:19.000Z</updated>
         <summary type="html"><![CDATA[Re Build the future of Automation for the upcoming decentralized web with @gelatonetwork. Enjoy a lot of perks, travel with us to cool events and participate in amazing off-side retreats with the team! 
 🧑‍💻 👩‍💻 Senior Front End Engineer: https://buff.ly/45EyePG https://t.co/OgVCaBBTTd]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 🚀 D_D Jobs of the Week 🚀🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. 👇👇👇 https://t.co/ezqBHwR2mu]]></title>
-        <id>https://twitter.com/developer_dao/status/1664300853841256451</id>
-        <link href="https://twitter.com/developer_dao/status/1664300853841256451"/>
-        <updated>2023-06-01T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[🚀 🚀  D_D Jobs of the Week  🚀🚀 
-Check out the D_D Job Board for the latest #web3 #jobs from our partners.
-👇👇👇 https://t.co/ezqBHwR2mu]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
