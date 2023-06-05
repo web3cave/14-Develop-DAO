@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T06:11:20.831Z</id>
+    <id>urn:2023-06-05T06:12:38.092Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-04T06:11:20.832Z</updated>
+    <updated>2023-06-05T06:12:38.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Papi Billy ⟁: Been lagging on messing with getting on the VIEM train. Didn't feel like spending a few hours messing around and then @developer_dao...]]></title>
+        <id>https://twitter.com/wc49358/status/1665408128974831617</id>
+        <link href="https://twitter.com/wc49358/status/1665408128974831617"/>
+        <updated>2023-06-04T17:20:14.000Z</updated>
+        <summary type="html"><![CDATA[RT Papi Billy ⟁
+Been lagging on messing with getting on the VIEM train. Didn't feel like spending a few hours messing around and then @developer_dao  member @Envoy_1084  drops this fire on me 
+https://github.com/Envoy-VC/boilr3 with my full stack 🔥]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @abhishekalekar Namaste 🙏]]></title>
+        <id>https://twitter.com/developer_dao/status/1665295186329567232</id>
+        <link href="https://twitter.com/developer_dao/status/1665295186329567232"/>
+        <updated>2023-06-04T09:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Re @abhishekalekar Namaste 🙏]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hello!]]></title>
+        <id>https://twitter.com/developer_dao/status/1665270213447917568</id>
+        <link href="https://twitter.com/developer_dao/status/1665270213447917568"/>
+        <updated>2023-06-04T08:12:12.000Z</updated>
+        <summary type="html"><![CDATA[hello!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader dabit | nader.lens: New Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI Ch...]]></title>
         <id>https://twitter.com/dabit3/status/1664979090074468354</id>
@@ -28,23 +60,6 @@ https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt http
         <updated>2023-06-03T12:54:16.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Hart Lambur: yes intents is overhyped. but no one has said out loud how intents can *solve DeFi composability in a multi-chain world* below: my exp...]]></title>
-        <id>https://twitter.com/hal2001/status/1664683317780676634</id>
-        <link href="https://twitter.com/hal2001/status/1664683317780676634"/>
-        <updated>2023-06-02T17:20:05.000Z</updated>
-        <summary type="html"><![CDATA[RT Hart Lambur
-yes intents is overhyped. but no one has said out loud how intents can *solve DeFi composability in a multi-chain world*
-below: my explanation of why intents can do this (+ why arbitrary messaging can't), illustrated with an example from my tardfi past trading US Treasuries 1/n
-
-Georgios Konstantopoulos: NEW post with @0xQuintus from Flashbots!
-What is an intent? What are they good for? What are their risks?
-In this post, we seek to unpack this new (or not so new?) exciting transacting paradigm.
-https://www.paradigm.xyz/2023/06/intents 1/n]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -216,28 +231,6 @@ https://buff.ly/43chTjo]]></summary>
 and one "Stealth" company! 👀 
 Join Developer DAO and get access to our exclusive job listings below:
 https://buff.ly/3GD24de]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @gelatonetwork Join @Sesame_HQ, a cutting-edge startup revolutionizing the ecommerce sector by constructing the 'PayPal of Web3'. 🎨 UI Animator:...]]></title>
-        <id>https://twitter.com/developer_dao/status/1664300858786340865</id>
-        <link href="https://twitter.com/developer_dao/status/1664300858786340865"/>
-        <updated>2023-06-01T16:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @gelatonetwork Join @Sesame_HQ, a cutting-edge startup revolutionizing the ecommerce sector by constructing the 'PayPal of Web3'.
-🎨 UI Animator: https://buff.ly/3C4e9Vc https://t.co/1pUYxagSJT]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re Build the future of Automation for the upcoming decentralized web with @gelatonetwork. Enjoy a lot of perks, travel with us to cool events and part...]]></title>
-        <id>https://twitter.com/developer_dao/status/1664300855246331904</id>
-        <link href="https://twitter.com/developer_dao/status/1664300855246331904"/>
-        <updated>2023-06-01T16:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Re Build the future of Automation for the upcoming decentralized web with @gelatonetwork. Enjoy a lot of perks, travel with us to cool events and participate in amazing off-side retreats with the team! 
-🧑‍💻 👩‍💻 Senior Front End Engineer: https://buff.ly/45EyePG https://t.co/OgVCaBBTTd]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
