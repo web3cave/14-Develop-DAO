@@ -1,10 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-06T06:12:24.672Z</id>
+    <id>urn:2023-06-07T06:12:30.595Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-06T06:12:24.672Z</updated>
+    <updated>2023-06-07T06:12:30.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday June 9th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link t...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666293910698696706</id>
+        <link href="https://twitter.com/developer_dao/status/1666293910698696706"/>
+        <updated>2023-06-07T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️: Join us this Friday June 9th at 3:30pm UTC for another episode of our long running @devntellxyz series 
+👉 Details and link to RSVP for the event:
+https://buff.ly/3oP37jN]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap @frankiefab100 @DAppaDanDev @dabit3 We dropped SO MUCH MORE, but you'll only ever know if you SLAM that Su...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219433327575047</id>
+        <link href="https://twitter.com/developer_dao/status/1666219433327575047"/>
+        <updated>2023-06-06T23:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap @frankiefab100 @DAppaDanDev @dabit3 We dropped SO MUCH MORE, but you'll only ever know if you SLAM that Subscribe Button!  
+Don't get left behind: 
+https://buff.ly/3oIbEVT https://t.co/i2yXhaHskZ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap @frankiefab100 @DAppaDanDev 🤖 @dabit3 Tutorial Drop! Build a Full Stack AI-Enabled Semantic Search Appl...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219432450949143</id>
+        <link href="https://twitter.com/developer_dao/status/1666219432450949143"/>
+        <updated>2023-06-06T23:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap @frankiefab100 @DAppaDanDev 🤖 @dabit3 Tutorial Drop!
+Build a Full Stack AI-Enabled Semantic Search Application.
+https://buff.ly/3P187wA]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap @frankiefab100 ✍️ Last week's D_D Workshop: Web3 Technical Writing: Getting Started, Getting Good and Ge...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219431507238912</id>
+        <link href="https://twitter.com/developer_dao/status/1666219431507238912"/>
+        <updated>2023-06-06T23:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap @frankiefab100 ✍️ Last week's D_D Workshop:
+Web3 Technical Writing: Getting Started, Getting Good and Getting Paid with @DAppaDanDev 
+https://buff.ly/3MVZErA]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap 🎤 Last week on D_D DevNTell: web3collectives with @frankiefab100 https://buff.ly/3MYKJOK]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219430722916354</id>
+        <link href="https://twitter.com/developer_dao/status/1666219430722916354"/>
+        <updated>2023-06-06T23:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ @pressstartcap 🎤 Last week on D_D DevNTell:
+web3collectives with @frankiefab100
+https://buff.ly/3MYKJOK]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ 🎖️ D_D x @pressstartcap Fellowship: Acceptance emails have gone out, and the official members of Cohort 1 will be ann...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219429397405699</id>
+        <link href="https://twitter.com/developer_dao/status/1666219429397405699"/>
+        <updated>2023-06-06T23:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @gelatonetwork @Sesame_HQ 🎖️ D_D x @pressstartcap Fellowship: Acceptance emails have gone out, and the official members of Cohort 1 will be announced TOMORROW! https://t.co/p2icZlO6qv]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 💼 Featured Jobs: Looking for a new challenge? Check out these hot jobs: Senior Front End Engineer at @gelatonetwork and UI Animator at @Sesame_H...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219428445397000</id>
+        <link href="https://twitter.com/developer_dao/status/1666219428445397000"/>
+        <updated>2023-06-06T23:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Re 💼 Featured Jobs: Looking for a new challenge? Check out these hot jobs: Senior Front End Engineer at @gelatonetwork and UI Animator at @Sesame_HQ.
+Don't miss another Job Drop! Subscribe to the D_D Job Board here: https://buff.ly/45KjQWh]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 📰 Missed the D_D Town Hall? No worries! You can catch up on everything that was discussed here: https://buff.ly/3qqeT4B https://t.co/T37N1QqVjL]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219427337994244</id>
+        <link href="https://twitter.com/developer_dao/status/1666219427337994244"/>
+        <updated>2023-06-06T23:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 📰 Missed the D_D Town Hall? No worries! You can catch up on everything that was discussed here: https://buff.ly/3qqeT4B https://t.co/T37N1QqVjL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 🎙️ Don't miss our D_D DevNTell: Auth with Lit Protocol on Friday, June 9, at 3:30pm UTC. Josh Long will take us through Authentication Methods ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219425693855745</id>
+        <link href="https://twitter.com/developer_dao/status/1666219425693855745"/>
+        <updated>2023-06-06T23:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 🎙️ Don't miss our D_D DevNTell: Auth with Lit Protocol on Friday, June 9, at 3:30pm UTC. Josh Long will take us through Authentication Methods with Lit PKPs. 
+👇👇 👇 
+Sign up for the even here: https://buff.ly/3oP37jN https://t.co/Skpo8h6ULJ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 🐦 Also, join us on Thursday, June 8, at 4pm UTC for a Twitter Space with Mina Protocol. We’ll discuss zkApps, how to build on Mina, and how to ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219424280461312</id>
+        <link href="https://twitter.com/developer_dao/status/1666219424280461312"/>
+        <updated>2023-06-06T23:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Re 🐦 Also, join us on Thursday, June 8, at 4pm UTC for a Twitter Space with Mina Protocol. We’ll discuss zkApps, how to build on Mina, and how to get into the zkIgnite accelerator. 
+👇👇 👇 
+Set your reminder for the upcoming space here: https://buff.ly/3MVdWst https://t.co/k131NAlDOC]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 📅 Upcoming Events: We kicked off the week with a developer-focused workshop with Hola Metaverso & Razorfish. 👇👇 👇 Check out the Twitter...]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219422715895808</id>
+        <link href="https://twitter.com/developer_dao/status/1666219422715895808"/>
+        <updated>2023-06-06T23:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Re 📅 Upcoming Events: We kicked off the week with a developer-focused workshop with Hola Metaverso & Razorfish. 
+👇👇 👇 
+Check out the Twitter Space Recording here: https://buff.ly/3J0hHMp https://t.co/ul4hFnxi7r]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 Welcome to Developer DAO's #73 edition - "Probably Nothing"! We've got a lot to share with you today, so let's dive in! https://t.co/vnQ1yZjr5v]]></title>
+        <id>https://twitter.com/developer_dao/status/1666219421424074758</id>
+        <link href="https://twitter.com/developer_dao/status/1666219421424074758"/>
+        <updated>2023-06-06T23:04:01.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Welcome to Developer DAO's #73 edition - "Probably Nothing"! We've got a lot to share with you today, so let's dive in! https://t.co/vnQ1yZjr5v]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[build with frens 🤝]]></title>
+        <id>https://twitter.com/developer_dao/status/1666083133459169287</id>
+        <link href="https://twitter.com/developer_dao/status/1666083133459169287"/>
+        <updated>2023-06-06T14:02:28.000Z</updated>
+        <summary type="html"><![CDATA[build with frens 🤝]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT nader dabit | nader.lens: By enabling any developer or team to build their own recommendation algorithm, the combination of easier to leverage AI p...]]></title>
         <id>https://twitter.com/dabit3/status/1665885233445576704</id>
@@ -58,19 +206,6 @@ https://twitter.com/i/spaces/1vAxRABPgXqJl]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reminder to join us later @ 1pm PST/3pm CST/ 4pm EST today as we talk about the upcoming IRL developer focused meetup in collaboration with @BuildOnBa...]]></title>
-        <id>https://twitter.com/developer_dao/status/1665766068483153927</id>
-        <link href="https://twitter.com/developer_dao/status/1665766068483153927"/>
-        <updated>2023-06-05T17:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Reminder to join us later @ 1pm PST/3pm CST/ 4pm EST today as we talk about the upcoming IRL developer focused meetup in collaboration with @BuildOnBase @coinbase .  We will be discussingwhat is in store for the event.  Co-hosted with @holametaverso
-
-Developer DAO (🧱, 🚀): Join us as we talk about our upcoming cohosted event with @BuildOnBase during @a16z tech week in Los Angeles. In collaboration with @holametaverso @WeAreRazorfish
-Set your reminders! https://twitter.com/i/spaces/1vAxRABPgXqJl]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Priyank Gupta: Wtf @developer_dao , I wasn't aware this was a thing lol. What a nice surprise. This month I'll score the first position, just you w...]]></title>
         <id>https://twitter.com/PriyankGupta03/status/1665750816689381379</id>
         <link href="https://twitter.com/PriyankGupta03/status/1665750816689381379"/>
@@ -89,54 +224,18 @@ https://buff.ly/3N1Wbco]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @Scroll_ZKP @PriyankGupta03 Want to get $CODE rewards for writing too? Check out our writer's guide to find out how! https://buff.ly/3MT20aU]]></title>
-        <id>https://twitter.com/developer_dao/status/1665750391164731394</id>
-        <link href="https://twitter.com/developer_dao/status/1665750391164731394"/>
-        <updated>2023-06-05T16:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @Scroll_ZKP @PriyankGupta03 Want to get $CODE rewards for writing too?
-Check out our writer's guide to find out how!
-https://buff.ly/3MT20aU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 300 $CODE tokens go to 🥈A Complete Intro to Smart Contract Development on the @Scroll_ZKP by @PriyankGupta03 https://buff.ly/3N1Wbco]]></title>
-        <id>https://twitter.com/developer_dao/status/1665750377583595520</id>
-        <link href="https://twitter.com/developer_dao/status/1665750377583595520"/>
-        <updated>2023-06-05T16:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Re 300 $CODE tokens go to
-🥈A Complete Intro to Smart Contract Development on the @Scroll_ZKP
-by @PriyankGupta03 
-https://buff.ly/3N1Wbco]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check out the top 2 articles of May on the D_D blog! 🎉 450 $CODE tokens go to: 🥇 Decoding Decentralization By Pisymbol (https://buff.ly/3HP8hCz)...]]></title>
-        <id>https://twitter.com/developer_dao/status/1665750368834158593</id>
-        <link href="https://twitter.com/developer_dao/status/1665750368834158593"/>
-        <updated>2023-06-05T16:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Check out the top 2 articles of May on the D_D blog! 🎉 
-450 $CODE tokens go to:
-🥇 Decoding Decentralization 
-By Pisymbol (https://buff.ly/3HP8hCz)
-https://buff.ly/41YHUlI]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊: so @gashawkio is 🔥 Will have saved ~ $100 across two transactions in the last few days. Bravo, and ty to the bu...]]></title>
-        <id>https://twitter.com/kempsterrrr/status/1665741909560631296</id>
-        <link href="https://twitter.com/kempsterrrr/status/1665741909560631296"/>
-        <updated>2023-06-05T15:26:33.000Z</updated>
-        <summary type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊
-so @gashawkio is 🔥
-Will have saved ~ $100 across two transactions in the last few days.
-Bravo, and ty to the builders - I feel like I've seen their profile, and they're @developer_dao members 🤔
-Would celebrate such folks much more.]]></summary>
+        <title type="html"><![CDATA[RT otta: ✂️🧵 @developer_dao's entire mission is to empower builders in the Web3 space They provide resources, support, and mentorship to anyone t...]]></title>
+        <id>https://twitter.com/ottalabotta/status/1665717736864104449</id>
+        <link href="https://twitter.com/ottalabotta/status/1665717736864104449"/>
+        <updated>2023-06-05T13:50:30.000Z</updated>
+        <summary type="html"><![CDATA[RT otta
+✂️🧵
+@developer_dao's entire mission is to empower builders in the Web3 space
+They provide resources, support, and mentorship to anyone that seeks it
+Easily one of our favorite DAOs on the market right now
+Here are 3 key takeaways after diving into their protocol:
+👇
+🧵 https://t.co/WJgB8Mf2fS]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -152,117 +251,12 @@ Would celebrate such folks much more.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @snack_man WANT 🍕]]></title>
-        <id>https://twitter.com/developer_dao/status/1665668351870353408</id>
-        <link href="https://twitter.com/developer_dao/status/1665668351870353408"/>
-        <updated>2023-06-05T10:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Re @snack_man WANT 🍕]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over the years, many tried to claim the term "Web3" for their preferred technological advancement of the Internet. 🌐 Our member Alexander Sack wrot...]]></title>
-        <id>https://twitter.com/developer_dao/status/1665660019734462464</id>
-        <link href="https://twitter.com/developer_dao/status/1665660019734462464"/>
-        <updated>2023-06-05T10:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Over the years, many tried to claim the term "Web3" for their preferred technological advancement of the Internet. 🌐 
-Our member Alexander Sack wrote down his thoughts about it. 💭 
-Check it out!
-https://buff.ly/3IWjAd0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pitch what you're building in 3 words. (no links)]]></title>
-        <id>https://twitter.com/developer_dao/status/1665644559970230277</id>
-        <link href="https://twitter.com/developer_dao/status/1665644559970230277"/>
-        <updated>2023-06-05T08:59:43.000Z</updated>
-        <summary type="html"><![CDATA[pitch what you're building in 3 words. 
-(no links)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Papi Billy ⟁: Been lagging on messing with getting on the VIEM train. Didn't feel like spending a few hours messing around and then @developer_dao...]]></title>
-        <id>https://twitter.com/wc49358/status/1665408128974831617</id>
-        <link href="https://twitter.com/wc49358/status/1665408128974831617"/>
-        <updated>2023-06-04T17:20:14.000Z</updated>
-        <summary type="html"><![CDATA[RT Papi Billy ⟁
-Been lagging on messing with getting on the VIEM train. Didn't feel like spending a few hours messing around and then @developer_dao  member @Envoy_1084  drops this fire on me 
-https://github.com/Envoy-VC/boilr3 with my full stack 🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @abhishekalekar Namaste 🙏]]></title>
-        <id>https://twitter.com/developer_dao/status/1665295186329567232</id>
-        <link href="https://twitter.com/developer_dao/status/1665295186329567232"/>
-        <updated>2023-06-04T09:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Re @abhishekalekar Namaste 🙏]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hello!]]></title>
-        <id>https://twitter.com/developer_dao/status/1665270213447917568</id>
-        <link href="https://twitter.com/developer_dao/status/1665270213447917568"/>
-        <updated>2023-06-04T08:12:12.000Z</updated>
-        <summary type="html"><![CDATA[hello!]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader dabit | nader.lens: New Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI Ch...]]></title>
-        <id>https://twitter.com/dabit3/status/1664979090074468354</id>
-        <link href="https://twitter.com/dabit3/status/1664979090074468354"/>
-        <updated>2023-06-03T12:55:23.000Z</updated>
-        <summary type="html"><![CDATA[RT nader dabit | nader.lens
-New Video - Build a Full Stack AI-Enabled Semantic Search Application with @nextjs, @pinecone, @LangChainAI, & @OpenAI ChatGPT - Full TypeScript Course ✨
-How to build full stack apps w/ the ultimate AI stack 🫡
-🔗 Video
-https://www.youtube.com/watch?v=6_mfYPPcZ60
-🔗 Code
-https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt https://t.co/IxGigohXTQ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course]]></title>
         <id>https://www.youtube.com/watch?v=6_mfYPPcZ60</id>
         <link href="https://www.youtube.com/watch?v=6_mfYPPcZ60"/>
         <updated>2023-06-03T12:54:16.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Superfluid: The June Wave Pool Hackathon, sponsored by @LensProtocol has begun 🌿 Over $10,000 in prizes are up for grabs for hackers building wi...]]></title>
-        <id>https://twitter.com/Superfluid_HQ/status/1664946097012330497</id>
-        <link href="https://twitter.com/Superfluid_HQ/status/1664946097012330497"/>
-        <updated>2023-06-03T10:44:17.000Z</updated>
-        <summary type="html"><![CDATA[RT Superfluid
-The June Wave Pool Hackathon, sponsored by @LensProtocol has begun 🌿
-Over $10,000 in prizes are up for grabs for hackers building with Lens Protocol & Superfluid
-http://superfluid.finance/wave-pool https://t.co/4Gfbx8n8lX]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://twitter.com/i/spaces/1YqKDoEMNmkxV]]></title>
-        <id>https://twitter.com/developer_dao/status/1664679350212362266</id>
-        <link href="https://twitter.com/developer_dao/status/1664679350212362266"/>
-        <updated>2023-06-02T17:04:19.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1YqKDoEMNmkxV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
