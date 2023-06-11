@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T06:11:25.023Z</id>
+    <id>urn:2023-06-11T06:11:21.932Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T06:11:25.023Z</updated>
+    <updated>2023-06-11T06:11:21.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD]]></title>
+        <id>https://twitter.com/developer_dao/status/1667569816180326400</id>
+        <link href="https://twitter.com/developer_dao/status/1667569816180326400"/>
+        <updated>2023-06-10T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD
+
+
+Hola Metaverso-Blockchain & New Web Tech Events 🎪: @nazeeh21 @PSkinnerTech @wc49358 @coinbase @WeAreRazorfish Agree! @wc49358 🐐]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Patrick (🧱, 🚀) patrickskinner.lens: Proud to be working alongside @wc49358. People don't see how much work he puts in while no one is looking...]]></title>
+        <id>https://twitter.com/PSkinnerTech/status/1667568672682942464</id>
+        <link href="https://twitter.com/PSkinnerTech/status/1667568672682942464"/>
+        <updated>2023-06-10T16:25:28.000Z</updated>
+        <summary type="html"><![CDATA[RT Patrick (🧱, 🚀) patrickskinner.lens
+Proud to be working alongside @wc49358.
+People don't see how much work he puts in while no one is looking or asking for anything in return.
+You killed it at this developer meet-up with Base by @coinbase, @WeAreRazorfish, @holametaverso, and @developer_dao.
+👏👏👏 https://twitter.com/i/web/status/1667568672682942464
+
+Tech Week: 📸Scenes from a developer meet-up with Base, in collaboration with @developer_dao, @coinbase, @WeAreRazorfish, and @holametaversoa #LATechWeek https://t.co/a9CxHFUv8e]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @beanpole1456 giving us an overview of Auth with @LitProtocol , hosted by @narb_s 👉 Come check...]]></title>
         <id>https://twitter.com/developer_dao/status/1667192351599603712</id>
@@ -202,16 +231,6 @@ Set reminders: https://twitter.com/i/spaces/1djGXlQjoVXGZ https://t.co/VOTPZgofe
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://twitter.com/i/spaces/1djGXlQjoVXGZ]]></title>
-        <id>https://twitter.com/developer_dao/status/1666837585518530560</id>
-        <link href="https://twitter.com/developer_dao/status/1666837585518530560"/>
-        <updated>2023-06-08T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1djGXlQjoVXGZ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Angus Maidment: Re @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 1...]]></title>
         <id>https://twitter.com/blockchainbeard/status/1666834522531418113</id>
         <link href="https://twitter.com/blockchainbeard/status/1666834522531418113"/>
@@ -233,19 +252,6 @@ https://twitter.com/i/spaces/1djGXlQjoVXGZ]]></summary>
 So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓
 
 Developer DAO (🧱, 🚀): ✨ GM frens! ✨ 
-You won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hosted by @narb_s 
-👉 Details and link to RSVP for this weeks event:
-https://buff.ly/3oP37jN]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hoste...]]></title>
-        <id>https://twitter.com/developer_dao/status/1666822935934566400</id>
-        <link href="https://twitter.com/developer_dao/status/1666822935934566400"/>
-        <updated>2023-06-08T15:02:10.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
 You won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hosted by @narb_s 
 👉 Details and link to RSVP for this weeks event:
 https://buff.ly/3oP37jN]]></summary>

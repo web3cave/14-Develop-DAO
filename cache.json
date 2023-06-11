@@ -77,6 +77,26 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1667569816180326400",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD\n\n\nHola Metaverso-Blockchain & New Web Tech Events 🎪: @nazeeh21 @PSkinnerTech @wc49358 @coinbase @WeAreRazorfish Agree! @wc49358 🐐",
+          "link": "https://twitter.com/developer_dao/status/1667569816180326400",
+          "publishedOn": "2023-06-10T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/PSkinnerTech/status/1667568672682942464",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Patrick (🧱, 🚀) patrickskinner.lens\nProud to be working alongside @wc49358.\nPeople don't see how much work he puts in while no one is looking or asking for anything in return.\nYou killed it at this developer meet-up with Base by @coinbase, @WeAreRazorfish, @holametaverso, and @developer_dao.\n👏👏👏 https://twitter.com/i/web/status/1667568672682942464\n\nTech Week: 📸Scenes from a developer meet-up with Base, in collaboration with @developer_dao, @coinbase, @WeAreRazorfish, and @holametaversoa #LATechWeek https://t.co/a9CxHFUv8e",
+          "link": "https://twitter.com/PSkinnerTech/status/1667568672682942464",
+          "publishedOn": "2023-06-10T16:25:28.000Z",
+          "wordCount": null,
+          "title": "RT Patrick (🧱, 🚀) patrickskinner.lens: Proud to be working alongside @wc49358. People don't see how much work he puts in while no one is looking...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1667192351599603712",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "✨ GM frens! ✨ \n🗣️ @devntellxyz is now live with @beanpole1456 giving us an overview of Auth with @LitProtocol , hosted by @narb_s \n👉 Come check out all the action on YouTube now:\nhttps://buff.ly/3OSPeeY",
@@ -237,16 +257,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1666837585518530560",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "https://twitter.com/i/spaces/1djGXlQjoVXGZ",
-          "link": "https://twitter.com/developer_dao/status/1666837585518530560",
-          "publishedOn": "2023-06-08T16:00:23.000Z",
-          "wordCount": null,
-          "title": "https://twitter.com/i/spaces/1djGXlQjoVXGZ",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/blockchainbeard/status/1666834522531418113",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Angus Maidment\nRe @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 15 minutes! \nJoin link below:\nhttps://twitter.com/i/spaces/1djGXlQjoVXGZ",
@@ -264,16 +274,6 @@
           "publishedOn": "2023-06-08T15:24:36.000Z",
           "wordCount": null,
           "title": "RT bean: So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1666822935934566400",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hosted by @narb_s \n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/3oP37jN",
-          "link": "https://twitter.com/developer_dao/status/1666822935934566400",
-          "publishedOn": "2023-06-08T15:02:10.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hoste...",
           "imageUrl": null
         }
       ]
