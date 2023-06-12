@@ -77,13 +77,23 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1668046732628836353",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Welcome to the DAO! https://twitter.com/zwergdev/status/1667974175334584322\n\nzwerg.eth: Joined @developer_dao few hours ago 👀",
+          "link": "https://twitter.com/developer_dao/status/1668046732628836353",
+          "publishedOn": "2023-06-12T00:05:06.000Z",
+          "wordCount": null,
+          "title": "Welcome to the DAO! https://twitter.com/zwergdev/status/1667974175334584322",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1667569816180326400",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD\n\n\nHola Metaverso-Blockchain & New Web Tech Events 🎪: @nazeeh21 @PSkinnerTech @wc49358 @coinbase @WeAreRazorfish Agree! @wc49358 🐐",
+          "description": "Re @wc49358 = 🐐 https://twitter.com/holametaverso/status/1667566851042447360 https://t.co/QLqxPhcjPD\n\n\nHola Metaverso-Blockchain & New Web Tech Events 🎪: @nazeeh21 @PSkinnerTech @wc49358 @coinbase @WeAreRazorfish Agree! @wc49358 🐐",
           "link": "https://twitter.com/developer_dao/status/1667569816180326400",
           "publishedOn": "2023-06-10T16:30:00.000Z",
           "wordCount": null,
-          "title": "Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD",
+          "title": "Re @wc49358 = 🐐 https://twitter.com/holametaverso/status/1667566851042447360 https://t.co/QLqxPhcjPD",
           "imageUrl": null
         },
         {
@@ -247,16 +257,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1666838678432301059",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "We're kicking off with the @MinaProtocol now 🔥\nJoin the space 👉 https://twitter.com/i/spaces/1djGXlQjoVXGZ?s=20\n\nDeveloper DAO (🧱, 🚀): All this ZK talk 👀, why not activate the build mode on @MinaProtocol? \nJoin us on twitter space and meet the Mina team as we chat about zkApps ⛓️, building on Mina 🛠, and ofc how to get into the zkIgnite accelerator. \nSet reminders: https://twitter.com/i/spaces/1djGXlQjoVXGZ https://t.co/VOTPZgofeR",
-          "link": "https://twitter.com/developer_dao/status/1666838678432301059",
-          "publishedOn": "2023-06-08T16:04:43.000Z",
-          "wordCount": null,
-          "title": "We're kicking off with the @MinaProtocol now 🔥 Join the space 👉 https://twitter.com/i/spaces/1djGXlQjoVXGZ?s=20",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/blockchainbeard/status/1666834522531418113",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Angus Maidment\nRe @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 15 minutes! \nJoin link below:\nhttps://twitter.com/i/spaces/1djGXlQjoVXGZ",
@@ -269,11 +269,11 @@
         {
           "id": "https://twitter.com/beanpole1456/status/1666828582503448579",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT bean\nSo excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓\n\nDeveloper DAO (🧱, 🚀): ✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hosted by @narb_s \n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/3oP37jN",
+          "description": "RT bean\nSo excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓 https://twitter.com/developer_dao/status/1666822935934566400\n\nDeveloper DAO (🧱, 🚀): ✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hosted by @narb_s \n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/3oP37jN",
           "link": "https://twitter.com/beanpole1456/status/1666828582503448579",
           "publishedOn": "2023-06-08T15:24:36.000Z",
           "wordCount": null,
-          "title": "RT bean: So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓",
+          "title": "RT bean: So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓 https://twitter.com/...",
           "imageUrl": null
         }
       ]

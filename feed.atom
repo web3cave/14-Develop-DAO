@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T06:11:21.932Z</id>
+    <id>urn:2023-06-12T06:12:44.530Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-11T06:11:21.932Z</updated>
+    <updated>2023-06-12T06:12:44.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD]]></title>
+        <title type="html"><![CDATA[Welcome to the DAO! https://twitter.com/zwergdev/status/1667974175334584322]]></title>
+        <id>https://twitter.com/developer_dao/status/1668046732628836353</id>
+        <link href="https://twitter.com/developer_dao/status/1668046732628836353"/>
+        <updated>2023-06-12T00:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the DAO! https://twitter.com/zwergdev/status/1667974175334584322
+
+zwerg.eth: Joined @developer_dao few hours ago 👀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wc49358 = 🐐 https://twitter.com/holametaverso/status/1667566851042447360 https://t.co/QLqxPhcjPD]]></title>
         <id>https://twitter.com/developer_dao/status/1667569816180326400</id>
         <link href="https://twitter.com/developer_dao/status/1667569816180326400"/>
         <updated>2023-06-10T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @wc49358 = 🐐 https://t.co/QLqxPhcjPD
+        <summary type="html"><![CDATA[Re @wc49358 = 🐐 https://twitter.com/holametaverso/status/1667566851042447360 https://t.co/QLqxPhcjPD
 
 
 Hola Metaverso-Blockchain & New Web Tech Events 🎪: @nazeeh21 @PSkinnerTech @wc49358 @coinbase @WeAreRazorfish Agree! @wc49358 🐐]]></summary>
@@ -216,21 +228,6 @@ This creates barriers for people just entering the web3 space and slows down inn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We're kicking off with the @MinaProtocol now 🔥 Join the space 👉 https://twitter.com/i/spaces/1djGXlQjoVXGZ?s=20]]></title>
-        <id>https://twitter.com/developer_dao/status/1666838678432301059</id>
-        <link href="https://twitter.com/developer_dao/status/1666838678432301059"/>
-        <updated>2023-06-08T16:04:43.000Z</updated>
-        <summary type="html"><![CDATA[We're kicking off with the @MinaProtocol now 🔥
-Join the space 👉 https://twitter.com/i/spaces/1djGXlQjoVXGZ?s=20
-
-Developer DAO (🧱, 🚀): All this ZK talk 👀, why not activate the build mode on @MinaProtocol? 
-Join us on twitter space and meet the Mina team as we chat about zkApps ⛓️, building on Mina 🛠, and ofc how to get into the zkIgnite accelerator. 
-Set reminders: https://twitter.com/i/spaces/1djGXlQjoVXGZ https://t.co/VOTPZgofeR]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Angus Maidment: Re @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 1...]]></title>
         <id>https://twitter.com/blockchainbeard/status/1666834522531418113</id>
         <link href="https://twitter.com/blockchainbeard/status/1666834522531418113"/>
@@ -244,12 +241,12 @@ https://twitter.com/i/spaces/1djGXlQjoVXGZ]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT bean: So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓]]></title>
+        <title type="html"><![CDATA[RT bean: So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓 https://twitter.com/...]]></title>
         <id>https://twitter.com/beanpole1456/status/1666828582503448579</id>
         <link href="https://twitter.com/beanpole1456/status/1666828582503448579"/>
         <updated>2023-06-08T15:24:36.000Z</updated>
         <summary type="html"><![CDATA[RT bean
-So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓
+So excited to present with @developer_dao! Come on by and learn more about Authentication with @LitProtocol 🔥🔒🔓 https://twitter.com/developer_dao/status/1666822935934566400
 
 Developer DAO (🧱, 🚀): ✨ GM frens! ✨ 
 You won't want to miss tomorrow’s @devntellxyz with @beanpole1456 who will be giving us an overview of Auth with @LitProtocol , hosted by @narb_s 
