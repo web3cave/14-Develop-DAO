@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T06:12:44.530Z</id>
+    <id>urn:2023-06-13T06:12:22.985Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-12T06:12:44.530Z</updated>
+    <updated>2023-06-13T06:12:22.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @r3vl_xyz For more details, review the announcement here! 👇👇👇 https://buff.ly/43S602b]]></title>
+        <id>https://twitter.com/developer_dao/status/1668438163495297024</id>
+        <link href="https://twitter.com/developer_dao/status/1668438163495297024"/>
+        <updated>2023-06-13T02:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @r3vl_xyz For more details, review the announcement here!
+👇👇👇 
+https://buff.ly/43S602b]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📣Join us on #TwitterSpaces June 13, 5pm UTC (1pm EST) for the @r3vl_xyz V2 Bounty Program reveal! 🎉 Review, create, or even build an app & win c...]]></title>
+        <id>https://twitter.com/developer_dao/status/1668438162593525761</id>
+        <link href="https://twitter.com/developer_dao/status/1668438162593525761"/>
+        <updated>2023-06-13T02:00:30.000Z</updated>
+        <summary type="html"><![CDATA[📣Join us on #TwitterSpaces June 13, 5pm UTC (1pm EST) for the @r3vl_xyz V2 Bounty Program reveal! 🎉 Review, create, or even build an app & win cash 💰 up to $3000! Perfect chance to shape the future of on-chain collaboration.
+Set Your Reminders Here👇 
+https://buff.ly/3qGX0yI]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#74 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/74-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/74-probably-nothing"/>
+        <updated>2023-06-12T11:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Hacker scholarships for ETHGlobal Paris, Press Start Cap Fellowship announcements, jobs, and much more 👀]]></summary>
+        <author>
+            <name>Sylvia R.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @gitcoin gm 🫂]]></title>
+        <id>https://twitter.com/developer_dao/status/1668210794440343554</id>
+        <link href="https://twitter.com/developer_dao/status/1668210794440343554"/>
+        <updated>2023-06-12T10:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @gitcoin gm 🫂]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @streamnfthq We love to see it 🤝]]></title>
+        <id>https://twitter.com/developer_dao/status/1668208091601485824</id>
+        <link href="https://twitter.com/developer_dao/status/1668208091601485824"/>
+        <updated>2023-06-12T10:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Re @streamnfthq We love to see it 🤝]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our member Alexander Sack wrote down his thoughts about "Web3", what it means, and how it could become just "the Web". 💭 Check it out! https://buff...]]></title>
+        <id>https://twitter.com/developer_dao/status/1668196771682557954</id>
+        <link href="https://twitter.com/developer_dao/status/1668196771682557954"/>
+        <updated>2023-06-12T10:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Our member Alexander Sack wrote down his thoughts about "Web3", what it means, and how it could become just "the Web". 💭 
+Check it out!
+https://buff.ly/3IWjAd0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Patrick (🧱, 🚀) patrickskinner.lens: Re @dailydotdev 10/10 @developer_dao They’re the best developer community, hands down. Whether you’re n...]]></title>
+        <id>https://twitter.com/PSkinnerTech/status/1668188115385606146</id>
+        <link href="https://twitter.com/PSkinnerTech/status/1668188115385606146"/>
+        <updated>2023-06-12T09:26:54.000Z</updated>
+        <summary type="html"><![CDATA[RT Patrick (🧱, 🚀) patrickskinner.lens
+Re @dailydotdev 10/10 @developer_dao
+They’re the best developer community, hands down. Whether you’re new or seasoned, they help with portfolio building, job placement, startup launching, and overall just a great place to make friends.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to the DAO! https://twitter.com/zwergdev/status/1667974175334584322]]></title>
         <id>https://twitter.com/developer_dao/status/1668046732628836353</id>
@@ -163,79 +241,6 @@ https://buff.ly/3GD24de https://t.co/8k6hdVgs1h]]></summary>
         <summary type="html"><![CDATA[🚀 🚀  D_D Jobs of the Week  🚀🚀 
 Check out the D_D Job Board for the latest #web3 #jobs from our partners.
 👇👇👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In case you missed it! @Aayush_gupta_ji explained how to migrate your DApp from Goerli to Sepolia! 🤓 https://buff.ly/44muIc3]]></title>
-        <id>https://twitter.com/developer_dao/status/1666867856141611008</id>
-        <link href="https://twitter.com/developer_dao/status/1666867856141611008"/>
-        <updated>2023-06-08T18:00:40.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it!
-@Aayush_gupta_ji explained how to migrate your DApp from Goerli to Sepolia! 🤓 
-https://buff.ly/44muIc3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re With ARC you can: 👨‍💻 LIVE Map and audit any code base (currently all EVMs supported) 👀 Interpret code and interdependencies through visu...]]></title>
-        <id>https://twitter.com/developer_dao/status/1666851468429721600</id>
-        <link href="https://twitter.com/developer_dao/status/1666851468429721600"/>
-        <updated>2023-06-08T16:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Re With ARC you can:
-👨‍💻 LIVE Map and audit any code base  (currently all EVMs supported)
-👀 Interpret code and interdependencies through visual diagrams
-🛠Identify risks and push audits and edits in seconds
-🧰 Build, manage, maintain, and ship to any other codebase
-🔗:… https://twitter.com/i/web/status/1666851468429721600]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re What if anyone could conduct audits? or develop their dream dApp? Meet @DeFi_ARC a low-code AI-powered GUI for Web3 🤯]]></title>
-        <id>https://twitter.com/developer_dao/status/1666851290264088581</id>
-        <link href="https://twitter.com/developer_dao/status/1666851290264088581"/>
-        <updated>2023-06-08T16:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Re What if anyone could conduct audits? or develop their dream dApp? 
-Meet @DeFi_ARC a low-code AI-powered GUI for Web3 🤯]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re In its current state, Web3 development requires deep technical skills and expertise. This creates barriers for people just entering the web3 space ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1666851017726603282</id>
-        <link href="https://twitter.com/developer_dao/status/1666851017726603282"/>
-        <updated>2023-06-08T16:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Re In its current state, Web3 development requires deep technical skills and expertise. 
-This creates barriers for people just entering the web3 space and slows down innovation.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagine being able to identify, map, and fix risks in any smart contract in seconds 👀 🧵:]]></title>
-        <id>https://twitter.com/developer_dao/status/1666850968636473345</id>
-        <link href="https://twitter.com/developer_dao/status/1666850968636473345"/>
-        <updated>2023-06-08T16:53:34.000Z</updated>
-        <summary type="html"><![CDATA[Imagine being able to identify, map, and fix risks in any smart contract in seconds 👀
-🧵:]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Angus Maidment: Re @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 1...]]></title>
-        <id>https://twitter.com/blockchainbeard/status/1666834522531418113</id>
-        <link href="https://twitter.com/blockchainbeard/status/1666834522531418113"/>
-        <updated>2023-06-08T15:48:13.000Z</updated>
-        <summary type="html"><![CDATA[RT Angus Maidment
-Re @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 15 minutes! 
-Join link below:
-https://twitter.com/i/spaces/1djGXlQjoVXGZ]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

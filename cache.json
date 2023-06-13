@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/74-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "Hacker scholarships for ETHGlobal Paris, Press Start Cap Fellowship announcements, jobs, and much more 👀",
+          "link": "https://developerdao.substack.com/p/74-probably-nothing",
+          "publishedOn": "2023-06-12T11:47:26.000Z",
+          "wordCount": null,
+          "title": "#74 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7f03df-44c3-4073-bb23-9d2e7d1fe041_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7f03df-44c3-4073-bb23-9d2e7d1fe041_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/73-probably-nothing",
           "author": "Sylvia R.",
           "description": "Events with Mina and BASE, and congrats to Press Start Capital Fellowship winners",
@@ -76,6 +92,66 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1668438163495297024",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @r3vl_xyz For more details, review the announcement here!\n👇👇👇 \nhttps://buff.ly/43S602b",
+          "link": "https://twitter.com/developer_dao/status/1668438163495297024",
+          "publishedOn": "2023-06-13T02:00:30.000Z",
+          "wordCount": null,
+          "title": "Re @r3vl_xyz For more details, review the announcement here! 👇👇👇 https://buff.ly/43S602b",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1668438162593525761",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "📣Join us on #TwitterSpaces June 13, 5pm UTC (1pm EST) for the @r3vl_xyz V2 Bounty Program reveal! 🎉 Review, create, or even build an app & win cash 💰 up to $3000! Perfect chance to shape the future of on-chain collaboration.\nSet Your Reminders Here👇 \nhttps://buff.ly/3qGX0yI",
+          "link": "https://twitter.com/developer_dao/status/1668438162593525761",
+          "publishedOn": "2023-06-13T02:00:30.000Z",
+          "wordCount": null,
+          "title": "📣Join us on #TwitterSpaces June 13, 5pm UTC (1pm EST) for the @r3vl_xyz V2 Bounty Program reveal! 🎉 Review, create, or even build an app & win c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1668210794440343554",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @gitcoin gm 🫂",
+          "link": "https://twitter.com/developer_dao/status/1668210794440343554",
+          "publishedOn": "2023-06-12T10:57:01.000Z",
+          "wordCount": null,
+          "title": "Re @gitcoin gm 🫂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1668208091601485824",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @streamnfthq We love to see it 🤝",
+          "link": "https://twitter.com/developer_dao/status/1668208091601485824",
+          "publishedOn": "2023-06-12T10:46:17.000Z",
+          "wordCount": null,
+          "title": "Re @streamnfthq We love to see it 🤝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1668196771682557954",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Our member Alexander Sack wrote down his thoughts about \"Web3\", what it means, and how it could become just \"the Web\". 💭 \nCheck it out!\nhttps://buff.ly/3IWjAd0",
+          "link": "https://twitter.com/developer_dao/status/1668196771682557954",
+          "publishedOn": "2023-06-12T10:01:18.000Z",
+          "wordCount": null,
+          "title": "Our member Alexander Sack wrote down his thoughts about \"Web3\", what it means, and how it could become just \"the Web\". 💭 Check it out! https://buff...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/PSkinnerTech/status/1668188115385606146",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Patrick (🧱, 🚀) patrickskinner.lens\nRe @dailydotdev 10/10 @developer_dao\nThey’re the best developer community, hands down. Whether you’re new or seasoned, they help with portfolio building, job placement, startup launching, and overall just a great place to make friends.",
+          "link": "https://twitter.com/PSkinnerTech/status/1668188115385606146",
+          "publishedOn": "2023-06-12T09:26:54.000Z",
+          "wordCount": null,
+          "title": "RT Patrick (🧱, 🚀) patrickskinner.lens: Re @dailydotdev 10/10 @developer_dao They’re the best developer community, hands down. Whether you’re n...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1668046732628836353",
           "author": "Developer DAO (🧱, 🚀)",
@@ -204,66 +280,6 @@
           "publishedOn": "2023-06-09T01:00:46.000Z",
           "wordCount": null,
           "title": "🚀 🚀 D_D Jobs of the Week 🚀🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. 👇👇👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1666867856141611008",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "In case you missed it!\n@Aayush_gupta_ji explained how to migrate your DApp from Goerli to Sepolia! 🤓 \nhttps://buff.ly/44muIc3",
-          "link": "https://twitter.com/developer_dao/status/1666867856141611008",
-          "publishedOn": "2023-06-08T18:00:40.000Z",
-          "wordCount": null,
-          "title": "In case you missed it! @Aayush_gupta_ji explained how to migrate your DApp from Goerli to Sepolia! 🤓 https://buff.ly/44muIc3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1666851468429721600",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re With ARC you can:\n👨‍💻 LIVE Map and audit any code base  (currently all EVMs supported)\n👀 Interpret code and interdependencies through visual diagrams\n🛠Identify risks and push audits and edits in seconds\n🧰 Build, manage, maintain, and ship to any other codebase\n🔗:… https://twitter.com/i/web/status/1666851468429721600",
-          "link": "https://twitter.com/developer_dao/status/1666851468429721600",
-          "publishedOn": "2023-06-08T16:55:33.000Z",
-          "wordCount": null,
-          "title": "Re With ARC you can: 👨‍💻 LIVE Map and audit any code base (currently all EVMs supported) 👀 Interpret code and interdependencies through visu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1666851290264088581",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re What if anyone could conduct audits? or develop their dream dApp? \nMeet @DeFi_ARC a low-code AI-powered GUI for Web3 🤯",
-          "link": "https://twitter.com/developer_dao/status/1666851290264088581",
-          "publishedOn": "2023-06-08T16:54:50.000Z",
-          "wordCount": null,
-          "title": "Re What if anyone could conduct audits? or develop their dream dApp? Meet @DeFi_ARC a low-code AI-powered GUI for Web3 🤯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1666851017726603282",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re In its current state, Web3 development requires deep technical skills and expertise. \nThis creates barriers for people just entering the web3 space and slows down innovation.",
-          "link": "https://twitter.com/developer_dao/status/1666851017726603282",
-          "publishedOn": "2023-06-08T16:53:45.000Z",
-          "wordCount": null,
-          "title": "Re In its current state, Web3 development requires deep technical skills and expertise. This creates barriers for people just entering the web3 space ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1666850968636473345",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Imagine being able to identify, map, and fix risks in any smart contract in seconds 👀\n🧵:",
-          "link": "https://twitter.com/developer_dao/status/1666850968636473345",
-          "publishedOn": "2023-06-08T16:53:34.000Z",
-          "wordCount": null,
-          "title": "Imagine being able to identify, map, and fix risks in any smart contract in seconds 👀 🧵:",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/blockchainbeard/status/1666834522531418113",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Angus Maidment\nRe @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 15 minutes! \nJoin link below:\nhttps://twitter.com/i/spaces/1djGXlQjoVXGZ",
-          "link": "https://twitter.com/blockchainbeard/status/1666834522531418113",
-          "publishedOn": "2023-06-08T15:48:13.000Z",
-          "wordCount": null,
-          "title": "RT Angus Maidment: Re @dinaturalist and I will be going live with @developer_dao to talk @MinaProtocol , zkApps, zkIgnite, and tons more in about... 1...",
           "imageUrl": null
         },
         {
