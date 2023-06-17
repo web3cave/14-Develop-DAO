@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-16T06:12:41.168Z</id>
+    <id>urn:2023-06-17T06:11:50.695Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-16T06:12:41.168Z</updated>
+    <updated>2023-06-17T06:11:50.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Designers and Developers 📣 Do not miss this workshop! Getting your flow started with Figma. @jajablinky will take us through a designer clinic on h...]]></title>
+        <id>https://twitter.com/developer_dao/status/1669751933282791440</id>
+        <link href="https://twitter.com/developer_dao/status/1669751933282791440"/>
+        <updated>2023-06-16T17:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Designers and Developers 📣 Do not miss this workshop!  Getting your flow started with Figma.  @jajablinky will take us through a designer clinic on how to create a great UX and look.  
+Today:
+6pm UTC
+11 am PST
+2 pm EST
+11PM IST 
+https://buff.ly/441S45D https://t.co/LfMFSbyVnc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're live for @devntellxyz - @narb_s is hosting @nicoburkart - DevRel @streamr getting the low down on how to build a real-time pub/sub messaging sys...]]></title>
+        <id>https://twitter.com/developer_dao/status/1669729769691181056</id>
+        <link href="https://twitter.com/developer_dao/status/1669729769691181056"/>
+        <updated>2023-06-16T15:32:53.000Z</updated>
+        <summary type="html"><![CDATA[We're live for @devntellxyz - @narb_s is hosting @nicoburkart - DevRel @streamr getting the low down on how to build a real-time pub/sub messaging system with the Streamr SDK
+Come hang-out - https://www.youtube.com/watch?v=TWzcd6z8uaM]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @kirstenrpomales ❤️ + 🫂s]]></title>
         <id>https://twitter.com/developer_dao/status/1669418590821314560</id>
@@ -105,7 +132,7 @@ Check out the D_D Job Board for the latest #web3 #jobs from our partners.
 We're updating the @developer_dao landscape/ecosystem breakdown image...
 Call for any projects/teams who feel the DAO has helped them become a reality, grow, find collaborators etc.
 We'd love to add you to this! 
-Here is the last one 🤩 https://t.co/ftvL6gamfE
+Here is the last one 🤩 https://twitter.com/kempsterrrr/status/1642956742127411200 https://t.co/ftvL6gamfE
 
 
 kempsterrrr.eth | 🫂 🦇🔊: I'm creating a @developer_dao ecosystem image of projects/ideas launched in or supported by the DAO to grow. As well as partners we've worked with..
@@ -128,11 +155,11 @@ As part of the Metaschool Nodes, you’ll not only boost your impact and contrib
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs. We look forward into checking this out. IYKYK]]></title>
+        <title type="html"><![CDATA[Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs. We look forward into checking this out. IYKYK http...]]></title>
         <id>https://twitter.com/developer_dao/status/1669117513194516489</id>
         <link href="https://twitter.com/developer_dao/status/1669117513194516489"/>
         <updated>2023-06-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs.  We look forward into checking this out.  IYKYK
+        <summary type="html"><![CDATA[Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs.  We look forward into checking this out.  IYKYK https://twitter.com/pushprotocol/status/1668981624237858817
 
 Push Protocol | Push Chat Alpha is LIVE: How to enhance your DAO and increase user engagement?🔔💬
 Join our TS discussion next week to discuss alongside @AragonProject ecosystem lead @TheTakenUser & @developer_dao community lead @wc49358. Hosted by @jafetsc✨
@@ -151,7 +178,7 @@ Join our TS discussion next week to discuss alongside @AragonProject ecosystem l
         <summary type="html"><![CDATA[RT Priyank Gupta
 Published an article on incorporating @chainlink VRF with Foundry. Includes testing with a mock contract.
 Could not get a local chainlink node running for a better test suite.
-Maybe later one day will cover that too.
+Maybe later one day will cover that too. https://twitter.com/developer_dao/status/1669075955254538240
 
 Developer DAO (🧱, 🚀): Do you need some random numbers in your smart contracts and have some time to spare?
 Check out @PriyankGupta03's developer guide to @chainlink VRF with Foundry!
@@ -242,31 +269,6 @@ https://buff.ly/3GD24de]]></summary>
 Submit your application here!
 👇👇👇 
 https://buff.ly/43qSsec https://t.co/aYUe9dL3MB]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nicoburkart @streamr 🎨 D_D Workshop: Getting your flow started with Figma: Join Billy and @jajablinky from Forward Research/Arweave for a works...]]></title>
-        <id>https://twitter.com/developer_dao/status/1668949141135785984</id>
-        <link href="https://twitter.com/developer_dao/status/1668949141135785984"/>
-        <updated>2023-06-14T11:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @nicoburkart @streamr 🎨 D_D Workshop: Getting your flow started with Figma: Join Billy and @jajablinky from Forward Research/Arweave for a workshop on how to use @figma in your front-end development process. It's happening on Friday, June 16, at 6pm UTC.
-Register here! 👇 
-https://buff.ly/3qIFmuo https://t.co/LHuYPtFXJQ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 🎙️ D_D DevNTell: Streamr Network: Join us on Friday, June 16, at 3:30pm UTC. @nicoburkart will showcase how to build a real-time pub/sub messag...]]></title>
-        <id>https://twitter.com/developer_dao/status/1668949140112277515</id>
-        <link href="https://twitter.com/developer_dao/status/1668949140112277515"/>
-        <updated>2023-06-14T11:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Re 🎙️ D_D DevNTell: Streamr Network: Join us on Friday, June 16, at 3:30pm UTC. @nicoburkart will showcase how to build a real-time pub/sub messaging system with the @streamr SDK and how to monetize data via data subscriptions. 
-Register here!
-👇👇👇  
-https://buff.ly/3J84D7t]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
