@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-17T06:11:50.695Z</id>
+    <id>urn:2023-06-18T06:11:46.509Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-17T06:11:50.695Z</updated>
+    <updated>2023-06-18T06:11:46.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Want to build dApps using a low-code AI-powered GUI for web3? 👀 Join us as we chat with @DeFi_ARC team 🤝 on how to get started building 🛠 on ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1670100234058502146</id>
+        <link href="https://twitter.com/developer_dao/status/1670100234058502146"/>
+        <updated>2023-06-17T16:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Want to build dApps using a low-code AI-powered GUI for web3? 👀
+Join us as we chat with @DeFi_ARC team 🤝 on how to get started building 🛠 on ARC. 
+ https://twitter.com/i/spaces/1eaKbrzLXgdKX]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designers and Developers 📣 Do not miss this workshop! Getting your flow started with Figma. @jajablinky will take us through a designer clinic on h...]]></title>
         <id>https://twitter.com/developer_dao/status/1669751933282791440</id>
@@ -256,19 +268,6 @@ https://buff.ly/3Csoqed]]></summary>
 Check out the updated D_D Job Board Here! 
 👇👇👇 
 https://buff.ly/3GD24de]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @nicoburkart @streamr @jajablinky @figma 🎓 Hacker Scholarships for ETHGlobal Paris: @WalletConnect and D_D are sponsoring hackers to attend @ETH...]]></title>
-        <id>https://twitter.com/developer_dao/status/1668949142729621504</id>
-        <link href="https://twitter.com/developer_dao/status/1668949142729621504"/>
-        <updated>2023-06-14T11:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Re @nicoburkart @streamr @jajablinky @figma 🎓 Hacker Scholarships for ETHGlobal Paris: @WalletConnect and D_D are sponsoring hackers to attend @ETHGlobal Paris. Applications are now open and are being reviewed on a rolling basis. 
-Submit your application here!
-👇👇👇 
-https://buff.ly/43qSsec https://t.co/aYUe9dL3MB]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
