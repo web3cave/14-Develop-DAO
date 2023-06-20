@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/75-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "Workshops, ETHGlobal Paris scholarships, D_D landscape overview, & much more 🫶",
+          "link": "https://developerdao.substack.com/p/75-probably-nothing",
+          "publishedOn": "2023-06-19T11:41:27.000Z",
+          "wordCount": null,
+          "title": "#75 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d69523-af80-462a-8805-0058a9fa8b1d_1188x668.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d69523-af80-462a-8805-0058a9fa8b1d_1188x668.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/74-probably-nothing",
           "author": "Sylvia R.",
           "description": "Hacker scholarships for ETHGlobal Paris, Press Start Cap Fellowship announcements, jobs, and much more 👀",
@@ -76,6 +92,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1670853674493530112",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @DeFi_ARC ‼️‼️‼️‼️\nTo anyone who is hoping to participate in the raffle, please make sure to click the dropdown arrow next to 2,000 CODE and then click \"Confirm\"\nWe're seeing a lot more Likes and RTs than participants and we'd hate you to miss out 🙏🏻 https://t.co/6lqNOOYqAE",
+          "link": "https://twitter.com/developer_dao/status/1670853674493530112",
+          "publishedOn": "2023-06-19T17:58:53.000Z",
+          "wordCount": null,
+          "title": "Re @DeFi_ARC ‼️‼️‼️‼️ To anyone who is hoping to participate in the raffle, please make sure to click the dropdown arrow next to 2,000 CODE an...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1670783976263254019",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🗣️ FRENS \nWe're giving away 5 Memberships to the DAO for our space with @DeFi_ARC 🔥🔥🔥\nTo participate...\nSign-up and connect your Twitter 👉🏻 https://link3.to/e/27pkI4\n✅ Follow @developer_dao & @DeFi_ARC \n✅ Like & RT this Tweet https://twitter.com/developer_dao/status/1670100234058502146\n\nDeveloper DAO (🧱, 🚀): Want to build dApps using a low-code AI-powered GUI for web3? 👀\nJoin us as we chat with @DeFi_ARC team 🤝 on how to get started building 🛠 on ARC. \n https://twitter.com/i/spaces/1eaKbrzLXgdKX",
+          "link": "https://twitter.com/developer_dao/status/1670783976263254019",
+          "publishedOn": "2023-06-19T13:21:56.000Z",
+          "wordCount": null,
+          "title": "🗣️ FRENS We're giving away 5 Memberships to the DAO for our space with @DeFi_ARC 🔥🔥🔥 To participate... Sign-up and connect your Twitter ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1670100234058502146",
           "author": "Developer DAO (🧱, 🚀)",
@@ -179,7 +215,7 @@
         {
           "id": "https://twitter.com/kempsterrrr/status/1669287312897761281",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kempsterrrr.eth | 🫂 🦇🔊\nWe're updating the @developer_dao landscape/ecosystem breakdown image...\nCall for any projects/teams who feel the DAO has helped them become a reality, grow, find collaborators etc.\nWe'd love to add you to this! \nHere is the last one 🤩 https://t.co/ftvL6gamfE\n\n\nkempsterrrr.eth | 🫂 🦇🔊: I'm creating a @developer_dao ecosystem image of projects/ideas launched in or supported by the DAO to grow. As well as partners we've worked with..\ni.e. @getP3RKS @joinedenxyz @TalentLayer @coinbase @streamr \nDrop other examples below 👇",
+          "description": "RT kempsterrrr.eth | 🫂 🦇🔊\nWe're updating the @developer_dao landscape/ecosystem breakdown image...\nCall for any projects/teams who feel the DAO has helped them become a reality, grow, find collaborators etc.\nWe'd love to add you to this! \nHere is the last one 🤩 https://twitter.com/kempsterrrr/status/1642956742127411200 https://t.co/ftvL6gamfE\n\n\nkempsterrrr.eth | 🫂 🦇🔊: I'm creating a @developer_dao ecosystem image of projects/ideas launched in or supported by the DAO to grow. As well as partners we've worked with..\ni.e. @getP3RKS @joinedenxyz @TalentLayer @coinbase @streamr \nDrop other examples below 👇",
           "link": "https://twitter.com/kempsterrrr/status/1669287312897761281",
           "publishedOn": "2023-06-15T10:14:43.000Z",
           "wordCount": null,
@@ -199,17 +235,17 @@
         {
           "id": "https://twitter.com/developer_dao/status/1669117513194516489",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs.  We look forward into checking this out.  IYKYK\n\nPush Protocol | Push Chat Alpha is LIVE: How to enhance your DAO and increase user engagement?🔔💬\nJoin our TS discussion next week to discuss alongside @AragonProject ecosystem lead @TheTakenUser & @developer_dao community lead @wc49358. Hosted by @jafetsc✨\n🗓️ Tuesday, June 20\n⏰ 5pm UTC\n🔗 https://twitter.com/i/spaces/1OyKAVgPOPLGb https://t.co/niFXk1enPz",
+          "description": "Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs.  We look forward into checking this out.  IYKYK https://twitter.com/pushprotocol/status/1668981624237858817\n\nPush Protocol | Push Chat Alpha is LIVE: How to enhance your DAO and increase user engagement?🔔💬\nJoin our TS discussion next week to discuss alongside @AragonProject ecosystem lead @TheTakenUser & @developer_dao community lead @wc49358. Hosted by @jafetsc✨\n🗓️ Tuesday, June 20\n⏰ 5pm UTC\n🔗 https://twitter.com/i/spaces/1OyKAVgPOPLGb https://t.co/niFXk1enPz",
           "link": "https://twitter.com/developer_dao/status/1669117513194516489",
           "publishedOn": "2023-06-14T23:00:00.000Z",
           "wordCount": null,
-          "title": "Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs. We look forward into checking this out. IYKYK",
+          "title": "Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs. We look forward into checking this out. IYKYK http...",
           "imageUrl": null
         },
         {
           "id": "https://twitter.com/PriyankGupta03/status/1669080311974731778",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Priyank Gupta\nPublished an article on incorporating @chainlink VRF with Foundry. Includes testing with a mock contract.\nCould not get a local chainlink node running for a better test suite.\nMaybe later one day will cover that too.\n\nDeveloper DAO (🧱, 🚀): Do you need some random numbers in your smart contracts and have some time to spare?\nCheck out @PriyankGupta03's developer guide to @chainlink VRF with Foundry!\nhttps://buff.ly/3Jgje0S",
+          "description": "RT Priyank Gupta\nPublished an article on incorporating @chainlink VRF with Foundry. Includes testing with a mock contract.\nCould not get a local chainlink node running for a better test suite.\nMaybe later one day will cover that too. https://twitter.com/developer_dao/status/1669075955254538240\n\nDeveloper DAO (🧱, 🚀): Do you need some random numbers in your smart contracts and have some time to spare?\nCheck out @PriyankGupta03's developer guide to @chainlink VRF with Foundry!\nhttps://buff.ly/3Jgje0S",
           "link": "https://twitter.com/PriyankGupta03/status/1669080311974731778",
           "publishedOn": "2023-06-14T20:32:11.000Z",
           "wordCount": null,
@@ -247,33 +283,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1668949146189942787",
+          "id": "https://twitter.com/ropats16/status/1668836290870263808",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @nicoburkart @streamr @jajablinky @figma @WalletConnect @ETHGlobal @devntellxyz 📰 Crypto News: @SEC_Enforcement sues @binance and @coinbase amid crypto crackdown, Binance US suspends USD deposits, @cryptocom suspends US institutional exchange service, and more.\n🤦‍♂️ 🤦‍♀️ 🤦 https://t.co/91dFM60x2k",
-          "link": "https://twitter.com/developer_dao/status/1668949146189942787",
-          "publishedOn": "2023-06-14T11:50:58.000Z",
+          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nWant to start building on @ArweaveEco? 🛠️🐘\nHere’s a great toolkit with functions for:\n- wallets 💳\n- transactions 🧾\n- smart contracts 📄\n- authentication 🔒\nright-out-of-the-box 🧰\nThe process is made easier with the help of https://docs.arweavekit.com/arweavekit/introduction ✅\nHappy Building! 🚀 https://twitter.com/communitylabs/status/1668832172508102656\n\nCommunity Labs | we're hiring!: 1/ We’re excited to be rolling out v1 of Arweave Kit- a modular toolkit for supercharging the development of Arweave apps.\nhttps://arweavekit.com 🧵👇 https://t.co/DOFp45v8HA",
+          "link": "https://twitter.com/ropats16/status/1668836290870263808",
+          "publishedOn": "2023-06-14T04:22:31.000Z",
           "wordCount": null,
-          "title": "Re @nicoburkart @streamr @jajablinky @figma @WalletConnect @ETHGlobal @devntellxyz 📰 Crypto News: @SEC_Enforcement sues @binance and @coinbase amid...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1668949145296461829",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @nicoburkart @streamr @jajablinky @figma @WalletConnect @ETHGlobal 📚 Must-Reads & Must-Watch: Check out our recent @devntellxyz: Auth with Lit Protocol with Josh Long. Also, don't miss the discussion on zkApps, how to build on Mina, and how to get into the zkIgnite accelerator. \nLinks in the newsletter here!\n👇👇👇\nhttps://buff.ly/3Csoqed",
-          "link": "https://twitter.com/developer_dao/status/1668949145296461829",
-          "publishedOn": "2023-06-14T11:50:58.000Z",
-          "wordCount": null,
-          "title": "Re @nicoburkart @streamr @jajablinky @figma @WalletConnect @ETHGlobal 📚 Must-Reads & Must-Watch: Check out our recent @devntellxyz: Auth with Lit P...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1668949144302493696",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @nicoburkart @streamr @jajablinky @figma @WalletConnect @ETHGlobal 💼 Featured Jobs: Check out these hot jobs: Web3 Developer Relations Advocate at Gelato Network, Product Success Manager at Blockswap Network, and various roles at Fuel Labs and Coinshift.\nCheck out the updated D_D Job Board Here! \n👇👇👇 \nhttps://buff.ly/3GD24de",
-          "link": "https://twitter.com/developer_dao/status/1668949144302493696",
-          "publishedOn": "2023-06-14T11:50:58.000Z",
-          "wordCount": null,
-          "title": "Re @nicoburkart @streamr @jajablinky @figma @WalletConnect @ETHGlobal 💼 Featured Jobs: Check out these hot jobs: Web3 Developer Relations Advocate ...",
+          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: Want to start building on @ArweaveEco? 🛠️🐘 Here’s a great toolkit with functions for: - wallets 💳 - transact...",
           "imageUrl": null
         }
       ]
