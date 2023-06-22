@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac344a05-9f1d-4a05-b580-9c2fca974f48_1188x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/71-probably-nothing",
-          "author": "Sylvia R.",
-          "description": "Winner winner hacker dinner",
-          "link": "https://developerdao.substack.com/p/71-probably-nothing",
-          "publishedOn": "2023-05-23T14:54:05.000Z",
-          "wordCount": null,
-          "title": "#71 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe904c31-589f-4f81-bc49-165ea93ecc77_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe904c31-589f-4f81-bc49-165ea93ecc77_1188x668.png"
         }
       ]
     },
@@ -93,6 +77,106 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1671659687387774981",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re Correction 🤦‍♂️\nSubmissions date - Tuesday 4th July @ 11:59 PM UTC",
+          "link": "https://twitter.com/developer_dao/status/1671659687387774981",
+          "publishedOn": "2023-06-21T23:21:42.000Z",
+          "wordCount": null,
+          "title": "Re Correction 🤦‍♂️ Submissions date - Tuesday 4th July @ 11:59 PM UTC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671652108192366597",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @wc49358 https://t.co/keZ8VMekpk",
+          "link": "https://twitter.com/developer_dao/status/1671652108192366597",
+          "publishedOn": "2023-06-21T22:51:35.000Z",
+          "wordCount": null,
+          "title": "Re @wc49358 https://t.co/keZ8VMekpk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671651890700877826",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @_dropknowledge You're unmatched 😘",
+          "link": "https://twitter.com/developer_dao/status/1671651890700877826",
+          "publishedOn": "2023-06-21T22:50:43.000Z",
+          "wordCount": null,
+          "title": "Re @_dropknowledge You're unmatched 😘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671644134363353090",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MinaProtocol @blockchainbeard @PSkinnerTech We're excited to see the innovative zkApp's you'll create on @MinaProtocol \n🔄 Share this thread to spread the word. \nDon't forget to RSVP to the kick-off workshop - https://buff.ly/3PpK8XT \n#MinaProtocol #Hackathon #DeveloperDAO #zkApps #ZeroKnowledge #Blockchain #Coding https://t.co/fSTQA8buVP",
+          "link": "https://twitter.com/developer_dao/status/1671644134363353090",
+          "publishedOn": "2023-06-21T22:19:53.000Z",
+          "wordCount": null,
+          "title": "Re @MinaProtocol @blockchainbeard @PSkinnerTech We're excited to see the innovative zkApp's you'll create on @MinaProtocol 🔄 Share this thread to s...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671644132979113988",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MinaProtocol @blockchainbeard @PSkinnerTech 🧑🏻‍💻  Earn CODE Rewards and DAO Membership \n- 5000 $CODE shared between all submission\n- 400 $CODE issued to non-members to join the DAO\nIf you've been looking to join the DAO, now is your chance 🔥🔥 \nWe love buidl000rs https://t.co/RcnJVmVZxc",
+          "link": "https://twitter.com/developer_dao/status/1671644132979113988",
+          "publishedOn": "2023-06-21T22:19:53.000Z",
+          "wordCount": null,
+          "title": "Re @MinaProtocol @blockchainbeard @PSkinnerTech 🧑🏻‍💻 Earn CODE Rewards and DAO Membership - 5000 $CODE shared between all submission - 400 $...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671644131620274179",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MinaProtocol @blockchainbeard @PSkinnerTech 💰 ~$10,000 in Prizes to be won\n1st Place - 1000 USDC + 2,500 Mina\n2nd Place - 800 USDC + 2,000 Mina\n3rd Place - 500 USDC + 1,000 Mina\nTop 3 Starter Kits - 200 USDC + 300 Mina\nTop 3 Technical Blogs, 200 USDC + 300 Mina https://t.co/MI3Raot5m7",
+          "link": "https://twitter.com/developer_dao/status/1671644131620274179",
+          "publishedOn": "2023-06-21T22:19:53.000Z",
+          "wordCount": null,
+          "title": "Re @MinaProtocol @blockchainbeard @PSkinnerTech 💰 ~$10,000 in Prizes to be won 1st Place - 1000 USDC + 2,500 Mina 2nd Place - 800 USDC + 2,000 Mina...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671644130567507968",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MinaProtocol @blockchainbeard @PSkinnerTech 🏗️ Hackathon starts Tuesday 27th \n- 1 week fully remote\n- Office hours with the team for support\n- Submissions due by 11:50pm UTC on Tuesday 27th June\nJudged by @blockchainbeard and the @MinaProtocol team\nFull details 👇🏻  https://buff.ly/3NjX4Mq",
+          "link": "https://twitter.com/developer_dao/status/1671644130567507968",
+          "publishedOn": "2023-06-21T22:19:53.000Z",
+          "wordCount": null,
+          "title": "Re @MinaProtocol @blockchainbeard @PSkinnerTech 🏗️ Hackathon starts Tuesday 27th - 1 week fully remote - Office hours with the team for support - ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671644128633843713",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MinaProtocol @blockchainbeard 🏁  Kick-off Workshop Monday 26th @ 5pm UTC\nBuilding zkApps with Typescript and SnarkyJS on Mina Protocol with @blockchainbeard \nHosted by @PSkinnerTech!\nSign Up Here 👇👇👇  \nhttps://buff.ly/3PpK8XT https://t.co/bce7E92ynk",
+          "link": "https://twitter.com/developer_dao/status/1671644128633843713",
+          "publishedOn": "2023-06-21T22:19:52.000Z",
+          "wordCount": null,
+          "title": "Re @MinaProtocol @blockchainbeard 🏁 Kick-off Workshop Monday 26th @ 5pm UTC Building zkApps with Typescript and SnarkyJS on Mina Protocol with @blo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671644126498963459",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🚨 Announcing our latest Hackathon with @MinaProtocol !!\n- Kick-off workshop with @blockchainbeard on Monday @ 5pm UTC\n- $10,000 in Prizes (USDC, Mina, CODE)\n- Learn to build zkApps\n- Open to all \nRSVP for the launch workshop and full hackathon details below ⬇️ https://t.co/sVFsTfMzXq",
+          "link": "https://twitter.com/developer_dao/status/1671644126498963459",
+          "publishedOn": "2023-06-21T22:19:52.000Z",
+          "wordCount": null,
+          "title": "🚨 Announcing our latest Hackathon with @MinaProtocol !! - Kick-off workshop with @blockchainbeard on Monday @ 5pm UTC - $10,000 in Prizes (USDC, Mi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1671465203844694019",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Do you want to provide easy Web2-like onboarding to your Web3 app? 🛳 \nCheck out this awesome @biconomy tutorial by our member @namn_grg! 🚀\nhttps://buff.ly/3CGQxqi",
+          "link": "https://twitter.com/developer_dao/status/1671465203844694019",
+          "publishedOn": "2023-06-21T10:28:53.000Z",
+          "wordCount": null,
+          "title": "Do you want to provide easy Web2-like onboarding to your Web3 app? 🛳 Check out this awesome @biconomy tutorial by our member @namn_grg! 🚀 https:...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1671367445964046336",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday June 23rd at 3:30pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for the event:\nhttps://buff.ly/3p73fLL",
@@ -100,6 +184,26 @@
           "publishedOn": "2023-06-21T04:00:26.000Z",
           "wordCount": null,
           "title": "✨ GM frens! ✨ 🗣️: Join us this Friday June 23rd at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ropats16/status/1671338244984930306",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nRe @ArweaveEco you can now access https://cookbook.arweave.dev/ in Spanish with the help AI-powered translations!! 🚀\nA huge thanks to @DevJeffHK, @onlyarweave and @rakis_me for help setting up page routing, proof reading the translations and verifying the automation process! 🙌 https://t.co/T52Jkw7PSm",
+          "link": "https://twitter.com/ropats16/status/1671338244984930306",
+          "publishedOn": "2023-06-21T02:04:24.000Z",
+          "wordCount": null,
+          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: Re @ArweaveEco you can now access https://cookbook.arweave.dev/ in Spanish with the help AI-powered translations!! 🚀...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/apoorvlathey/status/1671308180545241088",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Apoorv Lathey\nCouldn't wait for @AstariaXYZ's write-up... so decided to take a look at their contracts myself\n🧵👇 https://t.co/LrRXcwuZ5r",
+          "link": "https://twitter.com/apoorvlathey/status/1671308180545241088",
+          "publishedOn": "2023-06-21T00:04:56.000Z",
+          "wordCount": null,
+          "title": "RT Apoorv Lathey: Couldn't wait for @AstariaXYZ's write-up... so decided to take a look at their contracts myself 🧵👇 https://t.co/LrRXcwuZ5r",
           "imageUrl": null
         },
         {
@@ -133,6 +237,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/developer_dao/status/1670783976263254019",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🗣️ FRENS \nWe're giving away 5 Memberships to the DAO for our space with @DeFi_ARC 🔥🔥🔥\nTo participate...\nSign-up and connect your Twitter 👉🏻 https://link3.to/e/27pkI4\n✅ Follow @developer_dao & @DeFi_ARC \n✅ Like & RT this Tweet https://twitter.com/developer_dao/status/1670100234058502146\n\nDeveloper DAO (🧱, 🚀): Want to build dApps using a low-code AI-powered GUI for web3? 👀\nJoin us as we chat with @DeFi_ARC team 🤝 on how to get started building 🛠 on ARC. \n https://twitter.com/i/spaces/1eaKbrzLXgdKX",
+          "link": "https://twitter.com/developer_dao/status/1670783976263254019",
+          "publishedOn": "2023-06-19T13:21:56.000Z",
+          "wordCount": null,
+          "title": "🗣️ FRENS We're giving away 5 Memberships to the DAO for our space with @DeFi_ARC 🔥🔥🔥 To participate... Sign-up and connect your Twitter ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1670100234058502146",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Want to build dApps using a low-code AI-powered GUI for web3? 👀\nJoin us as we chat with @DeFi_ARC team 🤝 on how to get started building 🛠 on ARC. \n https://twitter.com/i/spaces/1eaKbrzLXgdKX",
@@ -143,129 +257,9 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1669751933282791440",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Designers and Developers 📣 Do not miss this workshop!  Getting your flow started with Figma.  @jajablinky will take us through a designer clinic on how to create a great UX and look.  \nToday:\n6pm UTC\n11 am PST\n2 pm EST\n11PM IST \nhttps://buff.ly/441S45D https://t.co/LfMFSbyVnc",
-          "link": "https://twitter.com/developer_dao/status/1669751933282791440",
-          "publishedOn": "2023-06-16T17:00:58.000Z",
-          "wordCount": null,
-          "title": "Designers and Developers 📣 Do not miss this workshop! Getting your flow started with Figma. @jajablinky will take us through a designer clinic on h...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669729769691181056",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "We're live for @devntellxyz - @narb_s is hosting @nicoburkart - DevRel @streamr getting the low down on how to build a real-time pub/sub messaging system with the Streamr SDK\nCome hang-out - https://www.youtube.com/watch?v=TWzcd6z8uaM",
-          "link": "https://twitter.com/developer_dao/status/1669729769691181056",
-          "publishedOn": "2023-06-16T15:32:53.000Z",
-          "wordCount": null,
-          "title": "We're live for @devntellxyz - @narb_s is hosting @nicoburkart - DevRel @streamr getting the low down on how to build a real-time pub/sub messaging sys...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669418590821314560",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @kirstenrpomales ❤️ + 🫂s",
-          "link": "https://twitter.com/developer_dao/status/1669418590821314560",
-          "publishedOn": "2023-06-15T18:56:23.000Z",
-          "wordCount": null,
-          "title": "Re @kirstenrpomales ❤️ + 🫂s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669418345618128918",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @AragonProject @jafetsc @pushprotocol @TheTakenUser @wc49358 We heard @wc49358 is alright…",
-          "link": "https://twitter.com/developer_dao/status/1669418345618128918",
-          "publishedOn": "2023-06-15T18:55:24.000Z",
-          "wordCount": null,
-          "title": "Re @AragonProject @jafetsc @pushprotocol @TheTakenUser @wc49358 We heard @wc49358 is alright…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AragonProject/status/1669415382040600577",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Aragon 🦅\nRe Set a reminder to join us for a twitter space on Tuesday for a conversation about DAO member engagement with:\nHost: @jafetsc from @pushprotocol\nHead of Ecosystem at Aragon: @TheTakenUser\nCommunity Lead of @developer_dao: @wc49358 \nhttps://twitter.com/i/spaces/1OyKAVgPOPLGb",
-          "link": "https://twitter.com/AragonProject/status/1669415382040600577",
-          "publishedOn": "2023-06-15T18:43:37.000Z",
-          "wordCount": null,
-          "title": "RT Aragon 🦅: Re Set a reminder to join us for a twitter space on Tuesday for a conversation about DAO member engagement with: Host: @jafetsc from @...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669359364757397504",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @nicoburkart who will be giving us an overview of @streamr, hosted by @narb_s\n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/3J84D7t",
-          "link": "https://twitter.com/developer_dao/status/1669359364757397504",
-          "publishedOn": "2023-06-15T15:01:02.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @nicoburkart who will be giving us an overview of @streamr, hosted by @narb_s �...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669298957644713987",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @gelatonetwork Our other partners that are looking to fill roles are:\nANDLAW FZCO\n@blockswap_team\n@fuel_network  \n@0xCoinshift \n@HoarderNest_io \n@VersePearl \n@eigenlayer\nCheck out the available #jobs on the D_D Job Board!\n👇👇👇\nhttps://buff.ly/3GD24de https://t.co/OWnSIcYI8i",
-          "link": "https://twitter.com/developer_dao/status/1669298957644713987",
-          "publishedOn": "2023-06-15T11:01:00.000Z",
-          "wordCount": null,
-          "title": "Re @gelatonetwork Our other partners that are looking to fill roles are: ANDLAW FZCO @blockswap_team @fuel_network @0xCoinshift @HoarderNest_io @Verse...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669298956113698816",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Build the future of Automation for the upcoming decentralized web with @gelatonetwork. Enjoy the autonomy, competitive salary collabing with amazing devs, and more!\n📣 🧑‍💻 👩‍💻 📣  Web3 Developer Relations Advocate (DevRel) : https://buff.ly/442SAAF https://t.co/chUSN7wguV",
-          "link": "https://twitter.com/developer_dao/status/1669298956113698816",
-          "publishedOn": "2023-06-15T11:00:59.000Z",
-          "wordCount": null,
-          "title": "Re Build the future of Automation for the upcoming decentralized web with @gelatonetwork. Enjoy the autonomy, competitive salary collabing with amazin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669298954842918917",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚀 🚀  D_D Jobs of the Week  🚀🚀 \nCheck out the D_D Job Board for the latest #web3 #jobs from our partners.\n👇👇👇 https://t.co/jkJ0MdR7rK",
-          "link": "https://twitter.com/developer_dao/status/1669298954842918917",
-          "publishedOn": "2023-06-15T11:00:59.000Z",
-          "wordCount": null,
-          "title": "🚀 🚀 D_D Jobs of the Week 🚀🚀 Check out the D_D Job Board for the latest #web3 #jobs from our partners. 👇👇👇 https://t.co/jkJ0MdR7rK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kempsterrrr/status/1669287312897761281",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT kempsterrrr.eth | 🫂 🦇🔊\nWe're updating the @developer_dao landscape/ecosystem breakdown image...\nCall for any projects/teams who feel the DAO has helped them become a reality, grow, find collaborators etc.\nWe'd love to add you to this! \nHere is the last one 🤩 https://t.co/ftvL6gamfE\n\n\nkempsterrrr.eth | 🫂 🦇🔊: I'm creating a @developer_dao ecosystem image of projects/ideas launched in or supported by the DAO to grow. As well as partners we've worked with..\ni.e. @getP3RKS @joinedenxyz @TalentLayer @coinbase @streamr \nDrop other examples below 👇",
-          "link": "https://twitter.com/kempsterrrr/status/1669287312897761281",
-          "publishedOn": "2023-06-15T10:14:43.000Z",
-          "wordCount": null,
-          "title": "RT kempsterrrr.eth | 🫂 🦇🔊: We're updating the @developer_dao landscape/ecosystem breakdown image... Call for any projects/teams who feel the ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xmetaschool/status/1669241461953675264",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT 🔮 Metaschool\nToday we're thrilled to launch 🧩 Metaschool Nodes, our exclusive Ambassador Program for Web3-passionate developers. Apply here 👉🏼 https://bit.ly/44012Ax \nAs part of the Metaschool Nodes, you’ll not only boost your impact and contribute to our mission of amplifying education in… https://twitter.com/i/web/status/1669241461953675264 https://t.co/FXZ0yUVMQQ",
-          "link": "https://twitter.com/0xmetaschool/status/1669241461953675264",
-          "publishedOn": "2023-06-15T07:12:32.000Z",
-          "wordCount": null,
-          "title": "RT 🔮 Metaschool: Today we're thrilled to launch 🧩 Metaschool Nodes, our exclusive Ambassador Program for Web3-passionate developers. Apply here ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1669117513194516489",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs.  We look forward into checking this out.  IYKYK\n\nPush Protocol | Push Chat Alpha is LIVE: How to enhance your DAO and increase user engagement?🔔💬\nJoin our TS discussion next week to discuss alongside @AragonProject ecosystem lead @TheTakenUser & @developer_dao community lead @wc49358. Hosted by @jafetsc✨\n🗓️ Tuesday, June 20\n⏰ 5pm UTC\n🔗 https://twitter.com/i/spaces/1OyKAVgPOPLGb https://t.co/niFXk1enPz",
-          "link": "https://twitter.com/developer_dao/status/1669117513194516489",
-          "publishedOn": "2023-06-14T23:00:00.000Z",
-          "wordCount": null,
-          "title": "Join one of our community managers @wc49358 as he discusses how to increase engagement within DAOs. We look forward into checking this out. IYKYK",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/ropats16/status/1668836290870263808",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nWant to start building on @ArweaveEco? 🛠️🐘\nHere’s a great toolkit with functions for:\n- wallets 💳\n- transactions 🧾\n- smart contracts 📄\n- authentication 🔒\nright-out-of-the-box 🧰\nThe process is made easier with the help of https://docs.arweavekit.com/arweavekit/introduction ✅\nHappy Building! 🚀\n\nCommunity Labs | we're hiring!: 1/ We’re excited to be rolling out v1 of Arweave Kit- a modular toolkit for supercharging the development of Arweave apps.\nhttps://arweavekit.com 🧵👇 https://t.co/DOFp45v8HA",
+          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nWant to start building on @ArweaveEco? 🛠️🐘\nHere’s a great toolkit with functions for:\n- wallets 💳\n- transactions 🧾\n- smart contracts 📄\n- authentication 🔒\nright-out-of-the-box 🧰\nThe process is made easier with the help of https://docs.arweavekit.com/arweavekit/introduction ✅\nHappy Building! 🚀 https://twitter.com/communitylabs/status/1668832172508102656\n\nCommunity Labs | we're hiring!: 1/ We’re excited to be rolling out v1 of Arweave Kit- a modular toolkit for supercharging the development of Arweave apps.\nhttps://arweavekit.com 🧵👇 https://t.co/DOFp45v8HA",
           "link": "https://twitter.com/ropats16/status/1668836290870263808",
           "publishedOn": "2023-06-14T04:22:31.000Z",
           "wordCount": null,
@@ -297,16 +291,6 @@
           "publishedOn": "2023-06-03T12:54:16.000Z",
           "wordCount": null,
           "title": "Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SnglWpCPVaE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SnglWpCPVaE",
-          "publishedOn": "2023-05-22T20:00:27.000Z",
-          "wordCount": null,
-          "title": "Fast and Secure Permanent File Storage on Arweave with Next.js Route Handlers and Bundlr Network",
           "imageUrl": null
         }
       ]
