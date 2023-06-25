@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-24T06:13:16.209Z</id>
+    <id>urn:2023-06-25T06:13:35.359Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-24T06:13:16.209Z</updated>
+    <updated>2023-06-25T06:13:35.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -184,11 +184,11 @@ Check out the D_D Job Board for the latest #web3 #jobs from our partners.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Vedant | envoy1084.lens ( 🛠, 🌿): Hacking at @ETHGlobal HackFS 2023 was an absolute blast! 🚀 Created spaces3, an audio conferencing app wit...]]></title>
+        <title type="html"><![CDATA[RT Vedant | envoy1084.eth/lens ( 🛠, 🌿): Hacking at @ETHGlobal HackFS 2023 was an absolute blast! 🚀 Created spaces3, an audio conferencing app...]]></title>
         <id>https://twitter.com/Envoy_1084/status/1671931333860548608</id>
         <link href="https://twitter.com/Envoy_1084/status/1671931333860548608"/>
         <updated>2023-06-22T17:21:07.000Z</updated>
-        <summary type="html"><![CDATA[RT Vedant | envoy1084.lens ( 🛠, 🌿)
+        <summary type="html"><![CDATA[RT Vedant | envoy1084.eth/lens ( 🛠, 🌿)
 Hacking at @ETHGlobal HackFS 2023 was an absolute blast! 🚀
 Created spaces3, an audio conferencing app with live chat functionality using @huddle01com  and @pushprotocol  🎧
 Also won some prizes🎉 https://t.co/rdqtHHeQtT]]></summary>
