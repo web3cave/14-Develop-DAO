@@ -1,188 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T06:14:18.948Z</id>
+    <id>urn:2023-06-29T06:14:37.495Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-28T06:14:18.948Z</updated>
+    <updated>2023-06-29T06:14:37.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday June 30th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1673904120393080838</id>
-        <link href="https://twitter.com/developer_dao/status/1673904120393080838"/>
-        <updated>2023-06-28T04:00:16.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️: Join us this Friday June 30th at 3:30pm UTC for another episode of our long running @devntellxyz series 
-👉 Details and link to RSVP for the event:
+        <title type="html"><![CDATA[Re @MinaProtocol @blockchainbeard @PSkinnerTech Wanna join a team? Send a hug 🫂 to @wc49358 and he'll get you matched up on a team! https://t.co/LC...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674162681119494146</id>
+        <link href="https://twitter.com/developer_dao/status/1674162681119494146"/>
+        <updated>2023-06-28T21:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @MinaProtocol @blockchainbeard @PSkinnerTech Wanna join a team? Send a hug 🫂 to @wc49358 and he'll get you matched up on a team! https://t.co/LCyc4Arp8K]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MinaProtocol Wanna watch the fully @minaprotocol workshop hosted by @blockchainbeard and @PSkinnerTech? Check it out here! 👇👇👇 https://bu...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674162680272244738</id>
+        <link href="https://twitter.com/developer_dao/status/1674162680272244738"/>
+        <updated>2023-06-28T21:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @MinaProtocol Wanna watch the fully @minaprotocol workshop hosted by @blockchainbeard and @PSkinnerTech?
+Check it out here!
+👇👇👇  
+https://buff.ly/3NRTdYj]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Wanna join the D_D x @minaprotocol hackathon? It's not too late to join! 💰 Bounties include: Overall: 1st - 1000 USDC + 2,500 Mina 2nd - 800 USD...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674162679496286208</id>
+        <link href="https://twitter.com/developer_dao/status/1674162679496286208"/>
+        <updated>2023-06-28T21:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Re Wanna join the D_D x @minaprotocol hackathon?  It's not too late to join!
+💰 Bounties include: 
+Overall:
+1st  - 1000 USDC + 2,500 Mina
+2nd - 800 USDC + 2,000 Mina
+3rd - 500 USDC + 1,000 Mina
+Top 3 Starter Kits - 200 USDC + 300 Mina
+Top 3 Technical Blogs, 200 USDC + 300 Mina]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👩‍💻 👨‍💻 Participating in the mina hackathon? 🛳️ Ship zkApps easily with typescript via SnarkyJS! https://t.co/9j5rdkDZNS]]></title>
+        <id>https://twitter.com/developer_dao/status/1674162674198798337</id>
+        <link href="https://twitter.com/developer_dao/status/1674162674198798337"/>
+        <updated>2023-06-28T21:07:40.000Z</updated>
+        <summary type="html"><![CDATA[👩‍💻 👨‍💻  Participating in the mina hackathon?
+🛳️  Ship zkApps easily with typescript via SnarkyJS! https://t.co/9j5rdkDZNS]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo @0xPolygon @coinbase @binance @EthereumDenver @BILLYJITSU OH! ONE...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107928825954343</id>
+        <link href="https://twitter.com/developer_dao/status/1674107928825954343"/>
+        <updated>2023-06-28T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo @0xPolygon @coinbase @binance @EthereumDenver @BILLYJITSU OH! ONE LAST THING! ☝️
+Have you subscribed to the D_D Probably Nothing Newsletter?
+Why are you just going to miss out on all the D_D 🅰️lpha???
+Subscribe NOW!
+https://buff.ly/3PHNMwi]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo @0xPolygon @coinbase @binance 🌶️ Lastly, @EthereumDenver 2024...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107927487971328</id>
+        <link href="https://twitter.com/developer_dao/status/1674107927487971328"/>
+        <updated>2023-06-28T17:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo @0xPolygon @coinbase @binance 🌶️ Lastly, @EthereumDenver 2024 might turn out spicier than expected thanks to our very own @PSkinnerTech and @Billyjitsu.
+Who wants to see them in an IRL Submission Grappling match to kick off ETHDenver?
+Stay tuned for more updates and happy hacking, frens! https://t.co/BsFtXHFsKS]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo @0xPolygon @coinbase @binance 🚀 We're preparing to host regula...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107926112239616</id>
+        <link href="https://twitter.com/developer_dao/status/1674107926112239616"/>
+        <updated>2023-06-28T17:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo @0xPolygon @coinbase @binance 🚀 We're preparing to host regular Twitter spaces for DAO members to showcase what they're working on. Also, we're updating our landscape/ecosystem breakdown. 
+If D_D has assisted your project or team, we'd love to hear from you! https://t.co/2BwvDqE5bv]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo 🌐 In ecosystem news, @0xPolygon proposes Zero-Knowledge overha...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107925055275008</id>
+        <link href="https://twitter.com/developer_dao/status/1674107925055275008"/>
+        <updated>2023-06-28T17:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork @giancarlo 🌐 In ecosystem news, @0xPolygon proposes Zero-Knowledge overhaul for PoS chain, MATIC rallies. Lido's revenue sharing proposal draws fire amid rising staking dominance. Plus, updates from @Coinbase, Deutsche Bank, and @Binance. 
+Read more here:
+https://buff.ly/3pvUHxZ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork 🎥 Missed the Building on ARC: Crypto's Command Console Twitter Space? Cli...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107924078002183</id>
+        <link href="https://twitter.com/developer_dao/status/1674107924078002183"/>
+        <updated>2023-06-28T17:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol @gelatonetwork 🎥 Missed the Building on ARC: Crypto's Command Console Twitter Space? Click the link for a recording. Also, check out our community highlights including D_D DevNTell: Webstudio with @Giancarlo and more!
+https://buff.ly/3XBc65e]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol 📣 We have job openings at our partners: Web3 Developer Relations Advocate at @Gelatonetw...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107923167838209</id>
+        <link href="https://twitter.com/developer_dao/status/1674107923167838209"/>
+        <updated>2023-06-28T17:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 @UnlockProtocol 📣 We have job openings at our partners:
+Web3 Developer Relations Advocate at @Gelatonetwork, and more!
+https://buff.ly/45KjQWh]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 📅 Other upcoming events include D_D DevNTell: Subscription Memberships with NFTs on Fri, Jun 30, 3:30pm ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107922131845138</id>
+        <link href="https://twitter.com/developer_dao/status/1674107922131845138"/>
+        <updated>2023-06-28T17:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech @wc49358 📅 Other upcoming events include D_D DevNTell: Subscription Memberships with NFTs on Fri, Jun 30, 3:30pm UTC. Christopher Carfi will show us how to use @UnlockProtocol  to create subscription membership NFTs.
+Register here:
 https://buff.ly/3NKl78y]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re gang https://t.co/fFlqLJx3Zf]]></title>
-        <id>https://twitter.com/developer_dao/status/1673749170618769413</id>
-        <link href="https://twitter.com/developer_dao/status/1673749170618769413"/>
-        <updated>2023-06-27T17:44:33.000Z</updated>
-        <summary type="html"><![CDATA[Re gang https://t.co/fFlqLJx3Zf]]></summary>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech 👥 Looking for a partner to hack with? Reach out to @wc49358, and he'll help you find a teammate! For full hackath...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107920730947595</id>
+        <link href="https://twitter.com/developer_dao/status/1674107920730947595"/>
+        <updated>2023-06-28T17:30:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech 👥 Looking for a partner to hack with? Reach out to @wc49358, and he'll help you find a teammate! For full hackathon details, check out the Mina Hackathon page. Just drop a hug! 🫂 https://t.co/m7LLCYdJZx]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @MinaProtocol @wc49358 @blockchainbeard Nothing quite like organised fun, right. Make that 5 mins... Hackers who are not YET members, @wc49358 is w...]]></title>
-        <id>https://twitter.com/developer_dao/status/1673736849351753756</id>
-        <link href="https://twitter.com/developer_dao/status/1673736849351753756"/>
-        <updated>2023-06-27T16:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @MinaProtocol @wc49358 @blockchainbeard Nothing quite like organised fun, right.
-Make that 5 mins...
-Hackers who are not YET members, @wc49358 is working hard on connecting folks looking for teams.
-Reply to this QT https://twitter.com/developer_dao/status/1673045351861833729
-
-Developer DAO (🧱, 🚀): Are you building at our hackathon with @MinaProtocol next week, anon?
-Drop a 👋🏻  if yes, add a 🫂  if you're interested in teaming up.
-@wc49358 will help you find a fren. https://twitter.com/developer_dao/status/1671644126498963459]]></summary>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech 🎁 We also have $CODE rewards and DAO membership up for grabs: 5,000 $CODE to be shared between all submissions 40...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107918919008260</id>
+        <link href="https://twitter.com/developer_dao/status/1674107918919008260"/>
+        <updated>2023-06-28T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech 🎁 We also have $CODE rewards and DAO membership up for grabs:
+5,000 $CODE to be shared between all submissions
+400 $CODE will be issued to non-members to join the DAO https://t.co/Bwmj1oBrgX]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VIBES in t-minus 7 mins 😎 @Minaprotocol Hackathon addition. For hackers already D_D Members, come hang out in Discord to meet other hackers, maybe ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1673736421583077378</id>
-        <link href="https://twitter.com/developer_dao/status/1673736421583077378"/>
-        <updated>2023-06-27T16:53:54.000Z</updated>
-        <summary type="html"><![CDATA[VIBES in t-minus 7 mins 😎
-@Minaprotocol Hackathon addition.
-For hackers already D_D Members, come hang out in Discord to meet other hackers, maybe find a team, share some memes, whatever...
-Also, come claim this dank NFT 👀 https://t.co/HdJz5579XU]]></summary>
+        <title type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech 💰 We have a total of $10,000 in hackathon prizes! Here's how they'll be distributed: 🥇1st Place — 1,000 USDC ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107917526499347</id>
+        <link href="https://twitter.com/developer_dao/status/1674107917526499347"/>
+        <updated>2023-06-28T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @PSkinnerTech 💰 We have a total of $10,000 in hackathon prizes! Here's how they'll be distributed:
+🥇1st Place — 1,000 USDC + 2,500 Mina
+🥈2nd Place — 800 USDC + 2,000 Mina
+🥉3rd Place — 500 USDC + 1,000 Mina
+Top 3 Starter Kits & Technical Blogs — 200 USDC + 300 Mina each https://t.co/hC2H3YLDiY]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @thefunarcade this is dope 🫡]]></title>
-        <id>https://twitter.com/developer_dao/status/1673732398691807233</id>
-        <link href="https://twitter.com/developer_dao/status/1673732398691807233"/>
-        <updated>2023-06-27T16:37:54.000Z</updated>
-        <summary type="html"><![CDATA[Re @thefunarcade this is dope 🫡]]></summary>
+        <title type="html"><![CDATA[Re 📢 The D_D x Mina hackathon kicked off on Mon, June 26 with with a workshop by @blockchainbeard & @PSkinnerTech, and hacking started after! The s...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107916461146140</id>
+        <link href="https://twitter.com/developer_dao/status/1674107916461146140"/>
+        <updated>2023-06-28T17:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Re 📢 The D_D x Mina hackathon kicked off on Mon, June 26 with with a workshop by @blockchainbeard & @PSkinnerTech, and hacking started after! The submission deadline is July 4 at 11:59pm UTC. Registration is free and open to all!
+Watch the workshop here:
+https://buff.ly/3PBWIUg]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @0xneel2 @MinaProtocol legend]]></title>
-        <id>https://twitter.com/developer_dao/status/1673719265189408768</id>
-        <link href="https://twitter.com/developer_dao/status/1673719265189408768"/>
-        <updated>2023-06-27T15:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xneel2 @MinaProtocol legend]]></summary>
+        <title type="html"><![CDATA[🚀 Welcome to Developer DAO's #76 edition - "Probably Nothing"! We've got a lot to share with you today, so let's dive in! https://t.co/oDOqMac7Mx]]></title>
+        <id>https://twitter.com/developer_dao/status/1674107914624049152</id>
+        <link href="https://twitter.com/developer_dao/status/1674107914624049152"/>
+        <updated>2023-06-28T17:30:04.000Z</updated>
+        <summary type="html"><![CDATA[🚀 Welcome to Developer DAO's #76 edition - "Probably Nothing"! We've got a lot to share with you today, so let's dive in! https://t.co/oDOqMac7Mx]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @ItsNisargT @MinaProtocol https://t.co/PrNoJKByTo]]></title>
-        <id>https://twitter.com/developer_dao/status/1673705923292872705</id>
-        <link href="https://twitter.com/developer_dao/status/1673705923292872705"/>
-        <updated>2023-06-27T14:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Re @ItsNisargT @MinaProtocol https://t.co/PrNoJKByTo]]></summary>
+        <title type="html"><![CDATA[Re @blockchainbeard @MinaProtocol On-going async support is available via: MinaDiscord > https://discord.gg/MinaProtocol > #zkapps-questions D_D Disco...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674091939224772608</id>
+        <link href="https://twitter.com/developer_dao/status/1674091939224772608"/>
+        <updated>2023-06-28T16:26:36.000Z</updated>
+        <summary type="html"><![CDATA[Re @blockchainbeard @MinaProtocol On-going async support is available via:
+MinaDiscord > https://discord.gg/MinaProtocol > #zkapps-questions
+D_D Discord > #role-select > Build > #join-hackathons > #mina-protocol-hackathon
+Two further offices hours will be held on Friday & Monday @ 1pm EST (5pm UTC)]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT marc | wolovim.eth 🐼: ✨ @EFDevconnect Scholars program ✨ Apply for financial support to attend the event in Istanbul in November with a cohort...]]></title>
-        <id>https://twitter.com/wolovim/status/1673703809594392576</id>
-        <link href="https://twitter.com/wolovim/status/1673703809594392576"/>
-        <updated>2023-06-27T14:44:18.000Z</updated>
-        <summary type="html"><![CDATA[RT marc | wolovim.eth 🐼
-✨ @EFDevconnect Scholars program ✨
-Apply for financial support to attend the event in Istanbul in November with a cohort of Ethereum buidlers (not just devs) 🚀
-https://blog.ethereum.org/en/2023/06/26/devconnect-instanbul-scholars]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xneel2 @MinaProtocol 10x Hackathon Winner 👀👀👀 https://t.co/1zMeFdXhaS]]></title>
-        <id>https://twitter.com/developer_dao/status/1673676742576177154</id>
-        <link href="https://twitter.com/developer_dao/status/1673676742576177154"/>
-        <updated>2023-06-27T12:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xneel2 @MinaProtocol 10x Hackathon Winner 👀👀👀 https://t.co/1zMeFdXhaS]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @HAPPYS1NGH @MinaProtocol https://t.co/DT87r02uSc]]></title>
-        <id>https://twitter.com/developer_dao/status/1673676511855931393</id>
-        <link href="https://twitter.com/developer_dao/status/1673676511855931393"/>
-        <updated>2023-06-27T12:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @HAPPYS1NGH @MinaProtocol https://t.co/DT87r02uSc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PeterAnyaogu @MinaProtocol 🫂]]></title>
-        <id>https://twitter.com/developer_dao/status/1673676189028810753</id>
-        <link href="https://twitter.com/developer_dao/status/1673676189028810753"/>
-        <updated>2023-06-27T12:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Re @PeterAnyaogu @MinaProtocol 🫂]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @pranshu3196 @MinaProtocol https://t.co/m6RY53Zt7V]]></title>
-        <id>https://twitter.com/developer_dao/status/1673676088264781826</id>
-        <link href="https://twitter.com/developer_dao/status/1673676088264781826"/>
-        <updated>2023-06-27T12:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Re @pranshu3196 @MinaProtocol https://t.co/m6RY53Zt7V]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @smn_srv @MinaProtocol LFG]]></title>
-        <id>https://twitter.com/developer_dao/status/1673673808048259077</id>
-        <link href="https://twitter.com/developer_dao/status/1673673808048259077"/>
-        <updated>2023-06-27T12:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @smn_srv @MinaProtocol LFG]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @0xkamal7 @MinaProtocol LFG Reply here if you haven't already, and @wc49358 will try to help you find a partner 👀 https://twitter.com/developer_...]]></title>
-        <id>https://twitter.com/developer_dao/status/1673673630117507076</id>
-        <link href="https://twitter.com/developer_dao/status/1673673630117507076"/>
-        <updated>2023-06-27T12:44:23.000Z</updated>
-        <summary type="html"><![CDATA[Re @0xkamal7 @MinaProtocol LFG
-Reply here if you haven't already, and @wc49358 will try to help you find a partner 👀
-https://twitter.com/developer_dao/status/1673045351861833729
-
-Developer DAO (🧱, 🚀): Are you building at our hackathon with @MinaProtocol next week, anon?
-Drop a 👋🏻  if yes, add a 🫂  if you're interested in teaming up.
-@wc49358 will help you find a fren. https://twitter.com/developer_dao/status/1671644126498963459]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @SBinaykiya @MinaProtocol 🤝]]></title>
-        <id>https://twitter.com/developer_dao/status/1673673161676652545</id>
-        <link href="https://twitter.com/developer_dao/status/1673673161676652545"/>
-        <updated>2023-06-27T12:42:31.000Z</updated>
-        <summary type="html"><![CDATA[Re @SBinaykiya @MinaProtocol 🤝]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @TrustlessState As do we 🤝 https://twitter.com/developer_dao/status/1671644126498963459]]></title>
-        <id>https://twitter.com/developer_dao/status/1673659254408900613</id>
-        <link href="https://twitter.com/developer_dao/status/1673659254408900613"/>
-        <updated>2023-06-27T11:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Re @TrustlessState As do we 🤝 https://twitter.com/developer_dao/status/1671644126498963459
+        <title type="html"><![CDATA[👋🏻 ATTENTION HACKERS @blockchainbeard is hosting office hours in the @MinaProtocol discord rn for anyone looking for support. Join link - https:...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674090238870790144</id>
+        <link href="https://twitter.com/developer_dao/status/1674090238870790144"/>
+        <updated>2023-06-28T16:19:50.000Z</updated>
+        <summary type="html"><![CDATA[👋🏻 ATTENTION HACKERS
+@blockchainbeard is hosting office hours in the @MinaProtocol discord rn for anyone looking for support.
+Join link - https://discord.gg/MinaProtocol
+Channel - #zkapps-hangout
+If you're already a D_D Member, we'll be hosting another immediately after in our server… https://twitter.com/i/web/status/1674090238870790144
 
 Developer DAO (🧱, 🚀): 🚨 Announcing our latest Hackathon with @MinaProtocol !!
 - Kick-off workshop with @blockchainbeard on Monday @ 5pm UTC
@@ -195,48 +233,24 @@ RSVP for the launch workshop and full hackathon details below ⬇️ https://t.c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @megabyte0x @MinaProtocol Megalegend 🤝]]></title>
-        <id>https://twitter.com/developer_dao/status/1673657659084480515</id>
-        <link href="https://twitter.com/developer_dao/status/1673657659084480515"/>
-        <updated>2023-06-27T11:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @megabyte0x @MinaProtocol Megalegend 🤝]]></summary>
+        <title type="html"><![CDATA[Calling out hackers! ETHGlobal Paris is right around the corner and we're looking for projects building Defi projects ⚡️ If you're interested to bui...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674087261497966594</id>
+        <link href="https://twitter.com/developer_dao/status/1674087261497966594"/>
+        <updated>2023-06-28T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Calling out hackers! ETHGlobal Paris is right around the corner and we're looking for projects building Defi projects ⚡️ 
+If you're interested to build the next big thing and $4000 for your team to travel to Paris- apply ASAP: https://app.deform.cc/form/7338d8bf-6bfe-45c4-b750-9fc72f1338e0]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @wc49358 @devdaowomen https://t.co/cIBNbSsBOS]]></title>
-        <id>https://twitter.com/developer_dao/status/1673638494034427905</id>
-        <link href="https://twitter.com/developer_dao/status/1673638494034427905"/>
-        <updated>2023-06-27T10:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Re @wc49358 @devdaowomen https://t.co/cIBNbSsBOS]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Dawn Kelly 🏳️‍🌈⛰️🚢: Re @spaceagente @wc49358 @K4y1s @developer_dao Please talk to these young folks about how these companies aren't g...]]></title>
-        <id>https://twitter.com/run4pancakes/status/1673473453750353921</id>
-        <link href="https://twitter.com/run4pancakes/status/1673473453750353921"/>
-        <updated>2023-06-26T23:28:57.000Z</updated>
-        <summary type="html"><![CDATA[RT Dawn Kelly 🏳️‍🌈⛰️🚢
-Re @spaceagente @wc49358 @K4y1s @developer_dao Please talk to these young folks about how these companies aren't going to love them back & they need to protect their health & peace. I see folks getting burnt out to the point of dangerous mental health situations and there isn't a damn thing in this ecosystem worth that price]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT The Arcade (🕹,👾) is hiring!: THIS FRIDAY we are going to be doing our first ever sponsored tournament for our Arcade Community! Here's what y...]]></title>
-        <id>https://twitter.com/thefunarcade/status/1673379638171820033</id>
-        <link href="https://twitter.com/thefunarcade/status/1673379638171820033"/>
-        <updated>2023-06-26T17:16:10.000Z</updated>
-        <summary type="html"><![CDATA[RT The Arcade (🕹,👾) is hiring!
-THIS FRIDAY we are going to be doing our first ever sponsored tournament for our Arcade Community!
-Here's what you need to know:
--$100 starting prize pool
--Costs $1 per game entry, added to the prize pool
--Top 3 scores split the final prize pool
-Read below for how to enter 👇]]></summary>
+        <title type="html"><![CDATA[Need Web2-like onboarding for your Web3 app? 🛳 If you haven't done yet: Check out this awesome @biconomy tutorial by our member @namn_grg to boost ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674056097613709317</id>
+        <link href="https://twitter.com/developer_dao/status/1674056097613709317"/>
+        <updated>2023-06-28T14:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Need Web2-like onboarding for your Web3 app? 🛳 
+If you haven't done yet: Check out this awesome @biconomy tutorial by our member @namn_grg to boost your DApp's UX! 🚀
+https://buff.ly/3CGQxqi]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -288,16 +302,6 @@ Read below for how to enter 👇]]></summary>
         <updated>2023-06-03T12:54:16.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#72 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/72-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/72-probably-nothing"/>
-        <updated>2023-05-30T06:29:15.000Z</updated>
-        <summary type="html"><![CDATA[It's raining new D_D members]]></summary>
-        <author>
-            <name>Sylvia R.</name>
         </author>
     </entry>
 </feed>
