@@ -1,10 +1,288 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T06:12:36.780Z</id>
+    <id>urn:2023-07-02T06:12:43.022Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T06:12:36.780Z</updated>
+    <updated>2023-07-02T06:12:43.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @wc49358 @kempsterrrr Handsome === consensus]]></title>
+        <id>https://twitter.com/developer_dao/status/1674928837975580674</id>
+        <link href="https://twitter.com/developer_dao/status/1674928837975580674"/>
+        <updated>2023-06-30T23:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Re @wc49358 @kempsterrrr Handsome === consensus]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: Today I'm releasing Lens Algorithm Playground It's an app that gives you access to various @lensprotocol APIs and algorit...]]></title>
+        <id>https://twitter.com/dabit3/status/1674895001195540480</id>
+        <link href="https://twitter.com/dabit3/status/1674895001195540480"/>
+        <updated>2023-06-30T21:37:40.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+Today I'm releasing Lens Algorithm Playground
+It's an app that gives you access to various @lensprotocol APIs and algorithms available for developers building on Lens Protocol - the people-powered social layer.
+The code is open sourced here:
+https://github.com/dabit3/lens-algorithm-playground
+You can try… https://twitter.com/i/web/status/1674895001195540480 https://t.co/uNueoVnb7j]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save Money on Ethereum Transactions using Gashawk | Workshop https://twitter.com/i/broadcasts/1PlKQpaBePvxE]]></title>
+        <id>https://twitter.com/developer_dao/status/1674855380424458240</id>
+        <link href="https://twitter.com/developer_dao/status/1674855380424458240"/>
+        <updated>2023-06-30T19:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Save Money on Ethereum Transactions using Gashawk | Workshop https://twitter.com/i/broadcasts/1PlKQpaBePvxE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT samuel.: for developers participating in the @developer_dao x @MinaProtocol hackathon and still brainstorming on ideas or implementations of zk pro...]]></title>
+        <id>https://twitter.com/LucidSamuel_/status/1674830605693992973</id>
+        <link href="https://twitter.com/LucidSamuel_/status/1674830605693992973"/>
+        <updated>2023-06-30T17:21:47.000Z</updated>
+        <summary type="html"><![CDATA[RT samuel.
+for developers participating in the @developer_dao x @MinaProtocol hackathon and still brainstorming on ideas or implementations of zk proofs, here's a tip:
+if you can figure out a problem that the solution requires privacy or seems burdensome to verify by everyone...]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tired of setting ETH on 🔥🔥 with high gas transactions? Join @wc49358 as he hosts @DHannum8 from @gashawkio to show you how to save your ETH usin...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674812220155346946</id>
+        <link href="https://twitter.com/developer_dao/status/1674812220155346946"/>
+        <updated>2023-06-30T16:08:44.000Z</updated>
+        <summary type="html"><![CDATA[Tired of setting ETH on 🔥🔥 with high gas transactions?
+Join @wc49358 as he hosts @DHannum8 from @gashawkio to show you how to save your ETH using their tool 😎
+Today @ 7pm UTC
+RSVP 👇🏻
+https://lu.ma/fq8dvjq0]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @ccarfi, hosted by @narb_s 👉 Come hang out and learn how to build subcription members as NFTs ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674802657444102144</id>
+        <link href="https://twitter.com/developer_dao/status/1674802657444102144"/>
+        <updated>2023-06-30T15:30:44.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️ @devntellxyz is now live with @ccarfi, hosted by @narb_s 
+👉 Come hang out and learn how to build subcription members as NFTs with @UnlockProtocol 
+https://buff.ly/43Xkhet]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re What are the prerequisites for building zkApps on @minaprotocol? https://twitter.com/developer_dao/status/1674753655642238976]]></title>
+        <id>https://twitter.com/developer_dao/status/1674754430154014726</id>
+        <link href="https://twitter.com/developer_dao/status/1674754430154014726"/>
+        <updated>2023-06-30T12:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Re What are the prerequisites for building zkApps on @minaprotocol? 
+https://twitter.com/developer_dao/status/1674753655642238976
+
+Developer DAO (🧱, 🚀): What are the prerequisites for building zkApps on the @minaprotocol? 🤔 
+According to @blockchainbeard all you really need is...
+- A sense of adventure 
+- How to use a CLI
+- JavaScript or Typescript
+- A UI Framework like React or Svelte
+Check out our hackathon 👇🏻 https://t.co/EYBg6WMjFQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MinaProtocol @blockchainbeard We have two office hours today in D_D Discord... 3pm UTC with @blockchainbeard 5pm UTC with @wc49358 You can also ge...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674753659685486593</id>
+        <link href="https://twitter.com/developer_dao/status/1674753659685486593"/>
+        <updated>2023-06-30T12:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @MinaProtocol @blockchainbeard We have two office hours today in D_D Discord...
+3pm UTC with @blockchainbeard 
+5pm UTC with @wc49358 
+You can also get ongoing async support in the Mina Discord channel #zkapps-questions channel.
+Mina join link - https://buff.ly/3r4trqV https://t.co/y4GVMlg5ZL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MinaProtocol @blockchainbeard Full details on our ongoing hackathon with @minaprotocol linked below: - Anyone can join - Ends midnight UTC on Tues...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674753658649550849</id>
+        <link href="https://twitter.com/developer_dao/status/1674753658649550849"/>
+        <updated>2023-06-30T12:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @MinaProtocol @blockchainbeard Full details on our ongoing hackathon with @minaprotocol linked below:
+- Anyone can join
+- Ends midnight UTC on Tuesday 
+- ~$10,000 prize pool to be won
+https://buff.ly/431f2Jf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the prerequisites for building zkApps on the @minaprotocol? 🤔 According to @blockchainbeard all you really need is... - A sense of adventu...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674753655642238976</id>
+        <link href="https://twitter.com/developer_dao/status/1674753655642238976"/>
+        <updated>2023-06-30T12:16:01.000Z</updated>
+        <summary type="html"><![CDATA[What are the prerequisites for building zkApps on the @minaprotocol? 🤔 
+According to @blockchainbeard all you really need is...
+- A sense of adventure 
+- How to use a CLI
+- JavaScript or Typescript
+- A UI Framework like React or Svelte
+Check out our hackathon 👇🏻 https://t.co/EYBg6WMjFQ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: I tried out @OpenAI functions today and ended up building and open sourcing what I'm calling the God app. It uses @replic...]]></title>
+        <id>https://twitter.com/dabit3/status/1674564901203746818</id>
+        <link href="https://twitter.com/dabit3/status/1674564901203746818"/>
+        <updated>2023-06-29T23:45:59.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+I tried out @OpenAI functions today and ended up building and open sourcing what I'm calling the God app.
+It uses @replicatehq + GPT4 to enable:
+- Text to video
+- Text to audio
+- Text to image
+- General language processing and text generation via GPT4
+All from a single text… https://twitter.com/i/web/status/1674564901203746818]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIBES Poppin' off rn Second @MinaProtocol hackathon edition, come and meet your fellow builders, anon. Claim this 🤘🏻 NFT from @mintkudosXYZ deve...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674464348075438090</id>
+        <link href="https://twitter.com/developer_dao/status/1674464348075438090"/>
+        <updated>2023-06-29T17:06:25.000Z</updated>
+        <summary type="html"><![CDATA[VIBES Poppin' off rn
+Second @MinaProtocol hackathon edition, come and meet your fellow builders, anon.
+Claim this 🤘🏻 NFT from @mintkudosXYZ 
+developers-voice in discord (no work chat allowed) https://t.co/IbG0V1mxEs]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Austin Griffith 🛠🚢🔥: 🏰 BuidlGuidl is streaming ETH to up-and-coming high-impact devs! ⏳ We are using "cohort streams" to deliver fundi...]]></title>
+        <id>https://twitter.com/austingriffith/status/1674444986463719424</id>
+        <link href="https://twitter.com/austingriffith/status/1674444986463719424"/>
+        <updated>2023-06-29T15:49:29.000Z</updated>
+        <summary type="html"><![CDATA[RT Austin Griffith 🛠🚢🔥
+🏰 BuidlGuidl is streaming ETH to up-and-coming high-impact devs!
+⏳ We are using "cohort streams" to deliver funding to groups of builders with a shared goal.
+🎁 We also made the whole system hella-forkable and built it in a series of public videos!
+👉 Learn more...]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @ccarfi who will be showing us how to build subscription memberships as NFTs with...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674432738353647617</id>
+        <link href="https://twitter.com/developer_dao/status/1674432738353647617"/>
+        <updated>2023-06-29T15:00:48.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+You won't want to miss tomorrow’s @devntellxyz with @ccarfi who will be showing us how to build subscription memberships as NFTs with @UnlockProtocol, hosted by @narb_s 
+👉 Details and link to RSVP for this weeks event:
+https://buff.ly/3NKl78y]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With only a few weeks away from @ETHGlobal Pairs. Did you know we partnered with @fluence_project to send you a $4000 scholarship to Paris? If you're ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674427232956325889</id>
+        <link href="https://twitter.com/developer_dao/status/1674427232956325889"/>
+        <updated>2023-06-29T14:38:56.000Z</updated>
+        <summary type="html"><![CDATA[With only a few weeks away from @ETHGlobal Pairs. 
+Did you know we partnered with @fluence_project to send you a $4000 scholarship to Paris?
+If you're interested in building on a decentralized serverless computing platform - apply ASAP 👇🏻   https://buff.ly/44nf13t]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👋🏻 ATTENTION HACKERS @wc49358 is hosting a team forming session in developers-voice in the DAO discord @ 4pm UTC today. Come hang out and make f...]]></title>
+        <id>https://twitter.com/developer_dao/status/1674414604418686977</id>
+        <link href="https://twitter.com/developer_dao/status/1674414604418686977"/>
+        <updated>2023-06-29T13:48:45.000Z</updated>
+        <summary type="html"><![CDATA[👋🏻 ATTENTION HACKERS
+@wc49358 is hosting a team forming session in developers-voice in the DAO discord @ 4pm UTC today.
+Come hang out and make frens 🫂
+If you're not a member YET, please reply to the QT below and follow @wc49358 so he can DM to connect you 🤝🏻 https://twitter.com/developer_dao/status/1673045351861833729
+
+Developer DAO (🧱, 🚀): Are you building at our hackathon with @MinaProtocol next week, anon?
+Drop a 👋🏻  if yes, add a 🫂  if you're interested in teaming up.
+@wc49358 will help you find a fren. https://twitter.com/developer_dao/status/1671644126498963459]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @_juliettech In a good way 🤓❤️]]></title>
+        <id>https://twitter.com/developer_dao/status/1674407455575642113</id>
+        <link href="https://twitter.com/developer_dao/status/1674407455575642113"/>
+        <updated>2023-06-29T13:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Re @_juliettech In a good way 🤓❤️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 13 year old intern ✈️ EthCC: DM me if you're working on cool open-source projects. Excited to support more open-source hackers! https://twitter.c...]]></title>
+        <id>https://twitter.com/13yearoldvc/status/1674149970306277377</id>
+        <link href="https://twitter.com/13yearoldvc/status/1674149970306277377"/>
+        <updated>2023-06-28T20:17:11.000Z</updated>
+        <summary type="html"><![CDATA[RT 13 year old intern ✈️ EthCC
+DM me if you're working on cool open-source projects. 
+Excited to support more open-source hackers! https://twitter.com/wehack247/status/1674148792134934534
+
+Jessy's Hacker House ⚔️ EthCC Paris 7/14-24: 📢 Big news! We're excited to officially announce the partnership with  @austingriffith and @buidlguidl to provide a monthly Universal Basic Income to builders contributing to open source and powering the Ethereum ecosystem! 💪]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ: Want to understand @ArweaveEco’s current mining mechanism? Here’s a super simple explanation 👇 https://twitter.com...]]></title>
+        <id>https://twitter.com/ropats16/status/1674139929616744448</id>
+        <link href="https://twitter.com/ropats16/status/1674139929616744448"/>
+        <updated>2023-06-28T19:37:17.000Z</updated>
+        <summary type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ
+Want to understand @ArweaveEco’s current mining mechanism?
+Here’s a super simple explanation 👇 https://twitter.com/CommunityLabs/status/1674138791647531008
+
+Community Labs | we're hiring!: @ArweaveEco is a global network storing information.
+However, the network participants (nodes/ miners) must first verify and reach a consensus on the information to be stored.
+Sometimes referred to as a “mining mechanism”, this thread dives into how this process works 👇
+1/15 https://t.co/LVeJgMTiXr]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Vedant | envoy1084.eth/lens ( 🛠, 🌿): Over the past couple of days we have been working on a new project 👀 🚀 Introducing Arkway A decent...]]></title>
+        <id>https://twitter.com/Envoy_1084/status/1673941811478532097</id>
+        <link href="https://twitter.com/Envoy_1084/status/1673941811478532097"/>
+        <updated>2023-06-28T06:30:02.000Z</updated>
+        <summary type="html"><![CDATA[RT Vedant | envoy1084.eth/lens ( 🛠, 🌿)
+Over the past couple of days we have been working on a new project 👀
+🚀 Introducing Arkway
+A decentralized & distributed File storage solution built using @LitProtocol and @polybase_xyz
+Let's take a look at Arkway! 🧵 ↓ https://t.co/9OlmG3UvjK]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#76 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/76-probably-nothing</id>
