@@ -1,31 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-02T06:12:43.022Z</id>
+    <id>urn:2023-07-03T06:14:20.223Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-02T06:12:43.022Z</updated>
+    <updated>2023-07-03T06:14:20.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @MinaProtocol One wallet will be used for teams but all all names in Name category. There will be category input for each type of submission: Dapp/...]]></title>
+        <id>https://twitter.com/developer_dao/status/1675566740275593217</id>
+        <link href="https://twitter.com/developer_dao/status/1675566740275593217"/>
+        <updated>2023-07-02T18:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Re @MinaProtocol One wallet will be used for teams but all all names in Name category.
+There will be category input for each type of submission:
+Dapp/Starter Kit/Tech Blog - If you only did one type, leave others blank.
+Make sure you have your repos public, a solid ReadMe and licenses set MIT]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Submissions for the @MinaProtocol x D_D hackathon is now live: https://buff.ly/3XzP6mW Submissions are due by TUESDAY JULY 4 @ 23:59pm UTC]]></title>
+        <id>https://twitter.com/developer_dao/status/1675566739499745280</id>
+        <link href="https://twitter.com/developer_dao/status/1675566739499745280"/>
+        <updated>2023-07-02T18:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Submissions for the @MinaProtocol  x D_D hackathon is now live:
+https://buff.ly/3XzP6mW
+Submissions are due by TUESDAY JULY 4 @ 23:59pm UTC]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: the answer to all of this isn't to go down on your knees like a little bitch, begging your favorite billionaire to do wha...]]></title>
+        <id>https://twitter.com/dabit3/status/1675558980771348481</id>
+        <link href="https://twitter.com/dabit3/status/1675558980771348481"/>
+        <updated>2023-07-02T17:36:06.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+the answer to all of this isn't to go down on your knees like a little bitch, begging your favorite billionaire to do what you want them to do with your favorite app
+the answer is to build and use software, infrastructure, and applications that by their very nature cannot be… https://twitter.com/i/web/status/1675558980771348481]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @wc49358 @kempsterrrr Handsome === consensus]]></title>
         <id>https://twitter.com/developer_dao/status/1674928837975580674</id>
         <link href="https://twitter.com/developer_dao/status/1674928837975580674"/>
         <updated>2023-06-30T23:52:08.000Z</updated>
         <summary type="html"><![CDATA[Re @wc49358 @kempsterrrr Handsome === consensus]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT nader dabit | nader.lens: Today I'm releasing Lens Algorithm Playground It's an app that gives you access to various @lensprotocol APIs and algorit...]]></title>
-        <id>https://twitter.com/dabit3/status/1674895001195540480</id>
-        <link href="https://twitter.com/dabit3/status/1674895001195540480"/>
-        <updated>2023-06-30T21:37:40.000Z</updated>
-        <summary type="html"><![CDATA[RT nader dabit | nader.lens
-Today I'm releasing Lens Algorithm Playground
-It's an app that gives you access to various @lensprotocol APIs and algorithms available for developers building on Lens Protocol - the people-powered social layer.
-The code is open sourced here:
-https://github.com/dabit3/lens-algorithm-playground
-You can try… https://twitter.com/i/web/status/1674895001195540480 https://t.co/uNueoVnb7j]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -75,6 +97,19 @@ https://lu.ma/fq8dvjq0]]></summary>
 🗣️ @devntellxyz is now live with @ccarfi, hosted by @narb_s 
 👉 Come hang out and learn how to build subcription members as NFTs with @UnlockProtocol 
 https://buff.ly/43Xkhet]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT marc | wolovim.eth 🐼: ⚡️ new post quick tour of Ethereum Python tools 🛠️ https://snakecharmers.ethereum.org/python-ecosystem/]]></title>
+        <id>https://twitter.com/wolovim/status/1674798771140702209</id>
+        <link href="https://twitter.com/wolovim/status/1674798771140702209"/>
+        <updated>2023-06-30T15:15:17.000Z</updated>
+        <summary type="html"><![CDATA[RT marc | wolovim.eth 🐼
+⚡️ new post
+quick tour of Ethereum Python tools 🛠️
+https://snakecharmers.ethereum.org/python-ecosystem/]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -200,45 +235,6 @@ https://buff.ly/3NKl78y]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[With only a few weeks away from @ETHGlobal Pairs. Did you know we partnered with @fluence_project to send you a $4000 scholarship to Paris? If you're ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1674427232956325889</id>
-        <link href="https://twitter.com/developer_dao/status/1674427232956325889"/>
-        <updated>2023-06-29T14:38:56.000Z</updated>
-        <summary type="html"><![CDATA[With only a few weeks away from @ETHGlobal Pairs. 
-Did you know we partnered with @fluence_project to send you a $4000 scholarship to Paris?
-If you're interested in building on a decentralized serverless computing platform - apply ASAP 👇🏻   https://buff.ly/44nf13t]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👋🏻 ATTENTION HACKERS @wc49358 is hosting a team forming session in developers-voice in the DAO discord @ 4pm UTC today. Come hang out and make f...]]></title>
-        <id>https://twitter.com/developer_dao/status/1674414604418686977</id>
-        <link href="https://twitter.com/developer_dao/status/1674414604418686977"/>
-        <updated>2023-06-29T13:48:45.000Z</updated>
-        <summary type="html"><![CDATA[👋🏻 ATTENTION HACKERS
-@wc49358 is hosting a team forming session in developers-voice in the DAO discord @ 4pm UTC today.
-Come hang out and make frens 🫂
-If you're not a member YET, please reply to the QT below and follow @wc49358 so he can DM to connect you 🤝🏻 https://twitter.com/developer_dao/status/1673045351861833729
-
-Developer DAO (🧱, 🚀): Are you building at our hackathon with @MinaProtocol next week, anon?
-Drop a 👋🏻  if yes, add a 🫂  if you're interested in teaming up.
-@wc49358 will help you find a fren. https://twitter.com/developer_dao/status/1671644126498963459]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @_juliettech In a good way 🤓❤️]]></title>
-        <id>https://twitter.com/developer_dao/status/1674407455575642113</id>
-        <link href="https://twitter.com/developer_dao/status/1674407455575642113"/>
-        <updated>2023-06-29T13:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Re @_juliettech In a good way 🤓❤️]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT 13 year old intern ✈️ EthCC: DM me if you're working on cool open-source projects. Excited to support more open-source hackers! https://twitter.c...]]></title>
         <id>https://twitter.com/13yearoldvc/status/1674149970306277377</id>
         <link href="https://twitter.com/13yearoldvc/status/1674149970306277377"/>
@@ -321,15 +317,6 @@ Let's take a look at Arkway! 🧵 ↓ https://t.co/9OlmG3UvjK]]></summary>
         <summary type="html"><![CDATA[Events with Mina and BASE, and congrats to Press Start Capital Fellowship winners]]></summary>
         <author>
             <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack AI Semantic Search with Next.js, Pinecone, Langchain, & ChatGPT - Full TypeScript Course]]></title>
-        <id>https://www.youtube.com/watch?v=6_mfYPPcZ60</id>
-        <link href="https://www.youtube.com/watch?v=6_mfYPPcZ60"/>
-        <updated>2023-06-03T12:54:16.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>
