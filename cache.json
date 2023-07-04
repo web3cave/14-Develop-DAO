@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/77-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "👀 Mina Hackathon submission deadline, ETHGlobal Paris sponsorships, & much more",
+          "link": "https://developerdao.substack.com/p/77-probably-nothing",
+          "publishedOn": "2023-07-03T12:46:53.000Z",
+          "wordCount": null,
+          "title": "#77 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ca6e34-0c53-456d-af6d-94cf4c9d94c8_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9ca6e34-0c53-456d-af6d-94cf4c9d94c8_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/76-probably-nothing",
           "author": "Sylvia R.",
           "description": "🏁 D_D x Mina Hackathon kicks off today with $10,000 in prizes 🤝",
@@ -77,6 +93,136 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1675897670487998465",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Reminder @minaprotocol hackers!   \nSprint time, make sure to get your submissions in on time.👇 https://twitter.com/developer_dao/status/1675566739499745280\n\nDeveloper DAO (🧱, 🚀): Submissions for the @MinaProtocol  x D_D hackathon is now live:\nhttps://buff.ly/3XzP6mW\nSubmissions are due by TUESDAY JULY 4 @ 23:59pm UTC",
+          "link": "https://twitter.com/developer_dao/status/1675897670487998465",
+          "publishedOn": "2023-07-03T16:01:55.000Z",
+          "wordCount": null,
+          "title": "Reminder @minaprotocol hackers! Sprint time, make sure to get your submissions in on time.👇 https://twitter.com/developer_dao/status/16755667394997...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675885720056000514",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @0xlord_forever @MinaProtocol gm",
+          "link": "https://twitter.com/developer_dao/status/1675885720056000514",
+          "publishedOn": "2023-07-03T15:14:26.000Z",
+          "wordCount": null,
+          "title": "Re @0xlord_forever @MinaProtocol gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675885674019315713",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @vadimicus @MinaProtocol probs accurate - gm",
+          "link": "https://twitter.com/developer_dao/status/1675885674019315713",
+          "publishedOn": "2023-07-03T15:14:15.000Z",
+          "wordCount": null,
+          "title": "Re @vadimicus @MinaProtocol probs accurate - gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675881579774894080",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @deformapp 🫠",
+          "link": "https://twitter.com/developer_dao/status/1675881579774894080",
+          "publishedOn": "2023-07-03T14:57:59.000Z",
+          "wordCount": null,
+          "title": "Re @deformapp 🫠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675876197421535232",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @pfedprog @MinaProtocol @blockchainbeard ☝🏻 100x yes\n@MinaProtocol out there doing great work",
+          "link": "https://twitter.com/developer_dao/status/1675876197421535232",
+          "publishedOn": "2023-07-03T14:36:36.000Z",
+          "wordCount": null,
+          "title": "Re @pfedprog @MinaProtocol @blockchainbeard ☝🏻 100x yes @MinaProtocol out there doing great work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675873130407944193",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MinaProtocol @blockchainbeard 🤓 Hackathon details \nhttps://twitter.com/developer_dao/status/1671644126498963459\n\nDeveloper DAO (🧱, 🚀): 🚨 Announcing our latest Hackathon with @MinaProtocol !!\n- Kick-off workshop with @blockchainbeard on Monday @ 5pm UTC\n- $10,000 in Prizes (USDC, Mina, CODE)\n- Learn to build zkApps\n- Open to all \nRSVP for the launch workshop and full hackathon details below ⬇️ https://t.co/sVFsTfMzXq",
+          "link": "https://twitter.com/developer_dao/status/1675873130407944193",
+          "publishedOn": "2023-07-03T14:24:25.000Z",
+          "wordCount": null,
+          "title": "Re @MinaProtocol @blockchainbeard 🤓 Hackathon details https://twitter.com/developer_dao/status/1671644126498963459",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675872938006925312",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "How does Zero-Knowledge cryptography enable security, privacy and scalability on @MinaProtocol ?\nWe got you 🤝🏻 @blockchainbeard lays it out nicely in this clip from our recent workshop.\nDon't forget, ~1.5 days left to hack on with a ~$10,000 prize pool up for grabs... deets 👇🏻 https://t.co/9257ZA85Q9",
+          "link": "https://twitter.com/developer_dao/status/1675872938006925312",
+          "publishedOn": "2023-07-03T14:23:39.000Z",
+          "wordCount": null,
+          "title": "How does Zero-Knowledge cryptography enable security, privacy and scalability on @MinaProtocol ? We got you 🤝🏻 @blockchainbeard lays it out nice...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675872696192647170",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @mads_io @MinaProtocol gm",
+          "link": "https://twitter.com/developer_dao/status/1675872696192647170",
+          "publishedOn": "2023-07-03T14:22:41.000Z",
+          "wordCount": null,
+          "title": "Re @mads_io @MinaProtocol gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675863821309681666",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @HAPPYS1NGH @MinaProtocol gm",
+          "link": "https://twitter.com/developer_dao/status/1675863821309681666",
+          "publishedOn": "2023-07-03T13:47:25.000Z",
+          "wordCount": null,
+          "title": "Re @HAPPYS1NGH @MinaProtocol gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675860716115353600",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Envoy_1084 @MinaProtocol gm",
+          "link": "https://twitter.com/developer_dao/status/1675860716115353600",
+          "publishedOn": "2023-07-03T13:35:05.000Z",
+          "wordCount": null,
+          "title": "Re @Envoy_1084 @MinaProtocol gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675860653733470210",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @gregvandell @MinaProtocol gm",
+          "link": "https://twitter.com/developer_dao/status/1675860653733470210",
+          "publishedOn": "2023-07-03T13:34:50.000Z",
+          "wordCount": null,
+          "title": "Re @gregvandell @MinaProtocol gm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675854623662284801",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "gm to everyone but especially @MinaProtocol hackers",
+          "link": "https://twitter.com/developer_dao/status/1675854623662284801",
+          "publishedOn": "2023-07-03T13:10:52.000Z",
+          "wordCount": null,
+          "title": "gm to everyone but especially @MinaProtocol hackers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1675854446910226432",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @minacryptocom @MinaProtocol Thanks for the love 🤝🏻\nFolks can find out more info 👇🏻\nhttps://twitter.com/developer_dao/status/1671644126498963459\n\nDeveloper DAO (🧱, 🚀): 🚨 Announcing our latest Hackathon with @MinaProtocol !!\n- Kick-off workshop with @blockchainbeard on Monday @ 5pm UTC\n- $10,000 in Prizes (USDC, Mina, CODE)\n- Learn to build zkApps\n- Open to all \nRSVP for the launch workshop and full hackathon details below ⬇️ https://t.co/sVFsTfMzXq",
+          "link": "https://twitter.com/developer_dao/status/1675854446910226432",
+          "publishedOn": "2023-07-03T13:10:10.000Z",
+          "wordCount": null,
+          "title": "Re @minacryptocom @MinaProtocol Thanks for the love 🤝🏻 Folks can find out more info 👇🏻 https://twitter.com/developer_dao/status/1671644126...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1675566740275593217",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @MinaProtocol One wallet will be used for teams but all all names in Name category.\nThere will be category input for each type of submission:\nDapp/Starter Kit/Tech Blog - If you only did one type, leave others blank.\nMake sure you have your repos public, a solid ReadMe and licenses set MIT",
@@ -117,46 +263,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1674855380424458240",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Save Money on Ethereum Transactions using Gashawk | Workshop https://twitter.com/i/broadcasts/1PlKQpaBePvxE",
-          "link": "https://twitter.com/developer_dao/status/1674855380424458240",
-          "publishedOn": "2023-06-30T19:00:14.000Z",
-          "wordCount": null,
-          "title": "Save Money on Ethereum Transactions using Gashawk | Workshop https://twitter.com/i/broadcasts/1PlKQpaBePvxE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/LucidSamuel_/status/1674830605693992973",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT samuel.\nfor developers participating in the @developer_dao x @MinaProtocol hackathon and still brainstorming on ideas or implementations of zk proofs, here's a tip:\nif you can figure out a problem that the solution requires privacy or seems burdensome to verify by everyone...",
-          "link": "https://twitter.com/LucidSamuel_/status/1674830605693992973",
-          "publishedOn": "2023-06-30T17:21:47.000Z",
-          "wordCount": null,
-          "title": "RT samuel.: for developers participating in the @developer_dao x @MinaProtocol hackathon and still brainstorming on ideas or implementations of zk pro...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674812220155346946",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Tired of setting ETH on 🔥🔥 with high gas transactions?\nJoin @wc49358 as he hosts @DHannum8 from @gashawkio to show you how to save your ETH using their tool 😎\nToday @ 7pm UTC\nRSVP 👇🏻\nhttps://lu.ma/fq8dvjq0",
-          "link": "https://twitter.com/developer_dao/status/1674812220155346946",
-          "publishedOn": "2023-06-30T16:08:44.000Z",
-          "wordCount": null,
-          "title": "Tired of setting ETH on 🔥🔥 with high gas transactions? Join @wc49358 as he hosts @DHannum8 from @gashawkio to show you how to save your ETH usin...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674802657444102144",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n🗣️ @devntellxyz is now live with @ccarfi, hosted by @narb_s \n👉 Come hang out and learn how to build subcription members as NFTs with @UnlockProtocol \nhttps://buff.ly/43Xkhet",
-          "link": "https://twitter.com/developer_dao/status/1674802657444102144",
-          "publishedOn": "2023-06-30T15:30:44.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @ccarfi, hosted by @narb_s 👉 Come hang out and learn how to build subcription members as NFTs ...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/wolovim/status/1674798771140702209",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT marc | wolovim.eth 🐼\n⚡️ new post\nquick tour of Ethereum Python tools 🛠️\nhttps://snakecharmers.ethereum.org/python-ecosystem/",
@@ -164,86 +270,6 @@
           "publishedOn": "2023-06-30T15:15:17.000Z",
           "wordCount": null,
           "title": "RT marc | wolovim.eth 🐼: ⚡️ new post quick tour of Ethereum Python tools 🛠️ https://snakecharmers.ethereum.org/python-ecosystem/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674754430154014726",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re What are the prerequisites for building zkApps on @minaprotocol? \nhttps://twitter.com/developer_dao/status/1674753655642238976\n\nDeveloper DAO (🧱, 🚀): What are the prerequisites for building zkApps on the @minaprotocol? 🤔 \nAccording to @blockchainbeard all you really need is...\n- A sense of adventure \n- How to use a CLI\n- JavaScript or Typescript\n- A UI Framework like React or Svelte\nCheck out our hackathon 👇🏻 https://t.co/EYBg6WMjFQ",
-          "link": "https://twitter.com/developer_dao/status/1674754430154014726",
-          "publishedOn": "2023-06-30T12:19:06.000Z",
-          "wordCount": null,
-          "title": "Re What are the prerequisites for building zkApps on @minaprotocol? https://twitter.com/developer_dao/status/1674753655642238976",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674753659685486593",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @MinaProtocol @blockchainbeard We have two office hours today in D_D Discord...\n3pm UTC with @blockchainbeard \n5pm UTC with @wc49358 \nYou can also get ongoing async support in the Mina Discord channel #zkapps-questions channel.\nMina join link - https://buff.ly/3r4trqV https://t.co/y4GVMlg5ZL",
-          "link": "https://twitter.com/developer_dao/status/1674753659685486593",
-          "publishedOn": "2023-06-30T12:16:02.000Z",
-          "wordCount": null,
-          "title": "Re @MinaProtocol @blockchainbeard We have two office hours today in D_D Discord... 3pm UTC with @blockchainbeard 5pm UTC with @wc49358 You can also ge...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674753658649550849",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @MinaProtocol @blockchainbeard Full details on our ongoing hackathon with @minaprotocol linked below:\n- Anyone can join\n- Ends midnight UTC on Tuesday \n- ~$10,000 prize pool to be won\nhttps://buff.ly/431f2Jf",
-          "link": "https://twitter.com/developer_dao/status/1674753658649550849",
-          "publishedOn": "2023-06-30T12:16:02.000Z",
-          "wordCount": null,
-          "title": "Re @MinaProtocol @blockchainbeard Full details on our ongoing hackathon with @minaprotocol linked below: - Anyone can join - Ends midnight UTC on Tues...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674753655642238976",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "What are the prerequisites for building zkApps on the @minaprotocol? 🤔 \nAccording to @blockchainbeard all you really need is...\n- A sense of adventure \n- How to use a CLI\n- JavaScript or Typescript\n- A UI Framework like React or Svelte\nCheck out our hackathon 👇🏻 https://t.co/EYBg6WMjFQ",
-          "link": "https://twitter.com/developer_dao/status/1674753655642238976",
-          "publishedOn": "2023-06-30T12:16:01.000Z",
-          "wordCount": null,
-          "title": "What are the prerequisites for building zkApps on the @minaprotocol? 🤔 According to @blockchainbeard all you really need is... - A sense of adventu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1674564901203746818",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader dabit | nader.lens\nI tried out @OpenAI functions today and ended up building and open sourcing what I'm calling the God app.\nIt uses @replicatehq + GPT4 to enable:\n- Text to video\n- Text to audio\n- Text to image\n- General language processing and text generation via GPT4\nAll from a single text… https://twitter.com/i/web/status/1674564901203746818",
-          "link": "https://twitter.com/dabit3/status/1674564901203746818",
-          "publishedOn": "2023-06-29T23:45:59.000Z",
-          "wordCount": null,
-          "title": "RT nader dabit | nader.lens: I tried out @OpenAI functions today and ended up building and open sourcing what I'm calling the God app. It uses @replic...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674464348075438090",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "VIBES Poppin' off rn\nSecond @MinaProtocol hackathon edition, come and meet your fellow builders, anon.\nClaim this 🤘🏻 NFT from @mintkudosXYZ \ndevelopers-voice in discord (no work chat allowed) https://t.co/IbG0V1mxEs",
-          "link": "https://twitter.com/developer_dao/status/1674464348075438090",
-          "publishedOn": "2023-06-29T17:06:25.000Z",
-          "wordCount": null,
-          "title": "VIBES Poppin' off rn Second @MinaProtocol hackathon edition, come and meet your fellow builders, anon. Claim this 🤘🏻 NFT from @mintkudosXYZ deve...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/austingriffith/status/1674444986463719424",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Austin Griffith 🛠🚢🔥\n🏰 BuidlGuidl is streaming ETH to up-and-coming high-impact devs!\n⏳ We are using \"cohort streams\" to deliver funding to groups of builders with a shared goal.\n🎁 We also made the whole system hella-forkable and built it in a series of public videos!\n👉 Learn more...",
-          "link": "https://twitter.com/austingriffith/status/1674444986463719424",
-          "publishedOn": "2023-06-29T15:49:29.000Z",
-          "wordCount": null,
-          "title": "RT Austin Griffith 🛠🚢🔥: 🏰 BuidlGuidl is streaming ETH to up-and-coming high-impact devs! ⏳ We are using \"cohort streams\" to deliver fundi...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1674432738353647617",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @ccarfi who will be showing us how to build subscription memberships as NFTs with @UnlockProtocol, hosted by @narb_s \n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/3NKl78y",
-          "link": "https://twitter.com/developer_dao/status/1674432738353647617",
-          "publishedOn": "2023-06-29T15:00:48.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @ccarfi who will be showing us how to build subscription memberships as NFTs with...",
           "imageUrl": null
         },
         {
@@ -257,23 +283,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/ropats16/status/1674139929616744448",
+          "id": "https://twitter.com/spacesailor24/status/1673972335576227842",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nWant to understand @ArweaveEco’s current mining mechanism?\nHere’s a super simple explanation 👇 https://twitter.com/CommunityLabs/status/1674138791647531008\n\nCommunity Labs | we're hiring!: @ArweaveEco is a global network storing information.\nHowever, the network participants (nodes/ miners) must first verify and reach a consensus on the information to be stored.\nSometimes referred to as a “mining mechanism”, this thread dives into how this process works 👇\n1/15 https://t.co/LVeJgMTiXr",
-          "link": "https://twitter.com/ropats16/status/1674139929616744448",
-          "publishedOn": "2023-06-28T19:37:17.000Z",
+          "description": "RT spacesailor.eth\nPut together a deep-dive guide on Solidity events. Tried to cover all the nuances, and compile as much info about them into a single place\nIf you find any mistakes, please let me know!\nhttps://mirror.xyz/spacesailor.eth/LEe2yoLoqy97BWHyO6J65XhnG8t33Nmvz_Vsa3ve7rY",
+          "link": "https://twitter.com/spacesailor24/status/1673972335576227842",
+          "publishedOn": "2023-06-28T08:31:20.000Z",
           "wordCount": null,
-          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: Want to understand @ArweaveEco’s current mining mechanism? Here’s a super simple explanation 👇 https://twitter.com...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Envoy_1084/status/1673941811478532097",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Vedant | envoy1084.eth/lens ( 🛠, 🌿)\nOver the past couple of days we have been working on a new project 👀\n🚀 Introducing Arkway\nA decentralized & distributed File storage solution built using @LitProtocol and @polybase_xyz\nLet's take a look at Arkway! 🧵 ↓ https://t.co/9OlmG3UvjK",
-          "link": "https://twitter.com/Envoy_1084/status/1673941811478532097",
-          "publishedOn": "2023-06-28T06:30:02.000Z",
-          "wordCount": null,
-          "title": "RT Vedant | envoy1084.eth/lens ( 🛠, 🌿): Over the past couple of days we have been working on a new project 👀 🚀 Introducing Arkway A decent...",
+          "title": "RT spacesailor.eth: Put together a deep-dive guide on Solidity events. Tried to cover all the nuances, and compile as much info about them into a sing...",
           "imageUrl": null
         }
       ]
