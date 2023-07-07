@@ -77,6 +77,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1676969405127991299",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @zmariuz and @uri0x01 who will be giving us an overview of @getsumer, hosted by @narb_s \n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/44uuj6w",
+          "link": "https://twitter.com/developer_dao/status/1676969405127991299",
+          "publishedOn": "2023-07-06T15:00:37.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @zmariuz and @uri0x01 who will be giving us an overview of @getsumer, hosted by @...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1676731212067471361",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @K4y1s https://twitter.com/developer_dao/status/1676731212067471361/photo/1",
@@ -197,16 +207,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/dabit3/status/1676563322743799809",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader dabit | nader.lens\nNEW VIDEO! GPT-4 Functions Crash Course - Full Stack AI with @replicatehq, @nextjs, and @openai GPT Functions\nLearn how GPT Functions and Function Calling works, and how to use them to build a full stack application with Replicate and Next.js.\nVideo\nhttps://www.youtube.com/watch?v=fGn4U1Mqqjc https://t.co/1gG0CUH8RS",
-          "link": "https://twitter.com/dabit3/status/1676563322743799809",
-          "publishedOn": "2023-07-05T12:06:59.000Z",
-          "wordCount": null,
-          "title": "RT nader dabit | nader.lens: NEW VIDEO! GPT-4 Functions Crash Course - Full Stack AI with @replicatehq, @nextjs, and @openai GPT Functions Learn how G...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1676545187755991046",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @wc49358 @_rutefig @MinaProtocol 🔥🔥🔥🔥",
@@ -247,13 +247,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/devjoshstevens/status/1676273536409772039",
+          "id": "https://twitter.com/developer_dao/status/1676274563032784906",
           "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Josh 👻🌿 | svg.eth\nWorked on a little reth project over the past few days - read event logs directly from the reth db and get a ready to go decoded postgres database all with a simple json config file and no extra setup. The future of data indexing is in your hands anon… 👀\nhttps://github.com/joshstevens19/reth-indexer",
-          "link": "https://twitter.com/devjoshstevens/status/1676273536409772039",
-          "publishedOn": "2023-07-04T16:55:29.000Z",
+          "description": "Re @MinaProtocol 🫶🏻  We're here to help if you're stuck\nAnyone can hop into the @minaprotocol discord and get support in the zkAppQuestions channel - https://buff.ly/3r4trqV \nD_D Members can also get support in our discord: BUILD (Category) > Join Hackathons Forum > Mina Protocol Hackathon",
+          "link": "https://twitter.com/developer_dao/status/1676274563032784906",
+          "publishedOn": "2023-07-04T16:59:34.000Z",
           "wordCount": null,
-          "title": "RT Josh 👻🌿 | svg.eth: Worked on a little reth project over the past few days - read event logs directly from the reth db and get a ready to go d...",
+          "title": "Re @MinaProtocol 🫶🏻 We're here to help if you're stuck Anyone can hop into the @minaprotocol discord and get support in the zkAppQuestions chann...",
           "imageUrl": null
         },
         {
