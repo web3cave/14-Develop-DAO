@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T06:13:57.369Z</id>
+    <id>urn:2023-07-12T06:13:37.462Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T06:13:57.369Z</updated>
+    <updated>2023-07-12T06:13:37.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday July 14th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1678977613597999104</id>
+        <link href="https://twitter.com/developer_dao/status/1678977613597999104"/>
+        <updated>2023-07-12T04:00:31.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️: Join us this Friday July 14th at 3:30pm UTC for another episode of our long running @devntellxyz series 
+👉 Details and link to RSVP for the event:
+https://buff.ly/3XGDvm2]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wc49358 @MinaProtocol @pressstartcap https://twitter.com/i/spaces/1RDxlagzEpdKL]]></title>
+        <id>https://twitter.com/developer_dao/status/1678835001964613646</id>
+        <link href="https://twitter.com/developer_dao/status/1678835001964613646"/>
+        <updated>2023-07-11T18:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @wc49358 @MinaProtocol @pressstartcap https://twitter.com/i/spaces/1RDxlagzEpdKL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏛️ Town Hall this week! Thursday @ 6pm UTC - hosted by @wc49358 We'll be discussing... 🏗️ Last month's @MinaProtocol Hack 🛳️ On-going @pre...]]></title>
+        <id>https://twitter.com/developer_dao/status/1678834912764350475</id>
+        <link href="https://twitter.com/developer_dao/status/1678834912764350475"/>
+        <updated>2023-07-11T18:33:29.000Z</updated>
+        <summary type="html"><![CDATA[🏛️ Town Hall this week!
+Thursday @ 6pm UTC - hosted by @wc49358 
+We'll be discussing...
+🏗️ Last month's @MinaProtocol Hack
+🛳️ On-going @pressstartcap X D_D Fellowship Program
+👩🏽‍⚖️ Changes being discussed in Governance
+📡 What to expect this month
+We'll be running a 2000 CODE… https://twitter.com/i/web/status/1678834912764350475]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @dabit3 https://buff.ly/3O6N0rH]]></title>
         <id>https://twitter.com/developer_dao/status/1678531467960283136</id>
@@ -229,36 +269,6 @@ Remember, 🛳️ it! https://twitter.com/i/web/status/1676648647268638734 https
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @pranshu3196 @MinaProtocol 🔥🔥🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1676688225098711040</id>
-        <link href="https://twitter.com/developer_dao/status/1676688225098711040"/>
-        <updated>2023-07-05T20:23:18.000Z</updated>
-        <summary type="html"><![CDATA[Re @pranshu3196 @MinaProtocol 🔥🔥🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @protocolllo @MinaProtocol 🔥🔥🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1676688141439180804</id>
-        <link href="https://twitter.com/developer_dao/status/1676688141439180804"/>
-        <updated>2023-07-05T20:22:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @protocolllo @MinaProtocol 🔥🔥🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @HAPPYS1NGH @MinaProtocol 🔥🔥🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1676679319291314180</id>
-        <link href="https://twitter.com/developer_dao/status/1676679319291314180"/>
-        <updated>2023-07-05T19:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @HAPPYS1NGH @MinaProtocol 🔥🔥🔥]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-4 Functions Crash Course - Full Stack AI with Replicate AI, Next.js, and OpenAI GPT-4 Functions]]></title>
         <id>https://www.youtube.com/watch?v=fGn4U1Mqqjc</id>
         <link href="https://www.youtube.com/watch?v=fGn4U1Mqqjc"/>
@@ -293,16 +303,6 @@ Remember, 🛳️ it! https://twitter.com/i/web/status/1676648647268638734 https
         <link href="https://developerdao.substack.com/p/75-probably-nothing"/>
         <updated>2023-06-19T11:41:27.000Z</updated>
         <summary type="html"><![CDATA[Workshops, ETHGlobal Paris scholarships, D_D landscape overview, & much more 🫶]]></summary>
-        <author>
-            <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#74 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/74-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/74-probably-nothing"/>
-        <updated>2023-06-12T11:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Hacker scholarships for ETHGlobal Paris, Press Start Cap Fellowship announcements, jobs, and much more 👀]]></summary>
         <author>
             <name>Sylvia R.</name>
         </author>

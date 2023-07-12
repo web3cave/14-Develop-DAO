@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76d69523-af80-462a-8805-0058a9fa8b1d_1188x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/74-probably-nothing",
-          "author": "Sylvia R.",
-          "description": "Hacker scholarships for ETHGlobal Paris, Press Start Cap Fellowship announcements, jobs, and much more 👀",
-          "link": "https://developerdao.substack.com/p/74-probably-nothing",
-          "publishedOn": "2023-06-12T11:47:26.000Z",
-          "wordCount": null,
-          "title": "#74 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7f03df-44c3-4073-bb23-9d2e7d1fe041_1188x668.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e7f03df-44c3-4073-bb23-9d2e7d1fe041_1188x668.png"
         }
       ]
     },
@@ -92,6 +76,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1678977613597999104",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️: Join us this Friday July 14th at 3:30pm UTC for another episode of our long running @devntellxyz series \n👉 Details and link to RSVP for the event:\nhttps://buff.ly/3XGDvm2",
+          "link": "https://twitter.com/developer_dao/status/1678977613597999104",
+          "publishedOn": "2023-07-12T04:00:31.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ 🗣️: Join us this Friday July 14th at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1678835001964613646",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @wc49358 @MinaProtocol @pressstartcap https://twitter.com/i/spaces/1RDxlagzEpdKL",
+          "link": "https://twitter.com/developer_dao/status/1678835001964613646",
+          "publishedOn": "2023-07-11T18:33:50.000Z",
+          "wordCount": null,
+          "title": "Re @wc49358 @MinaProtocol @pressstartcap https://twitter.com/i/spaces/1RDxlagzEpdKL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1678834912764350475",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🏛️ Town Hall this week!\nThursday @ 6pm UTC - hosted by @wc49358 \nWe'll be discussing...\n🏗️ Last month's @MinaProtocol Hack\n🛳️ On-going @pressstartcap X D_D Fellowship Program\n👩🏽‍⚖️ Changes being discussed in Governance\n📡 What to expect this month\nWe'll be running a 2000 CODE… https://twitter.com/i/web/status/1678834912764350475",
+          "link": "https://twitter.com/developer_dao/status/1678834912764350475",
+          "publishedOn": "2023-07-11T18:33:29.000Z",
+          "wordCount": null,
+          "title": "🏛️ Town Hall this week! Thursday @ 6pm UTC - hosted by @wc49358 We'll be discussing... 🏗️ Last month's @MinaProtocol Hack 🛳️ On-going @pre...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1678531467960283136",
           "author": "Developer DAO (🧱, 🚀)",
@@ -260,36 +274,6 @@
           "publishedOn": "2023-07-05T20:23:52.000Z",
           "wordCount": null,
           "title": "Re @CryptoBonsai33 ☝🏻solid advice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1676688225098711040",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @pranshu3196 @MinaProtocol 🔥🔥🔥",
-          "link": "https://twitter.com/developer_dao/status/1676688225098711040",
-          "publishedOn": "2023-07-05T20:23:18.000Z",
-          "wordCount": null,
-          "title": "Re @pranshu3196 @MinaProtocol 🔥🔥🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1676688141439180804",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @protocolllo @MinaProtocol 🔥🔥🔥",
-          "link": "https://twitter.com/developer_dao/status/1676688141439180804",
-          "publishedOn": "2023-07-05T20:22:58.000Z",
-          "wordCount": null,
-          "title": "Re @protocolllo @MinaProtocol 🔥🔥🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1676679319291314180",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @HAPPYS1NGH @MinaProtocol 🔥🔥🔥",
-          "link": "https://twitter.com/developer_dao/status/1676679319291314180",
-          "publishedOn": "2023-07-05T19:47:55.000Z",
-          "wordCount": null,
-          "title": "Re @HAPPYS1NGH @MinaProtocol 🔥🔥🔥",
           "imageUrl": null
         }
       ]
