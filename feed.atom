@@ -1,10 +1,274 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-13T06:13:53.517Z</id>
+    <id>urn:2023-07-14T06:14:16.416Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-13T06:13:53.517Z</updated>
+    <updated>2023-07-14T06:14:16.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @coinbase @Ripple W]]></title>
+        <id>https://twitter.com/developer_dao/status/1679636808177442816</id>
+        <link href="https://twitter.com/developer_dao/status/1679636808177442816"/>
+        <updated>2023-07-13T23:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Re @coinbase @Ripple W]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started Building on Lens Protocol w/ Nader Dabit | Workshop https://twitter.com/i/broadcasts/1jMJgLLWLzwxL]]></title>
+        <id>https://twitter.com/developer_dao/status/1679605156592381952</id>
+        <link href="https://twitter.com/developer_dao/status/1679605156592381952"/>
+        <updated>2023-07-13T21:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Getting Started Building on Lens Protocol w/ Nader Dabit | Workshop https://twitter.com/i/broadcasts/1jMJgLLWLzwxL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @r3vl_xyz 🤝]]></title>
+        <id>https://twitter.com/developer_dao/status/1679567698399772674</id>
+        <link href="https://twitter.com/developer_dao/status/1679567698399772674"/>
+        <updated>2023-07-13T19:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Re @r3vl_xyz 🤝]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Using Docker in Web3 w/ @0xthresh https://lu.ma/yha46w61]]></title>
+        <id>https://twitter.com/developer_dao/status/1679566827397971969</id>
+        <link href="https://twitter.com/developer_dao/status/1679566827397971969"/>
+        <updated>2023-07-13T19:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Re Using Docker in Web3 w/ @0xthresh 
+https://lu.ma/yha46w61]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🗣️ Reminder for the lean000rs Today @ 9:30pm, we have @dabit3 back hosting a "Getting Started Building on Lens Protocol" workshop 🌱 Then tomorr...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679566825305128961</id>
+        <link href="https://twitter.com/developer_dao/status/1679566825305128961"/>
+        <updated>2023-07-13T19:01:50.000Z</updated>
+        <summary type="html"><![CDATA[🗣️ Reminder for the lean000rs
+Today @ 9:30pm, we have @dabit3 back hosting a "Getting Started Building on Lens Protocol" workshop 🌱
+Then tomorrow @ 6pm UTC, we have @0xthresh dropping knowledge on Docker and how to use it in Web3 🧠
+Be sure not to miss these, RSVP both 👇🏻
+
+Developer DAO (🧱, 🚀): What's the best thing to do if you're tired of web2 social? 🤔 
+🏗️  Build something better.
+We're delighted to welcome back @dabit3 for an updated workshop on Lens... 
+Getting Started Building on Lens Protocol 🌱 
+This Thursday @ 9:30pm UTC
+RSVP in the next post 👇🏻 https://t.co/HDlQ15TMz8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://twitter.com/i/spaces/1RDxlagzEpdKL]]></title>
+        <id>https://twitter.com/developer_dao/status/1679551312403529728</id>
+        <link href="https://twitter.com/developer_dao/status/1679551312403529728"/>
+        <updated>2023-07-13T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1RDxlagzEpdKL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📽️ Going live in ~ 20 mins.... If you have any questions you'd like answered or topics discussed, please reply below 👇🏻 or raise your hand d...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679546657799544839</id>
+        <link href="https://twitter.com/developer_dao/status/1679546657799544839"/>
+        <updated>2023-07-13T17:41:42.000Z</updated>
+        <summary type="html"><![CDATA[📽️ Going live in ~ 20 mins....
+If you have any questions you'd like answered or topics discussed, please reply below 👇🏻 or raise your hand during the Q&A
+See you soon
+
+Developer DAO (🧱, 🚀): 🏛️ Town Hall this week!
+Thursday @ 6pm UTC - hosted by @wc49358 
+We'll be discussing...
+🏗️ Last month's @MinaProtocol Hack
+🛳️ On-going @pressstartcap X D_D Fellowship Program
+👩🏽‍⚖️ Changes being discussed in Governance
+📡 What to expect this month
+We'll be running a 2000 CODE… https://twitter.com/i/web/status/1678834912764350475]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @ThewizardofPOS who will be giving us an overview of @chainbrainapp, hosted by @n...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679506344376672256</id>
+        <link href="https://twitter.com/developer_dao/status/1679506344376672256"/>
+        <updated>2023-07-13T15:01:30.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+You won't want to miss tomorrow’s @devntellxyz with @ThewizardofPOS who will be giving us an overview of @chainbrainapp, hosted by @narb_s 
+👉 Details and link to RSVP for this weeks event:
+https://buff.ly/3XGDvm2]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Tweet update from the @r3vl_xyz team https://twitter.com/r3vl_xyz/status/1679184791764074501]]></title>
+        <id>https://twitter.com/developer_dao/status/1679483981732130820</id>
+        <link href="https://twitter.com/developer_dao/status/1679483981732130820"/>
+        <updated>2023-07-13T13:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Re Tweet update from the @r3vl_xyz team 
+https://twitter.com/r3vl_xyz/status/1679184791764074501
+
+Reveel | r3vl.xyz: Correction: submissions are open until midnight EST next FRIDAY, July 21st
+You have 10 days to complete your submissions and earn a piece of the $3k USDC bounties - make ‘em count👨‍💻
+Read our blog for more details and join our Discord to participate: https://mirror.xyz/r3vl.eth/7ZyJkX04E9ib0WSkG-HP_j3cPg8mD_wghGhnxaeb0IU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @r3vl_xyz D_D OG NFT Minter @alecdalel from @r3vl_xyz is on-hand to halp or answer questions. Let us know your ideas or questions in the replies �...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679463078541312004</id>
+        <link href="https://twitter.com/developer_dao/status/1679463078541312004"/>
+        <updated>2023-07-13T12:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @r3vl_xyz D_D OG NFT Minter @alecdalel from @r3vl_xyz is on-hand to halp or answer questions.
+Let us know your ideas or questions in the replies 🤝🏻]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @r3vl_xyz 🪧 How does the bounty program work The @r3vl_xyz team laid it out nicely for you in this post - https://buff.ly/43nudMY ➡️ Join thei...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679463077006258178</id>
+        <link href="https://twitter.com/developer_dao/status/1679463077006258178"/>
+        <updated>2023-07-13T12:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @r3vl_xyz 🪧  How does the bounty program work
+The @r3vl_xyz team laid it out nicely for you in this post - https://buff.ly/43nudMY 
+➡️  Join their discord - https://buff.ly/3rvqdgb 
+🎚️ 3 Tiers of bounty (writing, video & dev)
+👩🏽‍⚖️ Judged on SDK Integration, Docs and Creativity/Innovation https://t.co/jVB8ykAdyR]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @r3vl_xyz 🤔 What is Reveel? A trustless protocol for sharing revenue between Contributors or Collaborators on any project... Built by OG D_D Mem...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679463076158898178</id>
+        <link href="https://twitter.com/developer_dao/status/1679463076158898178"/>
+        <updated>2023-07-13T12:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @r3vl_xyz 🤔   What is Reveel?
+A trustless protocol for sharing revenue between Contributors or Collaborators on any project... 
+Built by OG D_D Members 🫡 
+V2 Brings massive gas -savings and the ability to go gasless if you want to.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missed our space with @r3vl_xyz ? Their $3,000 early access bounty program for writers ✍🏻 , video producers 📽️ and builders 🏗️ is still op...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679463075022340096</id>
+        <link href="https://twitter.com/developer_dao/status/1679463075022340096"/>
+        <updated>2023-07-13T12:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Missed our space with @r3vl_xyz ? 
+Their $3,000 early access bounty program for writers ✍🏻 , video producers 📽️  and builders 🏗️  is still open until Friday 21st 🔥  
+Help build trustless tools for the Collaboration economy 😎  
+Space catch-up and bounties details 👇🏻
+
+Developer DAO (🧱, 🚀): 📣Join us on #TwitterSpaces June 13, 5pm UTC (1pm EST) for the @r3vl_xyz V2 Bounty Program reveal! 🎉 Review, create, or even build an app & win cash 💰 up to $3000! Perfect chance to shape the future of on-chain collaboration.
+Set Your Reminders Here👇 
+https://buff.ly/3qGX0yI]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm @Algorand Huge thanks to the @PressStartCap team, the incredible me...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679179964908978176</id>
+        <link href="https://twitter.com/developer_dao/status/1679179964908978176"/>
+        <updated>2023-07-12T17:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm @Algorand Huge thanks to the @PressStartCap team, the incredible mentors and our Fellows.
+We're delighted to be helping to build the future with our frens 🫂 
+Keep an eye out for more content from the program coming soon !]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm @Algorand 🪧 DEMO DAY Thursday 20th July @ 5pm UTC Our successful...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679179963692646400</id>
+        <link href="https://twitter.com/developer_dao/status/1679179963692646400"/>
+        <updated>2023-07-12T17:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm @Algorand 🪧 DEMO DAY
+Thursday 20th July @ 5pm UTC
+Our successful Fellows will demo their projects to some of the industry's best VCs and Accelerators. 
+Limited spots are available, but if you'd like to hear these pitches, please RSVP below.
+https://buff.ly/3O4m4J8]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm @Algorand 🤖 Web3GPT Redefining the developer experience for bloc...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679179961025069057</id>
+        <link href="https://twitter.com/developer_dao/status/1679179961025069057"/>
+        <updated>2023-07-12T17:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm @Algorand 🤖 Web3GPT
+Redefining the developer experience for blockchain and smart contract development! 
+Leverage LLMs and AI Agents to deploy smart contracts, perform on-chain actions, and get real-time audit reports. Seamlessly supplement, accelerate, and fortify your building process. https://t.co/rr34UmrPPL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm AlgoAmm is an automated prediction market maker built on the @Algor...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679179958038716417</id>
+        <link href="https://twitter.com/developer_dao/status/1679179958038716417"/>
+        <updated>2023-07-12T17:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade @0xLendz @AlgoAmm
+AlgoAmm is an automated prediction market maker built on the @Algorand blockchain. 
+It provides users with the ability to trade on the outcomes of events and follow odds to gain accurate insights about the future. https://t.co/kn8wF2te2o]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade 💸 @0xlendz Lendz is the cheapest instant credit line for NFT whales. Unlock the tr...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679179956025446400</id>
+        <link href="https://twitter.com/developer_dao/status/1679179956025446400"/>
+        <updated>2023-07-12T17:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance @thefunarcade 💸 @0xlendz
+Lendz is the cheapest instant credit line for NFT whales. 
+Unlock the true potential of your NFTs with the best terms, lowest interest, and highest credit amount. Daily loan management is a thing of the past. https://t.co/NkiwhWCRpl]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance 🕹️ @thefunarcade Calling all gamers! Join The Arcade, where hyper-casual gaming competitions go...]]></title>
+        <id>https://twitter.com/developer_dao/status/1679179953731145728</id>
+        <link href="https://twitter.com/developer_dao/status/1679179953731145728"/>
+        <updated>2023-07-12T17:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Re @pressstartcap @DyveXYZ @hashleap @tazz_finance 🕹️ @thefunarcade 
+Calling all gamers! Join The Arcade, where hyper-casual gaming competitions go on-chain.
+ Choose your game, set the stakes, and compete with friends and communities. https://t.co/z8WK3inDUe]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Holly Hammer: Paris, here I come! Thrilled to be moderating the panel: "SocialFi: Balancing User-Centric Design w/ Decentralization & Security" at ...]]></title>
+        <id>https://twitter.com/holly_web3/status/1679076047004880896</id>
+        <link href="https://twitter.com/holly_web3/status/1679076047004880896"/>
+        <updated>2023-07-12T10:31:39.000Z</updated>
+        <summary type="html"><![CDATA[RT Holly Hammer
+Paris, here I come! 
+Thrilled to be moderating the panel: "SocialFi: Balancing User-Centric Design w/ Decentralization & Security" 
+at #InfraCon during @EthCC
+Thx @Biconomy & @ParticleNtwrk for hosting the event! Can't wait to meet great builders!
+#InfraCon #ParisBound https://t.co/lMjVDT2Gmu]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#78 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/78-probably-nothing</id>
