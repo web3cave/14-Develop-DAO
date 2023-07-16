@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T06:12:57.857Z</id>
+    <id>urn:2023-07-16T06:12:52.628Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-15T06:12:57.857Z</updated>
+    <updated>2023-07-16T06:12:52.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @olanetsoft https://twitter.com/developer_dao/status/1680329907715338240/photo/1]]></title>
+        <id>https://twitter.com/developer_dao/status/1680329907715338240</id>
+        <link href="https://twitter.com/developer_dao/status/1680329907715338240"/>
+        <updated>2023-07-15T21:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @olanetsoft https://twitter.com/developer_dao/status/1680329907715338240/photo/1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re Say it loudly for the folks in the back @wc49358]]></title>
         <id>https://twitter.com/developer_dao/status/1679992582099664903</id>
@@ -22,7 +32,7 @@
         <updated>2023-07-14T23:12:47.000Z</updated>
         <summary type="html"><![CDATA[All skills, no shills ™️
 
-tune into my D_D workshop on Friday!: 90 minutes of Docker content for web3!! thanks to everyone who gave advice on how to run it, and to everyone who tuned in 🔮]]></summary>
+thresh: 90 minutes of Docker content for web3!! thanks to everyone who gave advice on how to run it, and to everyone who tuned in 🔮]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -152,7 +162,7 @@ Don't sleep on this workshop today, it's set to be a banger.
 Using @Docker in web3 w/ @0xthresh
 RVSP in next tweet
 
-tune into my D_D workshop on Friday!: my helper repo for my D_D workshop tomorrow is ready to go! https://github.com/0xThresh/web3-docker-quickstart]]></summary>
+thresh: my helper repo for my D_D workshop tomorrow is ready to go! https://github.com/0xThresh/web3-docker-quickstart]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -214,16 +224,6 @@ We're delighted to welcome back @dabit3 for an updated workshop on Lens...
 Getting Started Building on Lens Protocol 🌱 
 This Thursday @ 9:30pm UTC
 RSVP in the next post 👇🏻 https://t.co/HDlQ15TMz8]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://twitter.com/i/spaces/1RDxlagzEpdKL]]></title>
-        <id>https://twitter.com/developer_dao/status/1679551312403529728</id>
-        <link href="https://twitter.com/developer_dao/status/1679551312403529728"/>
-        <updated>2023-07-13T18:00:12.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/i/spaces/1RDxlagzEpdKL]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
