@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-23T06:11:54.538Z</id>
+    <id>urn:2023-07-24T06:13:20.991Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-23T06:11:54.538Z</updated>
+    <updated>2023-07-24T06:13:20.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT xian 🌱: Big thanks to @developer_dao and @fluence_project for making @ETHGlobal Paris happen for me. I was supposed to fly home on the 20th, but...]]></title>
+        <id>https://twitter.com/seeinplays/status/1683090963801989120</id>
+        <link href="https://twitter.com/seeinplays/status/1683090963801989120"/>
+        <updated>2023-07-23T12:25:30.000Z</updated>
+        <summary type="html"><![CDATA[RT xian 🌱
+Big thanks to @developer_dao and @fluence_project for making @ETHGlobal Paris happen for me. 
+I was supposed to fly home on the 20th, but switch my flight to stay. 
+I had such a blast working on Wala]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT WalletConnect: Tell us you stayed up all night hacking at @ETHGlobal without telling us you stayed up all night hacking Our very own @developer_dao...]]></title>
+        <id>https://twitter.com/WalletConnect/status/1683045733887344640</id>
+        <link href="https://twitter.com/WalletConnect/status/1683045733887344640"/>
+        <updated>2023-07-23T09:25:47.000Z</updated>
+        <summary type="html"><![CDATA[RT WalletConnect
+Tell us you stayed up all night hacking at @ETHGlobal without telling us you stayed up all night hacking
+Our very own @developer_dao hacker team really leaving it all out there 😂👏🏽]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Only Arweave: Big shoutout to the crew at @developer_dao 🙌. So many amazing builders in the Arweave ecosystem have come from D_D, and everyone i...]]></title>
         <id>https://twitter.com/onlyarweave/status/1682786209683345408</id>
@@ -15,80 +40,17 @@ Big shoutout to the crew at @developer_dao 🙌.
 So many amazing builders in the Arweave ecosystem have come from D_D, and everyone is grateful for that.  
 And (!!) the amount of positive impact @dabit3 has had on the Arweave community is frankly extraordinary.
 
-Developer DAO (🧱, 🚀): This Wednesday July 26th 4PMUTC/8amPST/11amEST set your reminders for this amazing D_D member opportunity. https://buff.ly/3K7CJsV Come get the low down about @onlyarweave hackathon with long time D_D members @pbillingsby_  @wise_Tyy hosted by @wc49358 so you know it will be good https://t.co/SiimBgyMXA]]></summary>
+Developer DAO (🧱, 🚀): This Wednesday July 26th 4PMUTC/8amPST/11amEST set your reminders for this amazing D_D member opportunity. https://buff.ly/3K7CJsV Come get the low down about @onlyarweave hackathon with long time D_D members @pbillingsby_  @wise_Tyy hosted by @wc49358 so you know it will be good]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re https://twitter.com/i/spaces/1YqKDoogYlAxV]]></title>
-        <id>https://twitter.com/developer_dao/status/1682771832858877952</id>
-        <link href="https://twitter.com/developer_dao/status/1682771832858877952"/>
-        <updated>2023-07-22T15:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Re https://twitter.com/i/spaces/1YqKDoogYlAxV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Wednesday July 26th 4PMUTC/8amPST/11amEST set your reminders for this amazing D_D member opportunity. https://buff.ly/3K7CJsV Come get the low do...]]></title>
-        <id>https://twitter.com/developer_dao/status/1682767671933251585</id>
-        <link href="https://twitter.com/developer_dao/status/1682767671933251585"/>
-        <updated>2023-07-22T15:00:51.000Z</updated>
-        <summary type="html"><![CDATA[This Wednesday July 26th 4PMUTC/8amPST/11amEST set your reminders for this amazing D_D member opportunity. https://buff.ly/3K7CJsV Come get the low down about @onlyarweave hackathon with long time D_D members @pbillingsby_  @wise_Tyy hosted by @wc49358 so you know it will be good https://t.co/SiimBgyMXA]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Aayush_gupta_ji @QuickNode BUIDL]]></title>
-        <id>https://twitter.com/developer_dao/status/1682440311912407059</id>
-        <link href="https://twitter.com/developer_dao/status/1682440311912407059"/>
-        <updated>2023-07-21T17:20:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @Aayush_gupta_ji @QuickNode BUIDL]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Envoy_1084 @MinaProtocol Epic effort @Envoy_1084 Congrats on picking up multiple bounties 😎]]></title>
-        <id>https://twitter.com/developer_dao/status/1682439837331103744</id>
-        <link href="https://twitter.com/developer_dao/status/1682439837331103744"/>
-        <updated>2023-07-21T17:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Re @Envoy_1084 @MinaProtocol Epic effort @Envoy_1084 
-Congrats on picking up multiple bounties 😎]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://twitter.com/developer_dao/status/1682431966917042177/photo/1]]></title>
+        <title type="html"><![CDATA[Untitled]]></title>
         <id>https://twitter.com/developer_dao/status/1682431966917042177</id>
         <link href="https://twitter.com/developer_dao/status/1682431966917042177"/>
         <updated>2023-07-21T16:46:53.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/developer_dao/status/1682431966917042177/photo/1
-
-10x’er: this is my morning alarm https://t.co/R2PsPFajJJ]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @unhappiimochii @thatguyintech @MinaProtocol @streamr @Mailchain_xyz @subsquid @LitProtocol @Sismo_eth @Superfluid_HQ @BuildOnBase @jessepollak �...]]></title>
-        <id>https://twitter.com/developer_dao/status/1682431645293371392</id>
-        <link href="https://twitter.com/developer_dao/status/1682431645293371392"/>
-        <updated>2023-07-21T16:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Re @unhappiimochii @thatguyintech @MinaProtocol @streamr @Mailchain_xyz @subsquid @LitProtocol @Sismo_eth @Superfluid_HQ @BuildOnBase @jessepollak 👀👀👀👀]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @wc49358 @lizabazurto @BuildOnBase Did someone say developers? 👀]]></title>
-        <id>https://twitter.com/developer_dao/status/1682428933629673472</id>
-        <link href="https://twitter.com/developer_dao/status/1682428933629673472"/>
-        <updated>2023-07-21T16:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Re @wc49358 @lizabazurto @BuildOnBase Did someone say developers? 👀]]></summary>
+        <summary type="html"><![CDATA[10x’er: this is my morning alarm]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -102,30 +64,6 @@ Congrats on picking up multiple bounties 😎]]></summary>
 🗣️ @devntellxyz is now live with @sathaxe and @samraaj, hosted by @narb_s 
 👉 Come hang out and learn about @bifrostcode
 https://buff.ly/3DjOpoC]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re https://forum.developerdao.com/t/draft-labs-budget-2023-q3/2769]]></title>
-        <id>https://twitter.com/developer_dao/status/1682394431033589766</id>
-        <link href="https://twitter.com/developer_dao/status/1682394431033589766"/>
-        <updated>2023-07-21T14:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Re https://forum.developerdao.com/t/draft-labs-budget-2023-q3/2769]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⚡ Snapshot proposal live Labs Budget - 2023-Q3 https://snapshot.org/#/devdao.eth/proposal/0xa4e9c1cf86839fb6682ceed5e2b33d95ba4182aa4bb6072840fcddd5e...]]></title>
-        <id>https://twitter.com/developer_dao/status/1682394428940464133</id>
-        <link href="https://twitter.com/developer_dao/status/1682394428940464133"/>
-        <updated>2023-07-21T14:17:43.000Z</updated>
-        <summary type="html"><![CDATA[⚡ Snapshot proposal live 
-Labs Budget - 2023-Q3
-https://snapshot.org/#/devdao.eth/proposal/0xa4e9c1cf86839fb6682ceed5e2b33d95ba4182aa4bb6072840fcddd5e66370e7
-5 day voting period ends Jul 25, 2023, 3:30 PM - please cast your votes 🗳️
-On-going forum discussion linked in following tweet]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -145,30 +83,7 @@ Developer DAO (🧱, 🚀): 🚨  @minaprotocol x D_D    🚨
 This hackathon was a great success wrapping up with 30 submissions after 8 days of hacking!  There were so many great submissions, but we've narrowed it all down to:
 3 Overal Winners
 3 Blog Winners
-3 Starter Kit Winners https://t.co/8rmXKrc9wO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Rahatcodes @tonyolendo more love https://twitter.com/seeinplays/status/1682011960903102464]]></title>
-        <id>https://twitter.com/developer_dao/status/1682052152347205632</id>
-        <link href="https://twitter.com/developer_dao/status/1682052152347205632"/>
-        <updated>2023-07-20T15:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Re @Rahatcodes @tonyolendo more love 
-https://twitter.com/seeinplays/status/1682011960903102464
-
-xian 🌱: Took pics with the pointy thing @developer_dao https://t.co/7Jh13V90jg]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @seeinplays @kayprasla @web3djen @YasmeenRoumie @mannyornothing @codingwithmanny @tchowd_ @_finessevanes @kvncnls @niftyclaudia 🩷🗼🫂s]]></title>
-        <id>https://twitter.com/developer_dao/status/1682051895970365440</id>
-        <link href="https://twitter.com/developer_dao/status/1682051895970365440"/>
-        <updated>2023-07-20T15:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Re @seeinplays @kayprasla @web3djen @YasmeenRoumie @mannyornothing @codingwithmanny @tchowd_ @_finessevanes @kvncnls @niftyclaudia 🩷🗼🫂s]]></summary>
+3 Starter Kit Winners]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -187,63 +102,6 @@ https://buff.ly/3K74dPh]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @shikkhar_ @pressstartcap ☝🏻]]></title>
-        <id>https://twitter.com/developer_dao/status/1682014577016414208</id>
-        <link href="https://twitter.com/developer_dao/status/1682014577016414208"/>
-        <updated>2023-07-20T13:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Re @shikkhar_ @pressstartcap ☝🏻]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good luck to all the @pressstartcap X Developer DAO Fellows pitching at demo day today 🤝 Huge thanks again to the @pressstartcap team, the mentors ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1682000294505324545</id>
-        <link href="https://twitter.com/developer_dao/status/1682000294505324545"/>
-        <updated>2023-07-20T12:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Good luck to all the @pressstartcap X Developer DAO Fellows pitching at demo day today 🤝
-Huge thanks again to the @pressstartcap team, the mentors and all the fellows.
-We’re excited to see what everyone has built 🪄
-
-Developer DAO (🧱, 🚀): 🗣️ Announcing our Fellows and Demo-day for the inaugural @PressStartCap X D_D Fellowship Program. 
-🏆 9 Successful Projects (2 in stealth 🥷)
-🏦 $15k SAFE Grants 
-👭🏻 7 Week Mentorship Program 
-🪧 Demo-day July 20th 
-Check out our Fellows and demo-day details below 👇🏻 https://t.co/pkD7ErLzm0]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT krinza.eth: https://twitter.com/i/web/status/1681918106413723648 https://t.co/qgcV6pJv6s]]></title>
-        <id>https://twitter.com/kayprasla/status/1681918106413723648</id>
-        <link href="https://twitter.com/kayprasla/status/1681918106413723648"/>
-        <updated>2023-07-20T06:44:59.000Z</updated>
-        <summary type="html"><![CDATA[RT krinza.eth
-https://twitter.com/i/web/status/1681918106413723648 https://t.co/qgcV6pJv6s
-
-
-krinza.eth: a cute DIY picnic with @developer_dao frens around eiffel tower
-is what I'm living for.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️: Join us this Friday July 21st at 3:30pm UTC for another episode of our long running @devntellxyz series 👉 Details and link ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1681876723120455683</id>
-        <link href="https://twitter.com/developer_dao/status/1681876723120455683"/>
-        <updated>2023-07-20T04:00:33.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️: Join us this Friday July 21st at 3:30pm UTC for another episode of our long running @devntellxyz series 
-👉 Details and link to RSVP for the event: 
-https://buff.ly/3K74dPh]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): 🗣️ CALLING ALL MEMBERS After the success of our @minaprotocol, @streamr and @Mailchain_xyz hacks, we're planning ma...]]></title>
         <id>https://twitter.com/developer_dao/status/1681625686430162945</id>
         <link href="https://twitter.com/developer_dao/status/1681625686430162945"/>
@@ -252,7 +110,7 @@ https://buff.ly/3K74dPh]]></summary>
 🗣️  CALLING ALL MEMBERS
 After the success of our @minaprotocol, @streamr and @Mailchain_xyz hacks, we're planning many more to keep builders building 🏗️ 
 Who would YOU like to see D_D Mini-Hacks with next? 
-Tag your fav protocol👇🏻  and we'll try to make it happen 🤝🏻 https://t.co/AAPsyQPxy7]]></summary>
+Tag your fav protocol👇🏻  and we'll try to make it happen 🤝🏻]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
