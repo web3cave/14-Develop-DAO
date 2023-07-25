@@ -1,118 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T06:13:20.991Z</id>
+    <id>urn:2023-07-25T06:12:46.326Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-24T06:13:20.991Z</updated>
+    <updated>2023-07-25T06:12:46.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[RT xian 🌱: Big thanks to @developer_dao and @fluence_project for making @ETHGlobal Paris happen for me. I was supposed to fly home on the 20th, but...]]></title>
-        <id>https://twitter.com/seeinplays/status/1683090963801989120</id>
-        <link href="https://twitter.com/seeinplays/status/1683090963801989120"/>
-        <updated>2023-07-23T12:25:30.000Z</updated>
-        <summary type="html"><![CDATA[RT xian 🌱
-Big thanks to @developer_dao and @fluence_project for making @ETHGlobal Paris happen for me. 
-I was supposed to fly home on the 20th, but switch my flight to stay. 
-I had such a blast working on Wala]]></summary>
+        <title type="html"><![CDATA[#80 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/80-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/80-probably-nothing"/>
+        <updated>2023-07-24T13:48:44.000Z</updated>
+        <summary type="html"><![CDATA[💰 New Arweave hackathon, Mina hackathon winners, and more 👀]]></summary>
         <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT WalletConnect: Tell us you stayed up all night hacking at @ETHGlobal without telling us you stayed up all night hacking Our very own @developer_dao...]]></title>
-        <id>https://twitter.com/WalletConnect/status/1683045733887344640</id>
-        <link href="https://twitter.com/WalletConnect/status/1683045733887344640"/>
-        <updated>2023-07-23T09:25:47.000Z</updated>
-        <summary type="html"><![CDATA[RT WalletConnect
-Tell us you stayed up all night hacking at @ETHGlobal without telling us you stayed up all night hacking
-Our very own @developer_dao hacker team really leaving it all out there 😂👏🏽]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Only Arweave: Big shoutout to the crew at @developer_dao 🙌. So many amazing builders in the Arweave ecosystem have come from D_D, and everyone i...]]></title>
-        <id>https://twitter.com/onlyarweave/status/1682786209683345408</id>
-        <link href="https://twitter.com/onlyarweave/status/1682786209683345408"/>
-        <updated>2023-07-22T16:14:31.000Z</updated>
-        <summary type="html"><![CDATA[RT Only Arweave
-Big shoutout to the crew at @developer_dao 🙌.  
-So many amazing builders in the Arweave ecosystem have come from D_D, and everyone is grateful for that.  
-And (!!) the amount of positive impact @dabit3 has had on the Arweave community is frankly extraordinary.
-
-Developer DAO (🧱, 🚀): This Wednesday July 26th 4PMUTC/8amPST/11amEST set your reminders for this amazing D_D member opportunity. https://buff.ly/3K7CJsV Come get the low down about @onlyarweave hackathon with long time D_D members @pbillingsby_  @wise_Tyy hosted by @wc49358 so you know it will be good]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/developer_dao/status/1682431966917042177</id>
-        <link href="https://twitter.com/developer_dao/status/1682431966917042177"/>
-        <updated>2023-07-21T16:46:53.000Z</updated>
-        <summary type="html"><![CDATA[10x’er: this is my morning alarm]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @sathaxe and @samraaj, hosted by @narb_s 👉 Come hang out and learn about @bifrostcode https://...]]></title>
-        <id>https://twitter.com/developer_dao/status/1682412716609224710</id>
-        <link href="https://twitter.com/developer_dao/status/1682412716609224710"/>
-        <updated>2023-07-21T15:30:24.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️ @devntellxyz is now live with @sathaxe and @samraaj, hosted by @narb_s 
-👉 Come hang out and learn about @bifrostcode
-https://buff.ly/3DjOpoC]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Vedant | envoy1084.eth/lens 🛠: Participated in @developer_dao x @MinaProtocol Hackathon this week and the results are out 🥁🥁🥁 🏆 Won ...]]></title>
-        <id>https://twitter.com/Envoy_1084/status/1682361492195225600</id>
-        <link href="https://twitter.com/Envoy_1084/status/1682361492195225600"/>
-        <updated>2023-07-21T12:06:51.000Z</updated>
-        <summary type="html"><![CDATA[RT Vedant | envoy1084.eth/lens 🛠
-Participated in @developer_dao x @MinaProtocol Hackathon this week and the results are out 🥁🥁🥁
-🏆 Won third place overall for zkTalents and among the three blog post winners.
-Here's what we made ⬇️
-
-Developer DAO (🧱, 🚀): 🚨  @minaprotocol x D_D    🚨 
-🚨 HACKATHON WINNERS 🚨 
-This hackathon was a great success wrapping up with 30 submissions after 8 days of hacking!  There were so many great submissions, but we've narrowed it all down to:
-3 Overal Winners
-3 Blog Winners
-3 Starter Kit Winners]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @bifrostcode co-founders @sathaxe and @samraaj, hosted by @narb_s 👉 Details an...]]></title>
-        <id>https://twitter.com/developer_dao/status/1682042979853414402</id>
-        <link href="https://twitter.com/developer_dao/status/1682042979853414402"/>
-        <updated>2023-07-20T15:01:11.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-You won't want to miss tomorrow’s @devntellxyz with @bifrostcode co-founders @sathaxe and @samraaj, hosted by @narb_s 
-👉 Details and link to RSVP for this weeks event:
-https://buff.ly/3K74dPh]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): 🗣️ CALLING ALL MEMBERS After the success of our @minaprotocol, @streamr and @Mailchain_xyz hacks, we're planning ma...]]></title>
-        <id>https://twitter.com/developer_dao/status/1681625686430162945</id>
-        <link href="https://twitter.com/developer_dao/status/1681625686430162945"/>
-        <updated>2023-07-19T11:23:01.000Z</updated>
-        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
-🗣️  CALLING ALL MEMBERS
-After the success of our @minaprotocol, @streamr and @Mailchain_xyz hacks, we're planning many more to keep builders building 🏗️ 
-Who would YOU like to see D_D Mini-Hacks with next? 
-Tag your fav protocol👇🏻  and we'll try to make it happen 🤝🏻]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
+            <name>Sylvia R.</name>
         </author>
     </entry>
     <entry>

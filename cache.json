@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/80-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "💰 New Arweave hackathon, Mina hackathon winners, and more 👀",
+          "link": "https://developerdao.substack.com/p/80-probably-nothing",
+          "publishedOn": "2023-07-24T13:48:44.000Z",
+          "wordCount": null,
+          "title": "#80 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6df34076-9c8a-4091-b416-14b522de2023_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6df34076-9c8a-4091-b416-14b522de2023_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/79-probably-nothing",
           "author": "Sylvia R.",
           "description": "🥐 D_D at EthCC Paris, Press Start Cap Fellowship projects, and so much more 🤯",
@@ -68,93 +84,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c6c72c4-3739-49a7-8cb1-6bee6a2df5aa_1600x900.png"
-        }
-      ]
-    },
-    {
-      "title": "Twitter @Developer DAO (🧱, 🚀)",
-      "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
-      "siteUrl": "https://twitter.com/developer_dao",
-      "articles": [
-        {
-          "id": "https://twitter.com/seeinplays/status/1683090963801989120",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT xian 🌱\nBig thanks to @developer_dao and @fluence_project for making @ETHGlobal Paris happen for me. \nI was supposed to fly home on the 20th, but switch my flight to stay. \nI had such a blast working on Wala",
-          "link": "https://twitter.com/seeinplays/status/1683090963801989120",
-          "publishedOn": "2023-07-23T12:25:30.000Z",
-          "wordCount": null,
-          "title": "RT xian 🌱: Big thanks to @developer_dao and @fluence_project for making @ETHGlobal Paris happen for me. I was supposed to fly home on the 20th, but...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/WalletConnect/status/1683045733887344640",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT WalletConnect\nTell us you stayed up all night hacking at @ETHGlobal without telling us you stayed up all night hacking\nOur very own @developer_dao hacker team really leaving it all out there 😂👏🏽",
-          "link": "https://twitter.com/WalletConnect/status/1683045733887344640",
-          "publishedOn": "2023-07-23T09:25:47.000Z",
-          "wordCount": null,
-          "title": "RT WalletConnect: Tell us you stayed up all night hacking at @ETHGlobal without telling us you stayed up all night hacking Our very own @developer_dao...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/onlyarweave/status/1682786209683345408",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Only Arweave\nBig shoutout to the crew at @developer_dao 🙌.  \nSo many amazing builders in the Arweave ecosystem have come from D_D, and everyone is grateful for that.  \nAnd (!!) the amount of positive impact @dabit3 has had on the Arweave community is frankly extraordinary.\n\nDeveloper DAO (🧱, 🚀): This Wednesday July 26th 4PMUTC/8amPST/11amEST set your reminders for this amazing D_D member opportunity. https://buff.ly/3K7CJsV Come get the low down about @onlyarweave hackathon with long time D_D members @pbillingsby_  @wise_Tyy hosted by @wc49358 so you know it will be good",
-          "link": "https://twitter.com/onlyarweave/status/1682786209683345408",
-          "publishedOn": "2023-07-22T16:14:31.000Z",
-          "wordCount": null,
-          "title": "RT Only Arweave: Big shoutout to the crew at @developer_dao 🙌. So many amazing builders in the Arweave ecosystem have come from D_D, and everyone i...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1682431966917042177",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "10x’er: this is my morning alarm",
-          "link": "https://twitter.com/developer_dao/status/1682431966917042177",
-          "publishedOn": "2023-07-21T16:46:53.000Z",
-          "wordCount": null,
-          "title": "Untitled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1682412716609224710",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n🗣️ @devntellxyz is now live with @sathaxe and @samraaj, hosted by @narb_s \n👉 Come hang out and learn about @bifrostcode\nhttps://buff.ly/3DjOpoC",
-          "link": "https://twitter.com/developer_dao/status/1682412716609224710",
-          "publishedOn": "2023-07-21T15:30:24.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ 🗣️ @devntellxyz is now live with @sathaxe and @samraaj, hosted by @narb_s 👉 Come hang out and learn about @bifrostcode https://...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Envoy_1084/status/1682361492195225600",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Vedant | envoy1084.eth/lens 🛠\nParticipated in @developer_dao x @MinaProtocol Hackathon this week and the results are out 🥁🥁🥁\n🏆 Won third place overall for zkTalents and among the three blog post winners.\nHere's what we made ⬇️\n\nDeveloper DAO (🧱, 🚀): 🚨  @minaprotocol x D_D    🚨 \n🚨 HACKATHON WINNERS 🚨 \nThis hackathon was a great success wrapping up with 30 submissions after 8 days of hacking!  There were so many great submissions, but we've narrowed it all down to:\n3 Overal Winners\n3 Blog Winners\n3 Starter Kit Winners",
-          "link": "https://twitter.com/Envoy_1084/status/1682361492195225600",
-          "publishedOn": "2023-07-21T12:06:51.000Z",
-          "wordCount": null,
-          "title": "RT Vedant | envoy1084.eth/lens 🛠: Participated in @developer_dao x @MinaProtocol Hackathon this week and the results are out 🥁🥁🥁 🏆 Won ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1682042979853414402",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \nYou won't want to miss tomorrow’s @devntellxyz with @bifrostcode co-founders @sathaxe and @samraaj, hosted by @narb_s \n👉 Details and link to RSVP for this weeks event:\nhttps://buff.ly/3K74dPh",
-          "link": "https://twitter.com/developer_dao/status/1682042979853414402",
-          "publishedOn": "2023-07-20T15:01:11.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ You won't want to miss tomorrow’s @devntellxyz with @bifrostcode co-founders @sathaxe and @samraaj, hosted by @narb_s 👉 Details an...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1681625686430162945",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Developer DAO (🧱, 🚀)\n🗣️  CALLING ALL MEMBERS\nAfter the success of our @minaprotocol, @streamr and @Mailchain_xyz hacks, we're planning many more to keep builders building 🏗️ \nWho would YOU like to see D_D Mini-Hacks with next? \nTag your fav protocol👇🏻  and we'll try to make it happen 🤝🏻",
-          "link": "https://twitter.com/developer_dao/status/1681625686430162945",
-          "publishedOn": "2023-07-19T11:23:01.000Z",
-          "wordCount": null,
-          "title": "RT Developer DAO (🧱, 🚀): 🗣️ CALLING ALL MEMBERS After the success of our @minaprotocol, @streamr and @Mailchain_xyz hacks, we're planning ma...",
-          "imageUrl": null
         }
       ]
     },
