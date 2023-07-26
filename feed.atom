@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-25T06:12:46.326Z</id>
+    <id>urn:2023-07-26T06:12:01.438Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-25T06:12:46.326Z</updated>
+    <updated>2023-07-26T06:12:01.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -50,16 +50,6 @@
         <link href="https://developerdao.substack.com/p/77-probably-nothing"/>
         <updated>2023-07-03T12:46:53.000Z</updated>
         <summary type="html"><![CDATA[👀 Mina Hackathon submission deadline, ETHGlobal Paris sponsorships, & much more]]></summary>
-        <author>
-            <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#76 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/76-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/76-probably-nothing"/>
-        <updated>2023-06-26T11:54:31.000Z</updated>
-        <summary type="html"><![CDATA[🏁 D_D x Mina Hackathon kicks off today with $10,000 in prizes 🤝]]></summary>
         <author>
             <name>Sylvia R.</name>
         </author>
