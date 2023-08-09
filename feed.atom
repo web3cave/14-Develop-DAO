@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-08T06:12:04.344Z</id>
+    <id>urn:2023-08-09T06:12:32.152Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-08T06:12:04.344Z</updated>
+    <updated>2023-08-09T06:12:32.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,16 +31,6 @@
         <link href="https://developerdao.substack.com/p/79-probably-nothing"/>
         <updated>2023-07-17T13:11:10.000Z</updated>
         <summary type="html"><![CDATA[🥐 D_D at EthCC Paris, Press Start Cap Fellowship projects, and so much more 🤯]]></summary>
-        <author>
-            <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#78 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/78-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/78-probably-nothing"/>
-        <updated>2023-07-10T12:21:11.000Z</updated>
-        <summary type="html"><![CDATA[🇫🇷 Heading to EthCC in Paris? Say hi to other D_D members 😎]]></summary>
         <author>
             <name>Sylvia R.</name>
         </author>
