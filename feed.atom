@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T06:11:50.804Z</id>
+    <id>urn:2023-08-23T06:12:03.239Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-22T06:11:50.804Z</updated>
+    <updated>2023-08-23T06:12:03.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -31,16 +31,6 @@
         <link href="https://developerdao.substack.com/p/81-probably-nothing"/>
         <updated>2023-07-31T13:27:33.000Z</updated>
         <summary type="html"><![CDATA[💻 Arweave Hackathon, new Praise system in Discord, and more 👀]]></summary>
-        <author>
-            <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#80 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/80-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/80-probably-nothing"/>
-        <updated>2023-07-24T13:48:44.000Z</updated>
-        <summary type="html"><![CDATA[💰 New Arweave hackathon, Mina hackathon winners, and more 👀]]></summary>
         <author>
             <name>Sylvia R.</name>
         </author>
