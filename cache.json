@@ -52,22 +52,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F479ddcd2-08c6-4ae5-abf6-ee8f4b511989_1177x668.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/81-probably-nothing",
-          "author": "Sylvia R.",
-          "description": "💻 Arweave Hackathon, new Praise system in Discord, and more 👀",
-          "link": "https://developerdao.substack.com/p/81-probably-nothing",
-          "publishedOn": "2023-07-31T13:27:33.000Z",
-          "wordCount": null,
-          "title": "#81 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F660f0ede-880b-4713-8960-e006e85b712f_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F660f0ede-880b-4713-8960-e006e85b712f_1600x900.png"
         }
       ]
     },
