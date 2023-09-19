@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/87-probably-nothing",
+          "author": "Sylvia R.",
+          "description": "🥁 Join us for the D_D Town Hall this Tue, Sep 19 🤝",
+          "link": "https://developerdao.substack.com/p/87-probably-nothing",
+          "publishedOn": "2023-09-18T13:00:25.000Z",
+          "wordCount": null,
+          "title": "#87 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F323f4e05-756c-409c-a216-5f93ad41700f_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F323f4e05-756c-409c-a216-5f93ad41700f_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/86-probably-nothing",
           "author": "Sylvia R.",
           "description": "💸 Grants after the end of the D_D x Phala hack, jobs, and more 👀",
