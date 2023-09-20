@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-19T06:12:50.413Z</id>
+    <id>urn:2023-09-20T06:12:51.021Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-19T06:12:50.413Z</updated>
+    <updated>2023-09-20T06:12:51.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -41,16 +41,6 @@
         <link href="https://developerdao.substack.com/p/84-probably-nothing"/>
         <updated>2023-08-28T12:00:05.000Z</updated>
         <summary type="html"><![CDATA[👾 Phala Hackathon Part I complete, free job listings for web3 orgs on the D_D job board, and more 🫂]]></summary>
-        <author>
-            <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#83 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/83-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/83-probably-nothing"/>
-        <updated>2023-08-21T11:55:03.000Z</updated>
-        <summary type="html"><![CDATA[👩‍💻 Phala Hackathon Series Kick-off, D_D Fridays, and more 😎]]></summary>
         <author>
             <name>Sylvia R.</name>
         </author>
