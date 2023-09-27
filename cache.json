@@ -7,7 +7,7 @@
       "articles": [
         {
           "id": "https://developerdao.substack.com/p/88-probably-nothing",
-          "author": "Sylvia R.",
+          "author": "sylvanscenes",
           "description": "🤝 D_D membership perks & scholarships incoming 👀",
           "link": "https://developerdao.substack.com/p/88-probably-nothing",
           "publishedOn": "2023-09-25T11:06:46.000Z",
@@ -23,7 +23,7 @@
         },
         {
           "id": "https://developerdao.substack.com/p/87-probably-nothing",
-          "author": "Sylvia R.",
+          "author": "sylvanscenes",
           "description": "🥁 Join us for the D_D Town Hall this Tue, Sep 19 🤝",
           "link": "https://developerdao.substack.com/p/87-probably-nothing",
           "publishedOn": "2023-09-18T13:00:25.000Z",
@@ -39,7 +39,7 @@
         },
         {
           "id": "https://developerdao.substack.com/p/86-probably-nothing",
-          "author": "Sylvia R.",
+          "author": "sylvanscenes",
           "description": "💸 Grants after the end of the D_D x Phala hack, jobs, and more 👀",
           "link": "https://developerdao.substack.com/p/86-probably-nothing",
           "publishedOn": "2023-09-11T13:01:06.000Z",
@@ -55,7 +55,7 @@
         },
         {
           "id": "https://developerdao.substack.com/p/85-probably-nothing",
-          "author": "Sylvia R.",
+          "author": "sylvanscenes",
           "description": "💻 Phala x D_D Hackathon Part II kicks off, top 3 blog posts for August, and more 🤩",
           "link": "https://developerdao.substack.com/p/85-probably-nothing",
           "publishedOn": "2023-09-04T13:01:07.000Z",
@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d781b81-2605-4e01-83a1-d9a20f69411a_1600x900.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/84-probably-nothing",
-          "author": "Sylvia R.",
-          "description": "👾 Phala Hackathon Part I complete, free job listings for web3 orgs on the D_D job board, and more 🫂",
-          "link": "https://developerdao.substack.com/p/84-probably-nothing",
-          "publishedOn": "2023-08-28T12:00:05.000Z",
-          "wordCount": null,
-          "title": "#84 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd84e07-416c-4e2f-9ce2-3eba43889a9c_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd84e07-416c-4e2f-9ce2-3eba43889a9c_1600x900.png"
         }
       ]
     },

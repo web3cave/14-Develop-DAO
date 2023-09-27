@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T06:12:49.346Z</id>
+    <id>urn:2023-09-27T06:12:44.435Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T06:12:49.346Z</updated>
+    <updated>2023-09-27T06:12:44.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2023-09-25T11:06:46.000Z</updated>
         <summary type="html"><![CDATA[🤝 D_D membership perks & scholarships incoming 👀]]></summary>
         <author>
-            <name>Sylvia R.</name>
+            <name>sylvanscenes</name>
         </author>
     </entry>
     <entry>
@@ -22,7 +22,7 @@
         <updated>2023-09-18T13:00:25.000Z</updated>
         <summary type="html"><![CDATA[🥁 Join us for the D_D Town Hall this Tue, Sep 19 🤝]]></summary>
         <author>
-            <name>Sylvia R.</name>
+            <name>sylvanscenes</name>
         </author>
     </entry>
     <entry>
@@ -32,7 +32,7 @@
         <updated>2023-09-11T13:01:06.000Z</updated>
         <summary type="html"><![CDATA[💸 Grants after the end of the D_D x Phala hack, jobs, and more 👀]]></summary>
         <author>
-            <name>Sylvia R.</name>
+            <name>sylvanscenes</name>
         </author>
     </entry>
     <entry>
@@ -42,17 +42,7 @@
         <updated>2023-09-04T13:01:07.000Z</updated>
         <summary type="html"><![CDATA[💻 Phala x D_D Hackathon Part II kicks off, top 3 blog posts for August, and more 🤩]]></summary>
         <author>
-            <name>Sylvia R.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#84 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/84-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/84-probably-nothing"/>
-        <updated>2023-08-28T12:00:05.000Z</updated>
-        <summary type="html"><![CDATA[👾 Phala Hackathon Part I complete, free job listings for web3 orgs on the D_D job board, and more 🫂]]></summary>
-        <author>
-            <name>Sylvia R.</name>
+            <name>sylvanscenes</name>
         </author>
     </entry>
 </feed>
