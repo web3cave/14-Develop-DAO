@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-02T06:13:21.988Z</id>
+    <id>urn:2023-10-03T06:12:48.597Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-02T06:13:21.988Z</updated>
+    <updated>2023-10-03T06:12:48.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#89 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/89-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/89-probably-nothing"/>
+        <updated>2023-10-02T13:32:02.000Z</updated>
+        <summary type="html"><![CDATA[🤩 Zerion x D_D partnership, Phala Hackathon winners, D_D scholarships, and much more 👀]]></summary>
+        <author>
+            <name>sylvanscenes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#88 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/88-probably-nothing</id>

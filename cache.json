@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/89-probably-nothing",
+          "author": "sylvanscenes",
+          "description": "🤩 Zerion x D_D partnership, Phala Hackathon winners, D_D scholarships, and much more 👀",
+          "link": "https://developerdao.substack.com/p/89-probably-nothing",
+          "publishedOn": "2023-10-02T13:32:02.000Z",
+          "wordCount": null,
+          "title": "#89 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33b6639d-0ae4-4b44-870e-48834b9b4bd8_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33b6639d-0ae4-4b44-870e-48834b9b4bd8_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/88-probably-nothing",
           "author": "sylvanscenes",
           "description": "🤝 D_D membership perks & scholarships incoming 👀",
