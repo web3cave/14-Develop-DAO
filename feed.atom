@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-07T06:12:29.199Z</id>
+    <id>urn:2023-11-08T06:12:56.593Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-07T06:12:29.199Z</updated>
+    <updated>2023-11-08T06:12:56.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -43,16 +43,6 @@
         <summary type="html"><![CDATA[🌱 Eden Protocol, ETH London, Town Hall recap, and more 🏗️]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#90 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/90-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/90-probably-nothing"/>
-        <updated>2023-10-09T11:35:58.000Z</updated>
-        <summary type="html"><![CDATA[😎 D_D scholarships, Eden sign-up rewards, and more 👀]]></summary>
-        <author>
-            <name>sylvanscenes</name>
         </author>
     </entry>
 </feed>
