@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-13T06:13:08.983Z</id>
+    <id>urn:2023-11-14T06:13:28.067Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-13T06:13:08.983Z</updated>
+    <updated>2023-11-14T06:13:28.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#95 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/95-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/95-probably-nothing"/>
+        <updated>2023-11-13T12:00:43.000Z</updated>
+        <summary type="html"><![CDATA[🫂 POKT thread contest & perks for members, Chainbase Hackathon winners, and more 👾]]></summary>
+        <author>
+            <name>Osikhena James Oshomah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#94 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/94-probably-nothing</id>
