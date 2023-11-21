@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/96-probably-nothing",
+          "author": "Osikhena James Oshomah",
+          "description": "👾 POKT perks, request for content elevation ideas, and more 👀",
+          "link": "https://developerdao.substack.com/p/96-probably-nothing",
+          "publishedOn": "2023-11-20T12:42:48.000Z",
+          "wordCount": null,
+          "title": "#96 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b797b53-ece0-4090-9fa3-620e88203716_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b797b53-ece0-4090-9fa3-620e88203716_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/95-probably-nothing",
           "author": "Osikhena James Oshomah",
           "description": "🫂 POKT thread contest & perks for members, Chainbase Hackathon winners, and more 👾",
