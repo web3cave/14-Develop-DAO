@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-01T06:13:19.390Z</id>
+    <id>urn:2023-12-02T06:12:23.853Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-01T06:13:19.390Z</updated>
+    <updated>2023-12-02T06:12:23.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE with @_nasj from @hashleap, hosted by @narb_s 👉 Come see Nasir demo a couple of new Hashleap features that can...]]></title>
+        <id>https://twitter.com/developer_dao/status/1730625337560588701</id>
+        <link href="https://twitter.com/developer_dao/status/1730625337560588701"/>
+        <updated>2023-12-01T16:30:08.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+@devntellxyz is LIVE with @_nasj from @hashleap, hosted by @narb_s 
+👉 Come see Nasir demo a couple of new Hashleap features that can be useful when making crypto payments!
+🎥 Watch here: https://buff.ly/3upv5VG]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 1 Let's start easy 🐣 Write about a programming concept you learned recently. 🧠 It can be a short article, a Twitter thread, or...]]></title>
+        <id>https://twitter.com/developer_dao/status/1730618634676891970</id>
+        <link href="https://twitter.com/developer_dao/status/1730618634676891970"/>
+        <updated>2023-12-01T16:03:30.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 1
+Let's start easy 🐣
+Write about a programming concept you learned recently. 🧠
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're online! @dappadandevs's live writing workshop is happening right now. Join and learn! #30daysoftext https://buff.ly/3RnKpvf]]></title>
+        <id>https://twitter.com/developer_dao/status/1730602919601270881</id>
+        <link href="https://twitter.com/developer_dao/status/1730602919601270881"/>
+        <updated>2023-12-01T15:01:03.000Z</updated>
+        <summary type="html"><![CDATA[We're online!
+@dappadandevs's live writing workshop is happening right now.
+Join and learn!
+#30daysoftext
+https://buff.ly/3RnKpvf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Technical Writing Workshop With DappaDan & Host Billyjitsu https://twitter.com/i/broadcasts/1djGXNaNpoyxZ]]></title>
+        <id>https://twitter.com/developer_dao/status/1730602717255737440</id>
+        <link href="https://twitter.com/developer_dao/status/1730602717255737440"/>
+        <updated>2023-12-01T15:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Web3 Technical Writing Workshop With DappaDan & Host Billyjitsu https://twitter.com/i/broadcasts/1djGXNaNpoyxZ]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dappadan's live writing workshop is starting shortly! 🎞 Join us and level up! 🔝 #30daysoftext https://buff.ly/3RnKpvf]]></title>
+        <id>https://twitter.com/developer_dao/status/1730602104119521696</id>
+        <link href="https://twitter.com/developer_dao/status/1730602104119521696"/>
+        <updated>2023-12-01T14:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Re @dappadan's live writing workshop is starting shortly! 🎞
+Join us and level up! 🔝
+#30daysoftext
+https://buff.ly/3RnKpvf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dappadan's live writing workshop is starting shortly! 🎞 Join us and level up! 🔝 #30daysoftext https://buff.ly/3RnKpvf]]></title>
+        <id>https://twitter.com/developer_dao/status/1730601402622156884</id>
+        <link href="https://twitter.com/developer_dao/status/1730601402622156884"/>
+        <updated>2023-12-01T14:55:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @dappadan's live writing workshop is starting shortly! 🎞
+Join us and level up! 🔝
+#30daysoftext
+https://buff.ly/3RnKpvf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @dappadandev's live technical writing workshop starts in 2h at 15:00 UTC 🎞 Don't miss it if you want to bother him with questions! 🤫 #30dayso...]]></title>
+        <id>https://twitter.com/developer_dao/status/1730572664169742438</id>
+        <link href="https://twitter.com/developer_dao/status/1730572664169742438"/>
+        <updated>2023-12-01T13:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @dappadandev's live technical writing workshop starts in 2h at 15:00 UTC 🎞
+Don't miss it if you want to bother him with questions! 🤫
+#30daysoftext
+https://buff.ly/3RnKpvf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today marks the beginning of #30daysoftext 🚀🚀🚀 We will reveal the first prompt after @dappadandev's writing workshop, which takes place today...]]></title>
+        <id>https://twitter.com/developer_dao/status/1730497089623191589</id>
+        <link href="https://twitter.com/developer_dao/status/1730497089623191589"/>
+        <updated>2023-12-01T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the beginning of #30daysoftext 🚀🚀🚀
+We will reveal the first prompt after @dappadandev's writing workshop, which takes place today at 15:00 UTC 🎞
+Put what you learned to work right away 🖊
+https://buff.ly/3RnKpvf]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ: Imagine hackathons where you can use the full duration working on your ideas unique features instead of spending half t...]]></title>
         <id>https://twitter.com/ropats16/status/1730431572674072798</id>
@@ -164,64 +267,6 @@ but consistency is key! 📅
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @devntellxyz https://buff.ly/47rNGPF]]></title>
-        <id>https://twitter.com/developer_dao/status/1729478254325530917</id>
-        <link href="https://twitter.com/developer_dao/status/1729478254325530917"/>
-        <updated>2023-11-28T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @devntellxyz https://buff.ly/47rNGPF]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ Join us this Friday December 1st at 4:30pm UTC for another episode of our long running @devntellxyz series The link to RSVP for...]]></title>
-        <id>https://twitter.com/developer_dao/status/1729478254325530917</id>
-        <link href="https://twitter.com/developer_dao/status/1729478254325530917"/>
-        <updated>2023-11-28T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️ Join us this Friday December 1st at 4:30pm UTC for another episode of our long running @devntellxyz series 
-The link to RSVP for the event can be found via the post below 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing consistently is crucial to build your skill and audience! 📝 30 days of~ 🤫]]></title>
-        <id>https://twitter.com/developer_dao/status/1729243864299389058</id>
-        <link href="https://twitter.com/developer_dao/status/1729243864299389058"/>
-        <updated>2023-11-27T21:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Writing consistently is crucial to build your skill and audience! 📝
-30 days of~ 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Zerion: After 1 year of building, dozens of iterations & +30k beta users our 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻 is almost ready! Join us Nov 30th...]]></title>
-        <id>https://twitter.com/zerion/status/1729154844588740699</id>
-        <link href="https://twitter.com/zerion/status/1729154844588740699"/>
-        <updated>2023-11-27T15:06:55.000Z</updated>
-        <summary type="html"><![CDATA[RT Zerion
-After 1 year of building, dozens of iterations & +30k beta users our 𝗲𝘅𝘁𝗲𝗻𝘀𝗶𝗼𝗻 is almost ready!
-Join us Nov 30th for a special livestream event as we open our browser extension up to the world 
->> https://lu.ma/96111igb <<
-(a few deleted scenes 👇🔐)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing about your discoveries doesn't just teach others; it also solidifies your new knowledge! 🗿 30 days~ 🤫]]></title>
-        <id>https://twitter.com/developer_dao/status/1729153893618114924</id>
-        <link href="https://twitter.com/developer_dao/status/1729153893618114924"/>
-        <updated>2023-11-27T15:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Writing about your discoveries doesn't just teach others; it also solidifies your new knowledge! 🗿
-30 days~ 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#97 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/97-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/97-probably-nothing"/>
@@ -229,46 +274,6 @@ Join us Nov 30th for a special livestream event as we open our browser extension
         <summary type="html"><![CDATA[⌨️ POKT thread winners, D_D bounty board, and more 👀]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are you a tech writer with time to spare in December? ❄❄❄ We might have just the thing for you! 👀 30~ 🤫]]></title>
-        <id>https://twitter.com/developer_dao/status/1729060936969818371</id>
-        <link href="https://twitter.com/developer_dao/status/1729060936969818371"/>
-        <updated>2023-11-27T08:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Are you a tech writer with time to spare in December? ❄❄❄
-We might have just the thing for you! 👀
-30~ 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Dhai 🎒✈️: Lowkey miss writing technical tutorials, and making YouTube videos. I used to write so much and so often Have been working with some...]]></title>
-        <id>https://twitter.com/dhaiwat10/status/1728933874003312982</id>
-        <link href="https://twitter.com/dhaiwat10/status/1728933874003312982"/>
-        <updated>2023-11-27T00:28:52.000Z</updated>
-        <summary type="html"><![CDATA[RT Dhai 🎒✈️
-Lowkey miss writing technical tutorials, and making YouTube videos. I used to write so much and so often
-Have been working with some interesting things recently. Really want to get back to sharing
-Maybe I can start off with a tutorial for a full-stack app on @fuel_network :D]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Pocket Network: Another stellar week in the POKT Ecosystem! We had more groundbreaking milestones and made significant strides in our community. An...]]></title>
-        <id>https://twitter.com/POKTnetwork/status/1728476592475930684</id>
-        <link href="https://twitter.com/POKTnetwork/status/1728476592475930684"/>
-        <updated>2023-11-25T18:11:47.000Z</updated>
-        <summary type="html"><![CDATA[RT Pocket Network
-Another stellar week in the POKT Ecosystem!
-We had more groundbreaking milestones and made significant strides in our community.
-An exciting Roadmap update dropped too!
-Time to strap in again as we speed through this week's Highlights.
-🧵🏎️💨]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
