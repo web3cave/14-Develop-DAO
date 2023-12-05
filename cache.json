@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/98-probably-nothing",
+          "author": "Osikhena James Oshomah",
+          "description": "✍️ #30daysoftext with D_D, showcase your project at DevNTell, and more 🥁",
+          "link": "https://developerdao.substack.com/p/98-probably-nothing",
+          "publishedOn": "2023-12-04T11:05:19.000Z",
+          "wordCount": null,
+          "title": "#98 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f7c412f-67b4-4ccc-8e6f-e83c5380641b_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f7c412f-67b4-4ccc-8e6f-e83c5380641b_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/97-probably-nothing",
           "author": "Osikhena James Oshomah",
           "description": "⌨️ POKT thread winners, D_D bounty board, and more 👀",
@@ -77,13 +93,83 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/iaminiekanem/status/1731734692636790908",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ini Abasi Ekanem\n🔷🔹How to set up Custom Token Allowance with Zerion🔹🔷\n❌Gas fees are up and on-chain transactions aren't always safe.\n✅ @zerion helps you securely approve transactions on-chain with Custom Token Allowance.\n🧵",
+          "link": "https://twitter.com/iaminiekanem/status/1731734692636790908",
+          "publishedOn": "2023-12-04T17:58:19.000Z",
+          "wordCount": 1626,
+          "title": "RT Ini Abasi Ekanem: 🔷🔹How to set up Custom Token Allowance with Zerion🔹🔷 ❌Gas fees are up and on-chain transactions aren't always safe. ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1731705263516680575",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 4\nLet's start this week with one for our partner!\nExplain how to set up a token allowance with @Zerion? 👛 \nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1731705263516680575",
+          "publishedOn": "2023-12-04T16:01:23.000Z",
+          "wordCount": 1626,
+          "title": "#30daysoftext Day 4 Let's start this week with one for our partner! Explain how to set up a token allowance with @Zerion? 👛 It can be a short artic...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Jamiescript/status/1731642287745016318",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jamiebones\n#30daysoftext\nUniswap is my favorite protocol. It operates as a decentralized exchange, enabling traders to swap tokens seamlessly. This platform is entirely decentralized, facilitated by blockchain smart contracts.",
+          "link": "https://twitter.com/Jamiescript/status/1731642287745016318",
+          "publishedOn": "2023-12-04T11:51:08.000Z",
+          "wordCount": 1635,
+          "title": "RT Jamiebones: #30daysoftext Uniswap is my favorite protocol. It operates as a decentralized exchange, enabling traders to swap tokens seamlessly. Thi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1731614386949607466",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "If you haven't written for day 3 of #30daysoftext, you still have plenty of time!\nThe topic is your favorite protocol! 💯\nIf you need help with research, check out the workshop @dappadandev did last week! 🥼\nhttps://buff.ly/3RnKpvf",
+          "link": "https://twitter.com/developer_dao/status/1731614386949607466",
+          "publishedOn": "2023-12-04T10:00:16.000Z",
+          "wordCount": 1635,
+          "title": "If you haven't written for day 3 of #30daysoftext, you still have plenty of time! The topic is your favorite protocol! 💯 If you need help with rese...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/CuriousRabeet/status/1731598000261337457",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Syed Rabeet\n#30daysoftext Day 3 @developer_dao \nWhat is Chainlink and Why is it necessary for data security?? 👇",
+          "link": "https://twitter.com/CuriousRabeet/status/1731598000261337457",
+          "publishedOn": "2023-12-04T08:55:09.000Z",
+          "wordCount": 1626,
+          "title": "RT Syed Rabeet: #30daysoftext Day 3 @developer_dao What is Chainlink and Why is it necessary for data security?? 👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/lil_black_p/status/1731394165479538784",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Creative Bee🐝\n#30daysoftext\nDay 2\n  \nOne technology that excites me is \"RIX\" by Hashnode. \nAfter I attended @hashnode bootcamp I took out  time to explore RIX  from a beginners perspective.",
+          "link": "https://twitter.com/lil_black_p/status/1731394165479538784",
+          "publishedOn": "2023-12-03T19:25:11.000Z",
+          "wordCount": 1626,
+          "title": "RT Creative Bee🐝: #30daysoftext Day 2 One technology that excites me is \"RIX\" by Hashnode. After I attended @hashnode bootcamp I took out time to e...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1731342711301591212",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "#30daysoftext Day 3\nWrite about your favorite protocol. 🆗\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
           "link": "https://twitter.com/developer_dao/status/1731342711301591212",
           "publishedOn": "2023-12-03T16:00:43.000Z",
-          "wordCount": 1637,
+          "wordCount": 1626,
           "title": "#30daysoftext Day 3 Write about your favorite protocol. 🆗 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Jamiescript/status/1731308222819057766",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jamiebones\n#30daysoftext\nI am passionate about @ArweaveEco and the significant problem it addresses. For those unfamiliar, @ArweaveEco is a protocol that provides decentralized data storage. Data uploaded to the protocol incurs a one-time charge during the upload process and is guaranteed",
+          "link": "https://twitter.com/Jamiescript/status/1731308222819057766",
+          "publishedOn": "2023-12-03T13:43:41.000Z",
+          "wordCount": 1635,
+          "title": "RT Jamiebones: #30daysoftext I am passionate about @ArweaveEco and the significant problem it addresses. For those unfamiliar, @ArweaveEco is a protoc...",
           "imageUrl": null
         },
         {
@@ -92,7 +178,7 @@
           "description": "Re We already have submissions!  💯\n@CuriousRabeet is hyped on blockchains ⛓\nhttps://buff.ly/3RpFGsJ \n@k4y1s thinks @arweaveeco is pretty awesome 🐘",
           "link": "https://twitter.com/developer_dao/status/1731286369656250711",
           "publishedOn": "2023-12-03T12:16:51.000Z",
-          "wordCount": 1637,
+          "wordCount": 1626,
           "title": "Re We already have submissions! 💯 @CuriousRabeet is hyped on blockchains ⛓ https://buff.ly/3RpFGsJ @k4y1s thinks @arweaveeco is pretty awesome �...",
           "imageUrl": null
         },
@@ -102,8 +188,28 @@
           "description": "#30daysoftext \nDay 2 still has ~4 hours left, so get your content engine cranking!\nWhat tech excites you? 🤩\nIt should be an easy lift, even for beginners. \nSo, submit a piece while the prompts are still easy and the holidays aren't close yet!\nhttps://buff.ly/3N6f0uM",
           "link": "https://twitter.com/developer_dao/status/1731286369656250711",
           "publishedOn": "2023-12-03T12:16:50.000Z",
-          "wordCount": 1635,
+          "wordCount": 1626,
           "title": "#30daysoftext Day 2 still has ~4 hours left, so get your content engine cranking! What tech excites you? 🤩 It should be an easy lift, even for begi...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/CuriousRabeet/status/1731223998036668797",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Syed Rabeet\n#30daysoftext @developer_dao \n1/8\nTopic: \"Describe a technology that excites you\"\nMy favorite tech is blockchain so let's understand it\n⏬",
+          "link": "https://twitter.com/CuriousRabeet/status/1731223998036668797",
+          "publishedOn": "2023-12-03T08:09:00.000Z",
+          "wordCount": 1635,
+          "title": "RT Syed Rabeet: #30daysoftext @developer_dao 1/8 Topic: \"Describe a technology that excites you\" My favorite tech is blockchain so let's understand it...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/K4y1s/status/1731046781796880852",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Ϗ\n#30daysoftext \nThere are many technologies that excite me, but lately I invested most of my time into @ArweaveEco \nSo, let's talk about Arweave! 🐘\n1/",
+          "link": "https://twitter.com/K4y1s/status/1731046781796880852",
+          "publishedOn": "2023-12-02T20:24:48.000Z",
+          "wordCount": 1626,
+          "title": "RT Ϗ: #30daysoftext There are many technologies that excite me, but lately I invested most of my time into @ArweaveEco So, let's talk about Arweave! ...",
           "imageUrl": null
         },
         {
@@ -122,7 +228,7 @@
           "description": "Re @irwingtello @QuickNode The second submission by @lil_black_p covers HTML accessibility and screen readers 👓\nhttps://buff.ly/481cUUM",
           "link": "https://twitter.com/developer_dao/status/1730896350634520985",
           "publishedOn": "2023-12-02T10:27:03.000Z",
-          "wordCount": 1635,
+          "wordCount": 1626,
           "title": "Re @irwingtello @QuickNode The second submission by @lil_black_p covers HTML accessibility and screen readers 👓 https://buff.ly/481cUUM",
           "imageUrl": null
         },
@@ -142,8 +248,18 @@
           "description": "The first submissions for #30daysoftext are in! 🤩\nYou still have time to get yours in until 16:00 UTC, when we reveal the next prompt! ⏲",
           "link": "https://twitter.com/developer_dao/status/1730896350634520985",
           "publishedOn": "2023-12-02T10:27:03.000Z",
-          "wordCount": 1636,
+          "wordCount": 1626,
           "title": "The first submissions for #30daysoftext are in! 🤩 You still have time to get yours in until 16:00 UTC, when we reveal the next prompt! ⏲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/lil_black_p/status/1730720876193083895",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Creative Bee🐝\n#30daysoftext\nDAY 1\nAn interesting programming concept I've learnt about is \nHTML ACCESSIBILITY AND SCREEN READERS\nMy friend recently had an interview where he was tasked to build a checkout page that included forms with focus on  writing semantic HTML that ensures accessibility",
+          "link": "https://twitter.com/lil_black_p/status/1730720876193083895",
+          "publishedOn": "2023-12-01T22:49:46.000Z",
+          "wordCount": 1635,
+          "title": "RT Creative Bee🐝: #30daysoftext DAY 1 An interesting programming concept I've learnt about is HTML ACCESSIBILITY AND SCREEN READERS My friend recen...",
           "imageUrl": null
         },
         {
@@ -174,106 +290,6 @@
           "publishedOn": "2023-12-01T15:01:03.000Z",
           "wordCount": 1635,
           "title": "We're online! @dappadandevs's live writing workshop is happening right now. Join and learn! #30daysoftext https://buff.ly/3RnKpvf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730602717255737440",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Web3 Technical Writing Workshop With DappaDan & Host Billyjitsu https://twitter.com/i/broadcasts/1djGXNaNpoyxZ",
-          "link": "https://twitter.com/developer_dao/status/1730602717255737440",
-          "publishedOn": "2023-12-01T15:00:15.000Z",
-          "wordCount": 1626,
-          "title": "Web3 Technical Writing Workshop With DappaDan & Host Billyjitsu https://twitter.com/i/broadcasts/1djGXNaNpoyxZ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730602104119521696",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @dappadan's live writing workshop is starting shortly! 🎞\nJoin us and level up! 🔝\n#30daysoftext\nhttps://buff.ly/3RnKpvf",
-          "link": "https://twitter.com/developer_dao/status/1730602104119521696",
-          "publishedOn": "2023-12-01T14:57:49.000Z",
-          "wordCount": 1635,
-          "title": "Re @dappadan's live writing workshop is starting shortly! 🎞 Join us and level up! 🔝 #30daysoftext https://buff.ly/3RnKpvf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730601402622156884",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @dappadan's live writing workshop is starting shortly! 🎞\nJoin us and level up! 🔝\n#30daysoftext\nhttps://buff.ly/3RnKpvf",
-          "link": "https://twitter.com/developer_dao/status/1730601402622156884",
-          "publishedOn": "2023-12-01T14:55:02.000Z",
-          "wordCount": 1635,
-          "title": "Re @dappadan's live writing workshop is starting shortly! 🎞 Join us and level up! 🔝 #30daysoftext https://buff.ly/3RnKpvf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730572664169742438",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @dappadandev's live technical writing workshop starts in 2h at 15:00 UTC 🎞\nDon't miss it if you want to bother him with questions! 🤫\n#30daysoftext\nhttps://buff.ly/3RnKpvf",
-          "link": "https://twitter.com/developer_dao/status/1730572664169742438",
-          "publishedOn": "2023-12-01T13:00:50.000Z",
-          "wordCount": 1626,
-          "title": "Re @dappadandev's live technical writing workshop starts in 2h at 15:00 UTC 🎞 Don't miss it if you want to bother him with questions! 🤫 #30dayso...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730497089623191589",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Today marks the beginning of #30daysoftext 🚀🚀🚀\nWe will reveal the first prompt after @dappadandev's writing workshop, which takes place today at 15:00 UTC 🎞\nPut what you learned to work right away 🖊\nhttps://buff.ly/3RnKpvf",
-          "link": "https://twitter.com/developer_dao/status/1730497089623191589",
-          "publishedOn": "2023-12-01T08:00:31.000Z",
-          "wordCount": 1626,
-          "title": "Today marks the beginning of #30daysoftext 🚀🚀🚀 We will reveal the first prompt after @dappadandev's writing workshop, which takes place today...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ropats16/status/1730431572674072798",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nImagine hackathons where you can use the full duration working on your ideas unique features instead of spending half the time setting up a foundation 💻\nStarterKit can help you do that on @ArweaveEco and here’s a video guide to show you how 👇\n\nCommunity Labs | we're hiring!: Accelerate your @ArweaveEco project development with StarterKit! 🚀\nDive into this hands-on video tutorial where you'll build a forum and master the StarterKit 📹\nUnleash your creativity and bring your unique ideas to life with StarterKit ⚡\nhttps://www.communitylabs.com/blog/building-a-forum-with-starterkit?utm_source=Twitter&utm_medium=Tweet&utm_campaign=Building+a+Forum+with+StarterKit&utm_id=Building+a+Forum+with+StarterKit",
-          "link": "https://twitter.com/ropats16/status/1730431572674072798",
-          "publishedOn": "2023-12-01T03:40:11.000Z",
-          "wordCount": 1635,
-          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: Imagine hackathons where you can use the full duration working on your ideas unique features instead of spending half t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730330925324497055",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "The #30daysoftext countdown is ticking! ⌛\nAre you ready? 🤩\nYou aren't? 😨\nThen check out the live workshop with @dappadandev tomorrow at 15:00 UTC!\nhttps://buff.ly/3RnKpvf",
-          "link": "https://twitter.com/developer_dao/status/1730330925324497055",
-          "publishedOn": "2023-11-30T21:00:15.000Z",
-          "wordCount": 1626,
-          "title": "The #30daysoftext countdown is ticking! ⌛ Are you ready? 🤩 You aren't? 😨 Then check out the live workshop with @dappadandev tomorrow at 15:00 U...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730240306316980244",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysofcode starts tomorrow✨\nA prompt each day for 30 days! 📆\nChoose one or more, and write about it. A short Twitter thread or article is enough; just make it count!\nTo be prepared, attend @dappadandev's workshop tomorrow at 15:00 UTC! 🎞\nhttps://buff.ly/3RnKpvf",
-          "link": "https://twitter.com/developer_dao/status/1730240306316980244",
-          "publishedOn": "2023-11-30T15:00:09.000Z",
-          "wordCount": 1635,
-          "title": "#30daysofcode starts tomorrow✨ A prompt each day for 30 days! 📆 Choose one or more, and write about it. A short Twitter thread or article is enoug...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730203026407756014",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @devntellxyz @hashleap @_nasj https://buff.ly/47rNGPF",
-          "link": "https://twitter.com/developer_dao/status/1730203026407756014",
-          "publishedOn": "2023-11-30T12:32:02.000Z",
-          "wordCount": 1626,
-          "title": "Re @devntellxyz @hashleap @_nasj https://buff.ly/47rNGPF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1730203026407756014",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "GM frens! \nWe're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of @hashleap from @_nasj  ✨ \nRSVP for event via the link in the post below 👇",
-          "link": "https://twitter.com/developer_dao/status/1730203026407756014",
-          "publishedOn": "2023-11-30T12:32:01.000Z",
-          "wordCount": 1626,
-          "title": "GM frens! We're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of @hashleap from @_nasj ✨ RSVP...",
           "imageUrl": null
         }
       ]
