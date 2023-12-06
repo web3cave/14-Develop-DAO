@@ -1,10 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-05T06:13:09.166Z</id>
+    <id>urn:2023-12-06T06:13:02.897Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-05T06:13:09.166Z</updated>
+    <updated>2023-12-06T06:13:02.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai]]></title>
+        <id>https://www.youtube.com/watch?v=freyCo3pcz4</id>
+        <link href="https://www.youtube.com/watch?v=freyCo3pcz4"/>
+        <updated>2023-12-06T04:18:32.000Z</updated>
+        <author>
+            <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @devntellxyz https://buff.ly/415lfEI]]></title>
+        <id>https://twitter.com/developer_dao/status/1732088197314699282</id>
+        <link href="https://twitter.com/developer_dao/status/1732088197314699282"/>
+        <updated>2023-12-05T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @devntellxyz https://buff.ly/415lfEI]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ Join us this Friday December 8th at 5:00pm UTC for another episode of our long running @devntellxyz series! The link to RSVP fo...]]></title>
+        <id>https://twitter.com/developer_dao/status/1732088197314699282</id>
+        <link href="https://twitter.com/developer_dao/status/1732088197314699282"/>
+        <updated>2023-12-05T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+🗣️ Join us this Friday December 8th at 5:00pm UTC for another episode of our long running @devntellxyz series!
+The link to RSVP for the event can be found via the post below 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re Sayy whaaatttt ?!?]]></title>
+        <id>https://twitter.com/developer_dao/status/1732065700301156617</id>
+        <link href="https://twitter.com/developer_dao/status/1732065700301156617"/>
+        <updated>2023-12-05T16:11:04.000Z</updated>
+        <summary type="html"><![CDATA[Re Sayy whaaatttt ?!?]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 5 Explain the role of oracles in smart contracts 🔮 It can be a short article, a Twitter thread, or even just a tweet. Just ensure...]]></title>
+        <id>https://twitter.com/developer_dao/status/1732067387225133425</id>
+        <link href="https://twitter.com/developer_dao/status/1732067387225133425"/>
+        <updated>2023-12-05T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 5
+Explain the role of oracles in smart contracts 🔮 
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you ever thought about building smart contracts on Bitcoin? 📜 With @Stacks Bitcoin layer 2 network, you can do that! 🚀 Check it out and bec...]]></title>
+        <id>https://twitter.com/developer_dao/status/1732065700301156617</id>
+        <link href="https://twitter.com/developer_dao/status/1732065700301156617"/>
+        <updated>2023-12-05T15:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever thought about building smart contracts on Bitcoin? 📜
+With @Stacks Bitcoin layer 2 network, you can do that! 🚀
+Check it out and become one of the first devs! 🤩
+https://buff.ly/416SZ4u]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jamiebones: #30daysoftext In web3, token approval grants Dapp permission to spend your tokens on your behalf. Typically, this transaction incurs ga...]]></title>
+        <id>https://twitter.com/Jamiescript/status/1731943770059407614</id>
+        <link href="https://twitter.com/Jamiescript/status/1731943770059407614"/>
+        <updated>2023-12-05T07:49:07.000Z</updated>
+        <summary type="html"><![CDATA[RT Jamiebones
+#30daysoftext
+In web3, token approval grants Dapp permission to spend your tokens on your behalf. Typically, this transaction incurs gas fees, and many dapps default to requesting unlimited approval to save on gas, but this practice is counterintuitive,]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Syed Rabeet: #30daysoftext Day 4 @developer_dao How to set up a token allowance with @zerion 👇]]></title>
+        <id>https://twitter.com/CuriousRabeet/status/1731896315267911938</id>
+        <link href="https://twitter.com/CuriousRabeet/status/1731896315267911938"/>
+        <updated>2023-12-05T04:40:33.000Z</updated>
+        <summary type="html"><![CDATA[RT Syed Rabeet
+#30daysoftext Day 4 @developer_dao
+How to set up a token allowance with @zerion 
+👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Ini Abasi Ekanem: Re @developer_dao @zerion https://open.substack.com/pub/iniabasiekanem/p/how-to-set-up-custom-token-allowance?r=4g7qb&utm_campaig...]]></title>
+        <id>https://twitter.com/iaminiekanem/status/1731705263516680575</id>
+        <link href="https://twitter.com/iaminiekanem/status/1731705263516680575"/>
+        <updated>2023-12-04T17:58:46.000Z</updated>
+        <summary type="html"><![CDATA[RT Ini Abasi Ekanem
+Re @developer_dao @zerion https://open.substack.com/pub/iniabasiekanem/p/how-to-set-up-custom-token-allowance?r=4g7qb&utm_campaign=post&utm_medium=web]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Ini Abasi Ekanem: 🔷🔹How to set up Custom Token Allowance with Zerion🔹🔷 ❌Gas fees are up and on-chain transactions aren't always safe. ...]]></title>
         <id>https://twitter.com/iaminiekanem/status/1731734692636790908</id>
@@ -134,21 +237,6 @@ https://buff.ly/3RpFGsJ
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 2 still has ~4 hours left, so get your content engine cranking! What tech excites you? 🤩 It should be an easy lift, even for begi...]]></title>
-        <id>https://twitter.com/developer_dao/status/1731286369656250711</id>
-        <link href="https://twitter.com/developer_dao/status/1731286369656250711"/>
-        <updated>2023-12-03T12:16:50.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext 
-Day 2 still has ~4 hours left, so get your content engine cranking!
-What tech excites you? 🤩
-It should be an easy lift, even for beginners. 
-So, submit a piece while the prompts are still easy and the holidays aren't close yet!
-https://buff.ly/3N6f0uM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Syed Rabeet: #30daysoftext @developer_dao 1/8 Topic: "Describe a technology that excites you" My favorite tech is blockchain so let's understand it...]]></title>
         <id>https://twitter.com/CuriousRabeet/status/1731223998036668797</id>
         <link href="https://twitter.com/CuriousRabeet/status/1731223998036668797"/>
@@ -178,52 +266,6 @@ So, let's talk about Arweave! 🐘
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 2 Describe a technology that excites you. 💻 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to exp...]]></title>
-        <id>https://twitter.com/developer_dao/status/1730980339458142695</id>
-        <link href="https://twitter.com/developer_dao/status/1730980339458142695"/>
-        <updated>2023-12-02T16:00:47.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 2
-Describe a technology that excites you. 💻
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @irwingtello @QuickNode The second submission by @lil_black_p covers HTML accessibility and screen readers 👓 https://buff.ly/481cUUM]]></title>
-        <id>https://twitter.com/developer_dao/status/1730896350634520985</id>
-        <link href="https://twitter.com/developer_dao/status/1730896350634520985"/>
-        <updated>2023-12-02T10:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @irwingtello @QuickNode The second submission by @lil_black_p covers HTML accessibility and screen readers 👓
-https://buff.ly/481cUUM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The first submission by @irwingtello is about @QuickNode 👀 https://buff.ly/47WsWiO]]></title>
-        <id>https://twitter.com/developer_dao/status/1730896350634520985</id>
-        <link href="https://twitter.com/developer_dao/status/1730896350634520985"/>
-        <updated>2023-12-02T10:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Re The first submission by @irwingtello is about @QuickNode 👀
-https://buff.ly/47WsWiO]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first submissions for #30daysoftext are in! 🤩 You still have time to get yours in until 16:00 UTC, when we reveal the next prompt! ⏲]]></title>
-        <id>https://twitter.com/developer_dao/status/1730896350634520985</id>
-        <link href="https://twitter.com/developer_dao/status/1730896350634520985"/>
-        <updated>2023-12-02T10:27:03.000Z</updated>
-        <summary type="html"><![CDATA[The first submissions for #30daysoftext are in! 🤩
-You still have time to get yours in until 16:00 UTC, when we reveal the next prompt! ⏲]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Creative Bee🐝: #30daysoftext DAY 1 An interesting programming concept I've learnt about is HTML ACCESSIBILITY AND SCREEN READERS My friend recen...]]></title>
         <id>https://twitter.com/lil_black_p/status/1730720876193083895</id>
         <link href="https://twitter.com/lil_black_p/status/1730720876193083895"/>
@@ -234,47 +276,6 @@ DAY 1
 An interesting programming concept I've learnt about is 
 HTML ACCESSIBILITY AND SCREEN READERS
 My friend recently had an interview where he was tasked to build a checkout page that included forms with focus on  writing semantic HTML that ensures accessibility]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE with @_nasj from @hashleap, hosted by @narb_s 👉 Come see Nasir demo a couple of new Hashleap features that can...]]></title>
-        <id>https://twitter.com/developer_dao/status/1730625337560588701</id>
-        <link href="https://twitter.com/developer_dao/status/1730625337560588701"/>
-        <updated>2023-12-01T16:30:08.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-@devntellxyz is LIVE with @_nasj from @hashleap, hosted by @narb_s 
-👉 Come see Nasir demo a couple of new Hashleap features that can be useful when making crypto payments!
-🎥 Watch here: https://buff.ly/3upv5VG]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 1 Let's start easy 🐣 Write about a programming concept you learned recently. 🧠 It can be a short article, a Twitter thread, or...]]></title>
-        <id>https://twitter.com/developer_dao/status/1730618634676891970</id>
-        <link href="https://twitter.com/developer_dao/status/1730618634676891970"/>
-        <updated>2023-12-01T16:03:30.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 1
-Let's start easy 🐣
-Write about a programming concept you learned recently. 🧠
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're online! @dappadandevs's live writing workshop is happening right now. Join and learn! #30daysoftext https://buff.ly/3RnKpvf]]></title>
-        <id>https://twitter.com/developer_dao/status/1730602919601270881</id>
-        <link href="https://twitter.com/developer_dao/status/1730602919601270881"/>
-        <updated>2023-12-01T15:01:03.000Z</updated>
-        <summary type="html"><![CDATA[We're online!
-@dappadandevs's live writing workshop is happening right now.
-Join and learn!
-#30daysoftext
-https://buff.ly/3RnKpvf]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -314,16 +315,6 @@ https://buff.ly/3RnKpvf]]></summary>
         <link href="https://developerdao.substack.com/p/95-probably-nothing"/>
         <updated>2023-11-13T12:00:43.000Z</updated>
         <summary type="html"><![CDATA[🫂 POKT thread contest & perks for members, Chainbase Hackathon winners, and more 👾]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#94 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/94-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/94-probably-nothing"/>
-        <updated>2023-11-06T14:13:10.000Z</updated>
-        <summary type="html"><![CDATA[🤝 New RPC partner, mixer at Devconnect Istanbul, and more 🇹🇷]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
         </author>
