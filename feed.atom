@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T06:13:02.897Z</id>
+    <id>urn:2023-12-07T06:13:21.004Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T06:13:02.897Z</updated>
+    <updated>2023-12-07T06:13:21.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Papi Billy ⟁: Writers, bounty alert 👇 This one sponsored by @POKTnetwork. Make sure to tag them in your write-up]]></title>
+        <id>https://twitter.com/wc49358/status/1732433984272118198</id>
+        <link href="https://twitter.com/wc49358/status/1732433984272118198"/>
+        <updated>2023-12-06T16:17:03.000Z</updated>
+        <summary type="html"><![CDATA[RT Papi Billy ⟁
+Writers, bounty alert 👇   This one sponsored by @POKTnetwork. Make sure to tag them in your write-up
+
+Developer DAO (🧱, 🚀): #30daysoftext Day 6
+Another one for our partners, this time with a bounty! 🤑
+What open-source libraries would you like @POKTnetwork to build? 🏗
+The winner gets 100 USD worth of POKT tokens 💸
+Make sure to tag @POKTnetwork, so they can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 6 Another one for our partners, this time with a bounty! 🤑 What open-source libraries would you like @POKTnetwork to build? 🏗 ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1732429792190877905</id>
+        <link href="https://twitter.com/developer_dao/status/1732429792190877905"/>
+        <updated>2023-12-06T16:00:24.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 6
+Another one for our partners, this time with a bounty! 🤑
+What open-source libraries would you like @POKTnetwork to build? 🏗
+The winner gets 100 USD worth of POKT tokens 💸
+Make sure to tag @POKTnetwork, so they can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jamiebones: #30daysoftext Smart contracts face a limitation in that they cannot directly access external data sources outside their blockchain envi...]]></title>
+        <id>https://twitter.com/Jamiescript/status/1732308895631077713</id>
+        <link href="https://twitter.com/Jamiescript/status/1732308895631077713"/>
+        <updated>2023-12-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Jamiebones
+#30daysoftext
+Smart contracts face a limitation in that they cannot directly access external data sources outside their blockchain environment. This gap is addressed by oracles, which serve to connect smart contracts with external data sources.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai]]></title>
         <id>https://www.youtube.com/watch?v=freyCo3pcz4</id>
@@ -12,6 +55,41 @@
         <updated>2023-12-06T04:18:32.000Z</updated>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Sardius: As a developer, why should you care about oracles when writing smart contracts? Smart contracts face a critical limitation - they can't in...]]></title>
+        <id>https://twitter.com/0xSardius/status/1732202271293755830</id>
+        <link href="https://twitter.com/0xSardius/status/1732202271293755830"/>
+        <updated>2023-12-06T00:56:18.000Z</updated>
+        <summary type="html"><![CDATA[RT Sardius
+As a developer, why should you care about oracles when writing smart contracts?
+Smart contracts face a critical limitation - they can't interact with data outside the blockchain they run on
+Oracles aim to solve this problem, enabling dApps fusing on and offchain data
+🧵👇 /7
+
+Developer DAO (🧱, 🚀): #30daysoftext Day 5
+Explain the role of oracles in smart contracts 🔮 
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: Blockchains are liked walled gardens, only caring about what goes on inside their respective chain. Thats pretty limiting from a...]]></title>
+        <id>https://twitter.com/narb_s/status/1732189564805202095</id>
+        <link href="https://twitter.com/narb_s/status/1732189564805202095"/>
+        <updated>2023-12-06T00:05:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+Blockchains are liked walled gardens, only caring about what goes on inside their respective chain.  Thats pretty limiting from an application development standpoint like when coding smart contracts; however, an oracle allows a smart contract to interact outside of their… https://twitter.com/i/web/status/1732189564805202095
+
+Developer DAO (🧱, 🚀): #30daysoftext Day 5
+Explain the role of oracles in smart contracts 🔮 
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
@@ -32,6 +110,33 @@
         <summary type="html"><![CDATA[✨ GM frens! ✨ 
 🗣️ Join us this Friday December 8th at 5:00pm UTC for another episode of our long running @devntellxyz series!
 The link to RSVP for the event can be found via the post below 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT swaresh binaykiya: Ever wondered how DApps make decisions? Is it possible without external data? But, blockchains are isolated. Right? All answers ...]]></title>
+        <id>https://twitter.com/SBinaykiya/status/1732083800820285513</id>
+        <link href="https://twitter.com/SBinaykiya/status/1732083800820285513"/>
+        <updated>2023-12-05T17:05:33.000Z</updated>
+        <summary type="html"><![CDATA[RT swaresh binaykiya
+Ever wondered how DApps make decisions?
+Is it possible without external data?
+But, blockchains are isolated. Right?
+All answers here.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Syed Rabeet: #30daysoftext Day 5 @developer_dao Topic: Role of Oracles in Smart Contracts 👇]]></title>
+        <id>https://twitter.com/CuriousRabeet/status/1732080923527852114</id>
+        <link href="https://twitter.com/CuriousRabeet/status/1732080923527852114"/>
+        <updated>2023-12-05T16:54:07.000Z</updated>
+        <summary type="html"><![CDATA[RT Syed Rabeet
+#30daysoftext Day 5 @developer_dao
+Topic: Role of Oracles in Smart Contracts
+👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -137,18 +242,6 @@ Reply with a link to the text, so we can find it 🤫]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Jamiebones: #30daysoftext Uniswap is my favorite protocol. It operates as a decentralized exchange, enabling traders to swap tokens seamlessly. Thi...]]></title>
-        <id>https://twitter.com/Jamiescript/status/1731642287745016318</id>
-        <link href="https://twitter.com/Jamiescript/status/1731642287745016318"/>
-        <updated>2023-12-04T11:51:08.000Z</updated>
-        <summary type="html"><![CDATA[RT Jamiebones
-#30daysoftext
-Uniswap is my favorite protocol. It operates as a decentralized exchange, enabling traders to swap tokens seamlessly. This platform is entirely decentralized, facilitated by blockchain smart contracts.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#98 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/98-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/98-probably-nothing"/>
@@ -159,59 +252,6 @@ Uniswap is my favorite protocol. It operates as a decentralized exchange, enabli
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you haven't written for day 3 of #30daysoftext, you still have plenty of time! The topic is your favorite protocol! 💯 If you need help with rese...]]></title>
-        <id>https://twitter.com/developer_dao/status/1731614386949607466</id>
-        <link href="https://twitter.com/developer_dao/status/1731614386949607466"/>
-        <updated>2023-12-04T10:00:16.000Z</updated>
-        <summary type="html"><![CDATA[If you haven't written for day 3 of #30daysoftext, you still have plenty of time!
-The topic is your favorite protocol! 💯
-If you need help with research, check out the workshop @dappadandev did last week! 🥼
-https://buff.ly/3RnKpvf]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Syed Rabeet: #30daysoftext Day 3 @developer_dao What is Chainlink and Why is it necessary for data security?? 👇]]></title>
-        <id>https://twitter.com/CuriousRabeet/status/1731598000261337457</id>
-        <link href="https://twitter.com/CuriousRabeet/status/1731598000261337457"/>
-        <updated>2023-12-04T08:55:09.000Z</updated>
-        <summary type="html"><![CDATA[RT Syed Rabeet
-#30daysoftext Day 3 @developer_dao 
-What is Chainlink and Why is it necessary for data security?? 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Creative Bee🐝: #30daysoftext Day 2 One technology that excites me is "RIX" by Hashnode. After I attended @hashnode bootcamp I took out time to e...]]></title>
-        <id>https://twitter.com/lil_black_p/status/1731394165479538784</id>
-        <link href="https://twitter.com/lil_black_p/status/1731394165479538784"/>
-        <updated>2023-12-03T19:25:11.000Z</updated>
-        <summary type="html"><![CDATA[RT Creative Bee🐝
-#30daysoftext
-Day 2
-  
-One technology that excites me is "RIX" by Hashnode. 
-After I attended @hashnode bootcamp I took out  time to explore RIX  from a beginners perspective.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 3 Write about your favorite protocol. 🆗 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain...]]></title>
-        <id>https://twitter.com/developer_dao/status/1731342711301591212</id>
-        <link href="https://twitter.com/developer_dao/status/1731342711301591212"/>
-        <updated>2023-12-03T16:00:43.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 3
-Write about your favorite protocol. 🆗
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Jamiebones: #30daysoftext I am passionate about @ArweaveEco and the significant problem it addresses. For those unfamiliar, @ArweaveEco is a protoc...]]></title>
         <id>https://twitter.com/Jamiescript/status/1731308222819057766</id>
         <link href="https://twitter.com/Jamiescript/status/1731308222819057766"/>
@@ -219,34 +259,6 @@ Reply with a link to the text, so we can find it 🤫]]></summary>
         <summary type="html"><![CDATA[RT Jamiebones
 #30daysoftext
 I am passionate about @ArweaveEco and the significant problem it addresses. For those unfamiliar, @ArweaveEco is a protocol that provides decentralized data storage. Data uploaded to the protocol incurs a one-time charge during the upload process and is guaranteed]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re We already have submissions! 💯 @CuriousRabeet is hyped on blockchains ⛓ https://buff.ly/3RpFGsJ @k4y1s thinks @arweaveeco is pretty awesome �...]]></title>
-        <id>https://twitter.com/developer_dao/status/1731286369656250711</id>
-        <link href="https://twitter.com/developer_dao/status/1731286369656250711"/>
-        <updated>2023-12-03T12:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Re We already have submissions!  💯
-@CuriousRabeet is hyped on blockchains ⛓
-https://buff.ly/3RpFGsJ 
-@k4y1s thinks @arweaveeco is pretty awesome 🐘]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Syed Rabeet: #30daysoftext @developer_dao 1/8 Topic: "Describe a technology that excites you" My favorite tech is blockchain so let's understand it...]]></title>
-        <id>https://twitter.com/CuriousRabeet/status/1731223998036668797</id>
-        <link href="https://twitter.com/CuriousRabeet/status/1731223998036668797"/>
-        <updated>2023-12-03T08:09:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Syed Rabeet
-#30daysoftext @developer_dao 
-1/8
-Topic: "Describe a technology that excites you"
-My favorite tech is blockchain so let's understand it
-⏬]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
