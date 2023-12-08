@@ -77,12 +77,122 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/AnettRolikova/status/1732810684210291041",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT ⟠ Anett ⟠ anett.eth 🪐🐳\nHey Web3 Devs, looking for some testnet tokens?   \nI made a list of (likely all available) Faucets out there!  \nIf you know about any faucets not on my list drop the link below! https://github.com/anettrolikova/Crypto/blob/master/README.md#faucets",
+          "link": "https://twitter.com/AnettRolikova/status/1732810684210291041",
+          "publishedOn": "2023-12-07T17:13:55.000Z",
+          "wordCount": 1546,
+          "title": "RT ⟠ Anett ⟠ anett.eth 🪐🐳: Hey Web3 Devs, looking for some testnet tokens? I made a list of (likely all available) Faucets out there! If you k...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732799553617686815",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Who built something LIT lately? 🔥\n\nPatrick Skinner (🧱, 🚀): #30daysoftext @developer_dao \n@LitProtocol is not a protocol to sleep on. \nIt's a decentralized key management network, changing how we approach dApp security, data privacy, and user autonomy in Web3. Here's why it's my favorite... \n👇👇\n(1/8)",
+          "link": "https://twitter.com/developer_dao/status/1732799553617686815",
+          "publishedOn": "2023-12-07T16:29:42.000Z",
+          "wordCount": 1797,
+          "title": "Who built something LIT lately? 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732797940568051858",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @PSkinnerTech knows something about wallets!\n... his AI game is on point too 👀\n\nPatrick Skinner (🧱, 🚀): 🚀 Let's dive into why setting up token allowances with @zerion Wallet is crucial for your Web3 security. \nFirst off, what's a token allowance? It's your permission for a dApp to use your tokens - a standard feature of ERC-20 tokens.\n#30daysoftext @developer_dao \n(1/8)",
+          "link": "https://twitter.com/developer_dao/status/1732797940568051858",
+          "publishedOn": "2023-12-07T16:23:17.000Z",
+          "wordCount": 1787,
+          "title": "Re @PSkinnerTech knows something about wallets! ... his AI game is on point too 👀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732792089987928376",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 7\nWrite about blockchain gaming 👾\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1732792089987928376",
+          "publishedOn": "2023-12-07T16:00:02.000Z",
+          "wordCount": 1802,
+          "title": "#30daysoftext Day 7 Write about blockchain gaming 👾 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it we...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732739741450203301",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @devntellxyz @ChainbaseHQ @Theblessingemah https://buff.ly/415lfEI",
+          "link": "https://twitter.com/developer_dao/status/1732739741450203301",
+          "publishedOn": "2023-12-07T12:32:02.000Z",
+          "wordCount": 1536,
+          "title": "Re @devntellxyz @ChainbaseHQ @Theblessingemah https://buff.ly/415lfEI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732739741450203301",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "GM frens\nWe're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of Blocksec (aka Chain Visual Explorer), a winning project from the @ChainbaseHQ x D_D hack, from @Theblessingemah and Team!\nRSVP for event via the link below 👇",
+          "link": "https://twitter.com/developer_dao/status/1732739741450203301",
+          "publishedOn": "2023-12-07T12:32:01.000Z",
+          "wordCount": 1631,
+          "title": "GM frens We're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of Blocksec (aka Chain Visual Exp...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732717771031490918",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @gohardst007 thinks the decentralized web is lacking easy storage integrations. 🤔\nShould Pocket help to extend the IPFS ecosystem?\n\n✍️🔺ST_Management🛡️: I would like @POKTnetwork to build 𝗜𝗣𝗙𝗦 open-source libraries. 🏗\n𝗪𝗵𝘆❓—————————————\n— To address the limitations builders face when building for the web3/crypto ecosystem…\nA thread 🧵↴",
+          "link": "https://twitter.com/developer_dao/status/1732717771031490918",
+          "publishedOn": "2023-12-07T11:04:43.000Z",
+          "wordCount": 1793,
+          "title": "Re @gohardst007 thinks the decentralized web is lacking easy storage integrations. 🤔 Should Pocket help to extend the IPFS ecosystem?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732678034279276696",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "There is still time left to tell @POKTnetwork what open-source libraries web3 is missing! 🤔\nDo you have a long-standing problem, or just a good idea? \nLet them know and you got the chance to win $100 worth of POKT tokens! 💸\n#30daysoftext\n\nDeveloper DAO (🧱, 🚀): #30daysoftext Day 6\nAnother one for our partners, this time with a bounty! 🤑\nWhat open-source libraries would you like @POKTnetwork to build? 🏗\nThe winner gets 100 USD worth of POKT tokens 💸\nMake sure to tag @POKTnetwork, so they can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1732678034279276696",
+          "publishedOn": "2023-12-07T08:26:49.000Z",
+          "wordCount": 1537,
+          "title": "There is still time left to tell @POKTnetwork what open-source libraries web3 is missing! 🤔 Do you have a long-standing problem, or just a good ide...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732677199742861326",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Jamiescript thinks the web3 ecosystem needs better identity management solutions.\nDo you think that's the case or are there more pressing issues that @POKTnetwork could solve with an open-source library?\n\nJamiebones: #30daysoftext Day 6\n@POKTnetwork should consider building and open-sourcing a Decentralized Identity Management System (DIMS) built upon Pokt's robust infrastructure. It's like OAuth but for Web3 and completely decentralized.",
+          "link": "https://twitter.com/developer_dao/status/1732677199742861326",
+          "publishedOn": "2023-12-07T08:23:30.000Z",
+          "wordCount": 1545,
+          "title": "Re @Jamiescript thinks the web3 ecosystem needs better identity management solutions. Do you think that's the case or are there more pressing issues t...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732676662347673678",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @CuriousRabeet seems concerned about security in the ecosystem and wishes for a security audit toolkit.\nWhat do you think?\n#30daysoftext\n\nSyed Rabeet: #30daysoftext Day 6 @developer_dao \nI would like @POKTnetwork to build an open-source security audit toolkit related to smart contracts and applications. This toolkit can include best practices and guidelines to ensure the security of the applications built on the network.",
+          "link": "https://twitter.com/developer_dao/status/1732676662347673678",
+          "publishedOn": "2023-12-07T08:21:22.000Z",
+          "wordCount": 1536,
+          "title": "Re @CuriousRabeet seems concerned about security in the ecosystem and wishes for a security audit toolkit. What do you think? #30daysoftext",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1732429792190877905",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @iaminiekanem @POKTnetwork Exactly!\nWhat do you think is missing when building for the web3/crypto ecosystem?",
+          "link": "https://twitter.com/developer_dao/status/1732429792190877905",
+          "publishedOn": "2023-12-07T08:19:20.000Z",
+          "wordCount": 1796,
+          "title": "Re @iaminiekanem @POKTnetwork Exactly! What do you think is missing when building for the web3/crypto ecosystem?",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wc49358/status/1732433984272118198",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Papi Billy ⟁\nWriters, bounty alert 👇   This one sponsored by @POKTnetwork. Make sure to tag them in your write-up\n\nDeveloper DAO (🧱, 🚀): #30daysoftext Day 6\nAnother one for our partners, this time with a bounty! 🤑\nWhat open-source libraries would you like @POKTnetwork to build? 🏗\nThe winner gets 100 USD worth of POKT tokens 💸\nMake sure to tag @POKTnetwork, so they can find it 🤫",
           "link": "https://twitter.com/wc49358/status/1732433984272118198",
           "publishedOn": "2023-12-06T16:17:03.000Z",
-          "wordCount": 1536,
+          "wordCount": 1789,
           "title": "RT Papi Billy ⟁: Writers, bounty alert 👇 This one sponsored by @POKTnetwork. Make sure to tag them in your write-up",
           "imageUrl": null
         },
@@ -92,7 +202,7 @@
           "description": "#30daysoftext Day 6\nAnother one for our partners, this time with a bounty! 🤑\nWhat open-source libraries would you like @POKTnetwork to build? 🏗\nThe winner gets 100 USD worth of POKT tokens 💸\nMake sure to tag @POKTnetwork, so they can find it 🤫",
           "link": "https://twitter.com/developer_dao/status/1732429792190877905",
           "publishedOn": "2023-12-06T16:00:24.000Z",
-          "wordCount": 1536,
+          "wordCount": 1796,
           "title": "#30daysoftext Day 6 Another one for our partners, this time with a bounty! 🤑 What open-source libraries would you like @POKTnetwork to build? 🏗 ...",
           "imageUrl": null
         },
@@ -102,7 +212,7 @@
           "description": "RT Jamiebones\n#30daysoftext\nSmart contracts face a limitation in that they cannot directly access external data sources outside their blockchain environment. This gap is addressed by oracles, which serve to connect smart contracts with external data sources.",
           "link": "https://twitter.com/Jamiescript/status/1732308895631077713",
           "publishedOn": "2023-12-06T08:00:00.000Z",
-          "wordCount": 1536,
+          "wordCount": 1810,
           "title": "RT Jamiebones: #30daysoftext Smart contracts face a limitation in that they cannot directly access external data sources outside their blockchain envi...",
           "imageUrl": null
         },
@@ -112,7 +222,7 @@
           "description": "RT Sardius\nAs a developer, why should you care about oracles when writing smart contracts?\nSmart contracts face a critical limitation - they can't interact with data outside the blockchain they run on\nOracles aim to solve this problem, enabling dApps fusing on and offchain data\n🧵👇 /7\n\nDeveloper DAO (🧱, 🚀): #30daysoftext Day 5\nExplain the role of oracles in smart contracts 🔮 \nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
           "link": "https://twitter.com/0xSardius/status/1732202271293755830",
           "publishedOn": "2023-12-06T00:56:18.000Z",
-          "wordCount": 1361,
+          "wordCount": 1787,
           "title": "RT Sardius: As a developer, why should you care about oracles when writing smart contracts? Smart contracts face a critical limitation - they can't in...",
           "imageUrl": null
         },
@@ -122,7 +232,7 @@
           "description": "RT Narb | narbeh.eth\nBlockchains are liked walled gardens, only caring about what goes on inside their respective chain.  Thats pretty limiting from an application development standpoint like when coding smart contracts; however, an oracle allows a smart contract to interact outside of their… https://twitter.com/i/web/status/1732189564805202095\n\nDeveloper DAO (🧱, 🚀): #30daysoftext Day 5\nExplain the role of oracles in smart contracts 🔮 \nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
           "link": "https://twitter.com/narb_s/status/1732189564805202095",
           "publishedOn": "2023-12-06T00:05:49.000Z",
-          "wordCount": 1780,
+          "wordCount": 1554,
           "title": "RT Narb | narbeh.eth: Blockchains are liked walled gardens, only caring about what goes on inside their respective chain. Thats pretty limiting from a...",
           "imageUrl": null
         },
@@ -132,7 +242,7 @@
           "description": "Re @devntellxyz https://buff.ly/415lfEI",
           "link": "https://twitter.com/developer_dao/status/1732088197314699282",
           "publishedOn": "2023-12-05T17:23:01.000Z",
-          "wordCount": 1536,
+          "wordCount": 1797,
           "title": "Re @devntellxyz https://buff.ly/415lfEI",
           "imageUrl": null
         },
@@ -142,7 +252,7 @@
           "description": "✨ GM frens! ✨ \n🗣️ Join us this Friday December 8th at 5:00pm UTC for another episode of our long running @devntellxyz series!\nThe link to RSVP for the event can be found via the post below 👇",
           "link": "https://twitter.com/developer_dao/status/1732088197314699282",
           "publishedOn": "2023-12-05T17:23:01.000Z",
-          "wordCount": 1536,
+          "wordCount": 1789,
           "title": "✨ GM frens! ✨ 🗣️ Join us this Friday December 8th at 5:00pm UTC for another episode of our long running @devntellxyz series! The link to RSVP fo...",
           "imageUrl": null
         },
@@ -152,7 +262,7 @@
           "description": "RT swaresh binaykiya\nEver wondered how DApps make decisions?\nIs it possible without external data?\nBut, blockchains are isolated. Right?\nAll answers here.",
           "link": "https://twitter.com/SBinaykiya/status/1732083800820285513",
           "publishedOn": "2023-12-05T17:05:33.000Z",
-          "wordCount": 1330,
+          "wordCount": 1546,
           "title": "RT swaresh binaykiya: Ever wondered how DApps make decisions? Is it possible without external data? But, blockchains are isolated. Right? All answers ...",
           "imageUrl": null
         },
@@ -162,118 +272,8 @@
           "description": "RT Syed Rabeet\n#30daysoftext Day 5 @developer_dao\nTopic: Role of Oracles in Smart Contracts\n👇",
           "link": "https://twitter.com/CuriousRabeet/status/1732080923527852114",
           "publishedOn": "2023-12-05T16:54:07.000Z",
-          "wordCount": 1793,
+          "wordCount": 1792,
           "title": "RT Syed Rabeet: #30daysoftext Day 5 @developer_dao Topic: Role of Oracles in Smart Contracts 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1732065700301156617",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re Sayy whaaatttt ?!?",
-          "link": "https://twitter.com/developer_dao/status/1732065700301156617",
-          "publishedOn": "2023-12-05T16:11:04.000Z",
-          "wordCount": 1361,
-          "title": "Re Sayy whaaatttt ?!?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1732067387225133425",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 5\nExplain the role of oracles in smart contracts 🔮 \nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1732067387225133425",
-          "publishedOn": "2023-12-05T16:00:20.000Z",
-          "wordCount": 1330,
-          "title": "#30daysoftext Day 5 Explain the role of oracles in smart contracts 🔮 It can be a short article, a Twitter thread, or even just a tweet. Just ensure...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1732065700301156617",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Have you ever thought about building smart contracts on Bitcoin? 📜\nWith @Stacks Bitcoin layer 2 network, you can do that! 🚀\nCheck it out and become one of the first devs! 🤩\nhttps://buff.ly/416SZ4u",
-          "link": "https://twitter.com/developer_dao/status/1732065700301156617",
-          "publishedOn": "2023-12-05T15:53:37.000Z",
-          "wordCount": 1536,
-          "title": "Have you ever thought about building smart contracts on Bitcoin? 📜 With @Stacks Bitcoin layer 2 network, you can do that! 🚀 Check it out and bec...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Jamiescript/status/1731943770059407614",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Jamiebones\n#30daysoftext\nIn web3, token approval grants Dapp permission to spend your tokens on your behalf. Typically, this transaction incurs gas fees, and many dapps default to requesting unlimited approval to save on gas, but this practice is counterintuitive,",
-          "link": "https://twitter.com/Jamiescript/status/1731943770059407614",
-          "publishedOn": "2023-12-05T07:49:07.000Z",
-          "wordCount": 1536,
-          "title": "RT Jamiebones: #30daysoftext In web3, token approval grants Dapp permission to spend your tokens on your behalf. Typically, this transaction incurs ga...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CuriousRabeet/status/1731896315267911938",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Syed Rabeet\n#30daysoftext Day 4 @developer_dao\nHow to set up a token allowance with @zerion \n👇",
-          "link": "https://twitter.com/CuriousRabeet/status/1731896315267911938",
-          "publishedOn": "2023-12-05T04:40:33.000Z",
-          "wordCount": 1780,
-          "title": "RT Syed Rabeet: #30daysoftext Day 4 @developer_dao How to set up a token allowance with @zerion 👇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/iaminiekanem/status/1731705263516680575",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ini Abasi Ekanem\nRe @developer_dao @zerion https://open.substack.com/pub/iniabasiekanem/p/how-to-set-up-custom-token-allowance?r=4g7qb&utm_campaign=post&utm_medium=web",
-          "link": "https://twitter.com/iaminiekanem/status/1731705263516680575",
-          "publishedOn": "2023-12-04T17:58:46.000Z",
-          "wordCount": 1554,
-          "title": "RT Ini Abasi Ekanem: Re @developer_dao @zerion https://open.substack.com/pub/iniabasiekanem/p/how-to-set-up-custom-token-allowance?r=4g7qb&utm_campaig...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/iaminiekanem/status/1731734692636790908",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ini Abasi Ekanem\n🔷🔹How to set up Custom Token Allowance with Zerion🔹🔷\n❌Gas fees are up and on-chain transactions aren't always safe.\n✅ @zerion helps you securely approve transactions on-chain with Custom Token Allowance.\n🧵",
-          "link": "https://twitter.com/iaminiekanem/status/1731734692636790908",
-          "publishedOn": "2023-12-04T17:58:19.000Z",
-          "wordCount": 1536,
-          "title": "RT Ini Abasi Ekanem: 🔷🔹How to set up Custom Token Allowance with Zerion🔹🔷 ❌Gas fees are up and on-chain transactions aren't always safe. ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1731705263516680575",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 4\nLet's start this week with one for our partner!\nExplain how to set up a token allowance with @Zerion? 👛 \nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1731705263516680575",
-          "publishedOn": "2023-12-04T16:01:23.000Z",
-          "wordCount": 1780,
-          "title": "#30daysoftext Day 4 Let's start this week with one for our partner! Explain how to set up a token allowance with @Zerion? 👛 It can be a short artic...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Jamiescript/status/1731308222819057766",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Jamiebones\n#30daysoftext\nI am passionate about @ArweaveEco and the significant problem it addresses. For those unfamiliar, @ArweaveEco is a protocol that provides decentralized data storage. Data uploaded to the protocol incurs a one-time charge during the upload process and is guaranteed",
-          "link": "https://twitter.com/Jamiescript/status/1731308222819057766",
-          "publishedOn": "2023-12-03T13:43:41.000Z",
-          "wordCount": 1554,
-          "title": "RT Jamiebones: #30daysoftext I am passionate about @ArweaveEco and the significant problem it addresses. For those unfamiliar, @ArweaveEco is a protoc...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/K4y1s/status/1731046781796880852",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ϗ\n#30daysoftext \nThere are many technologies that excite me, but lately I invested most of my time into @ArweaveEco \nSo, let's talk about Arweave! 🐘\n1/",
-          "link": "https://twitter.com/K4y1s/status/1731046781796880852",
-          "publishedOn": "2023-12-02T20:24:48.000Z",
-          "wordCount": 1536,
-          "title": "RT Ϗ: #30daysoftext There are many technologies that excite me, but lately I invested most of my time into @ArweaveEco So, let's talk about Arweave! ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/lil_black_p/status/1730720876193083895",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Creative Bee🐝\n#30daysoftext\nDAY 1\nAn interesting programming concept I've learnt about is \nHTML ACCESSIBILITY AND SCREEN READERS\nMy friend recently had an interview where he was tasked to build a checkout page that included forms with focus on  writing semantic HTML that ensures accessibility",
-          "link": "https://twitter.com/lil_black_p/status/1730720876193083895",
-          "publishedOn": "2023-12-01T22:49:46.000Z",
-          "wordCount": 1536,
-          "title": "RT Creative Bee🐝: #30daysoftext DAY 1 An interesting programming concept I've learnt about is HTML ACCESSIBILITY AND SCREEN READERS My friend recen...",
           "imageUrl": null
         }
       ]
