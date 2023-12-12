@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-11T06:13:48.447Z</id>
+    <id>urn:2023-12-12T06:13:12.596Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-11T06:13:48.447Z</updated>
+    <updated>2023-12-12T06:13:12.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 11 Discuss a decentralized finance protocol 💹 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to e...]]></title>
+        <id>https://twitter.com/developer_dao/status/1734242267919991167</id>
+        <link href="https://twitter.com/developer_dao/status/1734242267919991167"/>
+        <updated>2023-12-11T16:02:31.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 11
+Discuss a decentralized finance protocol 💹
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onchain NFTs on Arweave? Might be interesting 🤔]]></title>
+        <id>https://twitter.com/developer_dao/status/1734217774476480747</id>
+        <link href="https://twitter.com/developer_dao/status/1734217774476480747"/>
+        <updated>2023-12-11T14:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Onchain NFTs on Arweave?
+Might be interesting 🤔
+
+Ϗ: #30daysoftext 
+Fully Onchain NFTs! (💾🖼)
+Something @arweaveeco solved graciously. 🐘
+1/]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Jamiescript explains what onchain NFTs bring to the table!]]></title>
+        <id>https://twitter.com/developer_dao/status/1734217496343769318</id>
+        <link href="https://twitter.com/developer_dao/status/1734217496343769318"/>
+        <updated>2023-12-11T14:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @Jamiescript explains what onchain NFTs bring to the table!
+
+Jamiebones: #30daysoftext
+Day 10: Write about on-chain NFTs
+on-chain NFTs have everything stored directly on the blockchain. This includes the NFT's metadata, such as name, description, attributes, and even the media file itself. This direct storage offers several key advantages:]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @iaminiekanem delved into NFTs and their spec on Ethereum 👀]]></title>
+        <id>https://twitter.com/developer_dao/status/1734217235957219805</id>
+        <link href="https://twitter.com/developer_dao/status/1734217235957219805"/>
+        <updated>2023-12-11T14:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @iaminiekanem delved into NFTs and their spec on Ethereum 👀
+
+Ini Abasi Ekanem: 🔷🔹Onchain Non-Fungible Tokens (NFTs)🔹🔷
+Onchain NFTs are a decentralized and secure way to represent ownership of assets.
+They are unique cryptographic tokens that are stored directly on a blockchain, ensuring transparency, immutability, and irrefutable proof of ownership.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On chain? Off chain? @PSkinnerTech clarifies!]]></title>
+        <id>https://twitter.com/developer_dao/status/1734216333309382770</id>
+        <link href="https://twitter.com/developer_dao/status/1734216333309382770"/>
+        <updated>2023-12-11T14:19:28.000Z</updated>
+        <summary type="html"><![CDATA[On chain? Off chain?
+@PSkinnerTech clarifies!
+
+Patrick Skinner (🧱, 🚀): 🚀 On Chain vs Off Chain NFTs.
+What are the differences, Pros vs Cons, and the use cases.
+#30daysoftext @developer_dao]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#99 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/99-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/99-probably-nothing"/>
+        <updated>2023-12-11T11:08:29.000Z</updated>
+        <summary type="html"><![CDATA[🧱 Jobs, D_D Agency looking for a business partner, and more 🚀]]></summary>
+        <author>
+            <name>Osikhena James Oshomah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#30daysoftext Day 10 We made it through 1/3rd of the journey! Discuss fully onchain NFTs 🖼 It can be a short article, a Twitter thread, or even jus...]]></title>
         <id>https://twitter.com/developer_dao/status/1733879250401230981</id>
@@ -207,76 +289,6 @@ refer/apply 👉 https://devdao.to/phalaprod]]></summary>
 Any #Rust engineers out there excited help build decentralised compute to push the boundaries of machine learning?
 Distributed Systems Engineer (Rust) - Remove/Europe
 refer/apply 👉 https://devdao.to/gensyndistributed]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The house of web3 ™️ Join @avara ( @aave, @LensProtocol, @family, @GHOAave & @sonar) to build an an open, decentralised internet that's equitable...]]></title>
-        <id>https://twitter.com/developer_dao/status/1733110820056543291</id>
-        <link href="https://twitter.com/developer_dao/status/1733110820056543291"/>
-        <updated>2023-12-08T13:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Re The house of web3 ™️
-Join @avara ( @aave, @LensProtocol, @family, @GHOAave & @sonar) to build an an open, decentralised internet that's equitable, inspires participation and fosters innovation.
-Smart Contract Engineer - Remote/Europe
-refer/apply 👉 https://devdao.to/avarasmart]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jobs of the week are back 🚀 Check out the 📜 for opportunities from @avara, @AlchemyPlatform, @PhalaNetwork, @ChainbaseHQ, @gensynai and more. Ap...]]></title>
-        <id>https://twitter.com/developer_dao/status/1733110820056543291</id>
-        <link href="https://twitter.com/developer_dao/status/1733110820056543291"/>
-        <updated>2023-12-08T13:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Jobs of the week are back 🚀
-Check out the 📜 for opportunities from @avara, @AlchemyPlatform, @PhalaNetwork, @ChainbaseHQ, @gensynai and more.
-Apply below and see your match using AI - built by DAO born team @joinedenai (in beta)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ⟠ Anett ⟠ anett.eth 🪐🐳: Hey Web3 Devs, looking for some testnet tokens? I made a list of (likely all available) Faucets out there! If you k...]]></title>
-        <id>https://twitter.com/AnettRolikova/status/1732810684210291041</id>
-        <link href="https://twitter.com/AnettRolikova/status/1732810684210291041"/>
-        <updated>2023-12-07T17:13:55.000Z</updated>
-        <summary type="html"><![CDATA[RT ⟠ Anett ⟠ anett.eth 🪐🐳
-Hey Web3 Devs, looking for some testnet tokens?   
-I made a list of (likely all available) Faucets out there!  
-If you know about any faucets not on my list drop the link below! https://github.com/anettrolikova/Crypto/blob/master/README.md#faucets]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who built something LIT lately? 🔥]]></title>
-        <id>https://twitter.com/developer_dao/status/1732799553617686815</id>
-        <link href="https://twitter.com/developer_dao/status/1732799553617686815"/>
-        <updated>2023-12-07T16:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Who built something LIT lately? 🔥
-
-Patrick Skinner (🧱, 🚀): #30daysoftext @developer_dao 
-@LitProtocol is not a protocol to sleep on. 
-It's a decentralized key management network, changing how we approach dApp security, data privacy, and user autonomy in Web3. Here's why it's my favorite... 
-👇👇
-(1/8)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PSkinnerTech knows something about wallets! ... his AI game is on point too 👀]]></title>
-        <id>https://twitter.com/developer_dao/status/1732797940568051858</id>
-        <link href="https://twitter.com/developer_dao/status/1732797940568051858"/>
-        <updated>2023-12-07T16:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Re @PSkinnerTech knows something about wallets!
-... his AI game is on point too 👀
-
-Patrick Skinner (🧱, 🚀): 🚀 Let's dive into why setting up token allowances with @zerion Wallet is crucial for your Web3 security. 
-First off, what's a token allowance? It's your permission for a dApp to use your tokens - a standard feature of ERC-20 tokens.
-#30daysoftext @developer_dao 
-(1/8)]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
