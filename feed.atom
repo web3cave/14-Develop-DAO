@@ -1,10 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T06:13:10.394Z</id>
+    <id>urn:2023-12-14T06:12:53.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T06:13:10.394Z</updated>
+    <updated>2023-12-14T06:12:53.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Papi Billy ⟁: A little live coding in @developer_dao in the infamous VC5. Like the good old days]]></title>
+        <id>https://twitter.com/wc49358/status/1734990412400710082</id>
+        <link href="https://twitter.com/wc49358/status/1734990412400710082"/>
+        <updated>2023-12-13T17:35:23.000Z</updated>
+        <summary type="html"><![CDATA[RT Papi Billy ⟁
+A little live coding in @developer_dao in the infamous VC5.  Like the good old days]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 13 Evaluate a layer 2 scaling approach. ⚖ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain...]]></title>
+        <id>https://twitter.com/developer_dao/status/1734966978756894841</id>
+        <link href="https://twitter.com/developer_dao/status/1734966978756894841"/>
+        <updated>2023-12-13T16:02:16.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 13
+Evaluate a layer 2 scaling approach. ⚖
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT nader dabit | nader.lens: Build a live streaming app in <2 minutes ⚡️]]></title>
+        <id>https://twitter.com/dabit3/status/1734955669042679891</id>
+        <link href="https://twitter.com/dabit3/status/1734955669042679891"/>
+        <updated>2023-12-13T15:17:20.000Z</updated>
+        <summary type="html"><![CDATA[RT nader dabit | nader.lens
+Build a live streaming app in <2 minutes ⚡️
+
+Livepeer: Introducing the Livepeer Studio CLI 🔑 ⚡️
+As part of a massive upgrade to Livepeer docs and developer experience, we're releasing a new command line tool that lets developers get a @livepeerstudio API key and launch an ultra low latency video app in seconds💨 🚀]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ever heard about layers and asked yourself what it means? 😵 @Jamiescript will tell you! 🚀]]></title>
+        <id>https://twitter.com/developer_dao/status/1734925502131925201</id>
+        <link href="https://twitter.com/developer_dao/status/1734925502131925201"/>
+        <updated>2023-12-13T13:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Ever heard about layers and asked yourself what it means? 😵
+@Jamiescript will tell you! 🚀
+
+Jamiebones: #30daysoftext Day 12
+Write about blockchain scalability solutions.
+Blockchain scaling solutions are a race against congestion. As blockchain technology gains traction, its scalability has emerged as a major challenge.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharding, rollups, and more explained by @iaminiekanem 🤓]]></title>
+        <id>https://twitter.com/developer_dao/status/1734924682795647381</id>
+        <link href="https://twitter.com/developer_dao/status/1734924682795647381"/>
+        <updated>2023-12-13T13:14:12.000Z</updated>
+        <summary type="html"><![CDATA[Sharding, rollups, and more explained by @iaminiekanem 🤓
+
+Ini Abasi Ekanem: 🔶🔸Blockchain Scalability Solutions🔸🔶
+Blockchain scalability is the ability of a blockchain to handle an increasing number of transactions without compromising performance and efficiency
+It is a multifaceted challenge that's being solved as blockchains gain more adoption
+🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @devntellxyz https://buff.ly/3uRvvEF]]></title>
         <id>https://twitter.com/developer_dao/status/1734624916111245574</id>
@@ -198,35 +266,6 @@ on-chain NFTs have everything stored directly on the blockchain. This includes t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @iaminiekanem delved into NFTs and their spec on Ethereum 👀]]></title>
-        <id>https://twitter.com/developer_dao/status/1734217235957219805</id>
-        <link href="https://twitter.com/developer_dao/status/1734217235957219805"/>
-        <updated>2023-12-11T14:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @iaminiekanem delved into NFTs and their spec on Ethereum 👀
-
-Ini Abasi Ekanem: 🔷🔹Onchain Non-Fungible Tokens (NFTs)🔹🔷
-Onchain NFTs are a decentralized and secure way to represent ownership of assets.
-They are unique cryptographic tokens that are stored directly on a blockchain, ensuring transparency, immutability, and irrefutable proof of ownership.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On chain? Off chain? @PSkinnerTech clarifies!]]></title>
-        <id>https://twitter.com/developer_dao/status/1734216333309382770</id>
-        <link href="https://twitter.com/developer_dao/status/1734216333309382770"/>
-        <updated>2023-12-11T14:19:28.000Z</updated>
-        <summary type="html"><![CDATA[On chain? Off chain?
-@PSkinnerTech clarifies!
-
-Patrick Skinner (🧱, 🚀): 🚀 On Chain vs Off Chain NFTs.
-What are the differences, Pros vs Cons, and the use cases.
-#30daysoftext @developer_dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#99 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/99-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/99-probably-nothing"/>
@@ -234,47 +273,6 @@ What are the differences, Pros vs Cons, and the use cases.
         <summary type="html"><![CDATA[🧱 Jobs, D_D Agency looking for a business partner, and more 🚀]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 10 We made it through 1/3rd of the journey! Discuss fully onchain NFTs 🖼 It can be a short article, a Twitter thread, or even jus...]]></title>
-        <id>https://twitter.com/developer_dao/status/1733879250401230981</id>
-        <link href="https://twitter.com/developer_dao/status/1733879250401230981"/>
-        <updated>2023-12-10T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 10
-We made it through 1/3rd of the journey!
-Discuss fully onchain NFTs 🖼
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @PrinceT22841783 explains EIPs and tells you which are crucial!]]></title>
-        <id>https://twitter.com/developer_dao/status/1733797175392342527</id>
-        <link href="https://twitter.com/developer_dao/status/1733797175392342527"/>
-        <updated>2023-12-10T10:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Re @PrinceT22841783 explains EIPs and tells you which are crucial!
-
-Mand/redstone: @developer_dao"
-Let's explore the concept of Ethereum Improvement Proposal (EIP) to gain a better understanding of its purpose and significance."]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Ini Abasi Ekanem: 🔷🔹Bitcoin can do more other than being used for payment with @hirosystems Bitcoin is the most recognized crypto in the worl...]]></title>
-        <id>https://twitter.com/iaminiekanem/status/1733250531966013805</id>
-        <link href="https://twitter.com/iaminiekanem/status/1733250531966013805"/>
-        <updated>2023-12-08T22:21:43.000Z</updated>
-        <summary type="html"><![CDATA[RT Ini Abasi Ekanem
-🔷🔹Bitcoin can do more other than being used for payment with @hirosystems 
-Bitcoin is the most recognized crypto in the world and is the most valuable crypto today but other than Bitcoin lightning and recently BRC-20, no one has really explored Bitcoin.
-Let's explore✅
-🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
