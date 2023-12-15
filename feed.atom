@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T06:12:53.910Z</id>
+    <id>urn:2023-12-15T06:13:03.368Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-14T06:12:53.910Z</updated>
+    <updated>2023-12-15T06:13:03.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Dhai.sway 🎒✈️: was talking to @grow_love after a long time and thought it's time to bring back some of @grow_love's finest creations into the ...]]></title>
+        <id>https://twitter.com/dhaiwat10/status/1735364738844889450</id>
+        <link href="https://twitter.com/dhaiwat10/status/1735364738844889450"/>
+        <updated>2023-12-14T18:22:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Dhai.sway 🎒✈️
+was talking to @grow_love after a long time and thought it's time to bring back some of @grow_love's finest creations into the spotlight
+@tonyolendo 😂]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @devntellxyz @hirosystems @maxefremov https://buff.ly/3uRvvEF]]></title>
+        <id>https://twitter.com/developer_dao/status/1735349689585688693</id>
+        <link href="https://twitter.com/developer_dao/status/1735349689585688693"/>
+        <updated>2023-12-14T17:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @devntellxyz @hirosystems @maxefremov https://buff.ly/3uRvvEF]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM frens We're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of @hirosystems from @maxefremov ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1735349689585688693</id>
+        <link href="https://twitter.com/developer_dao/status/1735349689585688693"/>
+        <updated>2023-12-14T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[GM frens 
+We're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of @hirosystems from @maxefremov 🔥 
+Come learn about Hiro and explore DeFi in the Bitcoin ecosystem!
+RSVP for event via the link below 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 14 Review a cross-chain protocol. 🔀 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1735328953412297162</id>
+        <link href="https://twitter.com/developer_dao/status/1735328953412297162"/>
+        <updated>2023-12-14T16:00:38.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 14
+Review a cross-chain protocol. 🔀
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚨🚨🚨 PLEASE BE EXTREMELY CAREFUL Major exploit reported in Ledger's connectkit library... General recommendation out there is don't interact w...]]></title>
+        <id>https://twitter.com/developer_dao/status/1735300715558412682</id>
+        <link href="https://twitter.com/developer_dao/status/1735300715558412682"/>
+        <updated>2023-12-14T14:08:25.000Z</updated>
+        <summary type="html"><![CDATA[🚨🚨🚨 PLEASE BE EXTREMELY CAREFUL
+Major exploit reported in Ledger's connectkit library...
+General recommendation out there is don't interact with any dApps until the exploit is better understood.
+
+banteg: 🚨 ledger library confirmed compromised and replaced with a drainer. wait out interacting with any dapps till things become clearer.
+https://cdn.jsdelivr.net/npm/@ledgerhq/connect-kit@1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT Papi Billy ⟁: A little live coding in @developer_dao in the infamous VC5. Like the good old days]]></title>
         <id>https://twitter.com/wc49358/status/1734990412400710082</id>
@@ -193,74 +256,6 @@ https://twitter.com/developer_dao/status/1733110820056543291
 Developer DAO (🧱, 🚀): Jobs of the week are back 🚀
 Check out the 📜 for opportunities from @avara, @AlchemyPlatform, @PhalaNetwork, @ChainbaseHQ, @gensynai and more.
 Apply below and see your match using AI - built by DAO born team @joinedenai (in beta)]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Jamiescript 📆 Upcoming this week... @devntellxyz is hosting our friends at @hirosystems with their DevRel @maxefremov giving us an overview of ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1734525492764803289</id>
-        <link href="https://twitter.com/developer_dao/status/1734525492764803289"/>
-        <updated>2023-12-12T10:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Re @Jamiescript 📆 Upcoming this week...
-@devntellxyz is hosting our friends at @hirosystems with their DevRel @maxefremov giving us an overview of the dev tooling their offer 😋
-Make you to register and don't miss it!
-https://lu.ma/peh41nlb]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌟 Probably Nothing Issue #99 🌟 @devntellxyz hosting @hirosystems for DeFi on Bitcoin, Jobs via @joinedenai, @ddweb3experts are looking for a BD ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1734525492764803289</id>
-        <link href="https://twitter.com/developer_dao/status/1734525492764803289"/>
-        <updated>2023-12-12T10:47:58.000Z</updated>
-        <summary type="html"><![CDATA[🌟 Probably Nothing Issue #99 🌟
-@devntellxyz hosting @hirosystems for DeFi on Bitcoin, Jobs via @joinedenai, @ddweb3experts are looking for a BD contributor,  and #30daysoftext going 💪
-Check our the summary 📜 below, read in full here  👉 https://developerdao.substack.com/p/99-probably-nothing]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 11 Discuss a decentralized finance protocol 💹 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to e...]]></title>
-        <id>https://twitter.com/developer_dao/status/1734242267919991167</id>
-        <link href="https://twitter.com/developer_dao/status/1734242267919991167"/>
-        <updated>2023-12-11T16:02:31.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 11
-Discuss a decentralized finance protocol 💹
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onchain NFTs on Arweave? Might be interesting 🤔]]></title>
-        <id>https://twitter.com/developer_dao/status/1734217774476480747</id>
-        <link href="https://twitter.com/developer_dao/status/1734217774476480747"/>
-        <updated>2023-12-11T14:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Onchain NFTs on Arweave?
-Might be interesting 🤔
-
-Ϗ: #30daysoftext 
-Fully Onchain NFTs! (💾🖼)
-Something @arweaveeco solved graciously. 🐘
-1/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Jamiescript explains what onchain NFTs bring to the table!]]></title>
-        <id>https://twitter.com/developer_dao/status/1734217496343769318</id>
-        <link href="https://twitter.com/developer_dao/status/1734217496343769318"/>
-        <updated>2023-12-11T14:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Re @Jamiescript explains what onchain NFTs bring to the table!
-
-Jamiebones: #30daysoftext
-Day 10: Write about on-chain NFTs
-on-chain NFTs have everything stored directly on the blockchain. This includes the NFT's metadata, such as name, description, attributes, and even the media file itself. This direct storage offers several key advantages:]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
