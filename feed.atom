@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T06:11:50.178Z</id>
+    <id>urn:2023-12-18T06:13:38.711Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-17T06:11:50.178Z</updated>
+    <updated>2023-12-18T06:13:38.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn and earn with Solana? Sounds dope! 🤩]]></title>
+        <id>https://twitter.com/developer_dao/status/1736423440683291032</id>
+        <link href="https://twitter.com/developer_dao/status/1736423440683291032"/>
+        <updated>2023-12-17T16:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Learn and earn with Solana?
+Sounds dope! 🤩
+
+Ini Abasi Ekanem: @SuperteamDAO is the biggest #DAO on @solana and one of the biggest in web3, offering creators and contributors  opportunities to connect, learn and earn.
+We are in many countries
+@SuperteamNG 
+@SuperteamUK 
+@SuperteamDE 
+@SuperteamVN 
+@SuperteamAE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❤️❤️❤️]]></title>
+        <id>https://twitter.com/developer_dao/status/1736423212710269052</id>
+        <link href="https://twitter.com/developer_dao/status/1736423212710269052"/>
+        <updated>2023-12-17T16:28:49.000Z</updated>
+        <summary type="html"><![CDATA[❤️❤️❤️
+
+Jamiebones: #30daysoftext
+Day 16
+Write about your favourite DAO
+Developers DAO, D_D is a DAO made for developers of varying expertise. The DAO currently exist as a closed community where one can gain access by buying 400 $CODE Token or applying to a membership scholarship run every month.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 17 Write about your favorite framework. 🛠 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to expla...]]></title>
+        <id>https://twitter.com/developer_dao/status/1736416146457256027</id>
+        <link href="https://twitter.com/developer_dao/status/1736416146457256027"/>
+        <updated>2023-12-17T16:00:45.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 17
+Write about your favorite framework. 🛠
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#30daysoftext Day 16 Write about your favorite DAO. 🤹🏻‍♀️ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to e...]]></title>
         <id>https://twitter.com/developer_dao/status/1736053644674379847</id>
@@ -201,28 +248,6 @@ It is a multifaceted challenge that's being solved as blockchains gain more adop
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @devntellxyz https://buff.ly/3uRvvEF]]></title>
-        <id>https://twitter.com/developer_dao/status/1734624916111245574</id>
-        <link href="https://twitter.com/developer_dao/status/1734624916111245574"/>
-        <updated>2023-12-12T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @devntellxyz https://buff.ly/3uRvvEF]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ 🗣️ Join us this Friday December 15th at 4:30pm UTC for another episode of our long running @devntellxyz series! The link to RSVP f...]]></title>
-        <id>https://twitter.com/developer_dao/status/1734624916111245574</id>
-        <link href="https://twitter.com/developer_dao/status/1734624916111245574"/>
-        <updated>2023-12-12T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-🗣️ Join us this Friday December 15th at 4:30pm UTC for another episode of our long running @devntellxyz series! 
-The link to RSVP for the event can be found via the post below 👇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT tonyolendo.eth: What if I told you never have to do an “Approve” transaction again?! Ok, maybe not never, but fewer times than you currently have...]]></title>
         <id>https://twitter.com/tonyolendo/status/1734613344240500995</id>
         <link href="https://twitter.com/tonyolendo/status/1734613344240500995"/>
@@ -230,19 +255,6 @@ The link to RSVP for the event can be found via the post below 👇]]></summary>
         <summary type="html"><![CDATA[RT tonyolendo.eth
 What if I told you never have to do an “Approve” transaction again?! Ok, maybe not never, but fewer times than you currently have to do? What if we vastly improve DeFi UX today with just a couple lines of code!
 Permit2 from @Uniswap fixes this, let’s say protocol A integrates… https://twitter.com/i/web/status/1734613344240500995]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 12 Write about blockchain scalability solutions. 🔝 It can be a short article, a Twitter thread, or even just a tweet. Just ensure...]]></title>
-        <id>https://twitter.com/developer_dao/status/1734604696126419367</id>
-        <link href="https://twitter.com/developer_dao/status/1734604696126419367"/>
-        <updated>2023-12-12T16:02:41.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 12
-Write about blockchain scalability solutions. 🔝
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
