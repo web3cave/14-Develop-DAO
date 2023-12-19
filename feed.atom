@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-18T06:13:38.711Z</id>
+    <id>urn:2023-12-19T06:12:53.090Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-18T06:13:38.711Z</updated>
+    <updated>2023-12-19T06:12:53.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 18 Discuss how @POKTnetwork provides decentralized web3 infrastructure. 📡 It can be a short article, a Twitter thread, or even ju...]]></title>
+        <id>https://twitter.com/developer_dao/status/1736779082052907317</id>
+        <link href="https://twitter.com/developer_dao/status/1736779082052907317"/>
+        <updated>2023-12-18T16:02:55.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 18
+Discuss how @POKTnetwork provides decentralized web3 infrastructure. 📡
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#100 Probably Nothing]]></title>
+        <id>https://developerdao.substack.com/p/100-probably-nothing</id>
+        <link href="https://developerdao.substack.com/p/100-probably-nothing"/>
+        <updated>2023-12-18T14:40:45.000Z</updated>
+        <summary type="html"><![CDATA[👾 Jobs, jobs, jobs, but in the meantime, happy holidays! 🎁]]></summary>
+        <author>
+            <name>Osikhena James Oshomah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @MichelleBakels This is the way 🖐️🌱]]></title>
+        <id>https://twitter.com/developer_dao/status/1736437637550899346</id>
+        <link href="https://twitter.com/developer_dao/status/1736437637550899346"/>
+        <updated>2023-12-18T13:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @MichelleBakels This is the way 🖐️🌱]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Rahatcodes 👀🖤]]></title>
+        <id>https://twitter.com/developer_dao/status/1736466856083345623</id>
+        <link href="https://twitter.com/developer_dao/status/1736466856083345623"/>
+        <updated>2023-12-18T13:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @Rahatcodes 👀🖤]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @HardhatHQ is the EVM framework of choice for @Jamiescript 👀 What do you prefer? 🧐]]></title>
+        <id>https://twitter.com/developer_dao/status/1736731742273261782</id>
+        <link href="https://twitter.com/developer_dao/status/1736731742273261782"/>
+        <updated>2023-12-18T12:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @HardhatHQ is the EVM framework of choice for @Jamiescript 👀
+What do you prefer? 🧐
+
+Jamiebones: #30daysoftext Day 17. Favourite framework:
+In programming, a framework is a tool that provides pre-built components or solutions aimed at accelerating the development process. When it comes to developing Ethereum smart contracts, Hardhat is my tool of choice.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn and earn with Solana? Sounds dope! 🤩]]></title>
         <id>https://twitter.com/developer_dao/status/1736423440683291032</id>
@@ -218,48 +275,6 @@ As part of a massive upgrade to Livepeer docs and developer experience, we're re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ever heard about layers and asked yourself what it means? 😵 @Jamiescript will tell you! 🚀]]></title>
-        <id>https://twitter.com/developer_dao/status/1734925502131925201</id>
-        <link href="https://twitter.com/developer_dao/status/1734925502131925201"/>
-        <updated>2023-12-13T13:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Ever heard about layers and asked yourself what it means? 😵
-@Jamiescript will tell you! 🚀
-
-Jamiebones: #30daysoftext Day 12
-Write about blockchain scalability solutions.
-Blockchain scaling solutions are a race against congestion. As blockchain technology gains traction, its scalability has emerged as a major challenge.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharding, rollups, and more explained by @iaminiekanem 🤓]]></title>
-        <id>https://twitter.com/developer_dao/status/1734924682795647381</id>
-        <link href="https://twitter.com/developer_dao/status/1734924682795647381"/>
-        <updated>2023-12-13T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[Sharding, rollups, and more explained by @iaminiekanem 🤓
-
-Ini Abasi Ekanem: 🔶🔸Blockchain Scalability Solutions🔸🔶
-Blockchain scalability is the ability of a blockchain to handle an increasing number of transactions without compromising performance and efficiency
-It is a multifaceted challenge that's being solved as blockchains gain more adoption
-🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT tonyolendo.eth: What if I told you never have to do an “Approve” transaction again?! Ok, maybe not never, but fewer times than you currently have...]]></title>
-        <id>https://twitter.com/tonyolendo/status/1734613344240500995</id>
-        <link href="https://twitter.com/tonyolendo/status/1734613344240500995"/>
-        <updated>2023-12-12T16:37:03.000Z</updated>
-        <summary type="html"><![CDATA[RT tonyolendo.eth
-What if I told you never have to do an “Approve” transaction again?! Ok, maybe not never, but fewer times than you currently have to do? What if we vastly improve DeFi UX today with just a couple lines of code!
-Permit2 from @Uniswap fixes this, let’s say protocol A integrates… https://twitter.com/i/web/status/1734613344240500995]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#99 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/99-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/99-probably-nothing"/>
@@ -267,20 +282,6 @@ Permit2 from @Uniswap fixes this, let’s say protocol A integrates… https://t
         <summary type="html"><![CDATA[🧱 Jobs, D_D Agency looking for a business partner, and more 🚀]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT marc | wolovim.eth 🐼: ⚡️ new post sign expressive, human-readable messages or get rekt 🔨 this is an intro to building, signing, and verifyi...]]></title>
-        <id>https://twitter.com/wolovim/status/1733148184526897342</id>
-        <link href="https://twitter.com/wolovim/status/1733148184526897342"/>
-        <updated>2023-12-08T15:35:02.000Z</updated>
-        <summary type="html"><![CDATA[RT marc | wolovim.eth 🐼
-⚡️ new post
-sign expressive, human-readable messages or get rekt 🔨
-this is an intro to building, signing, and verifying typed data messages (eip-712) 🌞
-https://snakecharmers.ethereum.org/typed-data-message-signing/]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>

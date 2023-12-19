@@ -6,6 +6,22 @@
       "siteUrl": "https://developerdao.substack.com",
       "articles": [
         {
+          "id": "https://developerdao.substack.com/p/100-probably-nothing",
+          "author": "Osikhena James Oshomah",
+          "description": "👾 Jobs, jobs, jobs, but in the meantime, happy holidays! 🎁",
+          "link": "https://developerdao.substack.com/p/100-probably-nothing",
+          "publishedOn": "2023-12-18T14:40:45.000Z",
+          "wordCount": null,
+          "title": "#100 Probably Nothing",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fda4bfc-a63f-46cc-ac6b-9cd10b1336ce_1600x900.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fda4bfc-a63f-46cc-ac6b-9cd10b1336ce_1600x900.png"
+        },
+        {
           "id": "https://developerdao.substack.com/p/99-probably-nothing",
           "author": "Osikhena James Oshomah",
           "description": "🧱 Jobs, D_D Agency looking for a business partner, and more 🚀",
@@ -76,6 +92,46 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1736779082052907317",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 18\nDiscuss how @POKTnetwork provides decentralized web3 infrastructure. 📡\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1736779082052907317",
+          "publishedOn": "2023-12-18T16:02:55.000Z",
+          "wordCount": null,
+          "title": "#30daysoftext Day 18 Discuss how @POKTnetwork provides decentralized web3 infrastructure. 📡 It can be a short article, a Twitter thread, or even ju...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1736437637550899346",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @MichelleBakels This is the way 🖐️🌱",
+          "link": "https://twitter.com/developer_dao/status/1736437637550899346",
+          "publishedOn": "2023-12-18T13:28:39.000Z",
+          "wordCount": null,
+          "title": "Re @MichelleBakels This is the way 🖐️🌱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1736466856083345623",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @Rahatcodes 👀🖤",
+          "link": "https://twitter.com/developer_dao/status/1736466856083345623",
+          "publishedOn": "2023-12-18T13:28:14.000Z",
+          "wordCount": null,
+          "title": "Re @Rahatcodes 👀🖤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1736731742273261782",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @HardhatHQ is the EVM framework of choice for @Jamiescript 👀\nWhat do you prefer? 🧐\n\nJamiebones: #30daysoftext Day 17. Favourite framework:\nIn programming, a framework is a tool that provides pre-built components or solutions aimed at accelerating the development process. When it comes to developing Ethereum smart contracts, Hardhat is my tool of choice.",
+          "link": "https://twitter.com/developer_dao/status/1736731742273261782",
+          "publishedOn": "2023-12-18T12:54:48.000Z",
+          "wordCount": null,
+          "title": "Re @HardhatHQ is the EVM framework of choice for @Jamiescript 👀 What do you prefer? 🧐",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1736423440683291032",
           "author": "Developer DAO (🧱, 🚀)",
@@ -234,46 +290,6 @@
           "publishedOn": "2023-12-13T15:17:20.000Z",
           "wordCount": null,
           "title": "RT nader dabit | nader.lens: Build a live streaming app in <2 minutes ⚡️",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1734925502131925201",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Ever heard about layers and asked yourself what it means? 😵\n@Jamiescript will tell you! 🚀\n\nJamiebones: #30daysoftext Day 12\nWrite about blockchain scalability solutions.\nBlockchain scaling solutions are a race against congestion. As blockchain technology gains traction, its scalability has emerged as a major challenge.",
-          "link": "https://twitter.com/developer_dao/status/1734925502131925201",
-          "publishedOn": "2023-12-13T13:17:27.000Z",
-          "wordCount": null,
-          "title": "Ever heard about layers and asked yourself what it means? 😵 @Jamiescript will tell you! 🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1734924682795647381",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Sharding, rollups, and more explained by @iaminiekanem 🤓\n\nIni Abasi Ekanem: 🔶🔸Blockchain Scalability Solutions🔸🔶\nBlockchain scalability is the ability of a blockchain to handle an increasing number of transactions without compromising performance and efficiency\nIt is a multifaceted challenge that's being solved as blockchains gain more adoption\n🧵",
-          "link": "https://twitter.com/developer_dao/status/1734924682795647381",
-          "publishedOn": "2023-12-13T13:14:12.000Z",
-          "wordCount": null,
-          "title": "Sharding, rollups, and more explained by @iaminiekanem 🤓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tonyolendo/status/1734613344240500995",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT tonyolendo.eth\nWhat if I told you never have to do an “Approve” transaction again?! Ok, maybe not never, but fewer times than you currently have to do? What if we vastly improve DeFi UX today with just a couple lines of code!\nPermit2 from @Uniswap fixes this, let’s say protocol A integrates… https://twitter.com/i/web/status/1734613344240500995",
-          "link": "https://twitter.com/tonyolendo/status/1734613344240500995",
-          "publishedOn": "2023-12-12T16:37:03.000Z",
-          "wordCount": null,
-          "title": "RT tonyolendo.eth: What if I told you never have to do an “Approve” transaction again?! Ok, maybe not never, but fewer times than you currently have...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wolovim/status/1733148184526897342",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT marc | wolovim.eth 🐼\n⚡️ new post\nsign expressive, human-readable messages or get rekt 🔨\nthis is an intro to building, signing, and verifying typed data messages (eip-712) 🌞\nhttps://snakecharmers.ethereum.org/typed-data-message-signing/",
-          "link": "https://twitter.com/wolovim/status/1733148184526897342",
-          "publishedOn": "2023-12-08T15:35:02.000Z",
-          "wordCount": null,
-          "title": "RT marc | wolovim.eth 🐼: ⚡️ new post sign expressive, human-readable messages or get rekt 🔨 this is an intro to building, signing, and verifyi...",
           "imageUrl": null
         }
       ]
