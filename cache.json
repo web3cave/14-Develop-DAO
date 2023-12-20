@@ -68,22 +68,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b973574-f758-4ec2-9759-922660f8948c_1600x900.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/96-probably-nothing",
-          "author": "Osikhena James Oshomah",
-          "description": "👾 POKT perks, request for content elevation ideas, and more 👀",
-          "link": "https://developerdao.substack.com/p/96-probably-nothing",
-          "publishedOn": "2023-11-20T12:42:48.000Z",
-          "wordCount": null,
-          "title": "#96 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b797b53-ece0-4090-9fa3-620e88203716_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b797b53-ece0-4090-9fa3-620e88203716_1600x900.png"
         }
       ]
     },
@@ -92,6 +76,96 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1737275127371321544",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @devntellxyz https://buff.ly/3RL1tex",
+          "link": "https://twitter.com/developer_dao/status/1737275127371321544",
+          "publishedOn": "2023-12-20T00:54:02.000Z",
+          "wordCount": null,
+          "title": "Re @devntellxyz https://buff.ly/3RL1tex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737275127371321544",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️ Join us this Friday December 22nd at 4:30pm UTC for another episode of our long running @devntellxyz series! \nThe link to RSVP for the event can be found via the post below 👇",
+          "link": "https://twitter.com/developer_dao/status/1737275127371321544",
+          "publishedOn": "2023-12-20T00:54:02.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ 🗣️ Join us this Friday December 22nd at 4:30pm UTC for another episode of our long running @devntellxyz series! The link to RSVP f...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737212714227728839",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🌟 Probably Nothing Issue # 100 🌟 \nUpdates on #30daysOfText, new jobs on @joinedenai, @hirosystems on @devntellxyz and more.\nSpecial thanks to our parting editor, @sylvanscenes, for her hard work towards this impressive milestone ❤️ \nRead in full https://buff.ly/3GOv54x",
+          "link": "https://twitter.com/developer_dao/status/1737212714227728839",
+          "publishedOn": "2023-12-19T20:46:01.000Z",
+          "wordCount": null,
+          "title": "🌟 Probably Nothing Issue # 100 🌟 Updates on #30daysOfText, new jobs on @joinedenai, @hirosystems on @devntellxyz and more. Special thanks to our...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737161625575055793",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "New Gov Proposal up for discussion 👩‍⚖️ \nAnnual NFT Membership in Developer DAO\nAuthor: @mannyornothing\nShare your perspective, feedback, thoughts and ideas to help shape this proposal before it goes to a vote 🗳️ \nhttps://buff.ly/4at3rYl",
+          "link": "https://twitter.com/developer_dao/status/1737161625575055793",
+          "publishedOn": "2023-12-19T17:23:01.000Z",
+          "wordCount": null,
+          "title": "New Gov Proposal up for discussion 👩‍⚖️ Annual NFT Membership in Developer DAO Author: @mannyornothing Share your perspective, feedback, thought...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737141185569751298",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 19\nExplain how token incentives work. 💸\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1737141185569751298",
+          "publishedOn": "2023-12-19T16:01:47.000Z",
+          "wordCount": null,
+          "title": "#30daysoftext Day 19 Explain how token incentives work. 💸 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737036366205100226",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "The Bitcoin of data? \nSounds intriguing 🤔\n\nJamiebones: #30daysoftext\nDay 15\nExplain a decentralized storage protocol\nArweave: Decentralized Storage for the Permanent Web\nImagine a storage system for your data that's not controlled by any single company or government. That's the promise of decentralized storage protocols like Arweave",
+          "link": "https://twitter.com/developer_dao/status/1737036366205100226",
+          "publishedOn": "2023-12-19T09:05:16.000Z",
+          "wordCount": null,
+          "title": "The Bitcoin of data? Sounds intriguing 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737035829627810094",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "So many years, and React is still going strong!\n\nPatrick Skinner (🧱, 🚀): 🚀 React & Decentralized Frontend Hosting: A Perfect Combo for dApps 🚀\nThe beginning of a bright future where all dApps are on chain from front to back.\n#30daysoftext @reactjs @ReactJSNews @ReactJSTrends https://twitter.com/i/web/status/1736783547250233516",
+          "link": "https://twitter.com/developer_dao/status/1737035829627810094",
+          "publishedOn": "2023-12-19T09:03:09.000Z",
+          "wordCount": null,
+          "title": "So many years, and React is still going strong!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737035372960288841",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "❤️❤️❤️❤️\n\nPatrick Skinner (🧱, 🚀): This one gets personal...\n@developer_dao isn't just my favorite DAO.\nIt is:\n- My Web3 Home. \n- Where I go to succeed.\n- Where I go to fail.\n- Where I go for help.\n- Where I go to lift others up.\n- Where I truly believe in \"WAGMI.\"\n#30daysoftext",
+          "link": "https://twitter.com/developer_dao/status/1737035372960288841",
+          "publishedOn": "2023-12-19T09:01:20.000Z",
+          "wordCount": null,
+          "title": "❤️❤️❤️❤️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1737035208736546933",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @POKTnetwork follows the spirit of web3!\n\nJamiebones: #30daysoftext Day 18\nDiscuss how @POKTnetwork provides decentralized web3 infrastructure.\n@POKTnetwork's approach to Web3 infrastructure takes a decentralized route, offering developers a resilient, censorship-resistant, and scalable foundation for their blockchain projects.",
+          "link": "https://twitter.com/developer_dao/status/1737035208736546933",
+          "publishedOn": "2023-12-19T09:00:40.000Z",
+          "wordCount": null,
+          "title": "Re @POKTnetwork follows the spirit of web3!",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1736779082052907317",
           "author": "Developer DAO (🧱, 🚀)",
@@ -200,96 +274,6 @@
           "publishedOn": "2023-12-15T16:01:33.000Z",
           "wordCount": null,
           "title": "#30daysoftext Day 15 Explain a decentralized storage protocol. 💾 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/K4y1s/status/1735372228428997092",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Ϗ\nJust learned that @nicktindle, a @developer_dao member, is a core dev of @Auto_GPT 🤯\nA community of OGs 😎",
-          "link": "https://twitter.com/K4y1s/status/1735372228428997092",
-          "publishedOn": "2023-12-14T18:52:35.000Z",
-          "wordCount": null,
-          "title": "RT Ϗ: Just learned that @nicktindle, a @developer_dao member, is a core dev of @Auto_GPT 🤯 A community of OGs 😎",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dhaiwat10/status/1735364738844889450",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Dhai.sway 🎒✈️\nwas talking to @grow_love after a long time and thought it's time to bring back some of @grow_love's finest creations into the spotlight\n@tonyolendo 😂",
-          "link": "https://twitter.com/dhaiwat10/status/1735364738844889450",
-          "publishedOn": "2023-12-14T18:22:49.000Z",
-          "wordCount": null,
-          "title": "RT Dhai.sway 🎒✈️: was talking to @grow_love after a long time and thought it's time to bring back some of @grow_love's finest creations into the ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1735349689585688693",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @devntellxyz @hirosystems @maxefremov https://buff.ly/3uRvvEF",
-          "link": "https://twitter.com/developer_dao/status/1735349689585688693",
-          "publishedOn": "2023-12-14T17:23:02.000Z",
-          "wordCount": null,
-          "title": "Re @devntellxyz @hirosystems @maxefremov https://buff.ly/3uRvvEF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1735349689585688693",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "GM frens \nWe're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of @hirosystems from @maxefremov 🔥 \nCome learn about Hiro and explore DeFi in the Bitcoin ecosystem!\nRSVP for event via the link below 👇",
-          "link": "https://twitter.com/developer_dao/status/1735349689585688693",
-          "publishedOn": "2023-12-14T17:23:01.000Z",
-          "wordCount": null,
-          "title": "GM frens We're in store for another treat tomorrow during our weekly @devntellxyz where we'll be getting an overview of @hirosystems from @maxefremov ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1735328953412297162",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 14\nReview a cross-chain protocol. 🔀\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1735328953412297162",
-          "publishedOn": "2023-12-14T16:00:38.000Z",
-          "wordCount": null,
-          "title": "#30daysoftext Day 14 Review a cross-chain protocol. 🔀 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1735300715558412682",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚨🚨🚨 PLEASE BE EXTREMELY CAREFUL\nMajor exploit reported in Ledger's connectkit library...\nGeneral recommendation out there is don't interact with any dApps until the exploit is better understood.\n\nbanteg: 🚨 ledger library confirmed compromised and replaced with a drainer. wait out interacting with any dapps till things become clearer.\nhttps://cdn.jsdelivr.net/npm/@ledgerhq/connect-kit@1",
-          "link": "https://twitter.com/developer_dao/status/1735300715558412682",
-          "publishedOn": "2023-12-14T14:08:25.000Z",
-          "wordCount": null,
-          "title": "🚨🚨🚨 PLEASE BE EXTREMELY CAREFUL Major exploit reported in Ledger's connectkit library... General recommendation out there is don't interact w...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wc49358/status/1734990412400710082",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Papi Billy ⟁\nA little live coding in @developer_dao in the infamous VC5.  Like the good old days",
-          "link": "https://twitter.com/wc49358/status/1734990412400710082",
-          "publishedOn": "2023-12-13T17:35:23.000Z",
-          "wordCount": null,
-          "title": "RT Papi Billy ⟁: A little live coding in @developer_dao in the infamous VC5. Like the good old days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1734966978756894841",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 13\nEvaluate a layer 2 scaling approach. ⚖\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1734966978756894841",
-          "publishedOn": "2023-12-13T16:02:16.000Z",
-          "wordCount": null,
-          "title": "#30daysoftext Day 13 Evaluate a layer 2 scaling approach. ⚖ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dabit3/status/1734955669042679891",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader dabit | nader.lens\nBuild a live streaming app in <2 minutes ⚡️\n\nLivepeer: Introducing the Livepeer Studio CLI 🔑 ⚡️\nAs part of a massive upgrade to Livepeer docs and developer experience, we're releasing a new command line tool that lets developers get a @livepeerstudio API key and launch an ultra low latency video app in seconds💨 🚀",
-          "link": "https://twitter.com/dabit3/status/1734955669042679891",
-          "publishedOn": "2023-12-13T15:17:20.000Z",
-          "wordCount": null,
-          "title": "RT nader dabit | nader.lens: Build a live streaming app in <2 minutes ⚡️",
           "imageUrl": null
         }
       ]
