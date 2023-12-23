@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T06:12:49.358Z</id>
+    <id>urn:2023-12-23T06:11:47.265Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-22T06:12:49.358Z</updated>
+    <updated>2023-12-23T06:11:47.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE with @CeptorClub, hosted by @narb_s 🎥 Watch here: https://buff.ly/3tkHZnU]]></title>
+        <id>https://twitter.com/developer_dao/status/1738235585611944371</id>
+        <link href="https://twitter.com/developer_dao/status/1738235585611944371"/>
+        <updated>2023-12-22T16:30:33.000Z</updated>
+        <summary type="html"><![CDATA[✨ GM frens! ✨ 
+@devntellxyz is LIVE with @CeptorClub, hosted by @narb_s 
+🎥 Watch here: https://buff.ly/3tkHZnU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who is bullish on @NEARProtocol 👋 Do not miss this chance to learn something new!! Strong feeling that 2024 is going to be big year for Abstraction...]]></title>
+        <id>https://twitter.com/developer_dao/status/1738193115985416203</id>
+        <link href="https://twitter.com/developer_dao/status/1738193115985416203"/>
+        <updated>2023-12-22T13:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Who is bullish on @NEARProtocol 👋
+Do not miss this chance to learn something new!!
+Strong feeling that 2024 is going to be big year for Abstraction!
+
+Developer DAO (🧱, 🚀): Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.
+This 8th of January, be part of our online hackathon.
+🔗https://buff.ly/48wusIV]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 22 Compare two layer 1 blockchain networks. ⛓ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to exp...]]></title>
+        <id>https://twitter.com/developer_dao/status/1738175563196485924</id>
+        <link href="https://twitter.com/developer_dao/status/1738175563196485924"/>
+        <updated>2023-12-22T12:32:02.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 22
+Compare two layer 1 blockchain networks. ⛓
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Raza Rython 📜: FINALLY!!! The Full Web3 Stack for Python I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py Get sta...]]></title>
+        <id>https://twitter.com/razacodes/status/1738151370170024212</id>
+        <link href="https://twitter.com/razacodes/status/1738151370170024212"/>
+        <updated>2023-12-22T10:55:54.000Z</updated>
+        <summary type="html"><![CDATA[RT Raza Rython 📜
+FINALLY!!!
+The Full Web3 Stack for Python
+I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py
+Get started using this Pythonic framework on @Scroll_ZKP now!
+https://www.youtube.com/watch?v=aZvbrB1t2LQ
+Now go and code some Python]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re You had an amazing Christmas and feel like you need to gift your users in return. We got you with Abstraction Hacks. oUR hackathon that allows you ...]]></title>
         <id>https://twitter.com/developer_dao/status/1738016566506139964</id>
@@ -214,54 +271,6 @@ The beginning of a bright future where all dApps are on chain from front to back
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[❤️❤️❤️❤️]]></title>
-        <id>https://twitter.com/developer_dao/status/1737035372960288841</id>
-        <link href="https://twitter.com/developer_dao/status/1737035372960288841"/>
-        <updated>2023-12-19T09:01:20.000Z</updated>
-        <summary type="html"><![CDATA[❤️❤️❤️❤️
-
-Patrick Skinner (🧱, 🚀): This one gets personal...
-@developer_dao isn't just my favorite DAO.
-It is:
-- My Web3 Home. 
-- Where I go to succeed.
-- Where I go to fail.
-- Where I go for help.
-- Where I go to lift others up.
-- Where I truly believe in "WAGMI."
-#30daysoftext]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @POKTnetwork follows the spirit of web3!]]></title>
-        <id>https://twitter.com/developer_dao/status/1737035208736546933</id>
-        <link href="https://twitter.com/developer_dao/status/1737035208736546933"/>
-        <updated>2023-12-19T09:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Re @POKTnetwork follows the spirit of web3!
-
-Jamiebones: #30daysoftext Day 18
-Discuss how @POKTnetwork provides decentralized web3 infrastructure.
-@POKTnetwork's approach to Web3 infrastructure takes a decentralized route, offering developers a resilient, censorship-resistant, and scalable foundation for their blockchain projects.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 18 Discuss how @POKTnetwork provides decentralized web3 infrastructure. 📡 It can be a short article, a Twitter thread, or even ju...]]></title>
-        <id>https://twitter.com/developer_dao/status/1736779082052907317</id>
-        <link href="https://twitter.com/developer_dao/status/1736779082052907317"/>
-        <updated>2023-12-18T16:02:55.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 18
-Discuss how @POKTnetwork provides decentralized web3 infrastructure. 📡
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#100 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/100-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/100-probably-nothing"/>
@@ -269,16 +278,6 @@ Reply with a link to the text, so we can find it 🤫]]></summary>
         <summary type="html"><![CDATA[👾 Jobs, jobs, jobs, but in the meantime, happy holidays! 🎁]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @MichelleBakels This is the way 🖐️🌱]]></title>
-        <id>https://twitter.com/developer_dao/status/1736437637550899346</id>
-        <link href="https://twitter.com/developer_dao/status/1736437637550899346"/>
-        <updated>2023-12-18T13:28:39.000Z</updated>
-        <summary type="html"><![CDATA[Re @MichelleBakels This is the way 🖐️🌱]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
     <entry>
