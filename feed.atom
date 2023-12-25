@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-24T06:11:45.229Z</id>
+    <id>urn:2023-12-25T06:13:19.593Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-24T06:11:45.229Z</updated>
+    <updated>2023-12-25T06:13:19.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 24 The holidays are upon us. Do you have the grit to power through?! Give some tips on saving gas fees. 🤑 It can be a short artic...]]></title>
+        <id>https://twitter.com/developer_dao/status/1738973566039621891</id>
+        <link href="https://twitter.com/developer_dao/status/1738973566039621891"/>
+        <updated>2023-12-24T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 24
+The holidays are upon us. Do you have the grit to power through?!
+Give some tips on saving gas fees. 🤑
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Got skills? Prove it at our hackathon! 🚀 Forget interviews, code your way to a job in 2024! #HackToHire #CodingOverCoffee]]></title>
+        <id>https://twitter.com/developer_dao/status/1738948030244499639</id>
+        <link href="https://twitter.com/developer_dao/status/1738948030244499639"/>
+        <updated>2023-12-24T15:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Got skills? Prove it at our hackathon! 🚀 Forget interviews, code your way to a job in 2024! #HackToHire #CodingOverCoffee
+
+Developer DAO (🧱, 🚀): Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.
+This 8th of January, be part of our online hackathon.
+🔗https://buff.ly/48wusIV]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wanna onboard mobile users to your DApp, but keys are hard™? 😵 In his next workshop series, @geniusyinka will teach you how to build mobile-friend...]]></title>
         <id>https://twitter.com/developer_dao/status/1738662267992842642</id>
@@ -27,25 +55,6 @@ https://buff.ly/3RDyc4r]]></summary>
 Discuss onboarding issues of web3. 🥴
 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
 Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT pbillingsby: There’s a new DeFi platform in town and it needs your feedback! For the most useful feedback I’ll be giving a few people a @develope...]]></title>
-        <id>https://twitter.com/pbillingsby_/status/1738585003808764276</id>
-        <link href="https://twitter.com/pbillingsby_/status/1738585003808764276"/>
-        <updated>2023-12-23T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[RT pbillingsby
-There’s a new DeFi platform in town and it needs your feedback!
-For the most useful feedback I’ll be giving a few people a @developer_dao membership (400 CODE tokens)
-Make sure you follow @SizzleFi to stay updated!
-
-Sizzle.fi: 🎄 Holiday Surprise from #SizzleFi! 🌟 This holiday season, we're all in to bring you a little Christmas gift: the alpha release of our  DeFi platform🎁
-✨ Test & shape the future of finance
-✅ Your feedback drives our journey
-Read more: https://sizzle.fi/2023/12/18/alpha-release/
-#DeFi #Crypto]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -185,22 +194,6 @@ yinka: been in the kitchen, cooking. announcements soon. 👨🏾‍🍳]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Who is bullish on @NEARProtocol 👋 Do not miss this chance to learn something new!! Strong feeling that 2024 is going to be big year for Abstraction...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738193115985416203</id>
-        <link href="https://twitter.com/developer_dao/status/1738193115985416203"/>
-        <updated>2023-12-22T13:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Who is bullish on @NEARProtocol 👋
-Do not miss this chance to learn something new!!
-Strong feeling that 2024 is going to be big year for Abstraction!
-
-Developer DAO (🧱, 🚀): Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.
-This 8th of January, be part of our online hackathon.
-🔗https://buff.ly/48wusIV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#30daysoftext Day 22 Compare two layer 1 blockchain networks. ⛓ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to exp...]]></title>
         <id>https://twitter.com/developer_dao/status/1738175563196485924</id>
         <link href="https://twitter.com/developer_dao/status/1738175563196485924"/>
@@ -261,16 +254,6 @@ Start the year on a good note: 🔗https://buff.ly/48wusIV]]></summary>
         <summary type="html"><![CDATA[Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.
 This 8th of January, be part of our online hackathon.
 🔗https://buff.ly/48wusIV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @devntellxyz @CeptorClub https://buff.ly/3RL1tex]]></title>
-        <id>https://twitter.com/developer_dao/status/1737999900325851492</id>
-        <link href="https://twitter.com/developer_dao/status/1737999900325851492"/>
-        <updated>2023-12-22T00:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Re @devntellxyz @CeptorClub https://buff.ly/3RL1tex]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
