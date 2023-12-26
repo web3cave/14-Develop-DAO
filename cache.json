@@ -77,6 +77,56 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1739335956228866222",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 25\nCompare blockchain interoperability solutions.  🔃\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1739335956228866222",
+          "publishedOn": "2023-12-25T17:23:01.000Z",
+          "wordCount": null,
+          "title": "#30daysoftext Day 25 Compare blockchain interoperability solutions. 🔃 It can be a short article, a Twitter thread, or even just a tweet. Just ensur...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1739269293307568457",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Seems there are quite some issues to solve to improve web3 onboarding 🥲\n\nVicentia Pius 🥉🥷: While we have seen millions of people transition from #web2 to #web3 over the years, we cannot deny that a good number of these people had to deal with some limitations while adopting web3 technology. These limitations have been the reason why a billions of people and companies",
+          "link": "https://twitter.com/developer_dao/status/1739269293307568457",
+          "publishedOn": "2023-12-25T12:58:08.000Z",
+          "wordCount": null,
+          "title": "Seems there are quite some issues to solve to improve web3 onboarding 🥲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1739268992248742000",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Solana or Ethereum?\nWhat do you think? 🤔\n\nIni Abasi Ekanem: 🔷🔹Who's the better L1 network: Solana or Ethereum?🔹🔷\nThe comparison between #Solana and #Ethereum, and their potential coexistence, hinges on the specific use cases and changing dynamics of the blockchain space.\nRead the full article here👇🏻\nhttps://open.substack.com/pub/iniabasiekanem/p/whos-the-better-l1-network-solana?r=4g7qb&utm_campaign=post&utm_medium=web&showWelcome=true\n🧵",
+          "link": "https://twitter.com/developer_dao/status/1739268992248742000",
+          "publishedOn": "2023-12-25T12:56:56.000Z",
+          "wordCount": null,
+          "title": "Solana or Ethereum? What do you think? 🤔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1739268561833435562",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Save gas fees with these awesome tips from @LeomOfThings 🤩\n\nleomofthings.eth | .lens: #30daysoftext Day 24 powered by @developer_dao \nTips on Saving Gas Fees🤑💸\n\"gas fees\" is a common term commonly used in the context of blockchain and cryptocurrency transactions. It is a fee required to successfully conduct a transaction or execute a contract on the blockchain.",
+          "link": "https://twitter.com/developer_dao/status/1739268561833435562",
+          "publishedOn": "2023-12-25T12:55:13.000Z",
+          "wordCount": null,
+          "title": "Save gas fees with these awesome tips from @LeomOfThings 🤩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Jamiescript/status/1739179653149896995",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Jamiebones\n#30daysoftext Day 24\nGive some tips on saving gas fees.\nThe following tips could help in saving on gas fees:",
+          "link": "https://twitter.com/Jamiescript/status/1739179653149896995",
+          "publishedOn": "2023-12-25T07:01:56.000Z",
+          "wordCount": null,
+          "title": "RT Jamiebones: #30daysoftext Day 24 Give some tips on saving gas fees. The following tips could help in saving on gas fees:",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1738973566039621891",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "#30daysoftext Day 24\nThe holidays are upon us. Do you have the grit to power through?!\nGive some tips on saving gas fees. 🤑\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
@@ -217,16 +267,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1738175563196485924",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 22\nCompare two layer 1 blockchain networks. ⛓\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1738175563196485924",
-          "publishedOn": "2023-12-22T12:32:02.000Z",
-          "wordCount": null,
-          "title": "#30daysoftext Day 22 Compare two layer 1 blockchain networks. ⛓ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to exp...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/razacodes/status/1738151370170024212",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Raza Rython 📜\nFINALLY!!!\nThe Full Web3 Stack for Python\nI've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py\nGet started using this Pythonic framework on @Scroll_ZKP now!\nhttps://www.youtube.com/watch?v=aZvbrB1t2LQ\nNow go and code some Python",
@@ -234,36 +274,6 @@
           "publishedOn": "2023-12-22T10:55:54.000Z",
           "wordCount": null,
           "title": "RT Raza Rython 📜: FINALLY!!! The Full Web3 Stack for Python I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py Get sta...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1738016566506139964",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re You had an amazing Christmas and feel like you need to gift your users in return.\nWe got you with Abstraction Hacks. oUR hackathon that allows you to build the dream app for any type of users.\nRegister now to be part of mass adoption 🔗https://buff.ly/48wusIV",
-          "link": "https://twitter.com/developer_dao/status/1738016566506139964",
-          "publishedOn": "2023-12-22T02:00:15.000Z",
-          "wordCount": null,
-          "title": "Re You had an amazing Christmas and feel like you need to gift your users in return. We got you with Abstraction Hacks. oUR hackathon that allows you ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1738016566506139964",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re You’re a builder and never built that app for the average user. Let us help you on that new year’s resolution.\nAbstraction Hacks empowers you to build solutions contributing to real mass adoption.\nStart the year on a good note: 🔗https://buff.ly/48wusIV",
-          "link": "https://twitter.com/developer_dao/status/1738016566506139964",
-          "publishedOn": "2023-12-22T02:00:15.000Z",
-          "wordCount": null,
-          "title": "Re You’re a builder and never built that app for the average user. Let us help you on that new year’s resolution. Abstraction Hacks empowers you to ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1738016566506139964",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.\nThis 8th of January, be part of our online hackathon.\n🔗https://buff.ly/48wusIV",
-          "link": "https://twitter.com/developer_dao/status/1738016566506139964",
-          "publishedOn": "2023-12-22T02:00:14.000Z",
-          "wordCount": null,
-          "title": "Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience. This 8th of Janua...",
           "imageUrl": null
         }
       ]

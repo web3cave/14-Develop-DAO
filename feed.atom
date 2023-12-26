@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T06:13:19.593Z</id>
+    <id>urn:2023-12-26T06:12:34.911Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-25T06:13:19.593Z</updated>
+    <updated>2023-12-26T06:12:34.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 25 Compare blockchain interoperability solutions. 🔃 It can be a short article, a Twitter thread, or even just a tweet. Just ensur...]]></title>
+        <id>https://twitter.com/developer_dao/status/1739335956228866222</id>
+        <link href="https://twitter.com/developer_dao/status/1739335956228866222"/>
+        <updated>2023-12-25T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 25
+Compare blockchain interoperability solutions.  🔃
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seems there are quite some issues to solve to improve web3 onboarding 🥲]]></title>
+        <id>https://twitter.com/developer_dao/status/1739269293307568457</id>
+        <link href="https://twitter.com/developer_dao/status/1739269293307568457"/>
+        <updated>2023-12-25T12:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Seems there are quite some issues to solve to improve web3 onboarding 🥲
+
+Vicentia Pius 🥉🥷: While we have seen millions of people transition from #web2 to #web3 over the years, we cannot deny that a good number of these people had to deal with some limitations while adopting web3 technology. These limitations have been the reason why a billions of people and companies]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana or Ethereum? What do you think? 🤔]]></title>
+        <id>https://twitter.com/developer_dao/status/1739268992248742000</id>
+        <link href="https://twitter.com/developer_dao/status/1739268992248742000"/>
+        <updated>2023-12-25T12:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Solana or Ethereum?
+What do you think? 🤔
+
+Ini Abasi Ekanem: 🔷🔹Who's the better L1 network: Solana or Ethereum?🔹🔷
+The comparison between #Solana and #Ethereum, and their potential coexistence, hinges on the specific use cases and changing dynamics of the blockchain space.
+Read the full article here👇🏻
+https://open.substack.com/pub/iniabasiekanem/p/whos-the-better-l1-network-solana?r=4g7qb&utm_campaign=post&utm_medium=web&showWelcome=true
+🧵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save gas fees with these awesome tips from @LeomOfThings 🤩]]></title>
+        <id>https://twitter.com/developer_dao/status/1739268561833435562</id>
+        <link href="https://twitter.com/developer_dao/status/1739268561833435562"/>
+        <updated>2023-12-25T12:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Save gas fees with these awesome tips from @LeomOfThings 🤩
+
+leomofthings.eth | .lens: #30daysoftext Day 24 powered by @developer_dao 
+Tips on Saving Gas Fees🤑💸
+"gas fees" is a common term commonly used in the context of blockchain and cryptocurrency transactions. It is a fee required to successfully conduct a transaction or execute a contract on the blockchain.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Jamiebones: #30daysoftext Day 24 Give some tips on saving gas fees. The following tips could help in saving on gas fees:]]></title>
+        <id>https://twitter.com/Jamiescript/status/1739179653149896995</id>
+        <link href="https://twitter.com/Jamiescript/status/1739179653149896995"/>
+        <updated>2023-12-25T07:01:56.000Z</updated>
+        <summary type="html"><![CDATA[RT Jamiebones
+#30daysoftext Day 24
+Give some tips on saving gas fees.
+The following tips could help in saving on gas fees:]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#30daysoftext Day 24 The holidays are upon us. Do you have the grit to power through?! Give some tips on saving gas fees. 🤑 It can be a short artic...]]></title>
         <id>https://twitter.com/developer_dao/status/1738973566039621891</id>
@@ -194,19 +263,6 @@ yinka: been in the kitchen, cooking. announcements soon. 👨🏾‍🍳]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 22 Compare two layer 1 blockchain networks. ⛓ It can be a short article, a Twitter thread, or even just a tweet. Just ensure to exp...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738175563196485924</id>
-        <link href="https://twitter.com/developer_dao/status/1738175563196485924"/>
-        <updated>2023-12-22T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 22
-Compare two layer 1 blockchain networks. ⛓
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Raza Rython 📜: FINALLY!!! The Full Web3 Stack for Python I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py Get sta...]]></title>
         <id>https://twitter.com/razacodes/status/1738151370170024212</id>
         <link href="https://twitter.com/razacodes/status/1738151370170024212"/>
@@ -218,42 +274,6 @@ I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py
 Get started using this Pythonic framework on @Scroll_ZKP now!
 https://www.youtube.com/watch?v=aZvbrB1t2LQ
 Now go and code some Python]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re You had an amazing Christmas and feel like you need to gift your users in return. We got you with Abstraction Hacks. oUR hackathon that allows you ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738016566506139964</id>
-        <link href="https://twitter.com/developer_dao/status/1738016566506139964"/>
-        <updated>2023-12-22T02:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Re You had an amazing Christmas and feel like you need to gift your users in return.
-We got you with Abstraction Hacks. oUR hackathon that allows you to build the dream app for any type of users.
-Register now to be part of mass adoption 🔗https://buff.ly/48wusIV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re You’re a builder and never built that app for the average user. Let us help you on that new year’s resolution. Abstraction Hacks empowers you to ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738016566506139964</id>
-        <link href="https://twitter.com/developer_dao/status/1738016566506139964"/>
-        <updated>2023-12-22T02:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Re You’re a builder and never built that app for the average user. Let us help you on that new year’s resolution.
-Abstraction Hacks empowers you to build solutions contributing to real mass adoption.
-Start the year on a good note: 🔗https://buff.ly/48wusIV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience. This 8th of Janua...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738016566506139964</id>
-        <link href="https://twitter.com/developer_dao/status/1738016566506139964"/>
-        <updated>2023-12-22T02:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.
-This 8th of January, be part of our online hackathon.
-🔗https://buff.ly/48wusIV]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
