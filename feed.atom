@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-26T06:12:34.911Z</id>
+    <id>urn:2023-12-27T06:12:58.345Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-26T06:12:34.911Z</updated>
+    <updated>2023-12-27T06:12:58.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 26 Discuss recent innovations in zero-knowledge technology. 🛡 It can be a short article, a Twitter thread, or even just a tweet. ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1739698343100486016</id>
+        <link href="https://twitter.com/developer_dao/status/1739698343100486016"/>
+        <updated>2023-12-26T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 26
+Discuss recent innovations in zero-knowledge technology. 🛡
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#30daysoftext Day 25 Compare blockchain interoperability solutions. 🔃 It can be a short article, a Twitter thread, or even just a tweet. Just ensur...]]></title>
         <id>https://twitter.com/developer_dao/status/1739335956228866222</id>
@@ -251,18 +264,6 @@ yinka: been in the kitchen, cooking. announcements soon. 👨🏾‍🍳]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE with @CeptorClub, hosted by @narb_s 🎥 Watch here: https://buff.ly/3tkHZnU]]></title>
-        <id>https://twitter.com/developer_dao/status/1738235585611944371</id>
-        <link href="https://twitter.com/developer_dao/status/1738235585611944371"/>
-        <updated>2023-12-22T16:30:33.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-@devntellxyz is LIVE with @CeptorClub, hosted by @narb_s 
-🎥 Watch here: https://buff.ly/3tkHZnU]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Raza Rython 📜: FINALLY!!! The Full Web3 Stack for Python I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py Get sta...]]></title>
         <id>https://twitter.com/razacodes/status/1738151370170024212</id>
         <link href="https://twitter.com/razacodes/status/1738151370170024212"/>
@@ -324,16 +325,6 @@ Now go and code some Python]]></summary>
         <updated>2023-11-30T17:14:08.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#97 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/97-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/97-probably-nothing"/>
-        <updated>2023-11-27T12:01:13.000Z</updated>
-        <summary type="html"><![CDATA[⌨️ POKT thread winners, D_D bounty board, and more 👀]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
         </author>
     </entry>
 </feed>

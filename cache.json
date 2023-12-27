@@ -52,22 +52,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f7c412f-67b4-4ccc-8e6f-e83c5380641b_1600x900.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/97-probably-nothing",
-          "author": "Osikhena James Oshomah",
-          "description": "⌨️ POKT thread winners, D_D bounty board, and more 👀",
-          "link": "https://developerdao.substack.com/p/97-probably-nothing",
-          "publishedOn": "2023-11-27T12:01:13.000Z",
-          "wordCount": null,
-          "title": "#97 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b973574-f758-4ec2-9759-922660f8948c_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b973574-f758-4ec2-9759-922660f8948c_1600x900.png"
         }
       ]
     },
@@ -76,6 +60,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1739698343100486016",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 26\nDiscuss recent innovations in zero-knowledge technology. 🛡\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1739698343100486016",
+          "publishedOn": "2023-12-26T17:23:01.000Z",
+          "wordCount": null,
+          "title": "#30daysoftext Day 26 Discuss recent innovations in zero-knowledge technology. 🛡 It can be a short article, a Twitter thread, or even just a tweet. ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1739335956228866222",
           "author": "Developer DAO (🧱, 🚀)",
@@ -254,16 +248,6 @@
           "publishedOn": "2023-12-23T08:41:37.000Z",
           "wordCount": null,
           "title": "🤫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1738235585611944371",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n@devntellxyz is LIVE with @CeptorClub, hosted by @narb_s \n🎥 Watch here: https://buff.ly/3tkHZnU",
-          "link": "https://twitter.com/developer_dao/status/1738235585611944371",
-          "publishedOn": "2023-12-22T16:30:33.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ @devntellxyz is LIVE with @CeptorClub, hosted by @narb_s 🎥 Watch here: https://buff.ly/3tkHZnU",
           "imageUrl": null
         },
         {
