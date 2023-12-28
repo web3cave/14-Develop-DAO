@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T06:12:58.345Z</id>
+    <id>urn:2023-12-28T06:12:50.977Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-27T06:12:58.345Z</updated>
+    <updated>2023-12-28T06:12:50.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT Patrick Skinner (🧱, 🚀): Re The only one I know about is the @NEARProtocol abstraction hack, so far. Who's all participating? https://x.com/de...]]></title>
+        <id>https://twitter.com/PSkinnerTech/status/1740132617012564383</id>
+        <link href="https://twitter.com/PSkinnerTech/status/1740132617012564383"/>
+        <updated>2023-12-27T22:09:49.000Z</updated>
+        <summary type="html"><![CDATA[RT Patrick Skinner (🧱, 🚀)
+Re The only one I know about is the @NEARProtocol abstraction hack, so far.  Who's all participating?
+ https://x.com/developer_dao/status/1738193115985416203?s=20
+
+Developer DAO (🧱, 🚀): Who is bullish on @NEARProtocol 👋
+Do not miss this chance to learn something new!!
+Strong feeling that 2024 is going to be big year for Abstraction!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Patrick Skinner (🧱, 🚀): ⚡️ @zerion's token allowance feature is based ⚡️ https://twitter.com/i/web/status/1740098151032160489]]></title>
+        <id>https://twitter.com/PSkinnerTech/status/1740098151032160489</id>
+        <link href="https://twitter.com/PSkinnerTech/status/1740098151032160489"/>
+        <updated>2023-12-27T19:51:43.000Z</updated>
+        <summary type="html"><![CDATA[RT Patrick Skinner (🧱, 🚀)
+⚡️ @zerion's token allowance feature is based ⚡️ https://twitter.com/i/web/status/1740098151032160489
+
+
+Developer DAO (🧱, 🚀): #30daysoftext Day 20
+...2/3 done 🤯
+Write about your favorite UX improvements in the @Zerion wallet.  📡
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 27 Compare optimistic and zk-rollup scaling approaches. 📈 It can be a short article, a Twitter thread, or even just a tweet. Just...]]></title>
+        <id>https://twitter.com/developer_dao/status/1740060729611325776</id>
+        <link href="https://twitter.com/developer_dao/status/1740060729611325776"/>
+        <updated>2023-12-27T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 27
+Compare optimistic and zk-rollup scaling approaches.  📈
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don't know what it is but @geniusyinka just makes me want to learn mobile web3 development... 🤔]]></title>
+        <id>https://twitter.com/developer_dao/status/1739946452015841326</id>
+        <link href="https://twitter.com/developer_dao/status/1739946452015841326"/>
+        <updated>2023-12-27T09:48:55.000Z</updated>
+        <summary type="html"><![CDATA[I don't know what it is but @geniusyinka just makes me want to learn mobile web3 development... 🤔
+
+RallyMobile: Upskill + learn how to build mobile-first, app-store friendly dApps with @geniusyinka. 
+Sign up here: https://devs.rly.network/getting-started-with-rallymobile-sdk]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#30daysoftext Day 26 Discuss recent innovations in zero-knowledge technology. 🛡 It can be a short article, a Twitter thread, or even just a tweet. ...]]></title>
         <id>https://twitter.com/developer_dao/status/1739698343100486016</id>
@@ -217,64 +277,6 @@ Ini Abasi Ekanem: 🔷🔹Token Incentives🔹🔷
 Most blockchain projects and protocols focus on community building as this is key to product adoption, given that web3 is still novel.
 To boost community participation and product adoption, incentivizing the community via ''token incentives'' is key.
 🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @iaminiekanem knows something about @POKTnetwork 🤩]]></title>
-        <id>https://twitter.com/developer_dao/status/1738493961541394559</id>
-        <link href="https://twitter.com/developer_dao/status/1738493961541394559"/>
-        <updated>2023-12-23T09:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Re @iaminiekanem knows something about @POKTnetwork 🤩
-
-Ini Abasi Ekanem: 📌 @POKTnetwork THE RPC BASE LAYER
-Pokt Network provides Web3 Infrastructure with high uptime, cost-effective access, and low latency.
-Having it's own wallet, bridge, and explorer, Pokt network allows web3 protocols to access key features.
-How?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @Jamiescript is our most consistent #30daysoftext participant 🤩 Let him tell you the differences between @avax and @solana 🤓]]></title>
-        <id>https://twitter.com/developer_dao/status/1738493327433978306</id>
-        <link href="https://twitter.com/developer_dao/status/1738493327433978306"/>
-        <updated>2023-12-23T09:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Re @Jamiescript is our most consistent #30daysoftext participant 🤩
-Let him tell you the differences between @avax and @solana 🤓
-
-Jamiebones: #30daysoftext Day 22
-Compare two layer 1 blockchain networks.
-The comparison of two layer 1 networks will be between Avalanche and Solana. The criteria for comparison are stated as follows:]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤫]]></title>
-        <id>https://twitter.com/developer_dao/status/1738479962959556896</id>
-        <link href="https://twitter.com/developer_dao/status/1738479962959556896"/>
-        <updated>2023-12-23T08:41:37.000Z</updated>
-        <summary type="html"><![CDATA[🤫
-
-yinka: been in the kitchen, cooking. announcements soon. 👨🏾‍🍳]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Raza Rython 📜: FINALLY!!! The Full Web3 Stack for Python I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py Get sta...]]></title>
-        <id>https://twitter.com/razacodes/status/1738151370170024212</id>
-        <link href="https://twitter.com/razacodes/status/1738151370170024212"/>
-        <updated>2023-12-22T10:55:54.000Z</updated>
-        <summary type="html"><![CDATA[RT Raza Rython 📜
-FINALLY!!!
-The Full Web3 Stack for Python
-I've been dying to get my hands dirty with @vyperlang @ApeFramework and Web3 py
-Get started using this Pythonic framework on @Scroll_ZKP now!
-https://www.youtube.com/watch?v=aZvbrB1t2LQ
-Now go and code some Python]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
