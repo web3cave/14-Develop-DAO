@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T06:12:52.472Z</id>
+    <id>urn:2023-12-30T06:11:31.507Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-29T06:12:52.472Z</updated>
+    <updated>2023-12-30T06:11:31.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 29 Explain chain abstraction. 🧠 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well...]]></title>
+        <id>https://twitter.com/developer_dao/status/1740785505418018891</id>
+        <link href="https://twitter.com/developer_dao/status/1740785505418018891"/>
+        <updated>2023-12-29T17:23:01.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 29
+Explain chain abstraction. 🧠
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Narb | narbeh.eth: We had some great projects on the @developer_dao @devntellxyz this calendar year We ended up booking out almost half way through...]]></title>
+        <id>https://twitter.com/narb_s/status/1740772165933568103</id>
+        <link href="https://twitter.com/narb_s/status/1740772165933568103"/>
+        <updated>2023-12-29T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[RT Narb | narbeh.eth
+We had some great projects on the @developer_dao  @devntellxyz this calendar year
+We ended up booking out almost half way through 2023 which is just crazy!
+Here's a little year end video for you crazy builders to vibe with into 2024 (play with sound on) 🙌
+See you in 2024🫶]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @wc49358 Jan 4th at 12pm ET: Online Workshop Pt. 1 - “Introduction to Chain Abstraction” Jan 11th at 12pm ET: Online Workshop Pt. 2 - “Building ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1740748457587978650</id>
+        <link href="https://twitter.com/developer_dao/status/1740748457587978650"/>
+        <updated>2023-12-29T14:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @wc49358 Jan 4th at 12pm ET: Online Workshop Pt. 1 - “Introduction to Chain Abstraction”
+Jan 11th at 12pm ET: Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends”
+Jan 18th at 12pm ET: Online Workshop Pt. 3 - “Data Availability & Account Aggregation”]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lets stack the cards for Developer DAO members. Our very own @wc49358 is hosting 3 workshops to get you ready for the abstraction hack! https://buff.l...]]></title>
+        <id>https://twitter.com/developer_dao/status/1740748457587978650</id>
+        <link href="https://twitter.com/developer_dao/status/1740748457587978650"/>
+        <updated>2023-12-29T14:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Lets stack the cards for Developer DAO members. 
+Our very own @wc49358 is hosting 3 workshops to get you ready for the abstraction hack!
+https://buff.ly/48wusIV 
+👇 👇 👇 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @Rahatcodes If you really love front ends. You should look into near and there decentralized front ends. https://x.com/developer_dao/status/1738016...]]></title>
         <id>https://twitter.com/developer_dao/status/1740513159616872959</id>
@@ -226,60 +278,6 @@ The following tips could help in saving on gas fees:]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 24 The holidays are upon us. Do you have the grit to power through?! Give some tips on saving gas fees. 🤑 It can be a short artic...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738973566039621891</id>
-        <link href="https://twitter.com/developer_dao/status/1738973566039621891"/>
-        <updated>2023-12-24T17:23:01.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 24
-The holidays are upon us. Do you have the grit to power through?!
-Give some tips on saving gas fees. 🤑
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Got skills? Prove it at our hackathon! 🚀 Forget interviews, code your way to a job in 2024! #HackToHire #CodingOverCoffee]]></title>
-        <id>https://twitter.com/developer_dao/status/1738948030244499639</id>
-        <link href="https://twitter.com/developer_dao/status/1738948030244499639"/>
-        <updated>2023-12-24T15:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Got skills? Prove it at our hackathon! 🚀 Forget interviews, code your way to a job in 2024! #HackToHire #CodingOverCoffee
-
-Developer DAO (🧱, 🚀): Tired of users toggling between tabs and sharing bad experiences? Abstraction Hacks is your solution for a seamless user experience.
-This 8th of January, be part of our online hackathon.
-🔗https://buff.ly/48wusIV]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wanna onboard mobile users to your DApp, but keys are hard™? 😵 In his next workshop series, @geniusyinka will teach you how to build mobile-friend...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738662267992842642</id>
-        <link href="https://twitter.com/developer_dao/status/1738662267992842642"/>
-        <updated>2023-12-23T20:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Wanna onboard mobile users to your DApp, but keys are hard™? 😵
-In his next workshop series, @geniusyinka will teach you how to build mobile-friendly DApps with @rallyprotocol's mobile SDK! 🤓
-Starting Jan 8th, so apply quickly to secure your place! 
-https://buff.ly/3RDyc4r]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 23 Discuss onboarding issues of web3. 🥴 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain...]]></title>
-        <id>https://twitter.com/developer_dao/status/1738611182246736189</id>
-        <link href="https://twitter.com/developer_dao/status/1738611182246736189"/>
-        <updated>2023-12-23T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 23
-Discuss onboarding issues of web3. 🥴
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#100 Probably Nothing]]></title>
         <id>https://developerdao.substack.com/p/100-probably-nothing</id>
         <link href="https://developerdao.substack.com/p/100-probably-nothing"/>
@@ -316,15 +314,6 @@ Reply with a link to the text, so we can find it 🤫]]></summary>
         <summary type="html"><![CDATA[✍️ #30daysoftext with D_D, showcase your project at DevNTell, and more 🥁]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Full Stack Mobile AI Apps with React Native & Expo - OpenAI, Anthropic, Cohere, & Fal.ai]]></title>
-        <id>https://www.youtube.com/watch?v=zf3NnTU5pr4</id>
-        <link href="https://www.youtube.com/watch?v=zf3NnTU5pr4"/>
-        <updated>2023-11-30T17:14:08.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>
