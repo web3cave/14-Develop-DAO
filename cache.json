@@ -61,6 +61,36 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1741280279849799994",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job\nhttps://www.abstracting.org/\n\naltan tutar: We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!\nThis person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.\nIdeally, they… https://twitter.com/i/web/status/1740403356181447144",
+          "link": "https://twitter.com/developer_dao/status/1741280279849799994",
+          "publishedOn": "2023-12-31T02:09:04.000Z",
+          "wordCount": null,
+          "title": "If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job https:/...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/kempsterrrr/status/1741248915817594982",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT kempsterrrr.eth | 🫂 🦇🔊\nAre there any @developer_dao who might be interested in putting a team together to submit a proposal to @POKTnetwork to create an open source RPC Gateway UI?\nTLDR Build a SaaS UI kit on top of an open source Gateway kit built by @nodies_infra \nhttps://forum.pokt.network/t/open-priority-gateway-demo/4874/1",
+          "link": "https://twitter.com/kempsterrrr/status/1741248915817594982",
+          "publishedOn": "2023-12-31T00:04:27.000Z",
+          "wordCount": null,
+          "title": "RT kempsterrrr.eth | 🫂 🦇🔊: Are there any @developer_dao who might be interested in putting a team together to submit a proposal to @POKTnetwo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1741147897687650701",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "#30daysoftext Day 30\nThe final topic 🎉🎉🎉🎉\nExplain the benefits of your favorite zero-knowledge technology. ✨\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
+          "link": "https://twitter.com/developer_dao/status/1741147897687650701",
+          "publishedOn": "2023-12-30T17:23:02.000Z",
+          "wordCount": null,
+          "title": "#30daysoftext Day 30 The final topic 🎉🎉🎉🎉 Explain the benefits of your favorite zero-knowledge technology. ✨ It can be a short article, a...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1740785505418018891",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "#30daysoftext Day 29\nExplain chain abstraction. 🧠\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
@@ -228,36 +258,6 @@
           "publishedOn": "2023-12-25T12:58:08.000Z",
           "wordCount": null,
           "title": "Seems there are quite some issues to solve to improve web3 onboarding 🥲",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1739268992248742000",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Solana or Ethereum?\nWhat do you think? 🤔\n\nIni Abasi Ekanem: 🔷🔹Who's the better L1 network: Solana or Ethereum?🔹🔷\nThe comparison between #Solana and #Ethereum, and their potential coexistence, hinges on the specific use cases and changing dynamics of the blockchain space.\nRead the full article here👇🏻\nhttps://open.substack.com/pub/iniabasiekanem/p/whos-the-better-l1-network-solana?r=4g7qb&utm_campaign=post&utm_medium=web&showWelcome=true\n🧵",
-          "link": "https://twitter.com/developer_dao/status/1739268992248742000",
-          "publishedOn": "2023-12-25T12:56:56.000Z",
-          "wordCount": null,
-          "title": "Solana or Ethereum? What do you think? 🤔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1739268561833435562",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Save gas fees with these awesome tips from @LeomOfThings 🤩\n\nleomofthings.eth | .lens: #30daysoftext Day 24 powered by @developer_dao \nTips on Saving Gas Fees🤑💸\n\"gas fees\" is a common term commonly used in the context of blockchain and cryptocurrency transactions. It is a fee required to successfully conduct a transaction or execute a contract on the blockchain.",
-          "link": "https://twitter.com/developer_dao/status/1739268561833435562",
-          "publishedOn": "2023-12-25T12:55:13.000Z",
-          "wordCount": null,
-          "title": "Save gas fees with these awesome tips from @LeomOfThings 🤩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Jamiescript/status/1739179653149896995",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Jamiebones\n#30daysoftext Day 24\nGive some tips on saving gas fees.\nThe following tips could help in saving on gas fees:",
-          "link": "https://twitter.com/Jamiescript/status/1739179653149896995",
-          "publishedOn": "2023-12-25T07:01:56.000Z",
-          "wordCount": null,
-          "title": "RT Jamiebones: #30daysoftext Day 24 Give some tips on saving gas fees. The following tips could help in saving on gas fees:",
           "imageUrl": null
         }
       ]

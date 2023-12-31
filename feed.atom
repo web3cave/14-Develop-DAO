@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T06:11:31.507Z</id>
+    <id>urn:2023-12-31T06:11:55.257Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-30T06:11:31.507Z</updated>
+    <updated>2023-12-31T06:11:55.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job https:/...]]></title>
+        <id>https://twitter.com/developer_dao/status/1741280279849799994</id>
+        <link href="https://twitter.com/developer_dao/status/1741280279849799994"/>
+        <updated>2023-12-31T02:09:04.000Z</updated>
+        <summary type="html"><![CDATA[If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job
+https://www.abstracting.org/
+
+altan tutar: We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!
+This person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.
+Ideally, they… https://twitter.com/i/web/status/1740403356181447144]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊: Are there any @developer_dao who might be interested in putting a team together to submit a proposal to @POKTnetwo...]]></title>
+        <id>https://twitter.com/kempsterrrr/status/1741248915817594982</id>
+        <link href="https://twitter.com/kempsterrrr/status/1741248915817594982"/>
+        <updated>2023-12-31T00:04:27.000Z</updated>
+        <summary type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊
+Are there any @developer_dao who might be interested in putting a team together to submit a proposal to @POKTnetwork to create an open source RPC Gateway UI?
+TLDR Build a SaaS UI kit on top of an open source Gateway kit built by @nodies_infra 
+https://forum.pokt.network/t/open-priority-gateway-demo/4874/1]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#30daysoftext Day 30 The final topic 🎉🎉🎉🎉 Explain the benefits of your favorite zero-knowledge technology. ✨ It can be a short article, a...]]></title>
+        <id>https://twitter.com/developer_dao/status/1741147897687650701</id>
+        <link href="https://twitter.com/developer_dao/status/1741147897687650701"/>
+        <updated>2023-12-30T17:23:02.000Z</updated>
+        <summary type="html"><![CDATA[#30daysoftext Day 30
+The final topic 🎉🎉🎉🎉
+Explain the benefits of your favorite zero-knowledge technology. ✨
+It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
+Reply with a link to the text, so we can find it 🤫]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#30daysoftext Day 29 Explain chain abstraction. 🧠 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well...]]></title>
         <id>https://twitter.com/developer_dao/status/1740785505418018891</id>
@@ -229,50 +271,6 @@ Reply with a link to the text, so we can find it 🤫]]></summary>
         <summary type="html"><![CDATA[Seems there are quite some issues to solve to improve web3 onboarding 🥲
 
 Vicentia Pius 🥉🥷: While we have seen millions of people transition from #web2 to #web3 over the years, we cannot deny that a good number of these people had to deal with some limitations while adopting web3 technology. These limitations have been the reason why a billions of people and companies]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana or Ethereum? What do you think? 🤔]]></title>
-        <id>https://twitter.com/developer_dao/status/1739268992248742000</id>
-        <link href="https://twitter.com/developer_dao/status/1739268992248742000"/>
-        <updated>2023-12-25T12:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Solana or Ethereum?
-What do you think? 🤔
-
-Ini Abasi Ekanem: 🔷🔹Who's the better L1 network: Solana or Ethereum?🔹🔷
-The comparison between #Solana and #Ethereum, and their potential coexistence, hinges on the specific use cases and changing dynamics of the blockchain space.
-Read the full article here👇🏻
-https://open.substack.com/pub/iniabasiekanem/p/whos-the-better-l1-network-solana?r=4g7qb&utm_campaign=post&utm_medium=web&showWelcome=true
-🧵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save gas fees with these awesome tips from @LeomOfThings 🤩]]></title>
-        <id>https://twitter.com/developer_dao/status/1739268561833435562</id>
-        <link href="https://twitter.com/developer_dao/status/1739268561833435562"/>
-        <updated>2023-12-25T12:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Save gas fees with these awesome tips from @LeomOfThings 🤩
-
-leomofthings.eth | .lens: #30daysoftext Day 24 powered by @developer_dao 
-Tips on Saving Gas Fees🤑💸
-"gas fees" is a common term commonly used in the context of blockchain and cryptocurrency transactions. It is a fee required to successfully conduct a transaction or execute a contract on the blockchain.]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Jamiebones: #30daysoftext Day 24 Give some tips on saving gas fees. The following tips could help in saving on gas fees:]]></title>
-        <id>https://twitter.com/Jamiescript/status/1739179653149896995</id>
-        <link href="https://twitter.com/Jamiescript/status/1739179653149896995"/>
-        <updated>2023-12-25T07:01:56.000Z</updated>
-        <summary type="html"><![CDATA[RT Jamiebones
-#30daysoftext Day 24
-Give some tips on saving gas fees.
-The following tips could help in saving on gas fees:]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
