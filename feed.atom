@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-31T06:11:55.257Z</id>
+    <id>urn:2024-01-01T06:13:34.335Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-31T06:11:55.257Z</updated>
+    <updated>2024-01-01T06:13:34.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @narb_s @devntellxyz Interested in signing up for #DevNTell in 2024? Use the form below to signal your interest: https://buff.ly/3RDo3EP]]></title>
+        <id>https://twitter.com/developer_dao/status/1741437044516110529</id>
+        <link href="https://twitter.com/developer_dao/status/1741437044516110529"/>
+        <updated>2023-12-31T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @narb_s @devntellxyz Interested in signing up for #DevNTell in 2024?  
+Use the form below to signal your interest:
+https://buff.ly/3RDo3EP]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy New Year Everyone! If you missed this video from @narb_s earlier in the week, he gives us a recap of all the projects that came through @devntel...]]></title>
+        <id>https://twitter.com/developer_dao/status/1741437044516110529</id>
+        <link href="https://twitter.com/developer_dao/status/1741437044516110529"/>
+        <updated>2023-12-31T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy New Year Everyone!
+If you missed this video from @narb_s earlier in the week, he gives us a recap of all the projects that came through @devntellxyz in 2023
+https://buff.ly/3H0APsc]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1741280279849799994</id>
+        <link href="https://twitter.com/developer_dao/status/1741280279849799994"/>
+        <updated>2023-12-31T02:09:04.000Z</updated>
+        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
+If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job
+https://www.abstracting.org/
+
+altan tutar: We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!
+This person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.
+Ideally, they… https://twitter.com/i/web/status/1740403356181447144]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job https:/...]]></title>
         <id>https://twitter.com/developer_dao/status/1741280279849799994</id>
@@ -16,19 +56,6 @@ https://www.abstracting.org/
 altan tutar: We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!
 This person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.
 Ideally, they… https://twitter.com/i/web/status/1740403356181447144]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊: Are there any @developer_dao who might be interested in putting a team together to submit a proposal to @POKTnetwo...]]></title>
-        <id>https://twitter.com/kempsterrrr/status/1741248915817594982</id>
-        <link href="https://twitter.com/kempsterrrr/status/1741248915817594982"/>
-        <updated>2023-12-31T00:04:27.000Z</updated>
-        <summary type="html"><![CDATA[RT kempsterrrr.eth | 🫂 🦇🔊
-Are there any @developer_dao who might be interested in putting a team together to submit a proposal to @POKTnetwork to create an open source RPC Gateway UI?
-TLDR Build a SaaS UI kit on top of an open source Gateway kit built by @nodies_infra 
-https://forum.pokt.network/t/open-priority-gateway-demo/4874/1]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -246,31 +273,6 @@ In the ZK world, we always strive for fast provers – why not? Therefore, new S
 Discuss recent innovations in zero-knowledge technology. 🛡
 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
 Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 25 Compare blockchain interoperability solutions. 🔃 It can be a short article, a Twitter thread, or even just a tweet. Just ensur...]]></title>
-        <id>https://twitter.com/developer_dao/status/1739335956228866222</id>
-        <link href="https://twitter.com/developer_dao/status/1739335956228866222"/>
-        <updated>2023-12-25T17:23:01.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 25
-Compare blockchain interoperability solutions.  🔃
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seems there are quite some issues to solve to improve web3 onboarding 🥲]]></title>
-        <id>https://twitter.com/developer_dao/status/1739269293307568457</id>
-        <link href="https://twitter.com/developer_dao/status/1739269293307568457"/>
-        <updated>2023-12-25T12:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Seems there are quite some issues to solve to improve web3 onboarding 🥲
-
-Vicentia Pius 🥉🥷: While we have seen millions of people transition from #web2 to #web3 over the years, we cannot deny that a good number of these people had to deal with some limitations while adopting web3 technology. These limitations have been the reason why a billions of people and companies]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
