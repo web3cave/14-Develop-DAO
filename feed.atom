@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-02T06:12:48.564Z</id>
+    <id>urn:2024-01-03T06:12:45.609Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-02T06:12:48.564Z</updated>
+    <updated>2024-01-03T06:12:45.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -42,16 +42,6 @@
         <updated>2023-12-06T04:18:32.000Z</updated>
         <author>
             <name>Nader Dabit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#98 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/98-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/98-probably-nothing"/>
-        <updated>2023-12-04T11:05:19.000Z</updated>
-        <summary type="html"><![CDATA[✍️ #30daysoftext with D_D, showcase your project at DevNTell, and more 🥁]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
         </author>
     </entry>
 </feed>
