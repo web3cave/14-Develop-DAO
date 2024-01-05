@@ -61,6 +61,76 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1743010951031407021",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Do you want to start 2024 by learning new skills? 🤓\nSign up for @geniusyika's mobile DApp workshop series! 👨🏿‍🏫\nIt starts in 4 days on Monday! 🚀\nThere are still spots left, but time is running out ⏳\nhttps://buff.ly/3RDyc4r",
+          "link": "https://twitter.com/developer_dao/status/1743010951031407021",
+          "publishedOn": "2024-01-04T20:46:08.000Z",
+          "wordCount": null,
+          "title": "Do you want to start 2024 by learning new skills? 🤓 Sign up for @geniusyika's mobile DApp workshop series! 👨🏿‍🏫 It starts in 4 days on Mo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1743010747947327845",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Please vote 🗳️ \nP-34: DAO Membership Perks \nhttps://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492 @developer_dao #Snapshot",
+          "link": "https://twitter.com/developer_dao/status/1743010747947327845",
+          "publishedOn": "2024-01-04T20:45:20.000Z",
+          "wordCount": null,
+          "title": "Please vote 🗳️ P-34: DAO Membership Perks https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe34...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/CampbellEaston/status/1742984427695636971",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Campbell (🥚,🥚)\nI’m telling you, these Spaces keep getting better and better.\nHuge thanks to @EpochIsland, @ZacharyDash, and @PSkinnerTech for the invaluable conversation today. I’m very bullish.\nIf you missed it, no worries. Tune into the full recording below. 👇\nhttps://twitter.com/i/spaces/1RDGllMRkZVGL",
+          "link": "https://twitter.com/CampbellEaston/status/1742984427695636971",
+          "publishedOn": "2024-01-04T19:00:45.000Z",
+          "wordCount": null,
+          "title": "RT Campbell (🥚,🥚): I’m telling you, these Spaces keep getting better and better. Huge thanks to @EpochIsland, @ZacharyDash, and @PSkinnerTech f...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1742954522933354609",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Introduction to Chain Abstraction https://twitter.com/i/broadcasts/1PlJQDqrQlnGE",
+          "link": "https://twitter.com/developer_dao/status/1742954522933354609",
+          "publishedOn": "2024-01-04T17:01:55.000Z",
+          "wordCount": null,
+          "title": "Introduction to Chain Abstraction https://twitter.com/i/broadcasts/1PlJQDqrQlnGE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1742940186621915561",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Today at 5pm UTC, @wc49358 hosts part 1 of our @NearProtocol\n #ChainAbstraction workshop 🎞 🛠\nLearn how to onboard your users to any chain with NEAR 😎\nhttps://buff.ly/3NQa8KC",
+          "link": "https://twitter.com/developer_dao/status/1742940186621915561",
+          "publishedOn": "2024-01-04T16:04:57.000Z",
+          "wordCount": null,
+          "title": "Today at 5pm UTC, @wc49358 hosts part 1 of our @NearProtocol #ChainAbstraction workshop 🎞 🛠 Learn how to onboard your users to any chain with NE...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1742886602622243298",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @devntellxyz @vaariance @PeterAnyaogu @godwinAekainu https://buff.ly/3NJL4Vv",
+          "link": "https://twitter.com/developer_dao/status/1742886602622243298",
+          "publishedOn": "2024-01-04T12:32:02.000Z",
+          "wordCount": null,
+          "title": "Re @devntellxyz @vaariance @PeterAnyaogu @godwinAekainu https://buff.ly/3NJL4Vv",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1742886602622243298",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "GM frens!\nWe're in store for another treat tomorrow during our weekly @devntellxyz where we'll learn to build mobile first dapps with flutter and create a smart wallet app using the @vaariance flutter sdk from @PeterAnyaogu & @godwinAekainu\nRSVP for event via the link below 👇",
+          "link": "https://twitter.com/developer_dao/status/1742886602622243298",
+          "publishedOn": "2024-01-04T12:32:01.000Z",
+          "wordCount": null,
+          "title": "GM frens! We're in store for another treat tomorrow during our weekly @devntellxyz where we'll learn to build mobile first dapps with flutter and crea...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/wolovim/status/1742633348101492779",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT marc | wolovim.eth 🐼\n🏗️ holidays over, its hackathon szn\nsmol modernizations made to:\n👉 intro to @ApeFramework blog post: https://snakecharmers.ethereum.org/intro-to-ape/\n👉 ape-hackathon-kit: https://github.com/wolovim/ape-hackathon-kit\n🐍 happy hacking ✨",
@@ -181,26 +251,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/developer_dao/status/1741437044516110529",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @narb_s @devntellxyz Interested in signing up for #DevNTell in 2024?  \nUse the form below to signal your interest:\nhttps://buff.ly/3RDo3EP",
-          "link": "https://twitter.com/developer_dao/status/1741437044516110529",
-          "publishedOn": "2023-12-31T12:32:00.000Z",
-          "wordCount": null,
-          "title": "Re @narb_s @devntellxyz Interested in signing up for #DevNTell in 2024? Use the form below to signal your interest: https://buff.ly/3RDo3EP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1741437044516110529",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Happy New Year Everyone!\nIf you missed this video from @narb_s earlier in the week, he gives us a recap of all the projects that came through @devntellxyz in 2023\nhttps://buff.ly/3H0APsc",
-          "link": "https://twitter.com/developer_dao/status/1741437044516110529",
-          "publishedOn": "2023-12-31T12:32:00.000Z",
-          "wordCount": null,
-          "title": "Happy New Year Everyone! If you missed this video from @narb_s earlier in the week, he gives us a recap of all the projects that came through @devntel...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/developer_dao/status/1741280279849799994",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT Developer DAO (🧱, 🚀)\nIf you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job\nhttps://www.abstracting.org/\n\naltan tutar | albluedragon.near (⋈, 🤖, 🐉): We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!\nThis person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.\nIdeally, they… https://twitter.com/i/web/status/1740403356181447144",
@@ -209,56 +259,6 @@
           "wordCount": null,
           "title": "RT Developer DAO (🧱, 🚀): If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity ...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1741280279849799994",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job\nhttps://www.abstracting.org/\n\naltan tutar | albluedragon.near (⋈, 🤖, 🐉): We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!\nThis person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.\nIdeally, they… https://twitter.com/i/web/status/1740403356181447144",
-          "link": "https://twitter.com/developer_dao/status/1741280279849799994",
-          "publishedOn": "2023-12-31T02:09:04.000Z",
-          "wordCount": null,
-          "title": "If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job https:/...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1741147897687650701",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 30\nThe final topic 🎉🎉🎉🎉\nExplain the benefits of your favorite zero-knowledge technology. ✨\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1741147897687650701",
-          "publishedOn": "2023-12-30T17:23:02.000Z",
-          "wordCount": null,
-          "title": "#30daysoftext Day 30 The final topic 🎉🎉🎉🎉 Explain the benefits of your favorite zero-knowledge technology. ✨ It can be a short article, a...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1740785505418018891",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "#30daysoftext Day 29\nExplain chain abstraction. 🧠\nIt can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.\nReply with a link to the text, so we can find it 🤫",
-          "link": "https://twitter.com/developer_dao/status/1740785505418018891",
-          "publishedOn": "2023-12-29T17:23:01.000Z",
-          "wordCount": null,
-          "title": "#30daysoftext Day 29 Explain chain abstraction. 🧠 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/narb_s/status/1740772165933568103",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Narb | narbeh.eth\nWe had some great projects on the @developer_dao  @devntellxyz this calendar year\nWe ended up booking out almost half way through 2023 which is just crazy!\nHere's a little year end video for you crazy builders to vibe with into 2024 (play with sound on) 🙌\nSee you in 2024🫶",
-          "link": "https://twitter.com/narb_s/status/1740772165933568103",
-          "publishedOn": "2023-12-29T16:30:00.000Z",
-          "wordCount": null,
-          "title": "RT Narb | narbeh.eth: We had some great projects on the @developer_dao @devntellxyz this calendar year We ended up booking out almost half way through...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1740748457587978650",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @wc49358 Jan 4th at 12pm ET: Online Workshop Pt. 1 - “Introduction to Chain Abstraction”\nJan 11th at 12pm ET: Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends”\nJan 18th at 12pm ET: Online Workshop Pt. 3 - “Data Availability & Account Aggregation”",
-          "link": "https://twitter.com/developer_dao/status/1740748457587978650",
-          "publishedOn": "2023-12-29T14:55:48.000Z",
-          "wordCount": null,
-          "title": "Re @wc49358 Jan 4th at 12pm ET: Online Workshop Pt. 1 - “Introduction to Chain Abstraction” Jan 11th at 12pm ET: Online Workshop Pt. 2 - “Building ...",
-          "imageUrl": null
         }
       ]
     },
@@ -266,18 +266,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=freyCo3pcz4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=freyCo3pcz4",
-          "publishedOn": "2023-12-06T04:18:32.000Z",
-          "wordCount": null,
-          "title": "Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

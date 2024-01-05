@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T06:13:10.333Z</id>
+    <id>urn:2024-01-05T06:12:49.196Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-04T06:13:10.333Z</updated>
+    <updated>2024-01-05T06:12:49.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do you want to start 2024 by learning new skills? 🤓 Sign up for @geniusyika's mobile DApp workshop series! 👨🏿‍🏫 It starts in 4 days on Mo...]]></title>
+        <id>https://twitter.com/developer_dao/status/1743010951031407021</id>
+        <link href="https://twitter.com/developer_dao/status/1743010951031407021"/>
+        <updated>2024-01-04T20:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to start 2024 by learning new skills? 🤓
+Sign up for @geniusyika's mobile DApp workshop series! 👨🏿‍🏫
+It starts in 4 days on Monday! 🚀
+There are still spots left, but time is running out ⏳
+https://buff.ly/3RDyc4r]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Please vote 🗳️ P-34: DAO Membership Perks https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe34...]]></title>
+        <id>https://twitter.com/developer_dao/status/1743010747947327845</id>
+        <link href="https://twitter.com/developer_dao/status/1743010747947327845"/>
+        <updated>2024-01-04T20:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Please vote 🗳️ 
+P-34: DAO Membership Perks 
+https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492 @developer_dao #Snapshot]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Campbell (🥚,🥚): I’m telling you, these Spaces keep getting better and better. Huge thanks to @EpochIsland, @ZacharyDash, and @PSkinnerTech f...]]></title>
+        <id>https://twitter.com/CampbellEaston/status/1742984427695636971</id>
+        <link href="https://twitter.com/CampbellEaston/status/1742984427695636971"/>
+        <updated>2024-01-04T19:00:45.000Z</updated>
+        <summary type="html"><![CDATA[RT Campbell (🥚,🥚)
+I’m telling you, these Spaces keep getting better and better.
+Huge thanks to @EpochIsland, @ZacharyDash, and @PSkinnerTech for the invaluable conversation today. I’m very bullish.
+If you missed it, no worries. Tune into the full recording below. 👇
+https://twitter.com/i/spaces/1RDGllMRkZVGL]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Chain Abstraction https://twitter.com/i/broadcasts/1PlJQDqrQlnGE]]></title>
+        <id>https://twitter.com/developer_dao/status/1742954522933354609</id>
+        <link href="https://twitter.com/developer_dao/status/1742954522933354609"/>
+        <updated>2024-01-04T17:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Chain Abstraction https://twitter.com/i/broadcasts/1PlJQDqrQlnGE]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today at 5pm UTC, @wc49358 hosts part 1 of our @NearProtocol #ChainAbstraction workshop 🎞 🛠 Learn how to onboard your users to any chain with NE...]]></title>
+        <id>https://twitter.com/developer_dao/status/1742940186621915561</id>
+        <link href="https://twitter.com/developer_dao/status/1742940186621915561"/>
+        <updated>2024-01-04T16:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Today at 5pm UTC, @wc49358 hosts part 1 of our @NearProtocol
+ #ChainAbstraction workshop 🎞 🛠
+Learn how to onboard your users to any chain with NEAR 😎
+https://buff.ly/3NQa8KC]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @devntellxyz @vaariance @PeterAnyaogu @godwinAekainu https://buff.ly/3NJL4Vv]]></title>
+        <id>https://twitter.com/developer_dao/status/1742886602622243298</id>
+        <link href="https://twitter.com/developer_dao/status/1742886602622243298"/>
+        <updated>2024-01-04T12:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @devntellxyz @vaariance @PeterAnyaogu @godwinAekainu https://buff.ly/3NJL4Vv]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM frens! We're in store for another treat tomorrow during our weekly @devntellxyz where we'll learn to build mobile first dapps with flutter and crea...]]></title>
+        <id>https://twitter.com/developer_dao/status/1742886602622243298</id>
+        <link href="https://twitter.com/developer_dao/status/1742886602622243298"/>
+        <updated>2024-01-04T12:32:01.000Z</updated>
+        <summary type="html"><![CDATA[GM frens!
+We're in store for another treat tomorrow during our weekly @devntellxyz where we'll learn to build mobile first dapps with flutter and create a smart wallet app using the @vaariance flutter sdk from @PeterAnyaogu & @godwinAekainu
+RSVP for event via the link below 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT marc | wolovim.eth 🐼: 🏗️ holidays over, its hackathon szn smol modernizations made to: 👉 intro to @ApeFramework blog post: https://snakec...]]></title>
         <id>https://twitter.com/wolovim/status/1742633348101492779</id>
@@ -174,30 +259,6 @@ Stay tuned while we tally up the rewards in the next days 🤖]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @narb_s @devntellxyz Interested in signing up for #DevNTell in 2024? Use the form below to signal your interest: https://buff.ly/3RDo3EP]]></title>
-        <id>https://twitter.com/developer_dao/status/1741437044516110529</id>
-        <link href="https://twitter.com/developer_dao/status/1741437044516110529"/>
-        <updated>2023-12-31T12:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Re @narb_s @devntellxyz Interested in signing up for #DevNTell in 2024?  
-Use the form below to signal your interest:
-https://buff.ly/3RDo3EP]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy New Year Everyone! If you missed this video from @narb_s earlier in the week, he gives us a recap of all the projects that came through @devntel...]]></title>
-        <id>https://twitter.com/developer_dao/status/1741437044516110529</id>
-        <link href="https://twitter.com/developer_dao/status/1741437044516110529"/>
-        <updated>2023-12-31T12:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy New Year Everyone!
-If you missed this video from @narb_s earlier in the week, he gives us a recap of all the projects that came through @devntellxyz in 2023
-https://buff.ly/3H0APsc]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity ...]]></title>
         <id>https://twitter.com/developer_dao/status/1741280279849799994</id>
         <link href="https://twitter.com/developer_dao/status/1741280279849799994"/>
@@ -209,74 +270,6 @@ https://www.abstracting.org/
 altan tutar | albluedragon.near (⋈, 🤖, 🐉): We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!
 This person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.
 Ideally, they… https://twitter.com/i/web/status/1740403356181447144]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job https:/...]]></title>
-        <id>https://twitter.com/developer_dao/status/1741280279849799994</id>
-        <link href="https://twitter.com/developer_dao/status/1741280279849799994"/>
-        <updated>2023-12-31T02:09:04.000Z</updated>
-        <summary type="html"><![CDATA[If you're looking for a reason to register for the Abstraction Hack, here's the best one: it's a fantastic opportunity to learn and land a job
-https://www.abstracting.org/
-
-altan tutar | albluedragon.near (⋈, 🤖, 🐉): We are hiring a technical content writer to work with us at the @NEARFoundation starting at a contract basis!
-This person will work with myself and @chronear to put content like those that we have been putting lately on sharding, DA, and anything NEAR related.
-Ideally, they… https://twitter.com/i/web/status/1740403356181447144]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 30 The final topic 🎉🎉🎉🎉 Explain the benefits of your favorite zero-knowledge technology. ✨ It can be a short article, a...]]></title>
-        <id>https://twitter.com/developer_dao/status/1741147897687650701</id>
-        <link href="https://twitter.com/developer_dao/status/1741147897687650701"/>
-        <updated>2023-12-30T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 30
-The final topic 🎉🎉🎉🎉
-Explain the benefits of your favorite zero-knowledge technology. ✨
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#30daysoftext Day 29 Explain chain abstraction. 🧠 It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well...]]></title>
-        <id>https://twitter.com/developer_dao/status/1740785505418018891</id>
-        <link href="https://twitter.com/developer_dao/status/1740785505418018891"/>
-        <updated>2023-12-29T17:23:01.000Z</updated>
-        <summary type="html"><![CDATA[#30daysoftext Day 29
-Explain chain abstraction. 🧠
-It can be a short article, a Twitter thread, or even just a tweet. Just ensure to explain it well.
-Reply with a link to the text, so we can find it 🤫]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Narb | narbeh.eth: We had some great projects on the @developer_dao @devntellxyz this calendar year We ended up booking out almost half way through...]]></title>
-        <id>https://twitter.com/narb_s/status/1740772165933568103</id>
-        <link href="https://twitter.com/narb_s/status/1740772165933568103"/>
-        <updated>2023-12-29T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[RT Narb | narbeh.eth
-We had some great projects on the @developer_dao  @devntellxyz this calendar year
-We ended up booking out almost half way through 2023 which is just crazy!
-Here's a little year end video for you crazy builders to vibe with into 2024 (play with sound on) 🙌
-See you in 2024🫶]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @wc49358 Jan 4th at 12pm ET: Online Workshop Pt. 1 - “Introduction to Chain Abstraction” Jan 11th at 12pm ET: Online Workshop Pt. 2 - “Building ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1740748457587978650</id>
-        <link href="https://twitter.com/developer_dao/status/1740748457587978650"/>
-        <updated>2023-12-29T14:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Re @wc49358 Jan 4th at 12pm ET: Online Workshop Pt. 1 - “Introduction to Chain Abstraction”
-Jan 11th at 12pm ET: Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends”
-Jan 18th at 12pm ET: Online Workshop Pt. 3 - “Data Availability & Account Aggregation”]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -299,15 +292,6 @@ Jan 18th at 12pm ET: Online Workshop Pt. 3 - “Data Availability & Account Aggr
         <summary type="html"><![CDATA[🧱 Jobs, D_D Agency looking for a business partner, and more 🚀]]></summary>
         <author>
             <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latent Consistency - Build a Real-Time AI Image App with WebSockets, Excalidraw, Next.js, and Fal.ai]]></title>
-        <id>https://www.youtube.com/watch?v=freyCo3pcz4</id>
-        <link href="https://www.youtube.com/watch?v=freyCo3pcz4"/>
-        <updated>2023-12-06T04:18:32.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
         </author>
     </entry>
 </feed>
