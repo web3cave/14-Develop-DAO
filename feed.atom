@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T06:11:44.952Z</id>
+    <id>urn:2024-01-07T06:12:02.431Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-06T06:11:44.952Z</updated>
+    <updated>2024-01-07T06:12:02.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Have you voted yet ? 🗳️ https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492]]></title>
+        <id>https://twitter.com/developer_dao/status/1743632151147372994</id>
+        <link href="https://twitter.com/developer_dao/status/1743632151147372994"/>
+        <updated>2024-01-06T13:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Have you voted yet ? 🗳️
+https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @NEARProtocol 📑 #ChainAbstraction Thread Competition Details 📑 https://buff.ly/3vhphOp]]></title>
         <id>https://twitter.com/developer_dao/status/1743373306177200555</id>
@@ -240,21 +251,6 @@ https://buff.ly/3NQa8KC]]></summary>
 You'll get a certificate and your first 10,000 transactions sponsored by @rallyprotocol 🚀
 Starting Monday next week: sign up!
 https://buff.ly/3RDyc4r]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 Announcing the NEAR Chain Abstraction Thread Competition! 🚀 1 lucky person will win 1000 USDC 🤑 Until Jan 31, explain chain abstraction in ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1742273406601511022</id>
-        <link href="https://twitter.com/developer_dao/status/1742273406601511022"/>
-        <updated>2024-01-02T19:55:24.000Z</updated>
-        <summary type="html"><![CDATA[🚀 Announcing the NEAR Chain Abstraction Thread Competition! 🚀
-1 lucky person will win 1000 USDC 🤑
-Until Jan 31, explain chain abstraction in a creative and engaging way ✍
-Tag @NearProtocol and #ChainAbstraction to qualify. 
-Details ⤵️
-https://buff.ly/3vhphOp]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

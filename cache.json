@@ -61,6 +61,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1743632151147372994",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Have you voted yet ? 🗳️\nhttps://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492",
+          "link": "https://twitter.com/developer_dao/status/1743632151147372994",
+          "publishedOn": "2024-01-06T13:54:34.000Z",
+          "wordCount": null,
+          "title": "Have you voted yet ? 🗳️ https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1743373306177200555",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re @NEARProtocol 📑 #ChainAbstraction Thread Competition Details 📑\nhttps://buff.ly/3vhphOp",
@@ -248,16 +258,6 @@
           "publishedOn": "2024-01-02T20:46:08.000Z",
           "wordCount": null,
           "title": "There are still a few spots left for @geniusyinka's mobile DApp workshop series! 📱 You'll get a certificate and your first 10,000 transactions spon...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1742273406601511022",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "🚀 Announcing the NEAR Chain Abstraction Thread Competition! 🚀\n1 lucky person will win 1000 USDC 🤑\nUntil Jan 31, explain chain abstraction in a creative and engaging way ✍\nTag @NearProtocol and #ChainAbstraction to qualify. \nDetails ⤵️\nhttps://buff.ly/3vhphOp",
-          "link": "https://twitter.com/developer_dao/status/1742273406601511022",
-          "publishedOn": "2024-01-02T19:55:24.000Z",
-          "wordCount": null,
-          "title": "🚀 Announcing the NEAR Chain Abstraction Thread Competition! 🚀 1 lucky person will win 1000 USDC 🤑 Until Jan 31, explain chain abstraction in ...",
           "imageUrl": null
         }
       ]
