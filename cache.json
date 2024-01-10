@@ -52,22 +52,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fda4bfc-a63f-46cc-ac6b-9cd10b1336ce_1600x900.png"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/99-probably-nothing",
-          "author": "Osikhena James Oshomah",
-          "description": "🧱 Jobs, D_D Agency looking for a business partner, and more 🚀",
-          "link": "https://developerdao.substack.com/p/99-probably-nothing",
-          "publishedOn": "2023-12-11T11:08:29.000Z",
-          "wordCount": null,
-          "title": "#99 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a644a99-a38f-4e7d-aef1-a7a3900bfee6_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a644a99-a38f-4e7d-aef1-a7a3900bfee6_1600x900.png"
         }
       ]
     },
@@ -76,6 +60,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @lil_black_p @0xvikthor @CuriousRabeet @Jamiescript @iaminiekanem @PSkinnerTech And if you're here already, don't miss our next writing event! 🤓\n✍ The @NearProtocol #ChainAbstraction Thread Competition✍\nhttps://buff.ly/3vhphOp",
+          "link": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "publishedOn": "2024-01-10T00:54:02.000Z",
+          "wordCount": null,
+          "title": "Re @lil_black_p @0xvikthor @CuriousRabeet @Jamiescript @iaminiekanem @PSkinnerTech And if you're here already, don't miss our next writing event! 🤓...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @lil_black_p @0xvikthor @CuriousRabeet Finally, our most consistent participants! 🤩\n🥇 29 threads from @Jamiescript \n🥈 24 threads from @iaminiekanem \n🥉 16 threads from @PSkinnerTech \nFollow them to level up your dev skills! 💚",
+          "link": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "publishedOn": "2024-01-10T00:54:02.000Z",
+          "wordCount": null,
+          "title": "Re @lil_black_p @0xvikthor @CuriousRabeet Finally, our most consistent participants! 🤩 🥇 29 threads from @Jamiescript 🥈 24 threads from @iami...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @lil_black_p @0xvikthor @CuriousRabeet Next, the three threads that got the most views 👀\n🥇 10.6k views: https://buff.ly/48nVWRd \n🥈 4.6k views: https://buff.ly/3NUqkKK \n🥉 4.2k views: https://buff.ly/4aSgGSD \nRead them and learn something! 🤓",
+          "link": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "publishedOn": "2024-01-10T00:54:02.000Z",
+          "wordCount": null,
+          "title": "Re @lil_black_p @0xvikthor @CuriousRabeet Next, the three threads that got the most views 👀 🥇 10.6k views: https://buff.ly/48nVWRd 🥈 4.6k vie...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re Let’s start with small accounts! 🐣\nTop participants with under 1000 followers:\n🥇14 threads from @lil_black_p \n🥈7 threads from @0xvikthor \n🥉7 threads from @CuriousRabeet \nWe strongly suggest a follow! 💙",
+          "link": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "publishedOn": "2024-01-10T00:54:01.000Z",
+          "wordCount": null,
+          "title": "Re Let’s start with small accounts! 🐣 Top participants with under 1000 followers: 🥇14 threads from @lil_black_p 🥈7 threads from @0xvikthor ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "🎉Thanks to all participants of our first #30daysoftext!🎉\nWe received 122 submissions from 21 participants 🤩\nWe will DM all participants for rewards shortly! 📨\nThe outcomes ⤵",
+          "link": "https://twitter.com/developer_dao/status/1744885270653042737",
+          "publishedOn": "2024-01-10T00:54:01.000Z",
+          "wordCount": null,
+          "title": "🎉Thanks to all participants of our first #30daysoftext!🎉 We received 122 submissions from 21 participants 🤩 We will DM all participants for r...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/wc49358/status/1744808526441308442",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Billyjitsu ⟁\nDevs, anybody have a working sampler repo of deploying and upgradeable contract on foundry OZ v 5  and this library : https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades   \nThe simpler the better. Getting a customer error on initializing",
+          "link": "https://twitter.com/wc49358/status/1744808526441308442",
+          "publishedOn": "2024-01-09T19:49:04.000Z",
+          "wordCount": null,
+          "title": "RT Billyjitsu ⟁: Devs, anybody have a working sampler repo of deploying and upgradeable contract on foundry OZ v 5 and this library : https://github....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744771774414291083",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re ✍ The @NearProtocol #ChainAbstraction Thread Competition ✍\nhttps://buff.ly/3vhphOp",
+          "link": "https://twitter.com/developer_dao/status/1744771774414291083",
+          "publishedOn": "2024-01-09T17:23:02.000Z",
+          "wordCount": null,
+          "title": "Re ✍ The @NearProtocol #ChainAbstraction Thread Competition ✍ https://buff.ly/3vhphOp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744771774414291083",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Developer DAO (🧱, 🚀)\nIn case you missed it: \nFor our #ChainAbstraction Thread Competition, we split the 1k prize into 4  💰💰💰💰\nYou complained; we corrected it! ✂ \n🥇 400 USDC\n🥈 300 USDC\n🥉 200 USDC\n4th 100 USDC\ndetails ⤵",
+          "link": "https://twitter.com/developer_dao/status/1744771774414291083",
+          "publishedOn": "2024-01-09T17:23:01.000Z",
+          "wordCount": null,
+          "title": "RT Developer DAO (🧱, 🚀): In case you missed it: For our #ChainAbstraction Thread Competition, we split the 1k prize into 4 💰💰💰💰 You ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744771774414291083",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "In case you missed it: \nFor our #ChainAbstraction Thread Competition, we split the 1k prize into 4  💰💰💰💰\nYou complained; we corrected it! ✂ \n🥇 400 USDC\n🥈 300 USDC\n🥉 200 USDC\n4th 100 USDC\ndetails ⤵",
+          "link": "https://twitter.com/developer_dao/status/1744771774414291083",
+          "publishedOn": "2024-01-09T17:23:01.000Z",
+          "wordCount": null,
+          "title": "In case you missed it: For our #ChainAbstraction Thread Competition, we split the 1k prize into 4 💰💰💰💰 You complained; we corrected it! ✂...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744698538762621334",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @devntellxyz @berachain @itsdevbear https://buff.ly/48J542B",
+          "link": "https://twitter.com/developer_dao/status/1744698538762621334",
+          "publishedOn": "2024-01-09T12:32:01.000Z",
+          "wordCount": null,
+          "title": "Re @devntellxyz @berachain @itsdevbear https://buff.ly/48J542B",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1744698538762621334",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "✨ GM frens! ✨ \n🗣️ Join us this Friday January 12th at 4:30pm UTC for another episode of our long running series, @devntellxyz \nℹ️: This week we'll be hosting @berachain with @itsdevbear \n📝 The link to RSVP for the event can be found via the post below 👇",
+          "link": "https://twitter.com/developer_dao/status/1744698538762621334",
+          "publishedOn": "2024-01-09T12:32:01.000Z",
+          "wordCount": null,
+          "title": "✨ GM frens! ✨ 🗣️ Join us this Friday January 12th at 4:30pm UTC for another episode of our long running series, @devntellxyz ℹ️: This week we'...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1744494213268427199",
           "author": "Developer DAO (🧱, 🚀)",
@@ -164,116 +258,6 @@
           "publishedOn": "2024-01-05T20:46:01.000Z",
           "wordCount": null,
           "title": "Re @NEARProtocol 📑 #ChainAbstraction Thread Competition Details 📑 https://buff.ly/3vhphOp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743373306177200555",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Does handling keys for multiple chains with one @NearProtocol account that supports login via email and signing via MPC sound interesting? 🤓\nSubmit a thread to our #ChainAbstraction competition and win 1000 USDC! 🤑\n...maybe even a speaker slot at ETHBucharest 🤫\nDetails ⤵",
-          "link": "https://twitter.com/developer_dao/status/1743373306177200555",
-          "publishedOn": "2024-01-05T20:46:01.000Z",
-          "wordCount": null,
-          "title": "Does handling keys for multiple chains with one @NearProtocol account that supports login via email and signing via MPC sound interesting? 🤓 Submit...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743322221685191023",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @NEARProtocol 🎞 Introduction to #ChainAbstraction Workshop Part 1🎞\nhttps://buff.ly/3NQa8KC",
-          "link": "https://twitter.com/developer_dao/status/1743322221685191023",
-          "publishedOn": "2024-01-05T17:23:02.000Z",
-          "wordCount": null,
-          "title": "Re @NEARProtocol 🎞 Introduction to #ChainAbstraction Workshop Part 1🎞 https://buff.ly/3NQa8KC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743322221685191023",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "You missed our @NearProtocol #ChainAbstraction workshop? 😭\nFret not! 👀\nWe recorded it for your viewing convenience 🎥\nLink ⤵",
-          "link": "https://twitter.com/developer_dao/status/1743322221685191023",
-          "publishedOn": "2024-01-05T17:23:01.000Z",
-          "wordCount": null,
-          "title": "You missed our @NearProtocol #ChainAbstraction workshop? 😭 Fret not! 👀 We recorded it for your viewing convenience 🎥 Link ⤵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743310140638404676",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n@devntellxyz is now actually LIVE!\nCome watch @PeterAnyaogu & @godwinAekainu show us how to build mobile first dapps with flutter and the @vaariance sdk, hosted by @narb_s \n🎥 Watch here: https://buff.ly/3GXIs2B",
-          "link": "https://twitter.com/developer_dao/status/1743310140638404676",
-          "publishedOn": "2024-01-05T16:35:01.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ @devntellxyz is now actually LIVE! Come watch @PeterAnyaogu & @godwinAekainu show us how to build mobile first dapps with flutter and ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743263579975909775",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n@devntellxyz is LIVE with @PeterAnyaogu and @godwinAekainu show us how to build mobile first dapps with flutter and the @vaariance sdk, hosted by @narb_s \n🎥 Watch here: https://buff.ly/3GXIs2B",
-          "link": "https://twitter.com/developer_dao/status/1743263579975909775",
-          "publishedOn": "2024-01-05T13:30:00.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ @devntellxyz is LIVE with @PeterAnyaogu and @godwinAekainu show us how to build mobile first dapps with flutter and the @vaariance sdk...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743010951031407021",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Do you want to start 2024 by learning new skills? 🤓\nSign up for @geniusyika's mobile DApp workshop series! 👨🏿‍🏫\nIt starts in 4 days on Monday! 🚀\nThere are still spots left, but time is running out ⏳\nhttps://buff.ly/3RDyc4r",
-          "link": "https://twitter.com/developer_dao/status/1743010951031407021",
-          "publishedOn": "2024-01-04T20:46:08.000Z",
-          "wordCount": null,
-          "title": "Do you want to start 2024 by learning new skills? 🤓 Sign up for @geniusyika's mobile DApp workshop series! 👨🏿‍🏫 It starts in 4 days on Mo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1743010747947327845",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Please vote 🗳️ \nP-34: DAO Membership Perks \nhttps://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe3493492 @developer_dao #Snapshot",
-          "link": "https://twitter.com/developer_dao/status/1743010747947327845",
-          "publishedOn": "2024-01-04T20:45:20.000Z",
-          "wordCount": null,
-          "title": "Please vote 🗳️ P-34: DAO Membership Perks https://snapshot.org/#/devdao.eth/proposal/0xe7f59c99230e0383c1507a49dc3f65a921f7c7edd6651f198c189b7fe34...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CampbellEaston/status/1742984427695636971",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Campbell (🥚,🥚)\nI’m telling you, these Spaces keep getting better and better.\nHuge thanks to @EpochIsland, @ZacharyDash, and @PSkinnerTech for the invaluable conversation today. I’m very bullish.\nIf you missed it, no worries. Tune into the full recording below. 👇\nhttps://twitter.com/i/spaces/1RDGllMRkZVGL",
-          "link": "https://twitter.com/CampbellEaston/status/1742984427695636971",
-          "publishedOn": "2024-01-04T19:00:45.000Z",
-          "wordCount": null,
-          "title": "RT Campbell (🥚,🥚): I’m telling you, these Spaces keep getting better and better. Huge thanks to @EpochIsland, @ZacharyDash, and @PSkinnerTech f...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1742954522933354609",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Introduction to Chain Abstraction https://twitter.com/i/broadcasts/1PlJQDqrQlnGE",
-          "link": "https://twitter.com/developer_dao/status/1742954522933354609",
-          "publishedOn": "2024-01-04T17:01:55.000Z",
-          "wordCount": null,
-          "title": "Introduction to Chain Abstraction https://twitter.com/i/broadcasts/1PlJQDqrQlnGE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1742940186621915561",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Today at 5pm UTC, @wc49358 hosts part 1 of our @NearProtocol\n #ChainAbstraction workshop 🎞 🛠\nLearn how to onboard your users to any chain with NEAR 😎\nhttps://buff.ly/3NQa8KC",
-          "link": "https://twitter.com/developer_dao/status/1742940186621915561",
-          "publishedOn": "2024-01-04T16:04:57.000Z",
-          "wordCount": null,
-          "title": "Today at 5pm UTC, @wc49358 hosts part 1 of our @NearProtocol #ChainAbstraction workshop 🎞 🛠 Learn how to onboard your users to any chain with NE...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1742886602622243298",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @devntellxyz @vaariance @PeterAnyaogu @godwinAekainu https://buff.ly/3NJL4Vv",
-          "link": "https://twitter.com/developer_dao/status/1742886602622243298",
-          "publishedOn": "2024-01-04T12:32:02.000Z",
-          "wordCount": null,
-          "title": "Re @devntellxyz @vaariance @PeterAnyaogu @godwinAekainu https://buff.ly/3NJL4Vv",
           "imageUrl": null
         }
       ]
