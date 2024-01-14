@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T06:12:02.813Z</id>
+    <id>urn:2024-01-14T06:12:14.908Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-13T06:12:02.813Z</updated>
+    <updated>2024-01-14T06:12:14.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Be like @ThisisVanshika 👀 If your in love with @NEARProtocol ❤️❤️❤️ Check out the https://www.abstracting.org/ hack going on! @Banyan_NEAR]]></title>
+        <id>https://twitter.com/developer_dao/status/1746214114223927430</id>
+        <link href="https://twitter.com/developer_dao/status/1746214114223927430"/>
+        <updated>2024-01-13T16:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Be like @ThisisVanshika 👀
+If your in love with @NEARProtocol ❤️❤️❤️
+Check out the https://www.abstracting.org/ hack going on!
+ @Banyan_NEAR
+
+vanshika: explored @NEARProtocol in last 2 days🚀
+i’m blown by how blockchain systems can be really efficient when it comes down to developer experience and UX!
+I have been involved in infra level projects since october’23✨
+L2s leveraging modularity + @NEARProtocol DA layer is just… https://twitter.com/i/web/status/1746204294850744704]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT vanshika: explored @NEARProtocol in last 2 days🚀 i’m blown by how blockchain systems can be really efficient when it comes down to developer ex...]]></title>
+        <id>https://twitter.com/ThisisVanshika/status/1746204294850744704</id>
+        <link href="https://twitter.com/ThisisVanshika/status/1746204294850744704"/>
+        <updated>2024-01-13T16:15:21.000Z</updated>
+        <summary type="html"><![CDATA[RT vanshika
+explored @NEARProtocol in last 2 days🚀
+i’m blown by how blockchain systems can be really efficient when it comes down to developer experience and UX!
+I have been involved in infra level projects since october’23✨
+L2s leveraging modularity + @NEARProtocol DA layer is just… https://twitter.com/i/web/status/1746204294850744704]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamie just aced #30daysoftext and is already in the next competition 😎 Still not sure what #ChainAbstraction is? Then read on! ⏬]]></title>
+        <id>https://twitter.com/developer_dao/status/1746184616363294942</id>
+        <link href="https://twitter.com/developer_dao/status/1746184616363294942"/>
+        <updated>2024-01-13T14:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Jamie just aced #30daysoftext and is already in the next competition 😎
+Still not sure what #ChainAbstraction is? 
+Then read on! ⏬
+
+Jamiebones: Chain Abstraction in NEAR:
+Chain abstraction involves simplifying the development and usage of blockchain applications by hiding the underlying complexity of the blockchain infrastructure. #ChainAbstraction @NEARProtocol]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Dawn Kelly 🏳️‍🌈⛰️🚢: Wake up, babe. New bounty for chain signatures at #AbstractionHacks just dropped…]]></title>
+        <id>https://twitter.com/run4pancakes/status/1746178958477992159</id>
+        <link href="https://twitter.com/run4pancakes/status/1746178958477992159"/>
+        <updated>2024-01-13T14:34:40.000Z</updated>
+        <summary type="html"><![CDATA[RT Dawn Kelly 🏳️‍🌈⛰️🚢
+Wake up, babe. New bounty for chain signatures at #AbstractionHacks just dropped…
+
+Cameron.near: 📣 @PagodaPlatform is sponsoring $2,000 for #AbstactionHacks bounty for the best implementation of Chain Signatures! 
+In case you don't know, Chain Signatures are a revolutionary new cryptographic primitive revolutionizing secure multi-party computation to jointly sign a… https://twitter.com/i/web/status/1745865862450741511]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re ⚒ @NearProtocol #ChainAbstraction Workshop Part 2: Building Composable & Decentralized Frontends 🛠 https://buff.ly/3HhwxMV]]></title>
         <id>https://twitter.com/developer_dao/status/1745972434648330580</id>
@@ -157,19 +218,6 @@ a thread 🧵
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT nader dabit | nader.lens: today 100M $ was given to devs, researchers, OSS maintainers, & contributors building public goods in web3 $10M alone wen...]]></title>
-        <id>https://twitter.com/dabit3/status/1745648604490961125</id>
-        <link href="https://twitter.com/dabit3/status/1745648604490961125"/>
-        <updated>2024-01-12T03:27:14.000Z</updated>
-        <summary type="html"><![CDATA[RT nader dabit | nader.lens
-today 100M $ was given to devs, researchers, OSS maintainers, & contributors building public goods in web3
-$10M alone went to devs & teams building JavaScript tooling & SDKs
-this contrasts the traditional web2 model of begging for donations & gargling balls to make ends meet]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT ObamaSonicTrumpSkidanovPolosukhinSonicInuTen: This is good and all @David___Mo , but let us help you make it more forest frenly with another 🦔�...]]></title>
         <id>https://twitter.com/polosukhin666/status/1745622439646687288</id>
         <link href="https://twitter.com/polosukhin666/status/1745622439646687288"/>
@@ -188,43 +236,6 @@ It's not on there
 So, you check iPlayer
 It's not on there
 So, you check… https://twitter.com/i/web/status/1745122841853325375]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ: GitHub streaks are cool but who is starting a new one with me on http://Protocol.Land 🔥]]></title>
-        <id>https://twitter.com/ropats16/status/1745537667616669860</id>
-        <link href="https://twitter.com/ropats16/status/1745537667616669860"/>
-        <updated>2024-01-11T20:06:25.000Z</updated>
-        <summary type="html"><![CDATA[RT ropats16 (🧱, 🚀) ᵍᵐ
-GitHub streaks are cool but who is starting a new one with me on http://Protocol.Land 🔥
-
-
-Protocol.Land: Source control on http://Protocol.Land is now open to all. 🚀
-Check out what's in store and get started 👇
-https://protocol.land/#/blog/protocol-land-is-now-open-to-all]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @devntellxyz @berachain @itsdevbear https://buff.ly/48J542B]]></title>
-        <id>https://twitter.com/developer_dao/status/1745496551932199354</id>
-        <link href="https://twitter.com/developer_dao/status/1745496551932199354"/>
-        <updated>2024-01-11T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @devntellxyz @berachain @itsdevbear https://buff.ly/48J542B]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): Building Composable & Decentralized Frontends https://twitter.com/i/broadcasts/1OyKAWkzZXbJb]]></title>
-        <id>https://twitter.com/developer_dao/status/1745491012607467919</id>
-        <link href="https://twitter.com/developer_dao/status/1745491012607467919"/>
-        <updated>2024-01-11T17:01:01.000Z</updated>
-        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
-Building Composable & Decentralized Frontends https://twitter.com/i/broadcasts/1OyKAWkzZXbJb]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>

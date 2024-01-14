@@ -61,6 +61,46 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1746214114223927430",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Be like @ThisisVanshika 👀\nIf your in love with @NEARProtocol ❤️❤️❤️\nCheck out the https://www.abstracting.org/ hack going on!\n @Banyan_NEAR\n\nvanshika: explored @NEARProtocol in last 2 days🚀\ni’m blown by how blockchain systems can be really efficient when it comes down to developer experience and UX!\nI have been involved in infra level projects since october’23✨\nL2s leveraging modularity + @NEARProtocol DA layer is just… https://twitter.com/i/web/status/1746204294850744704",
+          "link": "https://twitter.com/developer_dao/status/1746214114223927430",
+          "publishedOn": "2024-01-13T16:54:22.000Z",
+          "wordCount": null,
+          "title": "Be like @ThisisVanshika 👀 If your in love with @NEARProtocol ❤️❤️❤️ Check out the https://www.abstracting.org/ hack going on! @Banyan_NEAR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/ThisisVanshika/status/1746204294850744704",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT vanshika\nexplored @NEARProtocol in last 2 days🚀\ni’m blown by how blockchain systems can be really efficient when it comes down to developer experience and UX!\nI have been involved in infra level projects since october’23✨\nL2s leveraging modularity + @NEARProtocol DA layer is just… https://twitter.com/i/web/status/1746204294850744704",
+          "link": "https://twitter.com/ThisisVanshika/status/1746204294850744704",
+          "publishedOn": "2024-01-13T16:15:21.000Z",
+          "wordCount": null,
+          "title": "RT vanshika: explored @NEARProtocol in last 2 days🚀 i’m blown by how blockchain systems can be really efficient when it comes down to developer ex...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1746184616363294942",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Jamie just aced #30daysoftext and is already in the next competition 😎\nStill not sure what #ChainAbstraction is? \nThen read on! ⏬\n\nJamiebones: Chain Abstraction in NEAR:\nChain abstraction involves simplifying the development and usage of blockchain applications by hiding the underlying complexity of the blockchain infrastructure. #ChainAbstraction @NEARProtocol",
+          "link": "https://twitter.com/developer_dao/status/1746184616363294942",
+          "publishedOn": "2024-01-13T14:57:09.000Z",
+          "wordCount": null,
+          "title": "Jamie just aced #30daysoftext and is already in the next competition 😎 Still not sure what #ChainAbstraction is? Then read on! ⏬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/run4pancakes/status/1746178958477992159",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Dawn Kelly 🏳️‍🌈⛰️🚢\nWake up, babe. New bounty for chain signatures at #AbstractionHacks just dropped…\n\nCameron.near: 📣 @PagodaPlatform is sponsoring $2,000 for #AbstactionHacks bounty for the best implementation of Chain Signatures! \nIn case you don't know, Chain Signatures are a revolutionary new cryptographic primitive revolutionizing secure multi-party computation to jointly sign a… https://twitter.com/i/web/status/1745865862450741511",
+          "link": "https://twitter.com/run4pancakes/status/1746178958477992159",
+          "publishedOn": "2024-01-13T14:34:40.000Z",
+          "wordCount": null,
+          "title": "RT Dawn Kelly 🏳️‍🌈⛰️🚢: Wake up, babe. New bounty for chain signatures at #AbstractionHacks just dropped…",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1745972434648330580",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "Re ⚒ @NearProtocol #ChainAbstraction Workshop Part 2: Building Composable & Decentralized Frontends 🛠\nhttps://buff.ly/3HhwxMV",
@@ -181,16 +221,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/dabit3/status/1745648604490961125",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT nader dabit | nader.lens\ntoday 100M $ was given to devs, researchers, OSS maintainers, & contributors building public goods in web3\n$10M alone went to devs & teams building JavaScript tooling & SDKs\nthis contrasts the traditional web2 model of begging for donations & gargling balls to make ends meet",
-          "link": "https://twitter.com/dabit3/status/1745648604490961125",
-          "publishedOn": "2024-01-12T03:27:14.000Z",
-          "wordCount": null,
-          "title": "RT nader dabit | nader.lens: today 100M $ was given to devs, researchers, OSS maintainers, & contributors building public goods in web3 $10M alone wen...",
-          "imageUrl": null
-        },
-        {
           "id": "https://twitter.com/polosukhin666/status/1745622439646687288",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT ObamaSonicTrumpSkidanovPolosukhinSonicInuTen\nThis is good and all @David___Mo , but let us help you make it more forest frenly with another 🦔🧵\n\n\nDAOvid Morrison (davidmo.near) 🤖: What the f**k is Chain Abstraction anyway?!\nTL:DR: It's beyond blockchain\nY'know how when you wanna watch your favourite film/TV show...\nAnd you check Netflix\nIt's not on there\nSo, you check Hulu\nIt's not on there\nSo, you check iPlayer\nIt's not on there\nSo, you check… https://twitter.com/i/web/status/1745122841853325375",
@@ -198,36 +228,6 @@
           "publishedOn": "2024-01-12T01:43:16.000Z",
           "wordCount": null,
           "title": "RT ObamaSonicTrumpSkidanovPolosukhinSonicInuTen: This is good and all @David___Mo , but let us help you make it more forest frenly with another 🦔�...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ropats16/status/1745537667616669860",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT ropats16 (🧱, 🚀) ᵍᵐ\nGitHub streaks are cool but who is starting a new one with me on http://Protocol.Land 🔥\n\n\nProtocol.Land: Source control on http://Protocol.Land is now open to all. 🚀\nCheck out what's in store and get started 👇\nhttps://protocol.land/#/blog/protocol-land-is-now-open-to-all",
-          "link": "https://twitter.com/ropats16/status/1745537667616669860",
-          "publishedOn": "2024-01-11T20:06:25.000Z",
-          "wordCount": null,
-          "title": "RT ropats16 (🧱, 🚀) ᵍᵐ: GitHub streaks are cool but who is starting a new one with me on http://Protocol.Land 🔥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1745496551932199354",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @devntellxyz @berachain @itsdevbear https://buff.ly/48J542B",
-          "link": "https://twitter.com/developer_dao/status/1745496551932199354",
-          "publishedOn": "2024-01-11T17:23:02.000Z",
-          "wordCount": null,
-          "title": "Re @devntellxyz @berachain @itsdevbear https://buff.ly/48J542B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1745491012607467919",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT Developer DAO (🧱, 🚀)\nBuilding Composable & Decentralized Frontends https://twitter.com/i/broadcasts/1OyKAWkzZXbJb",
-          "link": "https://twitter.com/developer_dao/status/1745491012607467919",
-          "publishedOn": "2024-01-11T17:01:01.000Z",
-          "wordCount": null,
-          "title": "RT Developer DAO (🧱, 🚀): Building Composable & Decentralized Frontends https://twitter.com/i/broadcasts/1OyKAWkzZXbJb",
           "imageUrl": null
         },
         {
