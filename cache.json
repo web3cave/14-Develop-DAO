@@ -1,65 +1,50 @@
 {
   "sources": [
     {
-      "title": "Developer DAO",
-      "feedUrl": "https://developerdao.substack.com/feed",
-      "siteUrl": "https://developerdao.substack.com",
-      "articles": [
-        {
-          "id": "https://developerdao.substack.com/p/get-funding-win-prizes",
-          "author": "Osikhena James Oshomah",
-          "description": "Probably Nothing #102: Win 1000 USDC in our NEAR thread competition or get funding from Press Start Capital.",
-          "link": "https://developerdao.substack.com/p/get-funding-win-prizes",
-          "publishedOn": "2024-01-08T12:01:13.000Z",
-          "wordCount": null,
-          "title": "Get Funding! Win Prizes!",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28c7f47c-5251-42a5-b7ec-fd758d9ccbf8_1920x1080.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28c7f47c-5251-42a5-b7ec-fd758d9ccbf8_1920x1080.jpeg"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/start-2024-with-a-hackathon",
-          "author": "Osikhena James Oshomah",
-          "description": "Probably Nothing #101: Starting strong with a hackathon and a workshop series! 🚀",
-          "link": "https://developerdao.substack.com/p/start-2024-with-a-hackathon",
-          "publishedOn": "2024-01-01T12:00:15.000Z",
-          "wordCount": null,
-          "title": "Start 2024 With a Hackathon!",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c73c937-eb9a-4f55-b461-28b72c8e637e_1920x1080.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c73c937-eb9a-4f55-b461-28b72c8e637e_1920x1080.jpeg"
-        },
-        {
-          "id": "https://developerdao.substack.com/p/100-probably-nothing",
-          "author": "Osikhena James Oshomah",
-          "description": "👾 Jobs, jobs, jobs, but in the meantime, happy holidays! 🎁",
-          "link": "https://developerdao.substack.com/p/100-probably-nothing",
-          "publishedOn": "2023-12-18T14:40:45.000Z",
-          "wordCount": null,
-          "title": "#100 Probably Nothing",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fda4bfc-a63f-46cc-ac6b-9cd10b1336ce_1600x900.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8fda4bfc-a63f-46cc-ac6b-9cd10b1336ce_1600x900.png"
-        }
-      ]
-    },
-    {
       "title": "Twitter @Developer DAO (🧱, 🚀)",
       "feedUrl": "https://rsshub.app/twitter/user/developer_dao",
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
+        {
+          "id": "https://twitter.com/developer_dao/status/1746946102358626659",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @NEARProtocol ✍ @NearProtocol #ChainAbstraction Thread Competition ✍\nhttps://buff.ly/3vhphOp",
+          "link": "https://twitter.com/developer_dao/status/1746946102358626659",
+          "publishedOn": "2024-01-15T17:23:02.000Z",
+          "wordCount": null,
+          "title": "Re @NEARProtocol ✍ @NearProtocol #ChainAbstraction Thread Competition ✍ https://buff.ly/3vhphOp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/developer_dao/status/1746946102358626659",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Only 2 weeks to participate in our @NearProtocol #ChainAbstraction Thread Competition! ⏳\nSubmit a thread if you haven't already and become one of 4 winners! 😱 \nDetails ⤵️",
+          "link": "https://twitter.com/developer_dao/status/1746946102358626659",
+          "publishedOn": "2024-01-15T17:23:02.000Z",
+          "wordCount": null,
+          "title": "Only 2 weeks to participate in our @NearProtocol #ChainAbstraction Thread Competition! ⏳ Submit a thread if you haven't already and become one of 4 w...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/_derked/status/1746621578454905157",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT Derked\nI've spent the last week or so diving heavily into the Solana development eco. I've found docs around things I've wanted to do pretty sparse in some places, so I've started to compile a repo with practical examples and some notes.",
+          "link": "https://twitter.com/_derked/status/1746621578454905157",
+          "publishedOn": "2024-01-14T19:53:29.000Z",
+          "wordCount": null,
+          "title": "RT Derked: I've spent the last week or so diving heavily into the Solana development eco. I've found docs around things I've wanted to do pretty spars...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/EFNextBillion/status/1746548340509311149",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT EF Next Billion\n⏰Pssst! Writing your @EFNextBillion Fellowship application this weekend but need more time? 📢 The submission deadline has been extended by one week! Please submit your application ASAP but definitely before Jan 22, 2024\nhttp://fellowship.ethereum.foundation",
+          "link": "https://twitter.com/EFNextBillion/status/1746548340509311149",
+          "publishedOn": "2024-01-14T15:02:28.000Z",
+          "wordCount": null,
+          "title": "RT EF Next Billion: ⏰Pssst! Writing your @EFNextBillion Fellowship application this weekend but need more time? 📢 The submission deadline has been...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/developer_dao/status/1746214114223927430",
           "author": "Developer DAO (🧱, 🚀)",
@@ -98,6 +83,16 @@
           "publishedOn": "2024-01-13T14:34:40.000Z",
           "wordCount": null,
           "title": "RT Dawn Kelly 🏳️‍🌈⛰️🚢: Wake up, babe. New bounty for chain signatures at #AbstractionHacks just dropped…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Rahatcodes/status/1746035020815331547",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "RT rahat.eth | .lens\nIntroducing the 🚀 Protocol Explorer Livestream 🚀\n🎥 In our kick-off episode, the amazing @wc49358 will be schooling me on the magic of Price Feeds and Random Numbers with @API3DAO. \nDon't miss out! Link to the stream below 👇",
+          "link": "https://twitter.com/Rahatcodes/status/1746035020815331547",
+          "publishedOn": "2024-01-13T05:02:43.000Z",
+          "wordCount": null,
+          "title": "RT rahat.eth | .lens: Introducing the 🚀 Protocol Explorer Livestream 🚀 🎥 In our kick-off episode, the amazing @wc49358 will be schooling me o...",
           "imageUrl": null
         },
         {
@@ -168,56 +163,6 @@
           "publishedOn": "2024-01-12T17:23:02.000Z",
           "wordCount": null,
           "title": "Re @LeomOfThings @KatrielXBT We also received one with hedgehogs from @polosukhin666 🦔🤣 https://buff.ly/3O1ssQP ⬇⬇⬇⬇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1745858936585003140",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re @LeomOfThings The next submission is from @KatrielXBT, who explains how to break down the walls in the crypto world 🧱⛏\nhttps://buff.ly/41XHMns \n⬇⬇⬇⬇",
-          "link": "https://twitter.com/developer_dao/status/1745858936585003140",
-          "publishedOn": "2024-01-12T17:23:02.000Z",
-          "wordCount": null,
-          "title": "Re @LeomOfThings The next submission is from @KatrielXBT, who explains how to break down the walls in the crypto world 🧱⛏ https://buff.ly/41XHMns ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1745858936585003140",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Re The first submission is from @LeomOfThings, a #30daysoftext veteran already, so expect nothing but quality! ✨\nhttps://buff.ly/3RZlooW \n⬇⬇⬇⬇",
-          "link": "https://twitter.com/developer_dao/status/1745858936585003140",
-          "publishedOn": "2024-01-12T17:23:02.000Z",
-          "wordCount": null,
-          "title": "Re The first submission is from @LeomOfThings, a #30daysoftext veteran already, so expect nothing but quality! ✨ https://buff.ly/3RZlooW ⬇⬇⬇⬇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1745858936585003140",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Now that you're happy with the prizes for our #ChainAbstraction thread competition, submissions are pouring in! 🤩\nGlad we sorted that out! 💙\nLet's do a recap of this week's threads! \n⬇⬇⬇⬇",
-          "link": "https://twitter.com/developer_dao/status/1745858936585003140",
-          "publishedOn": "2024-01-12T17:23:01.000Z",
-          "wordCount": null,
-          "title": "Now that you're happy with the prizes for our #ChainAbstraction thread competition, submissions are pouring in! 🤩 Glad we sorted that out! 💙 Let...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1745848111560274096",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "✨ GM frens! ✨ \n@devntellxyz is LIVE! \nCome watch @itsdevbear give us an overview of @berachain , hosted by @narb_s \n🎥 Watch here: https://buff.ly/4aKsvKG",
-          "link": "https://twitter.com/developer_dao/status/1745848111560274096",
-          "publishedOn": "2024-01-12T16:40:00.000Z",
-          "wordCount": null,
-          "title": "✨ GM frens! ✨ @devntellxyz is LIVE! Come watch @itsdevbear give us an overview of @berachain , hosted by @narb_s 🎥 Watch here: https://buff.ly/4a...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/atharv_181/status/1745814240470917340",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT atharv181.lens (👨‍💻)\nBitcoin-Enhanced Proof of Reserves in Financial Institutions\na thread 🧵\n#30daysoftext @developer_dao",
-          "link": "https://twitter.com/atharv_181/status/1745814240470917340",
-          "publishedOn": "2024-01-12T14:25:25.000Z",
-          "wordCount": null,
-          "title": "RT atharv181.lens (👨‍💻): Bitcoin-Enhanced Proof of Reserves in Financial Institutions a thread 🧵 #30daysoftext @developer_dao",
           "imageUrl": null
         },
         {

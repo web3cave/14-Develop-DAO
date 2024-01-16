@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-15T06:13:52.806Z</id>
+    <id>urn:2024-01-16T06:13:29.147Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-15T06:13:52.806Z</updated>
+    <updated>2024-01-16T06:13:29.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @NEARProtocol ✍ @NearProtocol #ChainAbstraction Thread Competition ✍ https://buff.ly/3vhphOp]]></title>
+        <id>https://twitter.com/developer_dao/status/1746946102358626659</id>
+        <link href="https://twitter.com/developer_dao/status/1746946102358626659"/>
+        <updated>2024-01-15T17:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @NEARProtocol ✍ @NearProtocol #ChainAbstraction Thread Competition ✍
+https://buff.ly/3vhphOp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only 2 weeks to participate in our @NearProtocol #ChainAbstraction Thread Competition! ⏳ Submit a thread if you haven't already and become one of 4 w...]]></title>
+        <id>https://twitter.com/developer_dao/status/1746946102358626659</id>
+        <link href="https://twitter.com/developer_dao/status/1746946102358626659"/>
+        <updated>2024-01-15T17:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Only 2 weeks to participate in our @NearProtocol #ChainAbstraction Thread Competition! ⏳
+Submit a thread if you haven't already and become one of 4 winners! 😱 
+Details ⤵️]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Derked: I've spent the last week or so diving heavily into the Solana development eco. I've found docs around things I've wanted to do pretty spars...]]></title>
+        <id>https://twitter.com/_derked/status/1746621578454905157</id>
+        <link href="https://twitter.com/_derked/status/1746621578454905157"/>
+        <updated>2024-01-14T19:53:29.000Z</updated>
+        <summary type="html"><![CDATA[RT Derked
+I've spent the last week or so diving heavily into the Solana development eco. I've found docs around things I've wanted to do pretty sparse in some places, so I've started to compile a repo with practical examples and some notes.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT EF Next Billion: ⏰Pssst! Writing your @EFNextBillion Fellowship application this weekend but need more time? 📢 The submission deadline has been...]]></title>
+        <id>https://twitter.com/EFNextBillion/status/1746548340509311149</id>
+        <link href="https://twitter.com/EFNextBillion/status/1746548340509311149"/>
+        <updated>2024-01-14T15:02:28.000Z</updated>
+        <summary type="html"><![CDATA[RT EF Next Billion
+⏰Pssst! Writing your @EFNextBillion Fellowship application this weekend but need more time? 📢 The submission deadline has been extended by one week! Please submit your application ASAP but definitely before Jan 22, 2024
+http://fellowship.ethereum.foundation]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Be like @ThisisVanshika 👀 If your in love with @NEARProtocol ❤️❤️❤️ Check out the https://www.abstracting.org/ hack going on! @Banyan_NEAR]]></title>
         <id>https://twitter.com/developer_dao/status/1746214114223927430</id>
@@ -62,6 +108,19 @@ Wake up, babe. New bounty for chain signatures at #AbstractionHacks just dropped
 
 Cameron.near: 📣 @PagodaPlatform is sponsoring $2,000 for #AbstactionHacks bounty for the best implementation of Chain Signatures! 
 In case you don't know, Chain Signatures are a revolutionary new cryptographic primitive revolutionizing secure multi-party computation to jointly sign a… https://twitter.com/i/web/status/1745865862450741511]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT rahat.eth | .lens: Introducing the 🚀 Protocol Explorer Livestream 🚀 🎥 In our kick-off episode, the amazing @wc49358 will be schooling me o...]]></title>
+        <id>https://twitter.com/Rahatcodes/status/1746035020815331547</id>
+        <link href="https://twitter.com/Rahatcodes/status/1746035020815331547"/>
+        <updated>2024-01-13T05:02:43.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth | .lens
+Introducing the 🚀 Protocol Explorer Livestream 🚀
+🎥 In our kick-off episode, the amazing @wc49358 will be schooling me on the magic of Price Feeds and Random Numbers with @API3DAO. 
+Don't miss out! Link to the stream below 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -155,69 +214,6 @@ https://buff.ly/3O1ssQP
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @LeomOfThings The next submission is from @KatrielXBT, who explains how to break down the walls in the crypto world 🧱⛏ https://buff.ly/41XHMns ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1745858936585003140</id>
-        <link href="https://twitter.com/developer_dao/status/1745858936585003140"/>
-        <updated>2024-01-12T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @LeomOfThings The next submission is from @KatrielXBT, who explains how to break down the walls in the crypto world 🧱⛏
-https://buff.ly/41XHMns 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re The first submission is from @LeomOfThings, a #30daysoftext veteran already, so expect nothing but quality! ✨ https://buff.ly/3RZlooW ⬇⬇⬇⬇]]></title>
-        <id>https://twitter.com/developer_dao/status/1745858936585003140</id>
-        <link href="https://twitter.com/developer_dao/status/1745858936585003140"/>
-        <updated>2024-01-12T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Re The first submission is from @LeomOfThings, a #30daysoftext veteran already, so expect nothing but quality! ✨
-https://buff.ly/3RZlooW 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now that you're happy with the prizes for our #ChainAbstraction thread competition, submissions are pouring in! 🤩 Glad we sorted that out! 💙 Let...]]></title>
-        <id>https://twitter.com/developer_dao/status/1745858936585003140</id>
-        <link href="https://twitter.com/developer_dao/status/1745858936585003140"/>
-        <updated>2024-01-12T17:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Now that you're happy with the prizes for our #ChainAbstraction thread competition, submissions are pouring in! 🤩
-Glad we sorted that out! 💙
-Let's do a recap of this week's threads! 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE! Come watch @itsdevbear give us an overview of @berachain , hosted by @narb_s 🎥 Watch here: https://buff.ly/4a...]]></title>
-        <id>https://twitter.com/developer_dao/status/1745848111560274096</id>
-        <link href="https://twitter.com/developer_dao/status/1745848111560274096"/>
-        <updated>2024-01-12T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-@devntellxyz is LIVE! 
-Come watch @itsdevbear give us an overview of @berachain , hosted by @narb_s 
-🎥 Watch here: https://buff.ly/4aKsvKG]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT atharv181.lens (👨‍💻): Bitcoin-Enhanced Proof of Reserves in Financial Institutions a thread 🧵 #30daysoftext @developer_dao]]></title>
-        <id>https://twitter.com/atharv_181/status/1745814240470917340</id>
-        <link href="https://twitter.com/atharv_181/status/1745814240470917340"/>
-        <updated>2024-01-12T14:25:25.000Z</updated>
-        <summary type="html"><![CDATA[RT atharv181.lens (👨‍💻)
-Bitcoin-Enhanced Proof of Reserves in Financial Institutions
-a thread 🧵
-#30daysoftext @developer_dao]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RT ObamaSonicTrumpSkidanovPolosukhinSonicInuTen: This is good and all @David___Mo , but let us help you make it more forest frenly with another 🦔�...]]></title>
         <id>https://twitter.com/polosukhin666/status/1745622439646687288</id>
         <link href="https://twitter.com/polosukhin666/status/1745622439646687288"/>
@@ -276,36 +272,6 @@ Forget juggling multiple blockchains! ‍ @NEARProtocol's  #ChainAbstraction is 
 Dive into this thread to unlock a seamless, interconnected future:⬇️]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Funding! Win Prizes!]]></title>
-        <id>https://developerdao.substack.com/p/get-funding-win-prizes</id>
-        <link href="https://developerdao.substack.com/p/get-funding-win-prizes"/>
-        <updated>2024-01-08T12:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Probably Nothing #102: Win 1000 USDC in our NEAR thread competition or get funding from Press Start Capital.]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start 2024 With a Hackathon!]]></title>
-        <id>https://developerdao.substack.com/p/start-2024-with-a-hackathon</id>
-        <link href="https://developerdao.substack.com/p/start-2024-with-a-hackathon"/>
-        <updated>2024-01-01T12:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Probably Nothing #101: Starting strong with a hackathon and a workshop series! 🚀]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#100 Probably Nothing]]></title>
-        <id>https://developerdao.substack.com/p/100-probably-nothing</id>
-        <link href="https://developerdao.substack.com/p/100-probably-nothing"/>
-        <updated>2023-12-18T14:40:45.000Z</updated>
-        <summary type="html"><![CDATA[👾 Jobs, jobs, jobs, but in the meantime, happy holidays! 🎁]]></summary>
-        <author>
-            <name>Osikhena James Oshomah</name>
         </author>
     </entry>
 </feed>
