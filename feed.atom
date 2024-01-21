@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T06:12:09.103Z</id>
+    <id>urn:2024-01-21T06:12:20.106Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-20T06:12:09.103Z</updated>
+    <updated>2024-01-21T06:12:20.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @TaioSquare @NEARProtocol Anyone can participate]]></title>
+        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
+        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
+        <updated>2024-01-20T15:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @TaioSquare @NEARProtocol Anyone can participate]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @K4y1s @NEARProtocol Can you explain it better? 🤓 Submit a thread to our #ChainAbstraction thread competition and win one of 4 prizes! 🤑 🥇...]]></title>
         <id>https://twitter.com/developer_dao/status/1748446736043982966</id>
@@ -245,16 +255,6 @@ RSVP for event via the link below 👇]]></summary>
         <updated>2024-01-18T17:04:07.000Z</updated>
         <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
 Data Availability & Account Aggregation https://twitter.com/i/broadcasts/1DXxyjbAXmeKM]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Availability & Account Aggregation https://twitter.com/i/broadcasts/1DXxyjbAXmeKM]]></title>
-        <id>https://twitter.com/developer_dao/status/1748028507098382676</id>
-        <link href="https://twitter.com/developer_dao/status/1748028507098382676"/>
-        <updated>2024-01-18T17:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Data Availability & Account Aggregation https://twitter.com/i/broadcasts/1DXxyjbAXmeKM]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
