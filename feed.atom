@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-23T06:13:41.446Z</id>
+    <id>urn:2024-01-24T06:13:47.791Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-23T06:13:41.446Z</updated>
+    <updated>2024-01-24T06:13:47.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @wc49358 @NEARProtocol ⚒ @NearProtocol #ChainAbstraction Workshop Part 4: Unpacking NEAR Data Availability 🛠 https://buff.ly/3SigALU]]></title>
+        <id>https://twitter.com/developer_dao/status/1749958700394000544</id>
+        <link href="https://twitter.com/developer_dao/status/1749958700394000544"/>
+        <updated>2024-01-24T00:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Re @wc49358 @NEARProtocol ⚒ @NearProtocol #ChainAbstraction Workshop Part 4: Unpacking NEAR Data Availability 🛠
+https://buff.ly/3SigALU]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seems like we have another workshop for you! 🤓 Join your favorite host @wc49358 this Friday at 6pm UTC to learn the ins and outs of data availabili...]]></title>
+        <id>https://twitter.com/developer_dao/status/1749958700394000544</id>
+        <link href="https://twitter.com/developer_dao/status/1749958700394000544"/>
+        <updated>2024-01-24T00:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Seems like we have another workshop for you! 🤓
+Join your favorite host @wc49358 this Friday at 6pm UTC to learn the ins and outs of data availability on @NearProtocol 💾💾💾💾
+Youtube link below ⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Scroll_ZKP ⚒ Scroll: Under the Hood Online Workshop 🛠 https://buff.ly/3OdlhoV]]></title>
+        <id>https://twitter.com/developer_dao/status/1749896292589764890</id>
+        <link href="https://twitter.com/developer_dao/status/1749896292589764890"/>
+        <updated>2024-01-23T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @Scroll_ZKP ⚒ Scroll: Under the Hood Online Workshop 🛠
+ https://buff.ly/3OdlhoV]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Scroll_ZKP https://buff.ly/426DAC1 Youtube ⤵]]></title>
+        <id>https://twitter.com/developer_dao/status/1749896292589764890</id>
+        <link href="https://twitter.com/developer_dao/status/1749896292589764890"/>
+        <updated>2024-01-23T20:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Re @Scroll_ZKP https://buff.ly/426DAC1 
+Youtube ⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaaaand we have another opportunity for all you writers out there! 🏆 ✨ Scroll's Quill and Scribes Competition ✨ @Scroll_ZKP is doling out a total...]]></title>
+        <id>https://twitter.com/developer_dao/status/1749896292589764890</id>
+        <link href="https://twitter.com/developer_dao/status/1749896292589764890"/>
+        <updated>2024-01-23T20:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Aaaaand we have another opportunity for all you writers out there! 🏆  
+✨ Scroll's Quill and Scribes Competition ✨
+@Scroll_ZKP is doling out a total of $6,200 in prizes for articles on zero-knowledge 🤩
+Kick-off is next week, Jan 30th, with a workshop 🛠
+Details ⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who's excited for @EthereumDenver ? We're hyped to host another mixer with @POKTnetwork (and friends!) This time with a LEGO theme 😃 Join us in dis...]]></title>
         <id>https://twitter.com/developer_dao/status/1749596308183154937</id>
@@ -66,6 +125,19 @@ DappaDan (🤙🏾,😜): 🧘🏽‍♂️ Zappa Zen Back with your Moment of
 What is the best way to teach and help less experienced developers? 
 Shirt by: @fluentxyz 
 Socks by: @zircuitL2 (keeping the feet warm!)]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT rahat.eth | .lens: 🚀 Announcing this week's Protocol Explorer Livestream! Joining forces with @saucepoint from @UniswapFND to learn all about ho...]]></title>
+        <id>https://twitter.com/developer_dao/status/1749771965743673408</id>
+        <link href="https://twitter.com/developer_dao/status/1749771965743673408"/>
+        <updated>2024-01-22T14:55:08.000Z</updated>
+        <summary type="html"><![CDATA[RT rahat.eth | .lens
+🚀 Announcing this week's Protocol Explorer Livestream!   
+Joining forces with @saucepoint from @UniswapFND to learn all about hooks on Uniswap V4.   
+Join us live this Thursday at 11 am EST as I learn all about hooks and build my first one. Link in description below 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -173,83 +245,6 @@ Link to the video ⤵]]></summary>
 @devntellxyz is LIVE!
 Come watch @dtbuchholz give us an overview of @tableland, hosted by @narb_s
 🎥 Watch here: https://buff.ly/49bgSuT]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden @Foyeke_001 @C_InnocentN @NikhilRaikwarr Feeling inspired? 🤩 Do you think you can add a creative twist to ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
-        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
-        <updated>2024-01-19T12:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden @Foyeke_001 @C_InnocentN @NikhilRaikwarr Feeling inspired? 🤩
-Do you think you can add a creative twist to the conversation with your own thread? 🎨
-Then submit by the end of January for the chance to win! 🏆
-🥇 400 USDC
-🥈 300 USDC
-🥉 200 USDC
-4th 100 USDC
-https://buff.ly/3vhphOp]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden @Foyeke_001 @C_InnocentN Learn from @NikhilRaikwarr how #ChainAbstraction lets you explore the web3 universe ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
-        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
-        <updated>2024-01-19T12:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden @Foyeke_001 @C_InnocentN Learn from @NikhilRaikwarr how #ChainAbstraction lets you explore the web3 universe 🌌
-https://buff.ly/3SqoXpY 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden @Foyeke_001 Lead the charge for #ChainAbstraction with a thread from @C_InnocentN 🐏 https://buff.ly/3vNRvk...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
-        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
-        <updated>2024-01-19T12:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden @Foyeke_001 Lead the charge for #ChainAbstraction with a thread from @C_InnocentN 🐏
-https://buff.ly/3vNRvk2 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden Let @Foyeke_001 explain how to compose web3 symphonies with @NearProtocol 🎶 https://buff.ly/48KVcWE ⬇⬇⬇...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
-        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
-        <updated>2024-01-19T12:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol @Jamiescript @Lilzedden Let @Foyeke_001 explain how to compose web3 symphonies with @NearProtocol 🎶
-https://buff.ly/48KVcWE 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol @Jamiescript Next, @Lilzedden unveils the mysteries of #ChainAbstractions for you 🔮 https://buff.ly/48F8SSL ⬇⬇⬇⬇]]></title>
-        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
-        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
-        <updated>2024-01-19T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol @Jamiescript Next, @Lilzedden unveils the mysteries of #ChainAbstractions for you 🔮
-https://buff.ly/48F8SSL 
-⬇⬇⬇⬇]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol First, we have a thread by one of our D_D OGs @Jamiescript 😎 https://buff.ly/47E4oKR ⬇⬇⬇⬇]]></title>
-        <id>https://twitter.com/developer_dao/status/1748322420551819478</id>
-        <link href="https://twitter.com/developer_dao/status/1748322420551819478"/>
-        <updated>2024-01-19T12:32:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol First, we have a thread by one of our D_D OGs @Jamiescript 😎
-https://buff.ly/47E4oKR 
-⬇⬇⬇⬇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
