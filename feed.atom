@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T06:13:47.791Z</id>
+    <id>urn:2024-01-25T06:13:29.128Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-24T06:13:47.791Z</updated>
+    <updated>2024-01-25T06:13:29.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT thresh: another day, another awesome set of opportunities brought to me by @developer_dao 🤝]]></title>
+        <id>https://twitter.com/developer_dao/status/1750308364393889833</id>
+        <link href="https://twitter.com/developer_dao/status/1750308364393889833"/>
+        <updated>2024-01-24T23:59:15.000Z</updated>
+        <summary type="html"><![CDATA[RT thresh
+another day, another awesome set of opportunities brought to me by @developer_dao 🤝]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @DAppaDanDev @alysiatech]]></title>
+        <id>https://twitter.com/developer_dao/status/1750160635592065390</id>
+        <link href="https://twitter.com/developer_dao/status/1750160635592065390"/>
+        <updated>2024-01-24T15:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Re @DAppaDanDev @alysiatech]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @EthereumDenver @adrienne_adz @POKTnetwork For anyone not able to attend the event in Denver you can still participate in the fun and maybe win som...]]></title>
+        <id>https://twitter.com/developer_dao/status/1750136889640624430</id>
+        <link href="https://twitter.com/developer_dao/status/1750136889640624430"/>
+        <updated>2024-01-24T12:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Re @EthereumDenver @adrienne_adz @POKTnetwork For anyone not able to attend the event in Denver you can still participate in the fun and maybe win some bounties!]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't forget... We'll be discussing plans for our @EthereumDenver today @ 5pm UTC in discord. Talk topics, web3 themed lego plans and alpha on bounty ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1750136889640624430</id>
+        <link href="https://twitter.com/developer_dao/status/1750136889640624430"/>
+        <updated>2024-01-24T12:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Don't forget... 
+We'll be discussing plans for our @EthereumDenver today @ 5pm UTC in discord. 
+Talk topics, web3 themed lego plans and alpha on bounty competitions being announced later today 🤫
+@adrienne_adz from the @POKTnetwork team will be joining us.
+
+Developer DAO (🧱, 🚀): Who's excited for @EthereumDenver ?
+We're hyped to host another mixer with @POKTnetwork (and friends!)
+This time with a LEGO theme 😃
+Join us in discord @ 5pm UTC on Wednesday to riff on topics and custom LEGO builds to make this more bullish than 🦃 
+https://buff.ly/3HpHV9T]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @wc49358 @NEARProtocol ⚒ @NearProtocol #ChainAbstraction Workshop Part 4: Unpacking NEAR Data Availability 🛠 https://buff.ly/3SigALU]]></title>
         <id>https://twitter.com/developer_dao/status/1749958700394000544</id>
@@ -197,54 +247,6 @@ https://buff.ly/3vhphOp]]></summary>
         <updated>2024-01-19T20:46:01.000Z</updated>
         <summary type="html"><![CDATA[Re @K4y1s 📃@NearProtocol #ChainAbstraction Explained 📃
 https://buff.ly/3O8r6DY]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you want to learn how #ChainAbstraction frees users from meddling with multiple keys and chains? 🤩 Our editor @k4y1s just published an article t...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748446736043982966</id>
-        <link href="https://twitter.com/developer_dao/status/1748446736043982966"/>
-        <updated>2024-01-19T20:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to learn how #ChainAbstraction frees users from meddling with multiple keys and chains? 🤩
-Our editor @k4y1s just published an article that explains it all! 😎
-Check it out ⤵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @NEARProtocol ⚒ @NearProtocol #ChainAbstraction Live Workshop Part 3: Data Availability & Account Aggregation 🛠 https://buff.ly/3tK2qeg]]></title>
-        <id>https://twitter.com/developer_dao/status/1748395652189434250</id>
-        <link href="https://twitter.com/developer_dao/status/1748395652189434250"/>
-        <updated>2024-01-19T17:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Re @NEARProtocol ⚒ @NearProtocol #ChainAbstraction Live Workshop Part 3: Data Availability & Account Aggregation 🛠 
-https://buff.ly/3tK2qeg]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Couldn't find the time to join our last @NearProtocol #ChainAbstraction workshop yesterday? 😭 Watch the recording on YouTube and learn about data a...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748395652189434250</id>
-        <link href="https://twitter.com/developer_dao/status/1748395652189434250"/>
-        <updated>2024-01-19T17:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Couldn't find the time to join our last @NearProtocol #ChainAbstraction workshop yesterday? 😭 
-Watch the recording on YouTube and learn about data availability and account aggregation! 🤓
-Link to the video ⤵]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE! Come watch @dtbuchholz give us an overview of @tableland, hosted by @narb_s 🎥 Watch here: https://buff.ly/49b...]]></title>
-        <id>https://twitter.com/developer_dao/status/1748382812275671325</id>
-        <link href="https://twitter.com/developer_dao/status/1748382812275671325"/>
-        <updated>2024-01-19T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[✨ GM frens! ✨ 
-@devntellxyz is LIVE!
-Come watch @dtbuchholz give us an overview of @tableland, hosted by @narb_s
-🎥 Watch here: https://buff.ly/49bgSuT]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
