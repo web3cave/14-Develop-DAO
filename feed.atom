@@ -1,10 +1,245 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T06:12:29.332Z</id>
+    <id>urn:2024-02-01T06:12:39.419Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-31T06:12:29.332Z</updated>
+    <updated>2024-02-01T06:12:39.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Scroll_ZKP @wc49358 🛠 Applied ZK with Noir Online Workshop Part 2 🛠 https://buff.ly/3ubo635]]></title>
+        <id>https://twitter.com/developer_dao/status/1752739266440962202</id>
+        <link href="https://twitter.com/developer_dao/status/1752739266440962202"/>
+        <updated>2024-01-31T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @Scroll_ZKP @wc49358 🛠 Applied ZK with Noir Online Workshop Part 2 🛠
+https://buff.ly/3ubo635]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We have a second @Scroll_ZKP online workshop for you! 🛠 Learn together with @wc49358 to use zero-knowledge proofs in practice! 🤓 Tomorrow, Thurs...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752739264884781094</id>
+        <link href="https://twitter.com/developer_dao/status/1752739264884781094"/>
+        <updated>2024-01-31T17:02:59.000Z</updated>
+        <summary type="html"><![CDATA[We have a second @Scroll_ZKP online workshop for you! 🛠 
+Learn together with @wc49358 to use zero-knowledge proofs in practice! 🤓
+Tomorrow, Thursday, Feb 1st at 5pm UTC 📅
+Youtube Link⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @ArtiChmaro 🛠 Implementing ERC20 USDT Payments in React, wagmi and viem 🛠 https://buff.ly/3Sm7c9L]]></title>
+        <id>https://twitter.com/developer_dao/status/1752678990714675436</id>
+        <link href="https://twitter.com/developer_dao/status/1752678990714675436"/>
+        <updated>2024-01-31T13:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Re @ArtiChmaro 🛠 Implementing ERC20 USDT Payments in React, wagmi and viem 🛠
+https://buff.ly/3Sm7c9L]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our member @ArtiChmaro did a tutorial on ERC20 payments in React apps with WAGMI and Viem 🤓 Check it out on YouTube ⤵]]></title>
+        <id>https://twitter.com/developer_dao/status/1752678989129191492</id>
+        <link href="https://twitter.com/developer_dao/status/1752678989129191492"/>
+        <updated>2024-01-31T13:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Our member @ArtiChmaro did a tutorial on ERC20 payments in React apps with WAGMI and Viem 🤓
+Check it out on YouTube ⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @Scroll_ZKP 🛠 Scroll Workshop: https://buff.ly/3OdlhoV ✍ Writing Competition Details: https://buff.ly/48VpZjx We got over 7000 USDC prizes spli...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752648448287842312</id>
+        <link href="https://twitter.com/developer_dao/status/1752648448287842312"/>
+        <updated>2024-01-31T11:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Re @Scroll_ZKP 🛠 Scroll Workshop: https://buff.ly/3OdlhoV  
+✍ Writing Competition Details: https://buff.ly/48VpZjx 
+We got over 7000 USDC prizes split for over 10 winners! 💰💰💰💰
+The competition only goes until Feb 8th, so get going!!! ⏳]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In case you missed it! Since we recorded our Scroll workshop yesterday, you can hit the ground running in Scroll's Quills & Scribes competition! 🚀...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752648447004402128</id>
+        <link href="https://twitter.com/developer_dao/status/1752648447004402128"/>
+        <updated>2024-01-31T11:02:07.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed it!
+Since we recorded our Scroll workshop yesterday, you can hit the ground running in Scroll's Quills & Scribes competition! 🚀🚀🚀
+Step 1: Watch the workshop and learn about @Scroll_ZKP
+Step 2: Submit and win!
+YouTube link & competition details ⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NEARProtocol If you need some inspiration? Read this article! 🤓 https://buff.ly/3O8r6DY]]></title>
+        <id>https://twitter.com/developer_dao/status/1752613638723039511</id>
+        <link href="https://twitter.com/developer_dao/status/1752613638723039511"/>
+        <updated>2024-01-31T08:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Re @NEARProtocol If you need some inspiration? Read this article! 🤓
+https://buff.ly/3O8r6DY]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NEARProtocol ✍ The @NearProtocol #ChainAbstraction Thread Competition ✍ https://buff.ly/3vhphOp]]></title>
+        <id>https://twitter.com/developer_dao/status/1752613637737337132</id>
+        <link href="https://twitter.com/developer_dao/status/1752613637737337132"/>
+        <updated>2024-01-31T08:43:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @NEARProtocol ✍ The @NearProtocol #ChainAbstraction Thread Competition ✍ 
+https://buff.ly/3vhphOp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last call for our @NearProtocol #ChainAbstraction Thread Competition ⌛ Today is your last chance to submit and win! 😱 So, dial your creativity up ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752613636395196831</id>
+        <link href="https://twitter.com/developer_dao/status/1752613636395196831"/>
+        <updated>2024-01-31T08:43:47.000Z</updated>
+        <summary type="html"><![CDATA[Last call for our @NearProtocol #ChainAbstraction Thread Competition ⌛
+Today is your last chance to submit and win! 😱
+So, dial your creativity up to eleven and give us your best shot! 🚀
+details⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re 🏛 P-36: Implementing oSnap for Optimistic Governance 🏛 https://buff.ly/3u4us4i]]></title>
+        <id>https://twitter.com/developer_dao/status/1752481859798245627</id>
+        <link href="https://twitter.com/developer_dao/status/1752481859798245627"/>
+        <updated>2024-01-31T00:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Re 🏛 P-36: Implementing oSnap for Optimistic Governance  🏛
+https://buff.ly/3u4us4i]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🏛 Governance 🏛 Are you a D_D member? Then don't forget to vote on our latest proposal! ⏳ It's about using automatic onchain execution after Sna...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752481858279895231</id>
+        <link href="https://twitter.com/developer_dao/status/1752481858279895231"/>
+        <updated>2024-01-31T00:00:09.000Z</updated>
+        <summary type="html"><![CDATA[🏛 Governance 🏛
+Are you a D_D member? 
+Then don't forget to vote on our latest proposal! ⏳
+It's about using automatic onchain execution after Snapshot votes via oSnap. ⚡
+Link⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NEARProtocol You can check out this article to get up to speed 🤫 https://buff.ly/3O8r6DY]]></title>
+        <id>https://twitter.com/developer_dao/status/1752406417410039965</id>
+        <link href="https://twitter.com/developer_dao/status/1752406417410039965"/>
+        <updated>2024-01-30T19:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @NEARProtocol You can check out this article to get up to speed 🤫
+https://buff.ly/3O8r6DY]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @NEARProtocol ✍ The @NearProtocol #ChainAbstraction Thread Competition ✍ https://buff.ly/3vhphOp]]></title>
+        <id>https://twitter.com/developer_dao/status/1752406416327930107</id>
+        <link href="https://twitter.com/developer_dao/status/1752406416327930107"/>
+        <updated>2024-01-30T19:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Re @NEARProtocol ✍ The @NearProtocol #ChainAbstraction Thread Competition ✍
+https://buff.ly/3vhphOp]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You still haven't written a thread for our @NearProtocol #ChainAbstraction competition? 😱 The time is running out; less than 2 days to go! ⏳ Write...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752406414511706308</id>
+        <link href="https://twitter.com/developer_dao/status/1752406414511706308"/>
+        <updated>2024-01-30T19:00:22.000Z</updated>
+        <summary type="html"><![CDATA[You still haven't written a thread for our @NearProtocol #ChainAbstraction competition? 😱
+The time is running out; less than 2 days to go! ⏳
+Write the best explainer and win:
+🥇 400 USDC
+🥈 300 USDC
+🥉 200 USDC
+4th 100 USDC
+Details⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT UMA 🥚: An oSnap proposal has been submitted to @developer_dao! TDeveloper DAO has a great community and an active DAO. oSnap would help them str...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752451254624911494</id>
+        <link href="https://twitter.com/developer_dao/status/1752451254624911494"/>
+        <updated>2024-01-30T18:02:59.000Z</updated>
+        <summary type="html"><![CDATA[RT UMA 🥚
+An oSnap proposal has been submitted to @developer_dao!
+TDeveloper DAO has a great community and an active DAO. oSnap would help them streamline their governance and give $CODE holders the autonomy to handle onchain proposal execution.
+https://x.com/bobbay_b/status/1752331243495080079?s=20
+
+bobby🥚: The proposal to integrate oSnap with @developer_dao is live on Snapshot - powered by yours truly @mannyornothing and myself, with support from @kempsterrrr :)
+oSnap would enable $CODE holders to continue voting offchain on @SnapshotLabs, and then automatically execute approved…]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scroll: Under the Hood https://twitter.com/i/broadcasts/1dRKZEkZYpaxB]]></title>
+        <id>https://twitter.com/developer_dao/status/1752376670340919540</id>
+        <link href="https://twitter.com/developer_dao/status/1752376670340919540"/>
+        <updated>2024-01-30T17:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Scroll: Under the Hood https://twitter.com/i/broadcasts/1dRKZEkZYpaxB]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Nazeeh: Published a new article sharing guide for the Hackathons. How to approach hackathons, what to expect and how to make the most out of them? ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752615408484430230</id>
+        <link href="https://twitter.com/developer_dao/status/1752615408484430230"/>
+        <updated>2024-01-30T16:18:38.000Z</updated>
+        <summary type="html"><![CDATA[RT Nazeeh
+Published a new article sharing guide for the Hackathons. How to approach hackathons, what to expect and how to make the most out of them? I've also shared some of my personal experiences and learnings.
+Link is in the next tweet.]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re @BuildWithGrove ✍ Grove Membership Perk Signup ✍ https://buff.ly/3SroweO]]></title>
+        <id>https://twitter.com/developer_dao/status/1752361026467643507</id>
+        <link href="https://twitter.com/developer_dao/status/1752361026467643507"/>
+        <updated>2024-01-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Re @BuildWithGrove ✍ Grove Membership Perk Signup ✍
+https://buff.ly/3SroweO]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨ Claim your Membership Perk with @BuildWithGrove ⛓️ 40+ supported chains 💯 100k Free requests per day ❌ No throughput limit Sign up below to r...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752361025335091208</id>
+        <link href="https://twitter.com/developer_dao/status/1752361025335091208"/>
+        <updated>2024-01-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ Claim your Membership Perk with @BuildWithGrove 
+⛓️ 40+ supported chains 
+💯 100k Free requests per day 
+❌ No throughput limit 
+Sign up below to redeem your members-only discount on Grove's pay-as-you auto-scaling plan.⤵]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hitler criticizes React]]></title>
         <id>https://www.youtube.com/watch?v=EjuPIOuFYgA</id>
@@ -12,6 +247,25 @@
         <updated>2024-01-26T15:54:48.000Z</updated>
         <author>
             <name>Nader Dabit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Uttam Singh ☀️: The MEV course is live 💯 ➡️ History & Basic Prerequisites ➡️ What is MEV? MEV Strategies ➡️ PBS & MEV Boost Architecture...]]></title>
+        <id>https://twitter.com/developer_dao/status/1752680310884520160</id>
+        <link href="https://twitter.com/developer_dao/status/1752680310884520160"/>
+        <updated>2024-01-14T06:48:52.000Z</updated>
+        <summary type="html"><![CDATA[RT Uttam Singh ☀️
+The MEV course is live 💯
+➡️ History & Basic Prerequisites
+➡️ What is MEV? MEV Strategies
+➡️ PBS & MEV Boost Architecture
+➡️ Searcher, Builder, Relay, Proposer
+➡️ PEPC, SUAVE & Security
+➡️ Live MEV & Coding
+➡️ MEV Podcast with @0x9212ce55
+Link: https://youtu.be/hVWLOdruHhw]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
         </author>
     </entry>
 </feed>
