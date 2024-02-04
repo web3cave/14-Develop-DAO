@@ -6,6 +6,16 @@
       "siteUrl": "https://twitter.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1753779106368434565",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @DAppaDanDev @Scroll_ZKP Submissions will open on Monday",
+          "link": "https://twitter.com/developer_dao/status/1753779106368434565",
+          "publishedOn": "2024-02-03T13:54:57.000Z",
+          "wordCount": null,
+          "title": "Re @DAppaDanDev @Scroll_ZKP Submissions will open on Monday",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1753584087686668648",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "✨ GM frens! ✨ \n@devntellxyz is LIVE! \nCome watch @sudo_build give us an overview of @NEARProtocol Multichain, hosted by @narb_s \n🎥 Watch here: https://buff.ly/498vc7h",
@@ -173,16 +183,6 @@
           "publishedOn": "2024-01-31T13:03:29.000Z",
           "wordCount": null,
           "title": "Re @ArtiChmaro 🛠 Implementing ERC20 USDT Payments in React, wagmi and viem 🛠 https://buff.ly/3Sm7c9L",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1752678989129191492",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "Our member @ArtiChmaro did a tutorial on ERC20 payments in React apps with WAGMI and Viem 🤓\nCheck it out on YouTube ⤵",
-          "link": "https://twitter.com/developer_dao/status/1752678989129191492",
-          "publishedOn": "2024-01-31T13:03:28.000Z",
-          "wordCount": null,
-          "title": "Our member @ArtiChmaro did a tutorial on ERC20 payments in React apps with WAGMI and Viem 🤓 Check it out on YouTube ⤵",
           "imageUrl": null
         },
         {

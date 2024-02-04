@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-03T06:11:21.338Z</id>
+    <id>urn:2024-02-04T06:11:18.269Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-03T06:11:21.338Z</updated>
+    <updated>2024-02-04T06:11:18.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @DAppaDanDev @Scroll_ZKP Submissions will open on Monday]]></title>
+        <id>https://twitter.com/developer_dao/status/1753779106368434565</id>
+        <link href="https://twitter.com/developer_dao/status/1753779106368434565"/>
+        <updated>2024-02-03T13:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Re @DAppaDanDev @Scroll_ZKP Submissions will open on Monday]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨ GM frens! ✨ @devntellxyz is LIVE! Come watch @sudo_build give us an overview of @NEARProtocol Multichain, hosted by @narb_s 🎥 Watch here: https...]]></title>
         <id>https://twitter.com/developer_dao/status/1753584087686668648</id>
@@ -208,17 +218,6 @@ Youtube Link⤵]]></summary>
         <updated>2024-01-31T13:03:29.000Z</updated>
         <summary type="html"><![CDATA[Re @ArtiChmaro 🛠 Implementing ERC20 USDT Payments in React, wagmi and viem 🛠
 https://buff.ly/3Sm7c9L]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our member @ArtiChmaro did a tutorial on ERC20 payments in React apps with WAGMI and Viem 🤓 Check it out on YouTube ⤵]]></title>
-        <id>https://twitter.com/developer_dao/status/1752678989129191492</id>
-        <link href="https://twitter.com/developer_dao/status/1752678989129191492"/>
-        <updated>2024-01-31T13:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Our member @ArtiChmaro did a tutorial on ERC20 payments in React apps with WAGMI and Viem 🤓
-Check it out on YouTube ⤵]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
