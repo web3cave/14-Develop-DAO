@@ -4,18 +4,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=EjuPIOuFYgA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=EjuPIOuFYgA",
-          "publishedOn": "2024-01-26T15:54:48.000Z",
-          "wordCount": null,
-          "title": "Hitler criticizes React",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
