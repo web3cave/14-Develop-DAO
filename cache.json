@@ -4,7 +4,18 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Y8pulFGOrMw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Y8pulFGOrMw",
+          "publishedOn": "2024-03-26T21:03:12.000Z",
+          "wordCount": null,
+          "title": "How to Replace GitHub with Radicle to Take Ownership of Your Code",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
