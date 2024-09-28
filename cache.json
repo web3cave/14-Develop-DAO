@@ -4,18 +4,7 @@
       "title": "Nader Dabit",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7mca3O0DmdSG2Cr80sOD7g",
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=hRPjcoCMMBA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hRPjcoCMMBA",
-          "publishedOn": "2024-08-29T14:03:56.000Z",
-          "wordCount": null,
-          "title": "The Architecture of Verifiable SaaS: Designing for Trust and Transparency with EigenLayer",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"

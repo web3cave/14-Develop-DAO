@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-27T06:19:06.037Z</id>
+    <id>urn:2024-09-28T06:16:07.837Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-27T06:19:06.037Z</updated>
+    <updated>2024-09-28T06:16:07.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[The Architecture of Verifiable SaaS: Designing for Trust and Transparency with EigenLayer]]></title>
-        <id>https://www.youtube.com/watch?v=hRPjcoCMMBA</id>
-        <link href="https://www.youtube.com/watch?v=hRPjcoCMMBA"/>
-        <updated>2024-08-29T14:03:56.000Z</updated>
-        <author>
-            <name>Nader Dabit</name>
-        </author>
-    </entry>
 </feed>
