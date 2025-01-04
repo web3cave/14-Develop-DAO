@@ -333,6 +333,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=aSkM1KlxXfk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=aSkM1KlxXfk",
+          "publishedOn": "2025-01-03T19:27:47.000Z",
+          "wordCount": null,
+          "title": "AI Agent Demo Days - Episode 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PoEvPwR6pZ4",
           "author": null,
           "description": "",
@@ -340,16 +350,6 @@
           "publishedOn": "2024-12-29T17:04:40.000Z",
           "wordCount": null,
           "title": "AI Agent Demo Days - Episode 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aSkM1KlxXfk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aSkM1KlxXfk",
-          "publishedOn": "2024-12-21T22:57:47.000Z",
-          "wordCount": null,
-          "title": "AI Agent Demo Days - Episode 2",
           "imageUrl": null
         },
         {
