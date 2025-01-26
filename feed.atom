@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-25T06:15:44.130Z</id>
+    <id>urn:2025-01-26T06:15:31.158Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-25T06:15:44.130Z</updated>
+    <updated>2025-01-26T06:15:31.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @Lilypad_Tech On January 24th we welcomed @DeveloperAlly & @ScienceStanley to the DevNTell Podcast Ally and Stanley gave us an insightful session w...]]></title>
+        <id>https://twitter.com/developer_dao/status/1883077369537445890</id>
+        <link href="https://x.com/developer_dao/status/1883077369537445890"/>
+        <updated>2025-01-25T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @Lilypad_Tech On January 24th we welcomed @DeveloperAlly & @ScienceStanley to the DevNTell Podcast
+Ally and Stanley gave us an insightful session where they shared how Lilypad is powering the AI-driven science revolution 🐸
+🎥 Watch the full episode below 👇
+https://www.youtube.com/watch?v=0MrhhUtFOvY]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📖 Recapping another wonderful week of learning on DevNTell 📖 If you missed all the action on @devntellxyz this week, read on below for a recap o...]]></title>
+        <id>https://twitter.com/developer_dao/status/1883077357239783764</id>
+        <link href="https://x.com/developer_dao/status/1883077357239783764"/>
+        <updated>2025-01-25T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[📖 Recapping another wonderful week of learning on DevNTell 📖
+If you missed all the action on @devntellxyz this week, read on below for a recap of what happened 🧵 👇]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @EthereumDenver 🦄]]></title>
         <id>https://twitter.com/developer_dao/status/1882831903709155669</id>
@@ -171,45 +195,20 @@ Gelato: ETHEREUM]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RT Cyris: Still holding @developer_dao @dabit3]]></title>
-        <id>https://twitter.com/developer_dao/status/1882410373485367447</id>
-        <link href="https://x.com/developer_dao/status/1882410373485367447"/>
-        <updated>2025-01-23T11:15:07.000Z</updated>
-        <summary type="html"><![CDATA[RT Cyris
-Still holding @developer_dao @dabit3]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Billyjitsu ⟁: Banger 👇]]></title>
-        <id>https://twitter.com/developer_dao/status/1882385858525122937</id>
-        <link href="https://x.com/developer_dao/status/1882385858525122937"/>
-        <updated>2025-01-23T11:03:08.000Z</updated>
-        <summary type="html"><![CDATA[RT Billyjitsu ⟁
-Banger 👇
+        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): Our friends @ar_io_network have some big news... $ARIO Registration is live 🪂 Anyone who completed the Academy cours...]]></title>
+        <id>https://twitter.com/developer_dao/status/1883220821470249052</id>
+        <link href="https://x.com/developer_dao/status/1883220821470249052"/>
+        <updated>2025-01-18T20:25:08.000Z</updated>
+        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
+Our friends @ar_io_network have some big news...
+$ARIO Registration is live 🪂
+Anyone who completed the Academy course and Zealy quests before their snapshot may be eligible for the drop...
+Details on how to check and register ⤵️
 
-koeppelmann.eth 🦉💳: @notjuve Because we want to scale Ethereum, and on Ethereum, contracts—wherever they are—need to be able to message each other. So, if you cannot reliably message from one L2 contract to another L2 contract, those L2s are NOT Ethereum.
-There is room for liquidity bridges and app-layer]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Gordo: Lovely musicians and labels! SONGS Beta is live and public! @songs_tools An on-chain music distributor is now a reality: • 100% of revenue ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1882377021055271366</id>
-        <link href="https://x.com/developer_dao/status/1882377021055271366"/>
-        <updated>2025-01-22T18:39:13.000Z</updated>
-        <summary type="html"><![CDATA[RT Gordo
-Lovely musicians and labels!  
-SONGS Beta is live and public! @songs_tools
-An on-chain music distributor is now a reality: 
-• 100% of revenue goes to the artist 
-• Turn your fans and collaborators into literal stakeholders in your music 
-• And there’s so much more to come! ⬇️⬇️ 
-We’ve been dreaming and building this crazy project throughout 2024.  
-If you’re planning to release music or want to migrate your existing tracks, jump in and test it out. :))  
-I hear you, we are building this for you, we are building this for us. Artists and fans]]></summary>
+ar.io network: 🚨 Calling All Permabulls! 🚨
+You’ve been with us every step of the way, and now we’re one step closer to realizing the vision for the first permanent cloud network.
+Register for the upcoming initial $ARIO distribution!
+Milestone 4 is done. Buckle up for all the details.👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
