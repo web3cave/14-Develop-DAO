@@ -203,6 +203,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC7mca3O0DmdSG2Cr80sOD7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=25FxjscBHuo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=25FxjscBHuo",
+          "publishedOn": "2025-01-29T07:02:45.000Z",
+          "wordCount": null,
+          "title": "How to Build a Custom Eliza AI Agent Plugin in 35 minutes | TypeScript Full Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=i00LjrK6Tko",
           "author": null,
           "description": "",
