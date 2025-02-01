@@ -6,6 +6,16 @@
       "siteUrl": "https://x.com/developer_dao",
       "articles": [
         {
+          "id": "https://twitter.com/developer_dao/status/1885433434060800466",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Fortnite in vc5 who in",
+          "link": "https://x.com/developer_dao/status/1885433434060800466",
+          "publishedOn": "2025-01-31T21:02:14.000Z",
+          "wordCount": 6,
+          "title": "Fortnite in vc5 who in",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1885094278298321170",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "On it 🫡\n\nEthereum.org: Ethereum is for AI.",
@@ -13,26 +23,6 @@
           "publishedOn": "2025-01-30T22:34:33.000Z",
           "wordCount": 6,
           "title": "On it 🫡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1885151201462812865",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\nRe @unichain @Uniswap https://lu.ma/lr30eqwx",
-          "link": "https://x.com/developer_dao/status/1885151201462812865",
-          "publishedOn": "2025-01-30T20:00:19.000Z",
-          "wordCount": 6,
-          "title": "RT DevNTell: Re @unichain @Uniswap https://lu.ma/lr30eqwx",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao/status/1885151098962428322",
-          "author": "Developer DAO (🧱, 🚀)",
-          "description": "RT DevNTell\n🎙️ Ready to learn how Unichain is powering the DeFi landscape?\nJoin us tomorrow on DevNTell where we'll be joined by Developer Support  @0xPotatoofdoom who'll be giving us an overview of Unichain 💫\nRSVP today using the link in the post below👇",
-          "link": "https://x.com/developer_dao/status/1885151098962428322",
-          "publishedOn": "2025-01-30T20:00:16.000Z",
-          "wordCount": 6,
-          "title": "RT DevNTell: 🎙️ Ready to learn how Unichain is powering the DeFi landscape? Join us tomorrow on DevNTell where we'll be joined by Developer Suppor...",
           "imageUrl": null
         },
         {
@@ -166,6 +156,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/developer_dao/status/1884781202927726869",
+          "author": "Developer DAO (🧱, 🚀)",
+          "description": "Re @movementlabsxyz @Rahatcodes Rahat out here cookin for devs",
+          "link": "https://x.com/developer_dao/status/1884781202927726869",
+          "publishedOn": "2025-01-30T01:50:30.000Z",
+          "wordCount": 6,
+          "title": "Re @movementlabsxyz @Rahatcodes Rahat out here cookin for devs",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/developer_dao/status/1884782947326115915",
           "author": "Developer DAO (🧱, 🚀)",
           "description": "RT rahat.eth\nPart 1 of 3 going from 0-1 on Movement, your basic deployment is first.\n\nMovement: Want to build on Movement?\nDevrel superstar @rahatcodes walks you through how to deploy contracts on Movement. \nWatch his guide and go deep with our Dev Portal.\nhttps://developer.movementnetwork.xyz/movement-mainia",
@@ -237,7 +237,7 @@
           "author": null,
           "description": "",
           "link": "https://www.youtube.com/watch?v=RCz6aoBhoVs",
-          "publishedOn": "2025-01-30T19:14:29.000Z",
+          "publishedOn": "2025-02-01T05:22:07.000Z",
           "wordCount": null,
           "title": "AI Agent Demo Days Episode 5",
           "imageUrl": null
