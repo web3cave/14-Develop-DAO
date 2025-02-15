@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-14T06:17:11.550Z</id>
+    <id>urn:2025-02-15T06:16:22.301Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-14T06:17:11.550Z</updated>
+    <updated>2025-02-15T06:16:22.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[👉 Get ready for #HederaCon 2025 📆 Feb 25th, 2025 📍 Denver, CO ℹ️ HederaCon, @Hedera's first major user conference since 2018, unites the co...]]></title>
-        <id>https://twitter.com/developer_dao/status/1890143498181177431</id>
-        <link href="https://x.com/developer_dao/status/1890143498181177431"/>
-        <updated>2025-02-13T20:58:21.000Z</updated>
-        <summary type="html"><![CDATA[👉 Get ready for #HederaCon 2025
-📆 Feb 25th, 2025
-📍 Denver, CO
-ℹ️ HederaCon, @Hedera's first major user conference since 2018, unites the community, developers, business leaders, & industry pioneers.
-Register here: https://hederacon.hedera.com/
-Attendees gain** FREE entrance to @karatecombat's event on Feb 28 🥋]]></summary>
+        <title type="html"><![CDATA[RT DevNTell: 💘 Need some Valentine's Day Inspiration? 👉 Why not cuddle up and watch some of your favourite episodes of DevNTell together? Watch ...]]></title>
+        <id>https://twitter.com/developer_dao/status/1890440854810030088</id>
+        <link href="https://x.com/developer_dao/status/1890440854810030088"/>
+        <updated>2025-02-14T16:37:43.000Z</updated>
+        <summary type="html"><![CDATA[RT DevNTell
+💘 Need some Valentine's Day Inspiration?
+👉 Why not cuddle up and watch some of your favourite episodes of DevNTell together? Watch wherever you get your podcasts:
+YouTube: https://devdao.to/youtube
+Spotify: https://devdao.to/dvt-spotify
+Apple Podcasts: https://devdao.to/dvt-apple]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT Billyjitsu ⟁: “May you fall in love with your code today” ~Billyjitsu~]]></title>
+        <id>https://twitter.com/developer_dao/status/1890480097980805487</id>
+        <link href="https://x.com/developer_dao/status/1890480097980805487"/>
+        <updated>2025-02-14T16:26:51.000Z</updated>
+        <summary type="html"><![CDATA[RT Billyjitsu ⟁
+“May you fall in love with your code today”
+~Billyjitsu~]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
@@ -197,44 +209,11 @@ If you missed all the action on @devntellxyz this week, read on below for a reca
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Re @PSkinnerTech 👀 https://x.com/pskinnertech/status/1726545883993682191?s=46&t=tHE8pW5M2UjSRmB-T8xBtg]]></title>
-        <id>https://twitter.com/developer_dao/status/1888087088391671982</id>
-        <link href="https://x.com/developer_dao/status/1888087088391671982"/>
-        <updated>2025-02-08T04:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Re @PSkinnerTech 👀
-https://x.com/pskinnertech/status/1726545883993682191?s=46&t=tHE8pW5M2UjSRmB-T8xBtg
-
-Patrick Skinner: I’m bummed that I missed ETHIstanbul, but super pumped that @wc49358 and I get to throw down to open ETHDenver.
-Who’s gonna be there to see this match?]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who's brave enough to take on @billyjitsu_ at @KarateCombat? Bid's are getting serious now 👀 200 $HBAR 10000 $gib infinite $krystal 100000 $karate ...]]></title>
-        <id>https://twitter.com/developer_dao/status/1888070745420607594</id>
-        <link href="https://x.com/developer_dao/status/1888070745420607594"/>
-        <updated>2025-02-08T03:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Who's brave enough to take on @billyjitsu_ at @KarateCombat?
-Bid's are getting serious now 👀
-200 $HBAR
-10000 $gib
-infinite $krystal
-100000 $karate
-@InfluFightClub
-
-krystal: anyone want to start crypto beef with @billyjitsu_ so y’all can fight at @KarateCombat 💪🏼🥋💪🏼
-i’ll pay you 20 HBAR @InfluFightClub]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT goodness.sui (🛠️, 👨🏼‍💻): Honoured to be a part of the Axelar Research Collective As a part of the Collective, you can expect - video ...]]></title>
+        <title type="html"><![CDATA[RT Goodness Ukeje: Honoured to be a part of the Axelar Research Collective As a part of the Collective, you can expect - video tutorials - articles an...]]></title>
         <id>https://twitter.com/developer_dao/status/1889738990238024177</id>
         <link href="https://x.com/developer_dao/status/1889738990238024177"/>
         <updated>2025-02-06T11:08:44.000Z</updated>
-        <summary type="html"><![CDATA[RT goodness.sui (🛠️, 👨🏼‍💻)
+        <summary type="html"><![CDATA[RT Goodness Ukeje
 Honoured to be a part of the Axelar Research Collective
 As a part of the Collective, you can expect 
 - video tutorials
