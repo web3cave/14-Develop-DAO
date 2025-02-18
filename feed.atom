@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T06:18:23.639Z</id>
+    <id>urn:2025-02-18T06:17:31.181Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-17T06:18:23.639Z</updated>
+    <updated>2025-02-18T06:17:31.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Re @API3DAO https://lu.ma/i2xikt33]]></title>
+        <id>https://twitter.com/developer_dao/status/1891472692664275160</id>
+        <link href="https://x.com/developer_dao/status/1891472692664275160"/>
+        <updated>2025-02-17T13:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Re @API3DAO https://lu.ma/i2xikt33]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ DevNTell - Learn about Oracles with API3 📆 On Feb 21st we'll be joined by D_D legend @billyjitsu_ from API3🔥 ℹ️ Billy will give us an o...]]></title>
+        <id>https://twitter.com/developer_dao/status/1891472680072994952</id>
+        <link href="https://x.com/developer_dao/status/1891472680072994952"/>
+        <updated>2025-02-17T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[🎙️ DevNTell - Learn about Oracles with API3
+📆 On Feb 21st we'll be joined by D_D legend @billyjitsu_ from API3🔥
+ℹ️ Billy will give us an overview of oracles and tell us how API3 changed the game!
+RSVP using the link in the post below]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT DevNTell: 💘 Need some Valentine's Day Inspiration? 👉 Why not cuddle up and watch some of your favourite episodes of DevNTell together? Watch ...]]></title>
         <id>https://twitter.com/developer_dao/status/1890440854810030088</id>
