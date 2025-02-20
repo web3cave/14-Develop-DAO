@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-19T06:17:56.383Z</id>
+    <id>urn:2025-02-20T06:17:31.062Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-19T06:17:56.383Z</updated>
+    <updated>2025-02-20T06:17:31.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RT fucory: 🚧 Introducing Krome 🚧 🏗️ An MIT licensed starterkit for building onchain apps that run as native apps on iOS, Android, windows, l...]]></title>
+        <id>https://twitter.com/developer_dao/status/1892218573096997181</id>
+        <link href="https://x.com/developer_dao/status/1892218573096997181"/>
+        <updated>2025-02-19T09:26:56.000Z</updated>
+        <summary type="html"><![CDATA[RT fucory
+🚧 Introducing Krome 🚧
+🏗️ An MIT licensed starterkit for building onchain apps that run as native apps on iOS, Android, windows, linux, and macOS
+🔒 Comes preloaded with Helios Light Client
+🤝 Started in collaboration with @shazow and @dionysuzx 
+🦀 Write your app Rust and JavaScript (via svelte)
+Project just started. Reach out if you want to contribute]]></summary>
+        <author>
+            <name>Developer DAO (🧱, 🚀)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔥Developer DAO x #HederaCon🔥 💁 Catch D_D member @defigirlxoxo at HederaCon as she MC's the vibes at the conference providing insights on all ...]]></title>
         <id>https://twitter.com/developer_dao/status/1892016251549151382</id>
@@ -202,18 +218,6 @@ My template Repository: https://github.com/ropats16/arweave-web-portfolio-templa
 📆 On Feb 12th we'll be joined by @abruzuc from Abstract Chain 🔥
 ℹ️ Abril will take us through an overview of Abstract and show us how developers can start building with it today!
 RSVP using the link in the post below]]></summary>
-        <author>
-            <name>Developer DAO (🧱, 🚀)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Developer DAO (🧱, 🚀): 📖 Recapping another wonderful week of learning on DevNTell 📖 If you missed all the action on @devntellxyz this we...]]></title>
-        <id>https://twitter.com/developer_dao/status/1888329599022432266</id>
-        <link href="https://x.com/developer_dao/status/1888329599022432266"/>
-        <updated>2025-02-08T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[RT Developer DAO (🧱, 🚀)
-📖 Recapping another wonderful week of learning on DevNTell 📖
-If you missed all the action on @devntellxyz this week, read on below for a recap of what happened 🧵 👇]]></summary>
         <author>
             <name>Developer DAO (🧱, 🚀)</name>
         </author>
